@@ -22,7 +22,7 @@ class Crawler:
         self.relevantPages = []
         while self.pagesCount <  self.pagesLimit and not self.priorityQueue.isempty():
             work_url = self.priorityQueue.pop()
-            self.visited.append(work_url)
+            self.visited.append(work_url[1])
             #print ("%s, %s") % (-1 * work_url[0], work_url[1])
             #page = urllib2.urlopen(work_url)
             '''page = myopener.open(work_url)
@@ -47,8 +47,19 @@ class Crawler:
                     if url != None and url != '':
                         if url.find('?')!= -1:
                             url = url.split('?')[0]
-                        if not self.exists(url,self.visited):
-                            if url.startswith('http:') and url.find('#') == -1 and not self.exists(url,self.priorityQueue.queue):                            
+                        if url.find('#') != -1:
+                            url = url.split('#')[0]
+                        
+                        if url.startswith('http') == False:
+                            parts = page.pageUrl[1].split("://")
+                            baseUrl = parts[1].split("/")[0]
+                            baseUrl = parts[0] +"://" + baseUrl
+                            url = baseUrl + url
+                        
+                        #if not self.existsInVisited(url,self.visited): 
+                        if url not in self.visited:
+                            #if url.startswith('http:') and url.find('#') == -1 and not self.exists(url,self.priorityQueue.queue):                            
+                            if url.startswith('http') and not self.exists(url,self.priorityQueue.queue):
                                 url_score = self.scorer.calculate_score(link.getAllText())
                                 self.totalPagesCount +=1
                                 #tot_score = (page_score + url_score)/2.0
@@ -59,6 +70,10 @@ class Crawler:
                                     self.priorityQueue.push(((-1 * tot_score),url,page.pageId))
                                     #self.relevantPagesCount += 1
                 
+    #def existsInVisited(self,url,alist):
+        #urlList = [v for p,v,k in alist]
+        #return url in urlList
+        #return url in alist
     def exists(self,url,alist):
         urlList = [v for p,v,k in alist]
         return url in urlList

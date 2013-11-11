@@ -36,9 +36,13 @@ def baseFC(scorer,options):
     f.close()
     
     f = open("logData.txt","w")
+    furl = open("Output-URLs.txt","w")
     for p in crawler.relevantPages:
         f.write(str(p.pageId) + "," + str(p.pageUrl[2]) + "\n")
+        furl.write(p.pageUrl[1]+"\n")
     f.close()
+    
+    furl.close()
     
     
 def intelligentFC(scorer,options):
@@ -230,7 +234,7 @@ def test():
     #mytfidf.buildModel(cleandocs)
     #mytfidf.buildModel(cleandocs,urls_tokens,title_tokens)
     
-    baseFC(mytfidf,options,)
+    baseFC(mytfidf,options)
     #intelligentFC(mytfidf,options)
 
 def getPosFiles():

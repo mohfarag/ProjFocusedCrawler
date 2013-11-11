@@ -41,14 +41,21 @@ class Webpage:
             req = urllib2.Request(url[1], None, headers)
             page = urllib2.urlopen(req).read()        
         except urllib2.HTTPError:
+            page = ""
             self.text = ""
             return
-        except urllib2.URLError,e:           
+        except urllib2.URLError,e:     
+            page = ""      
             self.text = ""
             return
-        except httplib.BadStatusLine,e:
+        except httplib.BadStatusLine,e:   
+            page = ""         
+            self.text = ""
+        except httplib.InvalidURL:
+            page = ""
             self.text = ""
         except ValueError:
+            page = ""
             self.text = ""
             return
         
