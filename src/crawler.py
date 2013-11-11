@@ -50,11 +50,11 @@ class Crawler:
                         if url.find('#') != -1:
                             url = url.split('#')[0]
                         
-                        if url.startswith('http') == False:
-                            parts = page.pageUrl[1].split("://")
-                            baseUrl = parts[1].split("/")[0]
-                            baseUrl = parts[0] +"://" + baseUrl
-                            url = baseUrl + url
+#                         if url.startswith('http') == False:
+#                             parts = page.pageUrl[1].split("://")
+#                             baseUrl = parts[1].split("/")[0]
+#                             baseUrl = parts[0] +"://" + baseUrl
+#                             url = baseUrl + url
                         
                         #if not self.existsInVisited(url,self.visited): 
                         if url not in self.visited:
