@@ -2,7 +2,7 @@ from bs4 import BeautifulSoup,Comment
 from url import Url
 from urllib import FancyURLopener
 import urllib2
-import nltk
+from urllib2 import httplib
 class MyOpener(FancyURLopener):
     #version = 'Mozilla/5.0 (Windows; U; Windows NT 5.1; it; rv:1.8.1.11) Gecko/20071127 Firefox/2.0.0.11'
     version = 'Mozilla/5.0'
@@ -46,6 +46,8 @@ class Webpage:
         except urllib2.URLError,e:           
             self.text = ""
             return
+        except httplib.BadStatusLine,e:
+            self.text = ""
         except ValueError:
             self.text = ""
             return

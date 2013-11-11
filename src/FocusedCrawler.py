@@ -15,13 +15,13 @@ from EnhancedCrawler import EnhancedCrawler
 #class FocusedCrawler:
 	
 def baseFC(scorer,options):
-    seedUrls = ["http://www.cnn.com/2013/09/27/world/africa/kenya-mall-attack/index.html",
-                "http://www.youtube.com/watch?v=oU9Oop892BQ",
-                "http://ifrc.org/en/news-and-media/press-releases/africa/kenya/kenya-red-cross-society-continues-to-provide-vital-support-to-victims-and-families-of-the-westgate-shopping-mall-attack/"               
-                ]
+#     seedUrls = ["http://www.cnn.com/2013/09/27/world/africa/kenya-mall-attack/index.html",
+#                 "http://www.youtube.com/watch?v=oU9Oop892BQ",
+#                 "http://ifrc.org/en/news-and-media/press-releases/africa/kenya/kenya-red-cross-society-continues-to-provide-vital-support-to-victims-and-families-of-the-westgate-shopping-mall-attack/"               
+#                 ]
     #keywords = ['demonstrations','protest','elections','egypt','revolution','uprising','arab','spring','tunisia','libya','military']
     
-    t = [(-1,p,-1) for p in seedUrls]
+    t = [(-1,p,-1) for p in options['seeds']]
     #t = [(-1,Url(p)) for p in seedUrls]
     priorityQueue = PriorityQueue(t)
     
@@ -42,13 +42,13 @@ def baseFC(scorer,options):
     
     
 def intelligentFC(scorer,options):
-    seedUrls = ["http://www.cnn.com/2013/09/27/world/africa/kenya-mall-attack/index.html",
-                "http://www.youtube.com/watch?v=oU9Oop892BQ",
-                "http://ifrc.org/en/news-and-media/press-releases/africa/kenya/kenya-red-cross-society-continues-to-provide-vital-support-to-victims-and-families-of-the-westgate-shopping-mall-attack/"               
-                ]
+#     seedUrls = ["http://www.cnn.com/2013/09/27/world/africa/kenya-mall-attack/index.html",
+#                 "http://www.youtube.com/watch?v=oU9Oop892BQ",
+#                 "http://ifrc.org/en/news-and-media/press-releases/africa/kenya/kenya-red-cross-society-continues-to-provide-vital-support-to-victims-and-families-of-the-westgate-shopping-mall-attack/"               
+#                 ]
     #keywords = ['demonstrations','protest','elections','egypt','revolution','uprising','arab','spring','tunisia','libya','military']
     
-    t = [(-1,p,-1) for p in seedUrls]
+    t = [(-1,p,-1) for p in options['seeds']]
     priorityQueue = PubVenPriorityQueue(t[:1],[t[1]],t[2:])
    
     crawler = EnhancedCrawler(priorityQueue,scorer,options)
@@ -201,13 +201,21 @@ def filterData(docs,urls,titles):
     f.close()
     return pos,neg
 
+def getSeedURLs(fileName):
+	seeds = []
+	f = open(fileName,"r")
+	for line in f:
+		seeds.append(line[:-1])
+	return seeds
+
 def test():
     mytfidf = TFIDF()
-    docs = downloadRawDocs("KenyaMall-URLS.txt")
-    pagesLimit = 100
+    docs = downloadRawDocs("typhoon_haiyan_SEED_URLs.txt")
+    seedURLs = getSeedURLs("typhoon_haiyan_SEED_URLs.txt")
+    pagesLimit = 1000
     pageScoreThreshold = 0.5
     urlScoreThreshold = 0.4
-    options = {"num_pages": pagesLimit,"pageScoreThreshold":pageScoreThreshold,"urlScoreThreshold":urlScoreThreshold }
+    options = {"num_pages": pagesLimit,"pageScoreThreshold":pageScoreThreshold,"urlScoreThreshold":urlScoreThreshold , "seeds":seedURLs}
     #print urls_tokens
     #print title_tokens    
     
@@ -223,7 +231,7 @@ def test():
     #mytfidf.buildModel(cleandocs,urls_tokens,title_tokens)
     
     baseFC(mytfidf,options,)
-    intelligentFC(mytfidf,options)
+    #intelligentFC(mytfidf,options)
 
 def getPosFiles():
     f = open("html_files-sikkim.txt","r")
