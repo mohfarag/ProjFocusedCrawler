@@ -45,7 +45,7 @@ def preprocess(url):
 def downloadRawDocs(fileName):
     docs = []
     text = ""
-    titles = []
+    #titles = []
     f = open(fileName,'r')
     myopener = MyOpener()
     
@@ -57,14 +57,14 @@ def downloadRawDocs(fileName):
             #text = nltk.clean_html(webpage)            
             soup = BeautifulSoup(webpage)
         #t = soup.html.head.title
-            t = soup.title
-            if (t != None):
-                if t.string != None:
-                    titles.append(t.string.split(' '))
-                else:
-                    titles.append([])
-            else:
-                titles.append([])
+#             t = soup.title
+#             if (t != None):
+#                 if t.string != None:
+#                     titles.append(t.string.split(' '))
+#                 else:
+#                     titles.append([])
+#             else:
+#                 titles.append([])
             comments = soup.findAll(text=lambda text:isinstance(text,Comment))
             [comment.extract() for comment in comments]
             text_nodes = soup.findAll(text=True)
@@ -76,6 +76,7 @@ def downloadRawDocs(fileName):
             docs.append(text)
             myopener.close()
         except Exception:
+            print "Exception, URL couldn't be retrieved"
             text = ""
             docs.append(text)
     f.close()
@@ -136,20 +137,48 @@ def getrawDocs(fileName):
         docs.append(text)        
     f.close()
     return docs,titles
-  
-def getTokenizedDocs(docs):
-    docs_tokens=[]
+
+def getSeedURLs(fileName):
+    seeds = []
+    f = open(fileName,"r")
+    for line in f:
+        seeds.append(line[:-1])
+    return seeds
+
+def getTokenizedDoc(doc):
+    #docs_tokens=[]
     stemmer = PorterStemmer()
     tokenizer = WordPunctTokenizer()
     stopwords = nltk.corpus.stopwords.words('english')
-    for text in docs:
-        tokens = tokenizer.tokenize(text)
-        clean = [token for token in tokens if token.isalnum()]
-        clean = [token.lower() for token in clean if token.lower() not in stopwords] 
-        clean = [token for token in clean if len(token) > 2]
-        final = [stemmer.stem(word) for word in clean]
+    
+    tokens = tokenizer.tokenize(doc)
+    clean = [token for token in tokens if token.isalnum()]
+    clean = [token.lower() for token in clean if token.lower() not in stopwords] 
+    #clean = [token for token in clean if len(token) > 2]
+    final = [stemmer.stem(word) for word in clean]
+    #docs_tokens.append(final)
+    return final
+
+def getTokenizedDocs(docs):
+    docs_tokens=[]
+    for doc in docs:
+        final = getTokenizedDoc(doc)
         docs_tokens.append(final)
     return docs_tokens
+
+# def getTokenizedDocs(docs):
+#     docs_tokens=[]
+#     stemmer = PorterStemmer()
+#     tokenizer = WordPunctTokenizer()
+#     stopwords = nltk.corpus.stopwords.words('english')
+#     for text in docs:
+#         tokens = tokenizer.tokenize(text)
+#         clean = [token for token in tokens if token.isalnum()]
+#         clean = [token.lower() for token in clean if token.lower() not in stopwords] 
+#         clean = [token for token in clean if len(token) > 2]
+#         final = [stemmer.stem(word) for word in clean]
+#         docs_tokens.append(final)
+#     return docs_tokens
 
 def getTokens(doc): 
     #global stemmer

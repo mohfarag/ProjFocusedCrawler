@@ -49,8 +49,27 @@ class SVMClassifier(object):
         #self.classifier.fit(X_train_tf, self.labels)
         self.classifier.fit(X_train, self.labels)
     
-    #def classify(self, docs_new):
     def calculate_score(self, doc_new):
+        doc_list = []
+        doc_list.append(doc_new)
+        X_new_counts = self.count_vect.transform(doc_list)
+        X_new_tfidf = self.tf_transformer.transform(X_new_counts)
+        X_test = self.ch2.transform(X_new_tfidf)
+        #self.predicted = self.classifier.predict(X_new_tfidf)
+        
+        
+        #self.predicted = self.classifier.predict(X_test)
+        self.predicted = self.classifier.predict(X_test)
+        
+#         neg_prob = self.predicted[0][0]
+#         pos_prob = self.predicted[0][1]
+#         if (neg_prob > pos_prob):
+#             return 0
+#         else:
+#             return pos_prob
+        return self.predicted
+    
+    def calculate_score_prob(self, doc_new):
         doc_list = []
         doc_list.append(doc_new)
         X_new_counts = self.count_vect.transform(doc_list)

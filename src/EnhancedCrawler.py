@@ -29,7 +29,14 @@ class EnhancedCrawler:
         while self.pagesCount <  self.pagesLimit and not self.priorityQueue.isempty():            
             work_url = self.priorityQueue.pop()
             self.visited.append(work_url)
-            
+            #print ("%s, %s") % (-1 * work_url[0], work_url[1])
+            #page = urllib2.urlopen(work_url)
+            '''page = myopener.open(work_url)
+            self.pagesCount += 1
+            soup = BeautifulSoup(page)
+            links = soup.find_all('a')'''
+            #page = Webpage(work_url,self.pagesCount)
+            #page_score = self.scorer.calculate_score(page.text)
             page = Webpage(work_url,self.pagesCount)
             if len(page.text) > 0:
                 page_score = self.scorer.calculate_score(page.text)
@@ -46,8 +53,8 @@ class EnhancedCrawler:
                 for link in page.outgoingUrls:
                     url = link.address                    
                     if url != None and url != '':
-                        #if url.find('?')!= -1:
-                        #    url = url.split('?')[0]
+                        if url.find('?')!= -1:
+                            url = url.split('?')[0]
                         if url.startswith("/"):                            
                             base = page.pageUrl[1][7:].split("/")[0]
                             url = "http://" + base + url

@@ -7,7 +7,11 @@ import math
 from nltk.stem.porter import PorterStemmer
 from nltk.tokenize.regexp import WordPunctTokenizer
 from nltk.corpus import stopwords
+from Filter import downloadRawDocs, getTokenizedDocs, getSeedURLs
 class TFIDF:
+    
+    def bm25(self,idf, tf, dl, avgdl, B, K1):
+        return idf * ((tf * (K1 + 1)) / (tf + K1 * ((1 - B) + B * dl / avgdl)))
     
     def buildVocabIndex(self,docs):
         self.index = {}
@@ -102,7 +106,10 @@ class TFIDF:
     def calculate_tfidf(self,bow):
         return
     
-    def buildModel(self,docs):
+    #def buildModel(self,docs):
+    def buildModel(self,seedURLs):
+        docs = downloadRawDocs(seedURLs)
+        docs = getTokenizedDocs(docs)
         self.n = len(docs)
         docs_bow = [self.doc2bow(doc) for doc in docs]
         #vocab = self.buildVocab(docs_bow)

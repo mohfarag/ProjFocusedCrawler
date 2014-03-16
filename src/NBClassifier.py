@@ -45,6 +45,15 @@ class NaiveBayesClassifier(object):
         #    print '%r => %s' % (doc,category)
         return self.predicted
     
+    def calculate_score(self, doc_new):
+        doc_list = []
+        doc_list.append(doc_new)
+        X_new_counts = self.count_vect.transform(doc_list)
+        X_new_tfidf = self.tf_transformer.transform(X_new_counts)
+        X_test = self.ch2.transform(X_new_tfidf)
+        self.predicted = self.classifier.predict(X_test)
+        return self.predicted
+    
     def score(self,docs_test,labels):
         X_new_counts = self.count_vect.transform(docs_test)
         X_new_tfidf = self.tf_transformer.transform(X_new_counts)

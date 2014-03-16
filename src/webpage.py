@@ -1,8 +1,10 @@
+import sys
 from bs4 import BeautifulSoup,Comment
 from url import Url
 from urllib import FancyURLopener
 import urllib2
-from urllib2 import httplib
+import nltk
+import requests
 class MyOpener(FancyURLopener):
     #version = 'Mozilla/5.0 (Windows; U; Windows NT 5.1; it; rv:1.8.1.11) Gecko/20071127 Firefox/2.0.0.11'
     version = 'Mozilla/5.0'
@@ -17,13 +19,15 @@ class Webpage:
         self.outgoingUrls=[]
     '''
     def getUrls(self):
-        anchor= ""
         links = self.soup.find_all('a')
         for link in links:
+            anchor =""
             if link.string:
                 anchor = link.string
             elif link.text:
                 anchor = link.text
+            else:
+                anchor = ""
             u = Url(anchor,link.get('href'),"")
             self.outgoingUrls.append(u)
     
@@ -41,23 +45,26 @@ class Webpage:
             req = urllib2.Request(url[1], None, headers)
             page = urllib2.urlopen(req).read()        
         except urllib2.HTTPError:
-            page = ""
             self.text = ""
             return
-        except urllib2.URLError,e:     
-            page = ""      
+        except urllib2.URLError,e:           
             self.text = ""
             return
-        except httplib.BadStatusLine,e:   
-            page = ""         
-            self.text = ""
-        except httplib.InvalidURL:
-            page = ""
-            self.text = ""
         except ValueError:
-            page = ""
             self.text = ""
             return
+        except :
+            print sys.exc_info()[0]
+            self.text = ""
+            return
+        """
+        try:
+            response = requests.get(url[1])
+            page = response.text
+        except:
+            self.text = ""
+            return
+        """
         
         self.soup = BeautifulSoup(page)
         '''scripts = soup.findAll('script')

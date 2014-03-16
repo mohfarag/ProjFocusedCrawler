@@ -1,74 +1,41 @@
 #!/usr/local/bin/python
+#import sys
 from crawler import Crawler
 from priorityQueue import PriorityQueue
-from tfidfScorer import TFIDF_Scorer
-from NBClassifier import NaiveBayesClassifier
-from SVMClassifier import SVMClassifier
-from Filter import *
-import numpy as np
-from sklearn import metrics
+#from NBClassifier import NaiveBayesClassifier
+from Filter import downloadRawDocs, getTokenizedDocs, getSeedURLs
+
+#import numpy as np
+#from sklearn import metrics
 from TFIDF import TFIDF
 from ExtendedPriorityQueue import PubVenPriorityQueue
-from url import Url
 from EnhancedCrawler import EnhancedCrawler
+from eventModel import EventModel
+from evaluate import Evaluate
 #import nltk
 #class FocusedCrawler:
-	
-def baseFC(scorer,options):
-#     seedUrls = ["http://www.cnn.com/2013/09/27/world/africa/kenya-mall-attack/index.html",
-#                 "http://www.youtube.com/watch?v=oU9Oop892BQ",
-#                 "http://ifrc.org/en/news-and-media/press-releases/africa/kenya/kenya-red-cross-society-continues-to-provide-vital-support-to-victims-and-families-of-the-westgate-shopping-mall-attack/"               
-#                 ]
-    #keywords = ['demonstrations','protest','elections','egypt','revolution','uprising','arab','spring','tunisia','libya','military']
-    
-    t = [(-1,p,-1) for p in options['seeds']]
-    #t = [(-1,Url(p)) for p in seedUrls]
-    priorityQueue = PriorityQueue(t)
-    
-    crawler = Crawler(priorityQueue,scorer,options)
-    crawler.crawl()
-    print crawler.relevantPagesCount
-    print crawler.pagesCount
-    
-    f = open("harverstRatioData.txt","w")
-    for r,p in crawler.harvestRatioData:
-        f.write(str(r) + "," + str(p) + "\n")
+
+""" 
+def getPosFiles():
+    f = open("html_files-sikkim.txt","r")
+    fl = open("labels.txt","r")
+    fw = open("positive.txt","w")
+    for line in fl:
+        strl = f.readline()
+        if int(line) == 1:            
+            #fw.write(strl +"\n")
+            fw.write(strl)
+    fw.close()
+    fl.close()
     f.close()
     
-    f = open("logData.txt","w")
-    furl = open("Output-URLs.txt","w")
-    for p in crawler.relevantPages:
-        f.write(str(p.pageId) + "," + str(p.pageUrl[2]) + "\n")
-        furl.write(p.pageUrl[1]+"\n")
-    f.close()
-    
-    furl.close()
-    
-    
-def intelligentFC(scorer,options):
-#     seedUrls = ["http://www.cnn.com/2013/09/27/world/africa/kenya-mall-attack/index.html",
-#                 "http://www.youtube.com/watch?v=oU9Oop892BQ",
-#                 "http://ifrc.org/en/news-and-media/press-releases/africa/kenya/kenya-red-cross-society-continues-to-provide-vital-support-to-victims-and-families-of-the-westgate-shopping-mall-attack/"               
-#                 ]
-    #keywords = ['demonstrations','protest','elections','egypt','revolution','uprising','arab','spring','tunisia','libya','military']
-    
-    t = [(-1,p,-1) for p in options['seeds']]
-    priorityQueue = PubVenPriorityQueue(t[:1],[t[1]],t[2:])
    
-    crawler = EnhancedCrawler(priorityQueue,scorer,options)
-    crawler.crawl()
-    print crawler.relevantPagesCount
-    print crawler.pagesCount
-    
-    f = open("harverstRatioDataPub.txt","w")
-    for r,p in crawler.harvestRatioData:
-        f.write(str(r) + "," + str(p) + "\n")
-    f.close()
-    
-    f = open("logDataPub.txt","w")
-    for p in crawler.relevantPages:
-        f.write(str(p.pageId) + "," + str(p.pageUrl[2]) + "\n")
-    f.close()
+def getStats():
+    urls = open("positive.txt","r").readlines()
+    stats = getDomainStat(urls)
+    for k,v in stats.iteritems():
+        print k + " " + str(len(v))
+
 
 def writeToFile(data, fileName):
     f = codecs.open(fileName, "w")
@@ -84,98 +51,6 @@ def getLabelsFromFile(fileName):
         labels.append(int(num))
     f.close()
     return labels
-
-def main():
-    
-    #seedUrls = ["http://www.huffingtonpost.com/news/arab-spring/","http://www.opendemocracy.net/david-hayes/arab-spring-protest-power-prospect","http://www.washingtonpost.com/wp-srv/special/world/middle-east-protests/"]
-    #seedUrls = ["http://www.ndtv.com/article/india/big-earthquake-in-sikkim-tremors-across-india-54-dead-over-100-injured-134537",
-    #           "http://articles.timesofindia.indiatimes.com/2011-09-21/india/30184028_1_construction-site-teesta-urja-gangtok",
-    #            "http://www.ndtv.com/article/india/quake-aftermath-many-villages-in-sikkim-still-cut-off-thousands-waiting-for-help-135132",
-    #            "http://www.ndtv.com/article/india/12-dead-40-missing-at-sikkim-plant-hit-by-quake-135215"
-    #            ]
-    seedUrls = ["http://www.ndtv.com/topic/sikkim-earthquake",
-                "http://zeenews.india.com/tags/Sikkim_earthquake.html",
-                "http://earthquake-report.com/2011/09/18/very-strong-earthquake-in-sikkim-india/",
-                "http://articles.timesofindia.indiatimes.com/2011-09-21/india/30184028_1_construction-site-teesta-urja-gangtok"
-                ]
-    '''
-    seedUrls = ["http://www.aljazeera.com/indepth/spotlight/anger-in-egypt/",
-                "http://live.reuters.com/Event/Unrest_in_Egypt?Page=0",
-                "http://www.guardian.co.uk/world/series/egypt-protests",
-                "http://www.huffingtonpost.com/2012/06/24/egypt-uprising-election-timeline_n_1622773.html",
-                "http://www.washingtonpost.com/wp-srv/world/special/egypt-transition-timeline/index.html",
-                "http://botw.org/top/Regional/Africa/Egypt/Society_and_Culture/Politics/Protests_2011/"
-                ]
-    '''
-    #topicKeywords = ['demonstrations','protest','elections','egypt','revolution','uprising','arab','spring','tunisia','libya','military']
-    ##topicKeywords = getTopicKeywords("manual-sikkim-earthquake-wikipedia.txt")
-    urls_tokens = []
-    title_tokens = []
-    docs = getrawDocs("html_files2-balanced.txt",urls_tokens, title_tokens)
-    #writeToFile(docs,"rawData.txt")
-    print("raw docs extracted")
-    docs_len = len(docs)
-    #docs_tokens = getTokenizedDocs(docs)
-    #print(" docs tokens extracted")
-    #labels = getLabels(docs_tokens, topicKeywords)
-    #writeToFile(labels,"labels.txt")
-    labels = getLabelsFromFile("labels2-balanced.txt")
-    print sum(labels)
-    
-    ##print("docs labels calcualted")
-    
-    sep = int(docs_len*0.9)
-    
-    trainingDocs = docs[:sep]
-    
-    trainingLabels = labels[:sep]
-    
-    testDocs = docs[sep:]
-    test_labels=labels[sep:]
-    
-    classifier = NaiveBayesClassifier()
-    
-    #classifier = SVMClassifier()
-    
-    trainingLabelsArr = np.array(labels)
-    classifier.trainClassifier(docs,trainingLabelsArr)
-    
-    #print classifier.classifier.coef_
-    #print classifier.ch2.get_support()
-    
-    trainingLabelsArr = np.array(trainingLabels)
-    classifier.trainClassifier(trainingDocs,trainingLabelsArr)
-    
-    #print len(trainingDocs) 
-    #print len (trainingLabelsArr)
-    #classifier.trainClassifier(trainingDocs,trainingLabels)
-    
-    #print("classifer trained")
-    #print (classifier.classifier)
-    #print sum(test_labels)
-    
-    test_labelsArr = np.array(test_labels)
-    print classifier.score(testDocs, test_labelsArr)
-    
-    #print sum(classifier.predicted)
-    #print classifier.score(testDocs, test_labels)
-    
-    print metrics.classification_report(test_labelsArr, classifier.predicted)
-    
-    '''
-    t = [(-1,p) for p in seedUrls]
-    priorityQueue = PriorityQueue(t)
-    #sc = Scorer(seedUrls)
-    #sc = Scorer(keywords)
-    #sc = TFIDF_Scorer(seedUrls)
-    #crawler = Crawler(priorityQueue,sc,10)
-    crawler = Crawler(priorityQueue,classifier,100)
-    crawler.crawl()
-    print crawler.relevantPagesCount
-    #print crawler.totalPagesCount
-    print crawler.pagesCount
-    #print "Precision %f" % crawler.relevantPagesCount / float(crawler.totalPagesCount)
-    '''
 
 def filterData(docs,urls,titles):
     pos = []
@@ -205,61 +80,165 @@ def filterData(docs,urls,titles):
     f.close()
     return pos,neg
 
-def getSeedURLs(fileName):
-	seeds = []
-	f = open(fileName,"r")
-	for line in f:
-		seeds.append(line[:-1])
-	return seeds
+def classifierFC():
+    
+    seedUrls = ["http://www.ndtv.com/topic/sikkim-earthquake",
+                "http://zeenews.india.com/tags/Sikkim_earthquake.html",
+                "http://earthquake-report.com/2011/09/18/very-strong-earthquake-in-sikkim-india/",
+                "http://articles.timesofindia.indiatimes.com/2011-09-21/india/30184028_1_construction-site-teesta-urja-gangtok"
+                ]
+    urls_tokens = []
+    title_tokens = []
+    docs = getrawDocs("html_files2-balanced.txt",urls_tokens, title_tokens)
+    print("raw docs extracted")
+    docs_len = len(docs)
+    labels = getLabelsFromFile("labels2-balanced.txt")
+    print sum(labels)
+    
+    sep = int(docs_len*0.9)
+    
+    trainingDocs = docs[:sep]
+    
+    trainingLabels = labels[:sep]
+    
+    testDocs = docs[sep:]
+    test_labels=labels[sep:]
+    
+    classifier = NaiveBayesClassifier()
+    
+    trainingLabelsArr = np.array(labels)
+    classifier.trainClassifier(docs,trainingLabelsArr)
+    
+    trainingLabelsArr = np.array(trainingLabels)
+    classifier.trainClassifier(trainingDocs,trainingLabelsArr)
+    test_labelsArr = np.array(test_labels)
+    print classifier.score(testDocs, test_labelsArr)
+    
+    print metrics.classification_report(test_labelsArr, classifier.predicted)
+"""
 
-def test():
+
+
+def baseFC(crawlParams,seedsFile):
+#def baseFC(crawlParams):
+
     mytfidf = TFIDF()
-    docs = downloadRawDocs("typhoon_haiyan_SEED_URLs.txt")
-    seedURLs = getSeedURLs("typhoon_haiyan_SEED_URLs.txt")
-    pagesLimit = 1000
-    pageScoreThreshold = 0.5
-    urlScoreThreshold = 0.4
-    options = {"num_pages": pagesLimit,"pageScoreThreshold":pageScoreThreshold,"urlScoreThreshold":urlScoreThreshold , "seeds":seedURLs}
-    #print urls_tokens
-    #print title_tokens    
     
-    cleandocs = getTokenizedDocs(docs)
+#     docs = downloadRawDocs(seedsFile)
+#     cleandocs = getTokenizedDocs(docs)
+#     mytfidf.buildModel(cleandocs)
+    #seedURLs = crawlParams['seeds']
+    mytfidf.buildModel(seedsFile)
+    crawlParams['scorer']=mytfidf
     
-    pos = cleandocs
+    #crawler = Crawler(priorityQueue,scorer,options)
+    crawler = Crawler(crawlParams)
+    crawler.crawl()
     
-    #print len(pos)
-    #print len(neg)
-    #print pos
-    mytfidf.buildModel(pos)
-    #mytfidf.buildModel(cleandocs)
-    #mytfidf.buildModel(cleandocs,urls_tokens,title_tokens)
+    print crawler.relevantPagesCount
+    print crawler.pagesCount
     
-    baseFC(mytfidf,options)
-    #intelligentFC(mytfidf,options)
-
-def getPosFiles():
-    f = open("html_files-sikkim.txt","r")
-    fl = open("labels.txt","r")
-    fw = open("positive.txt","w")
-    for line in fl:
-        strl = f.readline()
-        if int(line) == 1:            
-            #fw.write(strl +"\n")
-            fw.write(strl)
-    fw.close()
-    fl.close()
+    f = open("base-harverstRatioData.txt","w")
+    for r,p in crawler.harvestRatioData:
+        f.write(str(r) + "," + str(p) + "\n")
     f.close()
     
-def getStats():
-    urls = open("positive.txt","r").readlines()
-    stats = getDomainStat(urls)
-    for k,v in stats.iteritems():
-        print k + " " + str(len(v))
+    f = open("base-logData.txt","w")
+    furl = open("base-Output-URLs.txt","w")
+    for p in crawler.relevantPages:
+        f.write(str(p.pageId) + "," + str(p.pageUrl[2]) + "\n")
+        furl.write(p.pageUrl[1]+"\n")
+    f.close()
+    furl.close()
+    return crawler.relevantPages
+
+def eventFC(crawlParams):
+    eventModel = EventModel()
+    seedURLs = crawlParams['seeds']
+    eventModel.buildEventModel(seedURLs)
+    crawlParams['scorer']=eventModel
+    crawler = Crawler(crawlParams)
+    crawler.crawl()
+    print crawler.relevantPagesCount
+    print crawler.pagesCount
+    
+    f = open("event-harverstRatioData.txt","w")
+    for r,p in crawler.harvestRatioData:
+        f.write(str(r) + "," + str(p) + "\n")
+    f.close()
+    
+    f = open("event-logData.txt","w")
+    furl = open("event-Output-URLs.txt","w")
+    for p in crawler.relevantPages:
+        f.write(str(p.pageId) + "," + str(p.pageUrl[2]) + "\n")
+        furl.write(p.pageUrl[1]+"\n")
+    f.close()
+    furl.close()
+    return crawler.relevantPages
+
+def intelligentFC(scorer,options):
+    seedUrls = ["http://www.cnn.com/2013/09/27/world/africa/kenya-mall-attack/index.html",
+                "http://www.youtube.com/watch?v=oU9Oop892BQ",
+                "http://ifrc.org/en/news-and-media/press-releases/africa/kenya/kenya-red-cross-society-continues-to-provide-vital-support-to-victims-and-families-of-the-westgate-shopping-mall-attack/"               
+                ]
+    #keywords = ['demonstrations','protest','elections','egypt','revolution','uprising','arab','spring','tunisia','libya','military']
+    
+    t = [(-1,p,-1) for p in seedUrls]
+    priorityQueue = PubVenPriorityQueue(t[:1],[t[1]],t[2:])
+   
+    crawler = EnhancedCrawler(priorityQueue,scorer,options)
+    crawler.crawl()
+    print crawler.relevantPagesCount
+    print crawler.pagesCount
+    
+    f = open("harverstRatioDataPub.txt","w")
+    for r,p in crawler.harvestRatioData:
+        f.write(str(r) + "," + str(p) + "\n")
+    f.close()
+    
+    f = open("logDataPub.txt","w")
+    for p in crawler.relevantPages:
+        f.write(str(p.pageId) + "," + str(p.pageUrl[2]) + "\n")
+    f.close()
+
+
+def startCrawl(seedsFile,posFile,negFile):
+    #mytfidf = TFIDF()
+    #docs = downloadRawDocs("typhoon_haiyan_SEED_URLs.txt")
+    
+    #seedURLs = getSeedURLs("typhoon_haiyan_SEED_URLs.txt")
+    seedURLs = getSeedURLs(seedsFile)
+    #posURLs = getSeedURLs(posFile)
+    #negURLs = getSeedURLs(negFile)
+    t = [(-1,p,-1) for p in seedURLs]
+    priorityQueue = PriorityQueue(t)
+    pagesLimit = 200
+    pageScoreThreshold = 0.4
+    urlScoreThreshold = 0.1
+    
+    #cleandocs = getTokenizedDocs(docs)
+    #mytfidf.buildModel(cleandocs)
+    
+    #crawlParams = {"scorer":mytfidf,"num_pages": pagesLimit,"pageScoreThreshold":pageScoreThreshold,"urlScoreThreshold":urlScoreThreshold , "seeds":seedURLs, "priorityQueue":priorityQueue}
+    crawlParams = {"num_pages": pagesLimit,"pageScoreThreshold":pageScoreThreshold,"urlScoreThreshold":urlScoreThreshold , "seeds":seedURLs, "priorityQueue":priorityQueue}
+    
+    #baseFC(crawlParams,seedsFile)
+    
+    #relevantPages =baseFC(crawlParams,seedsFile) #3-13-14
+    relevantPages = eventFC(crawlParams)
+    
+    #intelligentFC(mytfidf,options)
+    
+    evaluator = Evaluate(posFile, negFile)
+    res = evaluator.evaluateFC(relevantPages)
+    print sum(res)
+    print len(res)
+    
 
 if __name__ == "__main__":
-    #baseFC()
-    #main()
-    test()
-    #getPosFiles()
-    #getStats()
+    #inputFile = sys.argv[1]
+    inputFile = "seedURLs.txt"
+    posFile = "pos.txt"
+    negFile = "neg.txt"
+    startCrawl(inputFile,posFile,negFile)
     
