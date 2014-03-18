@@ -224,8 +224,8 @@ def startCrawl(seedsFile,posFile,negFile):
     
     #baseFC(crawlParams,seedsFile)
     
-    #relevantPages =baseFC(crawlParams,seedsFile) #3-13-14
-    relevantPages = eventFC(crawlParams)
+    relevantPages =baseFC(crawlParams,seedsFile) #3-13-14
+    #relevantPages = eventFC(crawlParams)
     
     #intelligentFC(mytfidf,options)
     
