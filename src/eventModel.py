@@ -300,9 +300,13 @@ class EventModel:
                  
                 temp = uentities[k]
                 ltext = " ".join(temp)
-                tokens = getTokenizedDoc(ltext)
+                
+                if k != "Disaster":
+                    tokens = getTokenizedDoc(ltext)                    
+                else:
+                    tokens = temp
                 locs = set(tokens)
-                #tempList = [i for i in tempSet]
+                    #tempList = [i for i in tempSet]
                 uentities[k] = [i for i in locs]  
                  
 #             locs = uentities["LOCATION"]
@@ -311,15 +315,20 @@ class EventModel:
 #             locs = set(tokens)
 #             uentities["LOCATION"] = [i for i in locs]           
                 #entityList.extend(tempList)    
-            #print uentities   
+            print uentities   
             pageEventTree,size = self.getEventTree([("",uentities)])
-            distance = simple_distance(pageEventTree,self.eventTreeModel)
+            #distance = simple_distance(pageEventTree,self.eventTreeModel)
+            distance = simple_distance(self.eventTreeModel,pageEventTree)
 #             maxS = self.modelSize
 #             if  size > maxScore:
 #                 maxScore = size
-            #s = distance * 1.0 / self.modelSize
-            s = distance * 1.0 / (self.modelSize + size)
+            s = distance * 1.0 / self.modelSize
+            #s = distance * 1.0 / (self.modelSize + size)
+            print distance
             score = 1 - s
+            if score < 0:
+                score = 0.0
+            
         else:
             score = self.calculate_similarity(doc)
         

@@ -36,8 +36,8 @@ class Crawler:
                 page_score = self.scorer.calculate_score(page.text)
             else:
                 page_score = 0
-            #print "page Score", page_score
-            #print "URL:", work_url[1]
+            print "page Score", page_score
+            print "URL:", work_url[1]
             self.pagesCount += 1
             if (page_score > self.pageScoreThreshold):
                 page.getUrls()

@@ -212,7 +212,7 @@ def startCrawl(seedsFile,posFile,negFile):
     #negURLs = getSeedURLs(negFile)
     t = [(-1,p,-1) for p in seedURLs]
     priorityQueue = PriorityQueue(t)
-    pagesLimit = 200
+    pagesLimit = 20
     pageScoreThreshold = 0.4
     urlScoreThreshold = 0.1
     
@@ -224,8 +224,8 @@ def startCrawl(seedsFile,posFile,negFile):
     
     #baseFC(crawlParams,seedsFile)
     
-    relevantPages =baseFC(crawlParams,seedsFile) #3-13-14
-    #relevantPages = eventFC(crawlParams)
+    #relevantPages =baseFC(crawlParams,seedsFile) #3-13-14
+    relevantPages = eventFC(crawlParams)
     
     #intelligentFC(mytfidf,options)
     
