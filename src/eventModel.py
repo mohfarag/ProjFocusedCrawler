@@ -150,28 +150,33 @@ class EventModel:
     def buildEventModel(self,urls=[]):
         #,"fire","gas", "leak"
         #self.entities = {"Disaster":["attack","kill","dead","school"],"LOCATION":["DAMATURU","Yobe","Nigeria"],"DATE":["2014","February","Tuesday"]}
-        self.entities = {"Disaster":["blast","explosion","collapse","explode"],"LOCATION":["East Harlem","Park Avenue","Manhattan","New York"],"DATE":["March 12, 2014","Wednesday"]}
+        #self.entities = {"Disaster":["blast","explosion","collapse","explode"],"LOCATION":["East Harlem","Park Avenue","Manhattan","New York"],"DATE":["March 12, 2014","Wednesday"]}
+        self.entities = {"Disaster":["blast","explosion","collapse"],"LOCATION":["East Harlem","Manhattan","New York"],"DATE":["March, 2014","Wednesday"]}
         entityList = []
+        self.entitiesSet = {}
         if self.entities.has_key("Disaster"):
             for k in self.entities:
                 entityL = self.entities[k]
                 ltext = " ".join(entityL)
                 tokens = getTokenizedDoc(ltext)
                 locs = set(tokens)
+                self.entitiesSet[k] = set(tokens)
                 self.entities[k] = [i for i in locs]
         
-        self.eventTreeModel,self.modelSize = self.getEventTree([("",self.entities)])
+        #self.eventTreeModel,self.modelSize = self.getEventTree([("",self.entities)])
         self.stemmer = stem.LancasterStemmer() 
         
         if self.entities.has_key("Disaster"):
             for k in self.entities:
                 entityList.extend( self.entities[k])
         
-        text = " ".join(entityList)
-        tokens = getTokenizedDoc(text)
-        self.entity_set = set(tokens)
-        #print self.entity_set        
-        print self.entities
+        #text = " ".join(entityList)
+        #tokens = getTokenizedDoc(text)
+        
+        self.entity_set = set(entityList)
+        #self.entity_set = set(tokens)
+        print self.entity_set        
+        #print self.entities
         #return eventTreeModel
     
     def webpageEntities(self,docText=""):
@@ -274,6 +279,82 @@ class EventModel:
         score = intersect * 1.0 /len(self.entity_set)       
         return score
     
+    def calculate_score2(self,doc=""):
+        entities = self.webpageEntities(doc)        
+        if len(entities) > 1:
+            uentities = {"Disaster":[],"LOCATION":[],"DATE":[]}
+            #entityList = []
+            for sent in entities:
+                dictval = sent[1]
+                if dictval.has_key("Disaster"):
+                    for k in dictval:
+                        #entityList.extend(dictval[k])
+                        if k in ["LOCATION","Disaster","DATE"]:
+                            if uentities.has_key(k):
+                                uentities[k].extend(dictval[k])
+                            else:
+                                uentities[k] = []
+                                uentities[k].extend(dictval[k])
+            
+#             for k in uentities:            
+#                 tempSet = set(uentities[k])
+#                 #tempList = [i for i in tempSet]
+#                 uentities[k] = [i for i in tempSet]
+            webpageEntities = [] 
+            webpageSets = {}   
+            for k in uentities:
+                   
+                temp = uentities[k]
+                ltext = " ".join(temp)
+                
+                if k != "Disaster":
+                    tokens = getTokenizedDoc(ltext)              
+                else:
+                    tokens = temp
+                webpageEntities.extend(tokens)   
+                locs = set(tokens)
+                webpageSets[k] = set(tokens)
+                    #tempList = [i for i in tempSet]
+                uentities[k] = [i for i in locs]  
+            #webpageEntitiesSet = set(webpageEntities)   
+#             locs = uentities["LOCATION"]
+#             ltext = " ".join(locs)
+#             tokens = getTokenizedDoc(ltext)
+#             locs = set(tokens)
+#             uentities["LOCATION"] = [i for i in locs]           
+                #entityList.extend(tempList)    
+            #print uentities
+            #print webpageEntitiesSet
+            #pageEventTree,size = self.getEventTree([("",uentities)])
+            scores = []
+            for k in webpageSets:
+                intersect = len(webpageSets[k] & self.entitiesSet[k])
+                score = intersect * 1.0 / len(self.entitiesSet[k])
+                scores.append(score)
+                print webpageSets[k]
+            print scores
+            score = sum(scores) / 3.0
+            
+            
+
+            #distance = simple_distance(self.eventTreeModel,pageEventTree)
+#             maxS = self.modelSize
+#             if  size > maxScore:
+#                 maxScore = size
+            #s = distance * 1.0 / self.modelSize
+            #s = distance * 1.0 / (self.modelSize + size)
+            #print distance
+            #score = 1 - s
+            if score < 0:
+                score = 0.0
+            
+        else:
+            score = self.calculate_similarity(doc)
+        
+        #score = 1.0/distance
+        return score
+    
+    
     def calculate_score(self,doc=""):
         entities = self.webpageEntities(doc)        
         if len(entities) > 1:
@@ -295,37 +376,42 @@ class EventModel:
 #                 tempSet = set(uentities[k])
 #                 #tempList = [i for i in tempSet]
 #                 uentities[k] = [i for i in tempSet]
-                
+            webpageEntities = []    
             for k in uentities:
-                 
+                   
                 temp = uentities[k]
                 ltext = " ".join(temp)
                 
                 if k != "Disaster":
-                    tokens = getTokenizedDoc(ltext)                    
+                    tokens = getTokenizedDoc(ltext)              
                 else:
                     tokens = temp
+                webpageEntities.extend(tokens)   
                 locs = set(tokens)
                     #tempList = [i for i in tempSet]
                 uentities[k] = [i for i in locs]  
-                 
+            webpageEntitiesSet = set(webpageEntities)   
 #             locs = uentities["LOCATION"]
 #             ltext = " ".join(locs)
 #             tokens = getTokenizedDoc(ltext)
 #             locs = set(tokens)
 #             uentities["LOCATION"] = [i for i in locs]           
                 #entityList.extend(tempList)    
-            print uentities   
-            pageEventTree,size = self.getEventTree([("",uentities)])
-            #distance = simple_distance(pageEventTree,self.eventTreeModel)
-            distance = simple_distance(self.eventTreeModel,pageEventTree)
+            #print uentities
+            print webpageEntitiesSet
+            #pageEventTree,size = self.getEventTree([("",uentities)])
+            
+            intersect = len(webpageEntitiesSet & self.entity_set)
+            score = intersect * 1.0 / len(self.entity_set)
+
+            #distance = simple_distance(self.eventTreeModel,pageEventTree)
 #             maxS = self.modelSize
 #             if  size > maxScore:
 #                 maxScore = size
-            s = distance * 1.0 / self.modelSize
+            #s = distance * 1.0 / self.modelSize
             #s = distance * 1.0 / (self.modelSize + size)
-            print distance
-            score = 1 - s
+            #print distance
+            #score = 1 - s
             if score < 0:
                 score = 0.0
             
