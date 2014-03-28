@@ -210,10 +210,10 @@ def startCrawl(seedsFile,posFile,negFile):
     seedURLs = getSeedURLs(seedsFile)
     #posURLs = getSeedURLs(posFile)
     #negURLs = getSeedURLs(negFile)
-    t = [(-1,p,-1) for p in seedURLs]
+    t = [(-1,p,-1,"") for p in seedURLs]
     priorityQueue = PriorityQueue(t)
-    pagesLimit = 36
-    pageScoreThreshold = 0.4
+    pagesLimit = 50
+    pageScoreThreshold = 0.39
     urlScoreThreshold = 0.1
     
     #cleandocs = getTokenizedDocs(docs)

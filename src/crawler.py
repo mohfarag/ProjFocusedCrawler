@@ -23,6 +23,7 @@ class Crawler:
         self.harvestRatioData = []
         self.relevantPages = []
         while self.pagesCount <  self.pagesLimit and not self.priorityQueue.isempty():
+            #print self.pagesCount
             work_url = self.priorityQueue.pop()
             self.visited.append(work_url)
             #print ("%s, %s") % (-1 * work_url[0], work_url[1])
@@ -32,19 +33,23 @@ class Crawler:
             page = Webpage(work_url,self.pagesCount)
             #print work_url[1]
             #print "length:", len(page.text)
+            if page.text == "Error":
+                continue
             if len(page.text) > 0:
                 page_score = self.scorer.calculate_score(page.text)
             else:
-                page_score = 0
-            print "page Score", page_score
-            print "URL:", work_url[1]
+                continue
+                #page_score = 0
+            #print "page Score", page_score
+            #print "URL:", work_url[1]
+            print ("%s,"+ str(page_score)+", %s" +", %s") % (-1 * work_url[0], work_url[1], work_url[3])
             self.pagesCount += 1
-            if (page_score > self.pageScoreThreshold):
+            if (page_score >= self.pageScoreThreshold):
                 page.getUrls()
                 self.relevantPagesCount += 1
                 self.relevantPages.append(page)
                 self.harvestRatioData.append((self.relevantPagesCount,self.pagesCount))
-                print ("%s,"+ str(page_score)+", %s") % (-1 * work_url[0], work_url[1])
+                #print ("%s,"+ str(page_score)+", %s") % (-1 * work_url[0], work_url[1])
                 for link in page.outgoingUrls:
                     url = link.address
                     if url != None and url != '':
@@ -52,18 +57,23 @@ class Crawler:
                             url = url.split('?')[0]
                         if url.find('#') != -1:
                             url = url.split('#')[0]
+                        
+                        if url.endswith(("share.php","sharer.php","login.php","print","print/","button/","share","email","submit","post",".pdf") ):
+                        #if url.endswith("share") or url.endswith("email") or url.endswith(("print","print/")) or url.endswith("submit")or url.endswith("post"):
+                            url = ""
                         if not self.exists(url,self.visited):
-                            if url.startswith('http:') and not self.exists(url,self.priorityQueue.queue):                            
+                            if url.startswith('http:') and not self.exists(url,self.priorityQueue.queue):
+                        #if url.startswith('http:') and not self.exists(url,self.visited):                            
                                 url_score = self.scorer.calculate_score(link.getAllText())
                                 
                                 #print " ", url ,",", url_score
                                 tot_score = url_score
-                                if tot_score > self.urlScoreThreshold:
+                                if tot_score >= self.urlScoreThreshold:
                                     #self.priorityQueue.push(((-1 * url_score),url))
-                                    self.priorityQueue.push(((-1 * tot_score),url,page.pageId))
-                                    #self.relevantPagesCount += 1
+                                    self.priorityQueue.push(((-1 * tot_score),url,page.pageId,link.getAllText()))
+                                        #self.relevantPagesCount += 1
         print self.priorityQueue.isempty()
                 
     def exists(self,url,alist):
-        urlList = [v for p,v,k in alist]
+        urlList = [v for p,v,k,l in alist]
         return url in urlList

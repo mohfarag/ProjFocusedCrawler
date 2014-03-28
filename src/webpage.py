@@ -45,17 +45,20 @@ class Webpage:
             req = urllib2.Request(url[1], None, headers)
             page = urllib2.urlopen(req).read()        
         except urllib2.HTTPError:
-            self.text = ""
+            print sys.exc_info()[0]
+            self.text = "Error"
             return
-        except urllib2.URLError,e:           
-            self.text = ""
+        except urllib2.URLError,e:
+            print sys.exc_info()[0]           
+            self.text = "Error"
             return
         except ValueError:
-            self.text = ""
+            print sys.exc_info()[0]
+            self.text = "Error"
             return
         except :
             print sys.exc_info()[0]
-            self.text = ""
+            self.text = "Error"
             return
         """
         try:
