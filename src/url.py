@@ -9,4 +9,4 @@ class Url:
     def getAllText(self):
         parts = [s for s in re.findall(r'\w+',self.address) if s]
         parts = [s for s in parts if s not in ['https','http','www','com','htm','html','asp','jsp','aspx','php','org','net','pl','cgi']]
-        return "%s %s %s" % (self.anchor,' '.join(parts),self.context)
+        return "%s %s %s" % (self.anchor.strip(),' '.join(parts),self.context)
