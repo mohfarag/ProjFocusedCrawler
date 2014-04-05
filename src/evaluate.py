@@ -67,7 +67,9 @@ class Evaluate(object):
     def evaluateFC(self,pages):
         results=[]
         for page in pages:
-            results.append(self.classifier.calculate_score(page.text))
+            #results.append(self.classifier.calculate_score(page.text))
+            s = self.classifier.calculate_score(page.text)[0]
+            results.append(s)
         return results
         
         

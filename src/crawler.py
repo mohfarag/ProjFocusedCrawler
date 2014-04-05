@@ -22,7 +22,9 @@ class Crawler:
         #myopener = MyOpener()
         self.harvestRatioData = []
         self.relevantPages = []
-        while self.pagesCount <  self.pagesLimit and not self.priorityQueue.isempty():
+        
+        #while self.pagesCount <  self.pagesLimit and not self.priorityQueue.isempty():
+        while self.relevantPagesCount <  self.pagesLimit and not self.priorityQueue.isempty():
             #print self.pagesCount
             work_url = self.priorityQueue.pop()
             self.visited.append(work_url)

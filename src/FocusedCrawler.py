@@ -121,7 +121,10 @@ def classifierFC():
 
 def baseFC(crawlParams,seedsFile):
 #def baseFC(crawlParams):
-
+    seedURLs = getSeedURLs(seedsFile)
+    t = [(-1,p,-1,"") for p in seedURLs]
+    priorityQueue = PriorityQueue(t)
+    crawlParams["priorityQueue"]=priorityQueue
     mytfidf = TFIDF()
     
 #     docs = downloadRawDocs(seedsFile)
@@ -152,9 +155,15 @@ def baseFC(crawlParams,seedsFile):
     furl.close()
     return crawler.relevantPages
 
-def eventFC(crawlParams):
+def eventFC(crawlParams, seedsFile):
+    seedURLs = getSeedURLs(seedsFile)
+    #crawlParams["seeds"] = seedURLs
+    t = [(-1,p,-1,"") for p in seedURLs]
+    priorityQueue = PriorityQueue(t)
+    crawlParams["priorityQueue"]=priorityQueue
+    
     eventModel = EventModel()
-    seedURLs = crawlParams['seeds']
+    #seedURLs = crawlParams['seeds']
     eventModel.buildEventModel(seedURLs)
     crawlParams['scorer']=eventModel
     crawler = Crawler(crawlParams)
@@ -162,10 +171,10 @@ def eventFC(crawlParams):
     print crawler.relevantPagesCount
     print crawler.pagesCount
     
-    f = open("event-harverstRatioData.txt","w")
-    for r,p in crawler.harvestRatioData:
-        f.write(str(r) + "," + str(p) + "\n")
-    f.close()
+#     f = open("event-harverstRatioData.txt","w")
+#     for r,p in crawler.harvestRatioData:
+#         f.write(str(r) + "," + str(p) + "\n")
+#     f.close()
     
     f = open("event-logData.txt","w")
     furl = open("event-Output-URLs.txt","w")
@@ -201,38 +210,44 @@ def intelligentFC(scorer,options):
         f.write(str(p.pageId) + "," + str(p.pageUrl[2]) + "\n")
     f.close()
 
+def writeEvaluation(res,filename):
+    f = open(filename,"w")
+    #for p,e in zip(relevantPages,res):
+    rel = 0
+    tot = 0
+    for r in res:
+        rel = rel + r
+        tot = tot + 1 
+        f.write(str(rel) + "," + str(tot) + "\n")
+    f.close()
 
 def startCrawl(seedsFile,posFile,negFile):
-    #mytfidf = TFIDF()
-    #docs = downloadRawDocs("typhoon_haiyan_SEED_URLs.txt")
-    
-    #seedURLs = getSeedURLs("typhoon_haiyan_SEED_URLs.txt")
-    seedURLs = getSeedURLs(seedsFile)
-    #posURLs = getSeedURLs(posFile)
-    #negURLs = getSeedURLs(negFile)
-    t = [(-1,p,-1,"") for p in seedURLs]
-    priorityQueue = PriorityQueue(t)
+#     seedURLs = getSeedURLs(seedsFile)
+#     t = [(-1,p,-1,"") for p in seedURLs]
+#     priorityQueue = PriorityQueue(t)
     pagesLimit = 500
     pageScoreThreshold = 0.13
     urlScoreThreshold = 0.1
     
-    #cleandocs = getTokenizedDocs(docs)
-    #mytfidf.buildModel(cleandocs)
-    
-    #crawlParams = {"scorer":mytfidf,"num_pages": pagesLimit,"pageScoreThreshold":pageScoreThreshold,"urlScoreThreshold":urlScoreThreshold , "seeds":seedURLs, "priorityQueue":priorityQueue}
-    crawlParams = {"num_pages": pagesLimit,"pageScoreThreshold":pageScoreThreshold,"urlScoreThreshold":urlScoreThreshold , "seeds":seedURLs, "priorityQueue":priorityQueue}
-    
-    #baseFC(crawlParams,seedsFile)
-    
-    relevantPages =baseFC(crawlParams,seedsFile) #3-13-14
-    #relevantPages = eventFC(crawlParams)
-    
-    #intelligentFC(mytfidf,options)
-    
+    #crawlParams = {"num_pages": pagesLimit,"pageScoreThreshold":pageScoreThreshold,"urlScoreThreshold":urlScoreThreshold , "seeds":seedURLs, "priorityQueue":priorityQueue}
+    crawlParams = {"num_pages": pagesLimit,"pageScoreThreshold":pageScoreThreshold,"urlScoreThreshold":urlScoreThreshold }
+
     evaluator = Evaluate(posFile, negFile)
-    res = evaluator.evaluateFC(relevantPages)
-    print sum(res)
-    print len(res)
+    
+    baseRelevantPages =baseFC(crawlParams,seedsFile)
+    bres = evaluator.evaluateFC(baseRelevantPages)
+    writeEvaluation(bres,"base-evaluateData.txt")    
+    print sum(bres)
+    print len(bres)
+    
+    eventRelevantPages = eventFC(crawlParams,seedsFile)   
+    eres = evaluator.evaluateFC(eventRelevantPages)
+    writeEvaluation(eres,"event-evaluateData.txt")    
+    print sum(eres)
+    print len(eres)
+    
+    
+    
     
 
 if __name__ == "__main__":
