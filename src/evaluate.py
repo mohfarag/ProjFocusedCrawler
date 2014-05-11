@@ -24,6 +24,7 @@ class Evaluate(object):
         try:
             classifierFile = open("savedClassifier.p","rb")
             self.classifier = pickle.load(classifierFile)
+            classifierFile.close()
             
         except:
             #self.pages = pages
@@ -63,13 +64,17 @@ class Evaluate(object):
             print metrics.classification_report(test_labelsArr, self.classifier.predicted)
             classifierFile = open("savedClassifier.p","wb")
             pickle.dump(self.classifier,classifierFile)
+            classifierFile.close()
     
     def evaluateFC(self,pages):
         results=[]
-        for page in pages:
+        for page,score in pages:
             #results.append(self.classifier.calculate_score(page.text))
-            s = self.classifier.calculate_score(page.text)[0]
-            results.append(s)
+            if score ==1:
+                s = self.classifier.calculate_score(page.text)[0]
+                results.append(s)
+            else:
+                results.append(0)
         return results
         
         

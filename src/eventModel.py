@@ -150,8 +150,12 @@ class EventModel:
     def buildEventModel(self,urls=[],dw = 0.6, ltw =0.2):
         #,"fire","gas", "leak"
         #self.entities = {"Disaster":["attack","kill","dead","school"],"LOCATION":["DAMATURU","Yobe","Nigeria"],"DATE":["2014","February","Tuesday"]}
-        self.entities = {"Disaster":["blast","explosion","collapse","explode"],"LOCATION":["East Harlem","Park Avenue","Manhattan","New York"],"DATE":["March 12, 2014","Wednesday"]}
-        #self.entities = {"Disaster":["blast","explosion","collapse"],"LOCATION":["East Harlem","Manhattan","New York"],"DATE":["March, 2014","Wednesday"]}
+        
+        self.entities = {"Disaster":["blast","explosion","collapse","explode"],"LOCATION":["East Harlem","Park Avenue","Manhattan","New York"],"DATE":["March 12, 2014","Wednesday"]}        
+        #old#self.entities = {"Disaster":["blast","explosion","collapse"],"LOCATION":["East Harlem","Manhattan","New York"],"DATE":["March, 2014","Wednesday"]}
+        
+        #self.entities = {"Disaster":["landslide","mudslide","slide","Debris"],"LOCATION":["Oso","Washington"],"DATE":["March 22, 2014","Saturday"]}
+        
         self.dw = dw
         self.ltw = ltw
         entityList = []
@@ -355,8 +359,8 @@ class EventModel:
             #score = sum(scores) / 3.0
             score = sum(scores)
             #print score
-            if score > 1.0:
-                score = 1.0
+            #if score > 1.0:
+            #    score = 1.0
         else:
             score = self.calculate_similarity(doc)
         return score

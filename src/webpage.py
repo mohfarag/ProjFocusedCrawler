@@ -63,8 +63,18 @@ class Webpage:
         self.soup = BeautifulSoup(page)
         self.outgoingUrls=[]
         self.title = ""
-        if self.soup.title:
-            self.title = self.soup.title.string
+#         if self.soup.title:
+#             if self.soup.title.string:
+#                 self.title = self.soup.title.string
+#             else:
+#                 self.title = self.soup.title
+        try:
+#             if self.soup.html:
+#                 if self.soup.html.head:
+            if self.soup.html.head.title.string:
+                self.title = self.soup.html.head.title.string
+        except:
+            self.title = ""
         comments = self.soup.findAll(text=lambda text:isinstance(text,Comment))
         [comment.extract() for comment in comments]
         text_nodes = self.soup.findAll(text=True)
