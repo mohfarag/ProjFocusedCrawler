@@ -230,7 +230,7 @@ def startCrawl(seedsFile,posFile,negFile):
 #     seedURLs = getSeedURLs(seedsFile)
 #     t = [(-1,p,-1,"") for p in seedURLs]
 #     priorityQueue = PriorityQueue(t)
-    switchFC = 0
+    switchFC = 1
     pagesLimit = 500
     #pageScoreThreshold =0.17 # for NY base
     #pageScoreThreshold = 0.13 #for WA mudslide base
@@ -251,8 +251,7 @@ def startCrawl(seedsFile,posFile,negFile):
         writeEvaluation(bres,"base-evaluateData.txt")    
         print sum(bres)
         print len(bres)
-    else:
-    
+    elif switchFC == 0:    
         eventRelevantPages = eventFC(crawlParams,seedsFile)   
         eres = evaluator.evaluateFC(eventRelevantPages)
         writeEvaluation(eres,"event-evaluateData.txt")    

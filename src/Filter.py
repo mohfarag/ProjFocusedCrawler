@@ -76,9 +76,9 @@ def downloadRawDocs(fileName):
             docs.append(text)
             myopener.close()
         except Exception:
-            print "Exception, URL couldn't be retrieved"
-            text = ""
-            docs.append(text)
+            print "Exception, URL couldn't be retrieved" + " : " + line
+            #text = ""
+            #docs.append(text)
     f.close()
     return docs
 

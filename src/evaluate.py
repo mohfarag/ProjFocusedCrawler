@@ -5,6 +5,7 @@ Created on Mar 13, 2014
 '''
 #from SVMClassifier import SVMClassifier
 from NBClassifier import NaiveBayesClassifier
+from SVMClassifier import SVMClassifier
 import numpy as np
 from sklearn import metrics
 from Filter import downloadRawDocs, getTokenizedDocs
@@ -51,6 +52,7 @@ class Evaluate(object):
             test_labels=posLabels[posSep:] + negLabels[negSep:]
             
             self.classifier = NaiveBayesClassifier()
+            #self.classifier = SVMClassifier()
             
             #trainingLabelsArr = np.array(labels)
             #classifier.trainClassifier(docs,trainingLabelsArr)
