@@ -119,7 +119,7 @@ def classifierFC():
 
 
 
-def baseFC(crawlParams,seedsFile):
+def baseFC(crawlParams,seedsFile,num):
 #def baseFC(crawlParams):
     seedURLs = getSeedURLs(seedsFile)
     t = [(-1,p,-1,"") for p in seedURLs]
@@ -132,7 +132,7 @@ def baseFC(crawlParams,seedsFile):
 #     cleandocs = getTokenizedDocs(docs)
 #     mytfidf.buildModel(cleandocs)
     #seedURLs = crawlParams['seeds']
-    mytfidf.buildModel(seedsFile)
+    mytfidf.buildModel(seedsFile,num)
     crawlParams['scorer']=mytfidf
     
     #crawler = Crawler(priorityQueue,scorer,options)
@@ -152,6 +152,9 @@ def baseFC(crawlParams,seedsFile):
     for p in crawler.relevantPages:
         f.write(str(p.pageId) + "," + str(p.pageUrl[2]) + "\n")
         furl.write(p.pageUrl[1]+"\n")
+        ftext = open("webpages/"+str(p.pageId) + ".txt", "w")
+        ftext.write(p.text.encode("utf-8"))
+        ftext.close()
     f.close()
     furl.close()
     return crawler.pages
@@ -184,6 +187,9 @@ def eventFC(crawlParams, seedsFile):
     for p in crawler.relevantPages:
         f.write(str(p.pageId) + "," + str(p.pageUrl[2]) + "\n")
         furl.write(p.pageUrl[1]+"\n")
+        ftext = open("webpages/"+str(p.pageId) + ".txt", "w")
+        ftext.write(p.text.encode("utf-8"))
+        ftext.close()
     f.close()
     furl.close()
     return crawler.pages
@@ -231,11 +237,15 @@ def startCrawl(seedsFile,posFile,negFile):
 #     t = [(-1,p,-1,"") for p in seedURLs]
 #     priorityQueue = PriorityQueue(t)
     switchFC = 1
+    #number of keywords to represent event/topic
+    num = 20
     pagesLimit = 500
+    #pageScoreThreshold =0.176  for UCSB shooting base
+    
     #pageScoreThreshold =0.17 # for NY base
     #pageScoreThreshold = 0.13 #for WA mudslide base
     
-    pageScoreThreshold =0.5 # for NY event
+    pageScoreThreshold =0.7 #for UCSB shooting #0.5  for NY event
     #pageScoreThreshold = 0.39 #for WA mudslide event
     urlScoreThreshold = 0.1
     #mode = 0 # no URL scoring
@@ -243,20 +253,22 @@ def startCrawl(seedsFile,posFile,negFile):
     #crawlParams = {"num_pages": pagesLimit,"pageScoreThreshold":pageScoreThreshold,"urlScoreThreshold":urlScoreThreshold , "seeds":seedURLs, "priorityQueue":priorityQueue}
     crawlParams = {"num_pages": pagesLimit,"pageScoreThreshold":pageScoreThreshold,"urlScoreThreshold":urlScoreThreshold ,"mode":mode}
 
-    evaluator = Evaluate(posFile, negFile)
+    #evaluator = Evaluate(posFile, negFile)
     
     if switchFC == 1:
-        baseRelevantPages =baseFC(crawlParams,seedsFile)
-        bres = evaluator.evaluateFC(baseRelevantPages)
-        writeEvaluation(bres,"base-evaluateData.txt")    
-        print sum(bres)
-        print len(bres)
-    elif switchFC == 0:    
+        baseRelevantPages =baseFC(crawlParams,seedsFile,num)
+        
+        #bres = evaluator.evaluateFC(baseRelevantPages)
+        #writeEvaluation(bres,"base-evaluateData.txt")    
+        #print sum(bres)
+        #print len(bres)
+    else:
+    
         eventRelevantPages = eventFC(crawlParams,seedsFile)   
-        eres = evaluator.evaluateFC(eventRelevantPages)
-        writeEvaluation(eres,"event-evaluateData.txt")    
-        print sum(eres)
-        print len(eres)
+        #eres = evaluator.evaluateFC(eventRelevantPages)
+        #writeEvaluation(eres,"event-evaluateData.txt")    
+        #print sum(eres)
+        #print len(eres)
     
     
     

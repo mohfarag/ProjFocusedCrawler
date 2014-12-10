@@ -27,7 +27,7 @@ class TFIDF:
     
     # function to build vocabulary (unique words) from corpus
     # and calculate the document frequency and collection freq of each word
-    # docs a list of documents, where each document is a list of tuples (word, freq)
+    # @docs a list of documents, where each document is a list of tuples (word, freq)
     def buildVocab(self,docs):
         self.dictionary = {}
         for doc in docs:
@@ -107,14 +107,14 @@ class TFIDF:
         return
     
     #def buildModel(self,docs):
-    def buildModel(self,seedURLs):
+    def buildModel(self,seedURLs,num):
         docs = downloadRawDocs(seedURLs)
         docs = getTokenizedDocs(docs)
         self.n = len(docs)
         docs_bow = [self.doc2bow(doc) for doc in docs]
         #vocab = self.buildVocab(docs_bow)
         self.buildVocabIndex(docs_bow)
-        selected = self.selectImportantWords_tf(10)
+        selected = self.selectImportantWords_tf(num)
         print selected
         wordsList = self.index.keys()
         selected_words = [wordsList[k[1]] for k in selected]

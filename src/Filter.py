@@ -65,20 +65,27 @@ def downloadRawDocs(fileName):
 #                     titles.append([])
 #             else:
 #                 titles.append([])
+            title = ""
+            if soup.title:
+                if soup.title.string:
+                    title = soup.title.string
             comments = soup.findAll(text=lambda text:isinstance(text,Comment))
             [comment.extract() for comment in comments]
             text_nodes = soup.findAll(text=True)
             visible_text = filter(visible, text_nodes)
             text = ''.join(visible_text)
+            #text = ""
+            text = text + title
+            #print text
             #print line
             #webpage = codecs.open(line, 'r',encoding='utf-8').read()
             #text = nltk.clean_html(webpage)
             docs.append(text)
             myopener.close()
         except Exception:
-            print "Exception, URL couldn't be retrieved" + " : " + line
-            #text = ""
-            #docs.append(text)
+            print "Exception, URL couldn't be retrieved"
+            text = ""
+            docs.append(text)
     f.close()
     return docs
 

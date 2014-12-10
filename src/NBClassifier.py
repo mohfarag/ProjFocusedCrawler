@@ -23,9 +23,9 @@ class NaiveBayesClassifier(object):
         self.trainingDocs = trainingDocs
         self.labels = labels
         
-        self.count_vect = CountVectorizer()
+        self.count_vect = CountVectorizer(stop_words='english')
         X_train_counts = self.count_vect.fit_transform(self.trainingDocs)
-        self.tf_transformer = TfidfTransformer(use_idf=True).fit(X_train_counts)
+        self.tf_transformer = TfidfTransformer(use_idf=True,sublinear_tf=True).fit(X_train_counts)
         X_train_tf = self.tf_transformer.transform(X_train_counts)
         
         self.ch2 = SelectKBest(chi2)

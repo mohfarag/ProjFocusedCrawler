@@ -11,7 +11,7 @@ from nltk import stem
 #import nltk.data
 import ner
 from Filter import getTokenizedDocs, getTokenizedDoc, getSeedURLs
-from zss import simple_distance, Node
+#from zss import simple_distance, Node
 
 class EventModel:
 
@@ -151,10 +151,13 @@ class EventModel:
         #,"fire","gas", "leak"
         #self.entities = {"Disaster":["attack","kill","dead","school"],"LOCATION":["DAMATURU","Yobe","Nigeria"],"DATE":["2014","February","Tuesday"]}
         
-        self.entities = {"Disaster":["blast","explosion","collapse","explode"],"LOCATION":["East Harlem","Park Avenue","Manhattan","New York"],"DATE":["March 12, 2014","Wednesday"]}        
+        # self.entities = {"Disaster":["blast","explosion","collapse","explode"],"LOCATION":["East Harlem","Park Avenue","Manhattan","New York"],"DATE":["March 12, 2014","Wednesday"]}
+               
         #old#self.entities = {"Disaster":["blast","explosion","collapse"],"LOCATION":["East Harlem","Manhattan","New York"],"DATE":["March, 2014","Wednesday"]}
         
         #self.entities = {"Disaster":["landslide","mudslide","slide","Debris"],"LOCATION":["Oso","Washington"],"DATE":["March 22, 2014","Saturday"]}
+        #self.entities = {"Disaster":["shooting","killing","rampage"],"LOCATION":["Isla Vista","Santa Barbara", "California"],"DATE":["May 2014","Friday"]}
+        self.entities = {"Disaster":["Hannah Graham","missing","disappear"],"LOCATION":["charlottesvil", "Virginia"],"DATE":["September","Sept","2014"]}
         
         self.dw = dw
         self.ltw = ltw
@@ -207,7 +210,7 @@ class EventModel:
         java -mx1000m -cp stanford-ner.jar edu.stanford.nlp.ie.NERServer -loadClassifier classifiers/english.muc.7class.distsim.crf.ser.gz -port 8080 -outputFormat inlineXML
         """
         
-        tagger = ner.SocketNER(host='localhost',port=8000)
+        tagger = ner.SocketNER(host='localhost',port=8080)
         #sentence = " I live in Egypt. and it will be the greatest country on Friday Feb 22, 2015"
         #sentence_entities = tagger.get_entities(sentence)
         #print sentence_entities
@@ -234,47 +237,7 @@ class EventModel:
                     entity_names.append((sentence,sentence_entities))    
         return entity_names
     
-    def getEventTree_Separete(self,entities):
-        eventTree = Node("eventRoot")
-        for p in entities:
-            e = p[1]
-            if "Disaster" in e.keys():
-                for k in e.keys():
-                    s = Node(k)
-                    for l in e[k]:
-                        n = Node(l)
-                        s.addkid(n)
-                    eventTree.addkid(s) 
-        return eventTree
     
-    
-    def getEventTree(self,entities):
-        size = 0
-        eventTree = Node("eventRoot")
-        l = Node("Location")
-        d = Node("Date")
-        t = Node("Disaster")
-        eventTree.addkid(l)
-        eventTree.addkid(d)
-        eventTree.addkid(t)
-        for p in entities:
-            e = p[1]
-            if "Disaster" in e.keys():
-                for k in e.keys():
-                    size+= len(e[k])
-                    if k == "LOCATION":
-                        for i in e[k]:
-                            n = Node(i)
-                            l.addkid(n)
-                    elif k == "DATE":
-                        for j in e[k]:
-                            n = Node(j)
-                            d.addkid(n)
-                    else:
-                        for f in e[k]:
-                            n = Node(f)
-                            t.addkid(n) 
-        return eventTree,size
     
     def calculate_similarity(self,doc):
         tokens = getTokenizedDoc(doc)
