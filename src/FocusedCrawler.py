@@ -3,7 +3,7 @@
 from crawler import Crawler
 from priorityQueue import PriorityQueue
 #from NBClassifier import NaiveBayesClassifier
-from Filter import downloadRawDocs, getTokenizedDocs, getSeedURLs
+from Filter import getSeedURLs
 
 #import numpy as np
 #from sklearn import metrics
@@ -12,6 +12,8 @@ from ExtendedPriorityQueue import PubVenPriorityQueue
 from EnhancedCrawler import EnhancedCrawler
 from eventModel import EventModel
 from evaluate import Evaluate
+from eventUtils import train_SaveClassifier, readFileLines
+import os
 #import nltk
 #class FocusedCrawler:
 
@@ -119,11 +121,11 @@ def classifierFC():
 
 
 
-def baseFC(crawlParams,seedsFile,num):
+def baseFC(crawlParams):
 #def baseFC(crawlParams):
-    seedURLs = getSeedURLs(seedsFile)
-    t = [(-1,p,-1,"") for p in seedURLs]
-    priorityQueue = PriorityQueue(t)
+    #seedURLs = getSeedURLs(seedsFile)
+    
+    priorityQueue = PriorityQueue(crawlParams['t'])
     
     crawlParams["priorityQueue"]=priorityQueue
     mytfidf = TFIDF()
@@ -132,7 +134,7 @@ def baseFC(crawlParams,seedsFile,num):
 #     cleandocs = getTokenizedDocs(docs)
 #     mytfidf.buildModel(cleandocs)
     #seedURLs = crawlParams['seeds']
-    mytfidf.buildModel(seedsFile,num)
+    mytfidf.buildModel(crawlParams['seedURLs'],crawlParams['No_Keywords'])
     crawlParams['scorer']=mytfidf
     
     #crawler = Crawler(priorityQueue,scorer,options)
@@ -141,18 +143,18 @@ def baseFC(crawlParams,seedsFile,num):
     
     print crawler.relevantPagesCount
     print crawler.pagesCount
-    
+    '''
     f = open("base-harverstRatioData.txt","w")
     for r,p in crawler.harvestRatioData:
         f.write(str(r) + "," + str(p) + "\n")
     f.close()
-    
+    '''
     f = open("base-logData.txt","w")
     furl = open("base-Output-URLs.txt","w")
     for p in crawler.relevantPages:
         f.write(str(p.pageId) + "," + str(p.pageUrl[2]) + "\n")
         furl.write(p.pageUrl[1]+"\n")
-        ftext = open("webpages/"+str(p.pageId) + ".txt", "w")
+        ftext = open("base-webpages/"+str(p.pageId) + ".txt", "w")
         ftext.write(p.text.encode("utf-8"))
         ftext.close()
     f.close()
@@ -160,17 +162,17 @@ def baseFC(crawlParams,seedsFile,num):
     return crawler.pages
     #return crawler.relevantPages
 
-def eventFC(crawlParams, seedsFile):
-    seedURLs = getSeedURLs(seedsFile)
+def eventFC(crawlParams, seedURLs):
+    
     #crawlParams["seeds"] = seedURLs
-    t = [(-3,p,-1,"") for p in seedURLs]
-    priorityQueue = PriorityQueue(t)
+    
+    priorityQueue = PriorityQueue(crawlParams['t'])
     
     crawlParams["priorityQueue"]=priorityQueue
     
     eventModel = EventModel()
-    #seedURLs = crawlParams['seeds']
-    eventModel.buildEventModel(seedURLs)
+    eventModel.buildEventModel(crawlParams['seedURLs'],crawlParams['No_Keywords'])
+    
     crawlParams['scorer']=eventModel
     crawler = Crawler(crawlParams)
     crawler.crawl()
@@ -187,7 +189,7 @@ def eventFC(crawlParams, seedsFile):
     for p in crawler.relevantPages:
         f.write(str(p.pageId) + "," + str(p.pageUrl[2]) + "\n")
         furl.write(p.pageUrl[1]+"\n")
-        ftext = open("webpages/"+str(p.pageId) + ".txt", "w")
+        ftext = open("event-webpages/"+str(p.pageId) + ".txt", "w")
         ftext.write(p.text.encode("utf-8"))
         ftext.close()
     f.close()
@@ -232,14 +234,16 @@ def writeEvaluation(res,filename):
         f.write(str(rel) + "," + str(tot) + "\n")
     f.close()
 
-def startCrawl(seedsFile,posFile,negFile):
+def startCrawl(seedsFile,evaluator):
 #     seedURLs = getSeedURLs(seedsFile)
 #     t = [(-1,p,-1,"") for p in seedURLs]
 #     priorityQueue = PriorityQueue(t)
+
     switchFC = 1
     #number of keywords to represent event/topic
     num = 20
-    pagesLimit = 500
+    pagesLimit = 100
+    
     #pageScoreThreshold =0.176  for UCSB shooting base
     
     #pageScoreThreshold =0.17 # for NY base
@@ -247,37 +251,53 @@ def startCrawl(seedsFile,posFile,negFile):
     
     pageScoreThreshold =0.7 #for UCSB shooting #0.5  for NY event
     #pageScoreThreshold = 0.39 #for WA mudslide event
-    urlScoreThreshold = 0.1
+    urlScoreThreshold = 0
     #mode = 0 # no URL scoring
     mode = 1 # URL scoring
     #crawlParams = {"num_pages": pagesLimit,"pageScoreThreshold":pageScoreThreshold,"urlScoreThreshold":urlScoreThreshold , "seeds":seedURLs, "priorityQueue":priorityQueue}
     crawlParams = {"num_pages": pagesLimit,"pageScoreThreshold":pageScoreThreshold,"urlScoreThreshold":urlScoreThreshold ,"mode":mode}
+    crawlParams['No_Keywords']=num
+    seedURLs = getSeedURLs(seedsFile)
+    crawlParams['seedURLs'] = seedURLs
+    
+    #if switchFC == 1:
+    t = [(-1,p,-1,"") for p in seedURLs]
+    crawlParams['t'] = t
+    
+    baseRelevantPages =baseFC(crawlParams)
+    
+    bres = evaluator.evaluateFC(baseRelevantPages)
+    writeEvaluation(bres,"base-evaluateData.txt")    
+    print sum(bres)
+    print len(bres)
+    
+    #else:
+    t = [(-3,p,-1,"") for p in seedURLs]
+    crawlParams['t'] = t
+    
+    eventRelevantPages = eventFC(crawlParams)   
+    
+    eres = evaluator.evaluateFC(eventRelevantPages)
+    writeEvaluation(eres,"event-evaluateData.txt")    
+    print sum(eres)
+    print len(eres)
 
-    #evaluator = Evaluate(posFile, negFile)
-    
-    if switchFC == 1:
-        baseRelevantPages =baseFC(crawlParams,seedsFile,num)
-        
-        #bres = evaluator.evaluateFC(baseRelevantPages)
-        #writeEvaluation(bres,"base-evaluateData.txt")    
-        #print sum(bres)
-        #print len(bres)
-    else:
-    
-        eventRelevantPages = eventFC(crawlParams,seedsFile)   
-        #eres = evaluator.evaluateFC(eventRelevantPages)
-        #writeEvaluation(eres,"event-evaluateData.txt")    
-        #print sum(eres)
-        #print len(eres)
-    
-    
-    
-    
+
 
 if __name__ == "__main__":
-    #inputFile = sys.argv[1]
-    inputFile = "seedURLs.txt"
-    posFile = "pos.txt"
-    negFile = "neg.txt"
-    startCrawl(inputFile,posFile,negFile)
+    
+    seedsFiles=['seeds_459.txt','seeds_474.txt','seeds_478.txt']
+    posFiles = ['pos-FSU.txt','pos-Hagupit.txt','pos-LAFire.txt']
+    negFolder = 'neg'
+    
+    i=0
+    posFile = posFiles[i]
+    classifierFileName = 'classifier'+posFile.split(".")[0].split('-')[1]+".p"
+    evaluator = Evaluate()
+    evaluator.buildClassifiers(posFile,negFolder,classifierFileName)
+    
+    v=0
+    inputFile = seedsFiles[i].split('.')[0]+"_"+v+".txt"
+    
+    startCrawl(inputFile,evaluator)
     

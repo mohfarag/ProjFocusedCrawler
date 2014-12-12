@@ -7,7 +7,8 @@ import math
 from nltk.stem.porter import PorterStemmer
 from nltk.tokenize.regexp import WordPunctTokenizer
 from nltk.corpus import stopwords
-from Filter import downloadRawDocs, getTokenizedDocs, getSeedURLs
+from Filter import getTokenizedDocs
+from eventUtils import getWebpageText
 class TFIDF:
     
     def bm25(self,idf, tf, dl, avgdl, B, K1):
@@ -108,7 +109,10 @@ class TFIDF:
     
     #def buildModel(self,docs):
     def buildModel(self,seedURLs,num):
-        docs = downloadRawDocs(seedURLs)
+        #docs = downloadRawDocs(seedURLs)
+        td = getWebpageText(seedURLs)
+        docs = [t['text'] + " "+ t['title'] for t in td]
+        
         docs = getTokenizedDocs(docs)
         self.n = len(docs)
         docs_bow = [self.doc2bow(doc) for doc in docs]

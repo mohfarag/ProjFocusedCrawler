@@ -10,7 +10,9 @@ import nltk
 from nltk import stem
 #import nltk.data
 import ner
-from Filter import getTokenizedDocs, getTokenizedDoc, getSeedURLs
+from collection import Collection
+from eventUtils import getEventModelInsts
+from Filter import getTokenizedDoc
 #from zss import simple_distance, Node
 
 class EventModel:
@@ -66,87 +68,41 @@ class EventModel:
         lmtzr = WordNetLemmatizer()
         lematized = lmtzr.lemmatize(word)
         return lematized
-    """
-    def main_old():
-        disasters=["earthquake","fire","floods","typhoon","tornado","cyclone","hurricane","shooting","bombing","blast"]
-        disasters = [stemWord(d) for d in disasters]
-        #disasters = [lemmatize(d) for d in disasters]
-        all_text = getTextFromWebpage("http://www.reuters.com/article/2013/12/30/us-russia-blast-trolley-idUSBRE9BT03N20131230")
-        text = all_text.split("\n")
-        text = [elem for elem in text if len(elem)>2]
-        sentences = []
+    
+    
+    def buildEventModel(self,seedURLs,topK=10,intersectionTh=1):
+        corpus = Collection(seedURLs)
+        #sortedTokensFreqs = corpus.getWordsFrequencies()
+        sortedToksTFDF = corpus.getIndicativeWords()
+        print sortedToksTFDF
+        sortedImptSents = corpus.getIndicativeSentences(topK,intersectionTh)
+        # Get Event Model
+        eventModelInstances = getEventModelInsts(sortedImptSents)
+        self.entities['Disaster'] = sortedToksTFDF[:topK]
+        for e in eventModelInstances:
+            if 'LOCATION' in e:
+                self.entities['LOCATION'].extend( e['LOCATION'])
+            elif 'DATE' in e:
+                self.entities['DATE'].extend( e['DATE'])
         
-        #tokenizer = nltk.data.load('tokenizers/punkt/english.pickle')
+        entityList = []
+        self.entitiesSet = {}
+        if self.entities.has_key("Disaster"):
+            for k in self.entities:
+                entityList.extend( self.entities[k])
+                entityL = self.entities[k]
+                ltext = " ".join(entityL)
+                tokens = getTokenizedDoc(ltext)
+                locs = set(tokens)
+                self.entitiesSet[k] = [i for i in locs]
+                self.entities[k] = [i for i in locs]
         
-        for elem in text:
-            #sentences.extend(tokenizer.tokenize(elem))
-            sentences.extend(nltk.sent_tokenize(elem))
-        #sentences = tokenizer.tokenize(all_text.strip())
         
-        entity_names = []    
-        
-        #Run the Stanford NER in server mode using the following command:
-        #java -mx1000m -cp stanford-ner.jar edu.stanford.nlp.ie.NERServer -loadClassifier classifiers/english.muc.7class.distsim.crf.ser.gz -port 8080 -outputFormat inlineXML
-        
-        
-        tagger = ner.SocketNER(host='localhost',port=8080)
-        for sentence in sentences:
-            sentence_entities = tagger.get_entities(sentence)
-            if sentence_entities:
-                words = nltk.word_tokenize(sentence)
-                if len(words) > 1:
-                    names = [n[0] for n in nltk.pos_tag(words) if n[1].startswith('N')]
-                    for n in names:
-                        if stemWord(n) in disasters:
-                        #if lemmatize(n) in disasters:
-                            if sentence_entities.has_key('Disaster'):
-                                sentence_entities["Disaster"].append(n)
-                            else:
-                                sentence_entities["Disaster"] = [n]
-                    print (sentence,sentence_entities)
-                    #print sentence_entities
-                    entity_names.append(sentence_entities)
-    """
-#     def buildEventModel(self,urls=[]):
-#         eventText = ""
-#         for url in urls:
-#             text = self.getTextFromWebpage(url)
-#             eventText = eventText + "\n" + text
-#         eventEntities = self.webpageEntities(eventText)
-#         self.entities = {"Disaster":[],"LOCATION":[],"DATE":[]}
-#         entityList = []
-#         for sent in eventEntities:
-#             dictval = sent[1]
-#             if dictval.has_key("Disaster"):
-#                 for k in dictval:
-#                     #entityList.extend(dictval[k])
-#                     if k in ["LOCATION","Disaster","DATE"]:
-#                         if self.entities.has_key(k):
-#                             self.entities[k].extend(dictval[k])
-#                         else:
-#                             self.entities[k] = []
-#                             self.entities[k].extend(dictval[k])
-#         
-#         for k in self.entities:            
-#             tempSet = set(self.entities[k])
-#             tempList = [i for i in tempSet]
-#             self.entities[k] = [i for i in tempList]            
-#             entityList.extend(tempList)                        
-#         #self.eventTreeModel,self.modelSize = self.getEventTree(self.eventEntities)
-#         self.eventTreeModel,size = self.getEventTree([("",self.entities)])
-#         self.modelSize = size
-#         
-# #         entityList = []
-# #         for entity in self.eventEntities:
-# #             val = entity[1]
-# #             if val.has_key("Disaster"):
-# #                 for k in val:
-# #                     entityList.extend(val[k])
-#         text = " ".join(entityList)
-#         tokens = getTokenizedDoc(text)
-#         self.entity_set = set(tokens)
-#         print self.entity_set        
+        self.entity_set = set(entityList)
+        #self.entity_set = set(tokens)
+        print self.entity_set
 
+    '''
     def buildEventModel(self,urls=[],dw = 0.6, ltw =0.2):
         #,"fire","gas", "leak"
         #self.entities = {"Disaster":["attack","kill","dead","school"],"LOCATION":["DAMATURU","Yobe","Nigeria"],"DATE":["2014","February","Tuesday"]}
@@ -187,6 +143,7 @@ class EventModel:
         print self.entity_set        
         #print self.entities
         #return eventTreeModel
+    '''
     
     def webpageEntities(self,docText=""):
         #disasters=["attack","kill"]

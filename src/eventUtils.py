@@ -31,9 +31,9 @@ stopwordsList = stopwords.words('english')
 stopwordsList.extend(["news","people","said","comment","comments","share","email","new","would","one","world"])
 
 
-def train_SaveClassifier(posURLsFile,negURLsFile,classifierFileName):
-    posURLs = readFileLines(posURLsFile)
-    negURLs = readFileLines(negURLsFile)
+def train_SaveClassifier(posURLs,negURLs,classifierFileName):
+    #posURLs = readFileLines(posURLsFile)
+    #negURLs = readFileLines(negURLsFile)
     
     posDocs = getWebpageText(posURLs)
     negDocs = getWebpageText(negURLs)
