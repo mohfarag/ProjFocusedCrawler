@@ -22,6 +22,7 @@ from sklearn import metrics
 import ner
 from gensim import corpora, models
 import pickle
+from generateEventModel import sortedImptSents
 
 #corpusTokens = []
 #docsTokens = []
@@ -344,12 +345,15 @@ def getIndicativeSents(texts,sortedToksTFDF,topK,intersectionTh):
 	return sortedImptSents
 
 def getEventModelInsts(sortedImptSents):
-		
-	eventModelInstances = []
-	for sent in sortedImptSents:
-		sentEnts = getEntities(sent[0])[0]
-		eventModelInstances.append(sentEnts)
-	return eventModelInstances
+    '''    
+    eventModelInstances = []
+    for sent in sortedImptSents:
+        sentEnts = getEntities(sent[0])[0]
+        eventModelInstances.append(sentEnts)
+    '''
+    imptSents = [s[0] for s in sortedImptSents]
+    eventModelInstances = getEntities(imptSents)
+    return eventModelInstances
 
 '''
 def getTokensTFDF(texts):

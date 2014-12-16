@@ -11,7 +11,7 @@ from nltk import stem
 #import nltk.data
 import ner
 from collection import Collection
-from eventUtils import getEventModelInsts
+from eventUtils import getEventModelInsts, getSentences, getEntities, getTokens, getIntersection
 from Filter import getTokenizedDoc
 #from zss import simple_distance, Node
 
@@ -69,39 +69,63 @@ class EventModel:
         lematized = lmtzr.lemmatize(word)
         return lematized
     
+    def __init__(self,topK=10,th=1):
+        self.entities = {}
+        self.topK=topK
+        self.intersectionTh=th
+        
+    def getUniqueEntities(self,entityList):
+        el = [e.lower() for e in entityList]
+        
+        entitiesWords = []
+        for w in el:
+            p = w.split()
+            if len(p)>1:
+                entitiesWords.extend(p)
+            else:
+                entitiesWords.append(w)
+        s = set(entitiesWords)
+        return s
     
-    def buildEventModel(self,seedURLs,topK=10,intersectionTh=1):
+    
+    def buildEventModel(self,seedURLs):
+        
         corpus = Collection(seedURLs)
         #sortedTokensFreqs = corpus.getWordsFrequencies()
         sortedToksTFDF = corpus.getIndicativeWords()
         print sortedToksTFDF
-        sortedImptSents = corpus.getIndicativeSentences(topK,intersectionTh)
+        sortedImptSents = corpus.getIndicativeSentences(self.topK,self.intersectionTh)
         # Get Event Model
         eventModelInstances = getEventModelInsts(sortedImptSents)
-        self.entities['Disaster'] = sortedToksTFDF[:topK]
+        self.entities['Disaster'] = sortedToksTFDF[:self.topK]
+        self.entities['LOCATION']= []
+        self.entities['DATE'] = []
         for e in eventModelInstances:
             if 'LOCATION' in e:
                 self.entities['LOCATION'].extend( e['LOCATION'])
             elif 'DATE' in e:
                 self.entities['DATE'].extend( e['DATE'])
         
-        entityList = []
-        self.entitiesSet = {}
-        if self.entities.has_key("Disaster"):
-            for k in self.entities:
-                entityList.extend( self.entities[k])
-                entityL = self.entities[k]
-                ltext = " ".join(entityL)
-                tokens = getTokenizedDoc(ltext)
-                locs = set(tokens)
-                self.entitiesSet[k] = [i for i in locs]
-                self.entities[k] = [i for i in locs]
+        '''
+        locList = self.entities['LOCATION']
+        locSet = set(locList)
+        self.entities['LOCATION'] = [l for l in locSet]
+        '''
+        self.entities['LOCATION'] = self.getUniqueEntities(self.entities['LOCATION'])
         
+        '''
+        dateList = self.entities['DATE']
+        dateSet = set(dateList)
+        self.entities['DATE'] = [d for d in dateSet]
+        '''
+        self.entities['DATE'] = self.getUniqueEntities(self.entities['DATE']) 
         
-        self.entity_set = set(entityList)
-        #self.entity_set = set(tokens)
-        print self.entity_set
-
+        self.allEntities = []
+        for k in self.entities:
+            self.allEntities.extend(self.entities[k]) 
+            
+        print self.allEntities
+               
     '''
     def buildEventModel(self,urls=[],dw = 0.6, ltw =0.2):
         #,"fire","gas", "leak"
@@ -146,53 +170,26 @@ class EventModel:
     '''
     
     def webpageEntities(self,docText=""):
-        #disasters=["attack","kill"]
         disasters=self.entities["Disaster"]
-        #disasters = [self.stemWord(d) for d in disasters]
         
-        text = docText.split("\n")
-        text = [elem for elem in text if len(elem)>2]
-        sentences = []
+        sentences = getSentences(docText)
+        #impSentences = getIndicativeSents(sentences, disasters, len(disasters), 0)
+        #impSentences = []
+        webpageEnts =[]
+        for sent in sentences:
+            sentToks = getTokens(sent)
+            if len(sentToks) > 100:
+                continue
+            intersect = getIntersection(disasters, sentToks)
+            if len(intersect) > self.intersectionTh:
+                #impSentences.append(sent)
+                sentEnts = getEntities(sent)[0]
+                sentEnts['Disaster'] = intersect
+                webpageEnts.append(sent,sentEnts)
+        #entities = getEntities(impSentences)
+        #webpageEnts = zip(impSentences,entities)
         
-        #tokenizer = nltk.data.load('tokenizers/punkt/english.pickle')
-        
-        for elem in text:
-            #sentences.extend(tokenizer.tokenize(elem))
-            sentences.extend(nltk.sent_tokenize(elem))
-        #sentences = tokenizer.tokenize(all_text.strip())
-        
-        entity_names = []    
-        """
-        Run the Stanford NER in server mode using the following command:
-        java -mx1000m -cp stanford-ner.jar edu.stanford.nlp.ie.NERServer -loadClassifier classifiers/english.muc.7class.distsim.crf.ser.gz -port 8080 -outputFormat inlineXML
-        """
-        
-        tagger = ner.SocketNER(host='localhost',port=8080)
-        #sentence = " I live in Egypt. and it will be the greatest country on Friday Feb 22, 2015"
-        #sentence_entities = tagger.get_entities(sentence)
-        #print sentence_entities
-        
-        for sentence in sentences:
-            sentence_entities = tagger.get_entities(sentence)
-            if sentence_entities:
-                #words = nltk.word_tokenize(sentence)
-                words = getTokenizedDoc(sentence)
-                if len(words) > 1:
-                    #names = [n[0] for n in nltk.pos_tag(words) if n[1].startswith('N')]                    
-                    #for n in names:
-                    for n in words:
-                        #if self.stemWord(n) in disasters:
-                        if n in disasters:
-                        #if lemmatize(n) in disasters:
-                            if sentence_entities.has_key('Disaster'):
-                                #sentence_entities["Disaster"].append(self.stemWord(n))
-                                sentence_entities["Disaster"].append(n)
-                            else:
-                                sentence_entities["Disaster"] = [n]
-                    #print (sentence,sentence_entities)
-                    #print sentence_entities
-                    entity_names.append((sentence,sentence_entities))    
-        return entity_names
+        return webpageEnts
     
     
     
@@ -222,11 +219,32 @@ class EventModel:
         #score = intersect * 1.0 /len(self.entity_set)       
         return score
     
+    def extractWebpageEventModel(self, text):
+        webpageEventModel = {}
+        entities = self.webpageEntities(text)
+        if len(entities) > 1:
+            for sent in entities:
+                dictval = sent[1]
+                if dictval.has_key("Disaster"):
+                    
+                    for k in dictval:
+                        if k in ["LOCATION","Disaster","DATE"]:
+                            if webpageEventModel.has_key(k):
+                                webpageEventModel[k].extend(dictval[k])
+                            else:
+                                webpageEventModel[k] = []
+                                webpageEventModel[k].extend(dictval[k])
+            for k in webpageEventModel:
+                webpageEventModel[k] = self.getUniqueEntities(webpageEventModel[k])
+            
+        return webpageEventModel
+    '''
     def calculate_score(self,doc=""):
         entities = self.webpageEntities(doc)       
         if len(entities) > 1:
         #if entities.has_key("Disaster"):
-            uentities = {"Disaster":[],"LOCATION":[],"DATE":[]}
+            #uentities = {"Disaster":[],"LOCATION":[],"DATE":[]}
+            uentities = {}
             empty = True
             #entityList = []
             for sent in entities:
@@ -243,17 +261,13 @@ class EventModel:
                                 uentities[k].extend(dictval[k])
             if empty:
                 return self.calculate_similarity(doc)
-    #             for k in uentities:            
-    #                 tempSet = set(uentities[k])
-    #                 #tempList = [i for i in tempSet]
-    #                 uentities[k] = [i for i in tempSet]
+            
             webpageEntities = [] 
             webpageSets = {}   
-            for k in uentities:
-                   
+            #Fix this by doing it as in buildEventModel
+            for k in uentities:    
                 temp = uentities[k]
                 ltext = " ".join(temp)
-                
                 if k != "Disaster":
                     tokens = getTokenizedDoc(ltext)              
                 else:
@@ -261,26 +275,29 @@ class EventModel:
                 webpageEntities.extend(tokens)   
                 locs = set(tokens)
                 webpageSets[k] = set(tokens)
-                    #tempList = [i for i in tempSet]
                 uentities[k] = [i for i in locs]
+                
             scores = []
             for k in webpageSets:
                 intersect = len(webpageSets[k] & self.entitiesSet[k])
-                #print intersect
                 score = intersect * 1.0 / len(self.entitiesSet[k])
-#                 if k == "Disaster":
-#                     score = score * self.dw
-#                 else:
-#                     score = score * self.ltw
                 scores.append(score)
-                #print webpageSets[k]
-            #print scores
-            
-            #score = sum(scores) / 3.0
             score = sum(scores)
-            #print score
-            #if score > 1.0:
-            #    score = 1.0
+        else:
+            score = self.calculate_similarity(doc)
+        return score
+    '''
+    
+    
+    def calculate_score(self,doc=""):
+        uentities = self.extractWebpageEventModel(doc)
+        if uentities and uentities.has_key('Disaster'):
+            scores = []
+            for k in uentities:
+                intersect = len(uentities[k] & self.entities[k])
+                score = intersect * 1.0 / len(self.entities[k])
+                scores.append(score)
+            score = sum(scores)
         else:
             score = self.calculate_similarity(doc)
         return score

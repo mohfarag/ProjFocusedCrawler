@@ -162,7 +162,7 @@ def baseFC(crawlParams):
     return crawler.pages
     #return crawler.relevantPages
 
-def eventFC(crawlParams, seedURLs):
+def eventFC(crawlParams):
     
     #crawlParams["seeds"] = seedURLs
     
@@ -170,8 +170,11 @@ def eventFC(crawlParams, seedURLs):
     
     crawlParams["priorityQueue"]=priorityQueue
     
-    eventModel = EventModel()
-    eventModel.buildEventModel(crawlParams['seedURLs'],crawlParams['No_Keywords'])
+    #eventModel = EventModel()
+    #eventModel.buildEventModel(crawlParams['seedURLs'],crawlParams['No_Keywords'])
+    eventModel = EventModel(crawlParams['No_Keywords'])
+    eventModel.buildEventModel(crawlParams['seedURLs'])
+    
     
     crawlParams['scorer']=eventModel
     crawler = Crawler(crawlParams)
@@ -290,14 +293,17 @@ if __name__ == "__main__":
     posFiles = ['pos-FSU.txt','pos-Hagupit.txt','pos-LAFire.txt']
     negFolder = 'neg'
     
-    i=0
-    posFile = posFiles[i]
-    classifierFileName = 'classifier'+posFile.split(".")[0].split('-')[1]+".p"
+    #i=0
     evaluator = Evaluate()
-    evaluator.buildClassifiers(posFile,negFolder,classifierFileName)
+    for i in range(3):
+        posFile = posFiles[i]
+        classifierFileName = 'classifier'+posFile.split(".")[0].split('-')[1]+".p"
+        
+        evaluator.buildClassifiers(posFile,negFolder,classifierFileName)
     
+    '''
     v=0
     inputFile = seedsFiles[i].split('.')[0]+"_"+v+".txt"
     
     startCrawl(inputFile,evaluator)
-    
+    '''
