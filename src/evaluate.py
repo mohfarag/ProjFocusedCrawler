@@ -41,17 +41,19 @@ class Evaluate(object):
         posURLs = readFileLines(posFile)
         posLen = len(posURLs)
         negFiles = os.listdir(negFolder)
-        negFiles = [os.path.join(negFolder,f) for f in negFiles ]
+        negFiles = [os.path.join(negFolder,f) for f in negFiles if f.endswith(".txt")]
+        #print negFiles
         negFilesURLs = [readFileLines(f) for f in negFiles]
         
         num = posLen/len(negFiles)
         negURLs = []
         for nfu in negFilesURLs:
+            #print len(nfu)
             if num < len(nfu):
                 negURLs.extend(nfu[:num] )
             else:
                 negURLs.extend(nfu )
-        
+        #print len(negURLs)
         self.classifier = train_SaveClassifier(posURLs, negURLs, classifierFileName)
         #return cls
 

@@ -299,7 +299,7 @@ if __name__ == "__main__":
         posFile = posFiles[i]
         classifierFileName = 'classifier'+posFile.split(".")[0].split('-')[1]+".p"
         
-        evaluator.buildClassifiers(posFile,negFolder,classifierFileName)
+        evaluator.buildClassifier(posFile,negFolder,classifierFileName)
     
     '''
     v=0

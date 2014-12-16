@@ -22,7 +22,6 @@ from sklearn import metrics
 import ner
 from gensim import corpora, models
 import pickle
-from generateEventModel import sortedImptSents
 
 #corpusTokens = []
 #docsTokens = []
@@ -37,10 +36,14 @@ def train_SaveClassifier(posURLs,negURLs,classifierFileName):
     #negURLs = readFileLines(negURLsFile)
     
     posDocs = getWebpageText(posURLs)
+    posDocs = [d['title'] + " " + d['text'] for d in posDocs if d]
     negDocs = getWebpageText(negURLs)
+    negDocs = [d['title'] + " " + d['text'] for d in negDocs if d]
      
     posLen = len(posDocs)
+    print posLen
     negLen = len(negDocs)
+    print negLen
     posLabels = [1]* posLen
     negLabels = [0]*negLen 
     
@@ -294,7 +297,7 @@ def getWebpageText(URLs = []):
             #text = extractMainArticle(page)
             text = extractTextFromHTML(page)
         except:
-            #print sys.exc_info()
+            print sys.exc_info()
             #text = ""
             text = {}
         webpagesText.append(text)
