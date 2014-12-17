@@ -22,6 +22,7 @@ from sklearn import metrics
 import ner
 from gensim import corpora, models
 import pickle
+import random
 
 #corpusTokens = []
 #docsTokens = []
@@ -30,16 +31,103 @@ import pickle
 stopwordsList = stopwords.words('english')
 stopwordsList.extend(["news","people","said","comment","comments","share","email","new","would","one","world"])
 
-
+'''
 def train_SaveClassifier(posURLs,negURLs,classifierFileName):
     #posURLs = readFileLines(posURLsFile)
     #negURLs = readFileLines(negURLsFile)
     
+    #random.shuffle(negURLs)
+    
     posDocs = getWebpageText(posURLs)
     posDocs = [d['title'] + " " + d['text'] for d in posDocs if d]
+    
+    #negURLsList = []
+    negDocsList = []
+    for n in negURLs:
+        negDocsList.append(getWebpageText(n))
+    #negDocs = getWebpageText(negURLs)
+    #negDocs = getWebpageText(negURLsList)
+    
+    negTraining = []
+    negTesting =[]
+    for nu in negDocsList:
+        ns = int(len(nu)*0.7)
+        negTraining.extend(nu[:ns])
+        negTesting.extend(nu[ns:])
+    #print len(negTraining)
+    #print len(negTesting)
+    negTraining = [d['title'] + " " + d['text'] for d in negTraining if d]
+    negTesting = [d['title'] + " " + d['text'] for d in negTesting if d]
+    
+    posLen = len(posDocs)
+    print posLen
+    negLen = len(negTraining) + len(negTesting)
+    print negLen
+    posLabels = [1]* posLen
+    #negLabels = [0]*negLen 
+    
+    posSep = int(posLen*0.7)
+    
+    #negSep = int(negLen*0.7)
+    
+    
+    
+    trainingDocs = posDocs[:posSep] + negTraining
+    #trainingLabels = posLabels[:posSep] + negLabels[:negSep]
+    trainingLabels = posLabels[:posSep] + [0]*len(negTraining)
+    trainingSet = zip(trainingDocs,trainingLabels)
+    random.shuffle(trainingSet)
+    
+    testDocs = posDocs[posSep:] + negTesting
+    #test_labels=posLabels[posSep:] + negLabels[negSep:]
+    test_labels=posLabels[posSep:] + [0]*len(negTesting)
+    
+    testSet = zip(testDocs,test_labels)
+    random.shuffle(testSet)
+    
+    
+    #trainingDocs = posDocs[:posSep] + negDocs[:negSep]
+    
+    #trainingLabels = posLabels[:posSep] + negLabels[:negSep]
+    
+    #testDocs = posDocs[posSep:] + negDocs[negSep:]
+    #test_labels=posLabels[posSep:] + negLabels[negSep:]
+    
+    classifier = NaiveBayesClassifier()
+    
+    
+    
+    trainingLabels = [v for _,v in trainingSet]
+    trainingDocs = [k for k,_ in trainingSet]
+    
+    trainingLabelsArr = np.array(trainingLabels)
+    classifier.trainClassifier(trainingDocs,trainingLabelsArr)
+    
+    print classifier.score(trainingDocs, trainingLabelsArr)
+    print metrics.classification_report(trainingLabelsArr, classifier.predicted)
+    
+    test_labels = [v for _,v in testSet]
+    testDocs = [v for v,_ in testSet]
+    
+    test_labelsArr = np.array(test_labels)
+    print classifier.score(testDocs, test_labelsArr)
+    
+    
+    print metrics.classification_report(test_labelsArr, classifier.predicted)
+    classifierFile = open(classifierFileName,"wb")
+    pickle.dump(classifier,classifierFile)
+    classifierFile.close()
+    return classifier
+'''
+
+def train_SaveClassifier(posURLs,negURLs,classifierFileName):
+        
+    posDocs = getWebpageText(posURLs)
+    posDocs = [d['title'] + " " + d['text'] for d in posDocs if d]
+    
     negDocs = getWebpageText(negURLs)
     negDocs = [d['title'] + " " + d['text'] for d in negDocs if d]
-     
+    
     posLen = len(posDocs)
     print posLen
     negLen = len(negDocs)
@@ -47,33 +135,41 @@ def train_SaveClassifier(posURLs,negURLs,classifierFileName):
     posLabels = [1]* posLen
     negLabels = [0]*negLen 
     
-    posSep = int(posLen*0.7)
-    negSep = int(negLen*0.7)
     
-    trainingDocs = posDocs[:posSep] + negDocs[:negSep]
     
-    trainingLabels = posLabels[:posSep] + negLabels[:negSep]
+    dataSetDocs = posDocs + negDocs
+    dataSetLabels = posLabels + negLabels
     
-    testDocs = posDocs[posSep:] + negDocs[negSep:]
-    test_labels=posLabels[posSep:] + negLabels[negSep:]
+    dataDocLabels = zip(dataSetDocs,dataSetLabels)
+    random.shuffle(dataDocLabels)
+    
+    sep = int(0.7*len(dataDocLabels))
+    trainingDocLabels = dataDocLabels[:sep]
+    testDocLabels = dataDocLabels[sep:]
+    
+    trainingLabels = [v for _,v in trainingDocLabels]
+    trainingDocs = [k for k,_ in trainingDocLabels]
+    
+    testDocs = [d for d,_ in testDocLabels]
+    test_labels=[l for _,l in testDocLabels]
     
     classifier = NaiveBayesClassifier()
-    
-    #trainingLabelsArr = np.array(labels)
-    #classifier.trainClassifier(docs,trainingLabelsArr)
     
     trainingLabelsArr = np.array(trainingLabels)
     classifier.trainClassifier(trainingDocs,trainingLabelsArr)
     
+    print classifier.score(trainingDocs, trainingLabelsArr)
+    print metrics.classification_report(trainingLabelsArr, classifier.predicted)
+       
     test_labelsArr = np.array(test_labels)
     print classifier.score(testDocs, test_labelsArr)
+    
     
     print metrics.classification_report(test_labelsArr, classifier.predicted)
     classifierFile = open(classifierFileName,"wb")
     pickle.dump(classifier,classifierFile)
     classifierFile.close()
     return classifier
-
 
 def getEntities(texts):
         

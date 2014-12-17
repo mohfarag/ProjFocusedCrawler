@@ -45,14 +45,16 @@ class Evaluate(object):
         #print negFiles
         negFilesURLs = [readFileLines(f) for f in negFiles]
         
-        num = posLen/len(negFiles)
+        num = 5#posLen/len(negFiles)
         negURLs = []
         for nfu in negFilesURLs:
             #print len(nfu)
             if num < len(nfu):
                 negURLs.extend(nfu[:num] )
+                #negURLs.append(nfu[:num] )
             else:
                 negURLs.extend(nfu )
+                #negURLs.append(nfu )
         #print len(negURLs)
         self.classifier = train_SaveClassifier(posURLs, negURLs, classifierFileName)
         #return cls

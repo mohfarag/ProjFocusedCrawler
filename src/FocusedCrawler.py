@@ -295,12 +295,13 @@ if __name__ == "__main__":
     
     #i=0
     evaluator = Evaluate()
-    for i in range(3):
-        posFile = posFiles[i]
-        classifierFileName = 'classifier'+posFile.split(".")[0].split('-')[1]+".p"
-        
-        evaluator.buildClassifier(posFile,negFolder,classifierFileName)
+    #for i in range(3):
+    i=0
+    posFile = posFiles[i]
+    classifierFileName = 'classifier'+posFile.split(".")[0].split('-')[1]+".p"
     
+    evaluator.buildClassifier(posFile,negFolder,classifierFileName)
+
     '''
     v=0
     inputFile = seedsFiles[i].split('.')[0]+"_"+v+".txt"
