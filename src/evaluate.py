@@ -45,7 +45,7 @@ class Evaluate(object):
         #print negFiles
         negFilesURLs = [readFileLines(f) for f in negFiles]
         
-        num = 5#posLen/len(negFiles)
+        num = posLen/len(negFiles)
         negURLs = []
         for nfu in negFilesURLs:
             #print len(nfu)
