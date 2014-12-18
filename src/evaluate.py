@@ -10,8 +10,9 @@ import numpy as np
 from sklearn import metrics
 from Filter import downloadRawDocs
 '''
-from eventUtils import train_SaveClassifier,readFileLines
+from eventUtils import train_SaveClassifierRandom, train_SaveClassifier, readFileLines
 import os
+import math
 #import pickle
 class Evaluate(object):
     '''
@@ -45,17 +46,18 @@ class Evaluate(object):
         #print negFiles
         negFilesURLs = [readFileLines(f) for f in negFiles]
         
-        num = posLen/len(negFiles)
+        num = int(round(1.0* posLen/len(negFiles)))
         negURLs = []
         for nfu in negFilesURLs:
             #print len(nfu)
             if num < len(nfu):
-                negURLs.extend(nfu[:num] )
-                #negURLs.append(nfu[:num] )
+                #negURLs.extend(nfu[:num] )
+                negURLs.append(nfu[:num] )
             else:
-                negURLs.extend(nfu )
-                #negURLs.append(nfu )
+                #negURLs.extend(nfu )
+                negURLs.append(nfu )
         #print len(negURLs)
+        #self.classifier = train_SaveClassifierRandom(posURLs, negURLs, classifierFileName)
         self.classifier = train_SaveClassifier(posURLs, negURLs, classifierFileName)
         #return cls
 

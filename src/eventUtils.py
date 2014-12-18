@@ -17,6 +17,7 @@ from hanzo.warctools import ArchiveRecord, WarcRecord
 from warcunpack_ia import *
 import logging
 from NBClassifier import NaiveBayesClassifier
+from SVMClassifier import SVMClassifier
 import numpy as np
 from sklearn import metrics
 import ner
@@ -24,6 +25,7 @@ from gensim import corpora, models
 import pickle
 import random
 
+#logging.getLogger('requests').setLevel(logging.WARNING)
 #corpusTokens = []
 #docsTokens = []
 #allSents = []
@@ -65,12 +67,8 @@ def train_SaveClassifier(posURLs,negURLs,classifierFileName):
     print negLen
     posLabels = [1]* posLen
     #negLabels = [0]*negLen 
-    
     posSep = int(posLen*0.7)
-    
     #negSep = int(negLen*0.7)
-    
-    
     
     trainingDocs = posDocs[:posSep] + negTraining
     #trainingLabels = posLabels[:posSep] + negLabels[:negSep]
@@ -95,8 +93,6 @@ def train_SaveClassifier(posURLs,negURLs,classifierFileName):
     
     classifier = NaiveBayesClassifier()
     
-    
-    
     trainingLabels = [v for _,v in trainingSet]
     trainingDocs = [k for k,_ in trainingSet]
     
@@ -112,7 +108,6 @@ def train_SaveClassifier(posURLs,negURLs,classifierFileName):
     test_labelsArr = np.array(test_labels)
     print classifier.score(testDocs, test_labelsArr)
     
-    
     print metrics.classification_report(test_labelsArr, classifier.predicted)
     classifierFile = open(classifierFileName,"wb")
     pickle.dump(classifier,classifierFile)
@@ -121,6 +116,56 @@ def train_SaveClassifier(posURLs,negURLs,classifierFileName):
 '''
 
 def train_SaveClassifier(posURLs,negURLs,classifierFileName):
+        
+    posDocs = getWebpageText(posURLs)
+    posDocs = [d['title'] + " " + d['text'] for d in posDocs if d]
+    
+    negDocsList = []
+    for n in negURLs:
+        negDocsList.append(getWebpageText(n))
+    
+    negTraining = []
+    negTesting =[]
+    for nu in negDocsList:
+        ns = int(len(nu)*0.7)
+        negTraining.extend(nu[:ns])
+        negTesting.extend(nu[ns:])
+    
+    negTraining = [d['title'] + " " + d['text'] for d in negTraining if d]
+    negTesting = [d['title'] + " " + d['text'] for d in negTesting if d]
+    
+    
+    posLen = len(posDocs)
+    posSep = int(0.7*posLen)
+    posTraining = posDocs[:posSep]
+    posTest = posDocs[posSep:]
+    
+    trainingDocs = posTraining + negTraining
+    trainingLabels = [1]* len(posTraining) + [0]*len(negTraining)
+    
+    testingDocs = posTest + negTesting
+    testingLabels = [1]*len(posTest) + [0]*len(negTesting)
+        
+    classifier = NaiveBayesClassifier()
+    #classifier = SVMClassifier()
+    
+    trainingLabelsArr = np.array(trainingLabels)
+    classifier.trainClassifier(trainingDocs,trainingLabelsArr)
+    
+    print classifier.score(trainingDocs, trainingLabelsArr)
+    print metrics.classification_report(trainingLabelsArr, classifier.predicted)
+       
+    test_labelsArr = np.array(testingLabels)
+    print classifier.score(testingDocs, test_labelsArr)
+    
+    
+    print metrics.classification_report(test_labelsArr, classifier.predicted)
+    classifierFile = open(classifierFileName,"wb")
+    pickle.dump(classifier,classifierFile)
+    classifierFile.close()
+    return classifier
+
+def train_SaveClassifierRandom(posURLs,negURLs,classifierFileName):
         
     posDocs = getWebpageText(posURLs)
     posDocs = [d['title'] + " " + d['text'] for d in posDocs if d]
@@ -389,7 +434,7 @@ def getWebpageText(URLs = []):
         URLs = [URLs]
     for url in URLs:
         try:
-            page = requests.get(url).content
+            page = requests.get(url.strip()).content
             #text = extractMainArticle(page)
             text = extractTextFromHTML(page)
         except:
@@ -531,7 +576,7 @@ def extractText(html_files):
 
         except:
         	print "Error reading"
-        	logging.exception('')
+        	#logging.exception('')
         
         if len(html_string) < 1:
             print "error parsing html file " + str(html_file)
@@ -542,7 +587,7 @@ def extractText(html_files):
         except:
             print "Error: Cannot parse HTML from file: " + html_file
             print sys.exc_info()
-            logging.exception('')
+            #logging.exception('')
             continue    
         
         
