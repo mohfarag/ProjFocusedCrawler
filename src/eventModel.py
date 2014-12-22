@@ -202,9 +202,9 @@ class EventModel:
         #intersect = len(doc_set & self.entity_set)
         #intersect = len(doc_set & self.entitiesSet["Disaster"])
         
-        for k in self.entitiesSet:
-                intersect = len(doc_set & self.entitiesSet[k])
-                score = intersect * 1.0 / len(self.entitiesSet[k])
+        for k in self.entities:
+                intersect = len(doc_set & self.entities[k])
+                score = intersect * 1.0 / len(self.entities[k])
                 if k == "Disaster":
                     if intersect == 0:
                         return 0

@@ -14,141 +14,22 @@ from eventModel import EventModel
 from evaluate import Evaluate
 from eventUtils import train_SaveClassifier, readFileLines
 import os
-#import nltk
-#class FocusedCrawler:
-
-""" 
-def getPosFiles():
-    f = open("html_files-sikkim.txt","r")
-    fl = open("labels.txt","r")
-    fw = open("positive.txt","w")
-    for line in fl:
-        strl = f.readline()
-        if int(line) == 1:            
-            #fw.write(strl +"\n")
-            fw.write(strl)
-    fw.close()
-    fl.close()
-    f.close()
-    
-   
-def getStats():
-    urls = open("positive.txt","r").readlines()
-    stats = getDomainStat(urls)
-    for k,v in stats.iteritems():
-        print k + " " + str(len(v))
-
-
-def writeToFile(data, fileName):
-    f = codecs.open(fileName, "w")
-    for elem in data:
-        f.write(str(elem) + "\n")
-    f.close()
-    
-def getLabelsFromFile(fileName):
-    f = codecs.open(fileName,"r")
-    labels = []
-    for elem in f:
-        num = int(elem[:-1])
-        labels.append(int(num))
-    f.close()
-    return labels
-
-def filterData(docs,urls,titles):
-    pos = []
-    neg = []
-    
-    topicKeywords = getTopicKeywords("topic-keywords.txt")
-    i = 0
-    f = open("labels.txt","w")
-    for doc in docs:
-        labels = []
-        page_res = checkRelevance(doc, topicKeywords)
-        url_res = checkRelevance(urls[i], topicKeywords)
-        title_res = checkRelevance(titles[i], topicKeywords)
-        
-        avg = page_res + url_res + title_res / 3.0
-        if avg > 3:
-            pos.append(doc)
-            f.write("1\n")
-            labels.append(1)
-        else:
-            neg.append(doc)
-            f.write("0\n")
-            labels.append(0)
-        i = i +1
-    
-    
-    f.close()
-    return pos,neg
-
-def classifierFC():
-    
-    seedUrls = ["http://www.ndtv.com/topic/sikkim-earthquake",
-                "http://zeenews.india.com/tags/Sikkim_earthquake.html",
-                "http://earthquake-report.com/2011/09/18/very-strong-earthquake-in-sikkim-india/",
-                "http://articles.timesofindia.indiatimes.com/2011-09-21/india/30184028_1_construction-site-teesta-urja-gangtok"
-                ]
-    urls_tokens = []
-    title_tokens = []
-    docs = getrawDocs("html_files2-balanced.txt",urls_tokens, title_tokens)
-    print("raw docs extracted")
-    docs_len = len(docs)
-    labels = getLabelsFromFile("labels2-balanced.txt")
-    print sum(labels)
-    
-    sep = int(docs_len*0.9)
-    
-    trainingDocs = docs[:sep]
-    
-    trainingLabels = labels[:sep]
-    
-    testDocs = docs[sep:]
-    test_labels=labels[sep:]
-    
-    classifier = NaiveBayesClassifier()
-    
-    trainingLabelsArr = np.array(labels)
-    classifier.trainClassifier(docs,trainingLabelsArr)
-    
-    trainingLabelsArr = np.array(trainingLabels)
-    classifier.trainClassifier(trainingDocs,trainingLabelsArr)
-    test_labelsArr = np.array(test_labels)
-    print classifier.score(testDocs, test_labelsArr)
-    
-    print metrics.classification_report(test_labelsArr, classifier.predicted)
-"""
-
-
 
 def baseFC(crawlParams):
-#def baseFC(crawlParams):
-    #seedURLs = getSeedURLs(seedsFile)
-    
-    priorityQueue = PriorityQueue(crawlParams['t'])
+    seedURLs = crawlParams['seedURLs']
+    t = [(-1,p,-1,"") for p in seedURLs]
+    priorityQueue = PriorityQueue(t)
     
     crawlParams["priorityQueue"]=priorityQueue
     mytfidf = TFIDF()
-    
-#     docs = downloadRawDocs(seedsFile)
-#     cleandocs = getTokenizedDocs(docs)
-#     mytfidf.buildModel(cleandocs)
-    #seedURLs = crawlParams['seeds']
+   
     mytfidf.buildModel(crawlParams['seedURLs'],crawlParams['No_Keywords'])
     crawlParams['scorer']=mytfidf
     
     #crawler = Crawler(priorityQueue,scorer,options)
     crawler = Crawler(crawlParams)
     crawler.crawl()
-    
-    #print crawler.relevantPagesCount
-    #print crawler.pagesCount
-    '''
-    f = open("base-harverstRatioData.txt","w")
-    for r,p in crawler.harvestRatioData:
-        f.write(str(r) + "," + str(p) + "\n")
-    f.close()
-    '''
+   
     f = open("base-logData.txt","w")
     furl = open("base-Output-URLs.txt","w")
     for p in crawler.relevantPages:
@@ -159,14 +40,20 @@ def baseFC(crawlParams):
         ftext.close()
     f.close()
     furl.close()
+    
+    bres = evaluator.evaluateFC(crawler.baseRelevantPages)
+    writeEvaluation(bres,"base-evaluateData.txt")    
+    print sum(bres)
+    print len(bres)
+    
     return crawler.relevantPages
     #return crawler.relevantPages
 
 def eventFC(crawlParams):
     
-    #crawlParams["seeds"] = seedURLs
-    
-    priorityQueue = PriorityQueue(crawlParams['t'])
+    seedURLs = crawlParams["seedURLs"] 
+    t = [(-3,p,-1,"") for p in seedURLs]
+    priorityQueue = PriorityQueue(t)
     
     crawlParams["priorityQueue"]=priorityQueue
     
@@ -198,9 +85,12 @@ def eventFC(crawlParams):
     f.close()
     furl.close()
     #return crawler.pages
+    eres = evaluator.evaluateFC(crawler.relevantPages)
+    writeEvaluation(eres,"event-evaluateData.txt")    
+    print sum(eres)
+    print len(eres)
     return crawler.relevantPages
     
-
 def intelligentFC(scorer,options):
     seedUrls = ["http://www.cnn.com/2013/09/27/world/africa/kenya-mall-attack/index.html",
                 "http://www.youtube.com/watch?v=oU9Oop892BQ",
@@ -253,26 +143,12 @@ def startCrawl(seedsFile,evaluator):
     seedURLs = getSeedURLs(seedsFile)
     crawlParams['seedURLs'] = seedURLs
     
-    t = [(-1,p,-1,"") for p in seedURLs]
-    crawlParams['t'] = t
     
-    baseRelevantPages =baseFC(crawlParams)
+    #crawlParams['t'] = t
     
-    bres = evaluator.evaluateFC(baseRelevantPages)
-    writeEvaluation(bres,"base-evaluateData.txt")    
-    print sum(bres)
-    print len(bres)
-    
-    #else:
-    t = [(-3,p,-1,"") for p in seedURLs]
-    crawlParams['t'] = t
-    
-    eventRelevantPages = eventFC(crawlParams)   
-    
-    eres = evaluator.evaluateFC(eventRelevantPages)
-    writeEvaluation(eres,"event-evaluateData.txt")    
-    print sum(eres)
-    print len(eres)
+    #baseRelevantPages =baseFC(crawlParams)
+      
+    eventRelevantPages = eventFC(crawlParams)
 
 
 
@@ -291,7 +167,7 @@ if __name__ == "__main__":
     
     evaluator.buildClassifier(posFile,negFolder,classifierFileName)
 
-    v = 0
+    v = 2
 
     inputFile = seedsFiles[i].split('.')[0]+"_"+str(v)+".txt"
     
