@@ -60,7 +60,8 @@ class Document:
         if len(self.sentences)>0:
             return self.sentences
         else:
-            r = utils.getSentences(self.text)
-            if len(r)>0:
-                self.sentences = [s for s in r]
-                return self.sentences
+            if self.text:
+                r = utils.getSentences(self.text)
+                if len(r)>0:
+                    self.sentences = [s for s in r]
+                    return self.sentences

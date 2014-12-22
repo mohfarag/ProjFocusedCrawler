@@ -104,7 +104,7 @@ class Collection:
             
             for d in self.documents:
                 sents = d.getSentences()
-                if len(sents)>0:
+                if sents and len(sents)>0:
                     self.sentences.extend(sents)
             
             impSents ={}
