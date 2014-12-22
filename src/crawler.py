@@ -9,10 +9,6 @@ class Crawler:
     #def __init__(self,priorityQueue,scorer,options):
     def __init__(self,crawlParams):
         self.visited = []
-        #self.relevantPages=[]
-        #self.relevantPagesCount = len(priorityQueue.queue)
-        self.relevantPagesCount = 0
-        #self.totalPagesCount = len(priorityQueue.queue)
         self.pagesCount = 0
         self.priorityQueue = crawlParams['priorityQueue']
         self.scorer = crawlParams['scorer']
@@ -20,7 +16,7 @@ class Crawler:
         self.urlScoreThreshold = crawlParams['urlScoreThreshold']
         self.pagesLimit = crawlParams['num_pages']
         self.mode = crawlParams['mode']
-        self.pages = []
+        #self.pages = []
     
     def crawl(self):
         self.harvestRatioData = []
@@ -44,8 +40,8 @@ class Crawler:
             for link in page.outgoingUrls:
                 url = link.address
                 if url != None and url != '':
-                    if url.find('?')!= -1:                            
-                        url = url.split('?')[0]
+                    #if url.find('?')!= -1:                            
+                    #    url = url.split('?')[0]
                     if url.find('#') != -1:
                         url = url.split('#')[0]
                     

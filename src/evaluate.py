@@ -70,13 +70,13 @@ class Evaluate(object):
     
     def evaluateFC(self,pages):
         results=[]
-        for page,score in pages:
-            #results.append(self.classifier.calculate_score(page.text))
-            if score ==1:
-                s = self.classifier.calculate_score(page.text)[0]
-                results.append(s)
-            else:
-                results.append(0)
+        #for page,score in pages:
+        for page in pages:
+            #if score ==1:
+            s = self.classifier.calculate_score(page.text)[0]
+            results.append(s)
+            #else:
+            #    results.append(0)
         return results
         
         

@@ -6,6 +6,7 @@ class Document:
         if url != '':
             self.URL = url.strip()
             if text == '':
+                self.text = ''
                 self.getText()
             else:
                 self.text = text.strip()

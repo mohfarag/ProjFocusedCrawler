@@ -141,8 +141,8 @@ def baseFC(crawlParams):
     crawler = Crawler(crawlParams)
     crawler.crawl()
     
-    print crawler.relevantPagesCount
-    print crawler.pagesCount
+    #print crawler.relevantPagesCount
+    #print crawler.pagesCount
     '''
     f = open("base-harverstRatioData.txt","w")
     for r,p in crawler.harvestRatioData:
@@ -159,7 +159,7 @@ def baseFC(crawlParams):
         ftext.close()
     f.close()
     furl.close()
-    return crawler.pages
+    return crawler.relevantPages
     #return crawler.relevantPages
 
 def eventFC(crawlParams):
@@ -179,8 +179,8 @@ def eventFC(crawlParams):
     crawlParams['scorer']=eventModel
     crawler = Crawler(crawlParams)
     crawler.crawl()
-    print crawler.relevantPagesCount
-    print crawler.pagesCount
+    #print crawler.relevantPagesCount
+    #print crawler.pagesCount
     
 #     f = open("event-harverstRatioData.txt","w")
 #     for r,p in crawler.harvestRatioData:
@@ -197,8 +197,8 @@ def eventFC(crawlParams):
         ftext.close()
     f.close()
     furl.close()
-    return crawler.pages
-    #return crawler.relevantPages
+    #return crawler.pages
+    return crawler.relevantPages
     
 
 def intelligentFC(scorer,options):
@@ -292,7 +292,7 @@ if __name__ == "__main__":
     evaluator.buildClassifier(posFile,negFolder,classifierFileName)
 
     
-    v=0
+    v=2
     inputFile = seedsFiles[i].split('.')[0]+"_"+str(v)+".txt"
     
     startCrawl(inputFile,evaluator)
