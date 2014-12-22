@@ -14,7 +14,8 @@ class Collection:
             else:
                 for u in self.URLs:
                     doc = Document(u)
-                    self.documents.append(doc)
+                    if doc and doc.text:
+                        self.documents.append(doc)
         
         self.words = []
         self.sentences = []

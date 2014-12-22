@@ -8,6 +8,8 @@ class Document:
             if text == '':
                 self.text = ''
                 self.getText()
+                if self.text == '':
+                    return None
             else:
                 self.text = text.strip()
         self.words = []
@@ -48,10 +50,11 @@ class Document:
             return self.text
         else:
             r = utils.getWebpageText(self.URL)[0]
-            if r:
-                self.text = r['text']
-                self.title = r['title']
-            return self.text
+            
+            if r.has_key('text'):
+                if r['text']!= '':
+                    self.text = r['text']
+                    self.title = r['title']
     
     def getSentences(self):
         if len(self.sentences)>0:
