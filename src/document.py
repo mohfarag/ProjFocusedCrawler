@@ -39,8 +39,8 @@ class Document:
             return self.words
         else:
             r = utils.getTokens(self.text)
-            if r:
-                self.words = r
+            if len(r)>0:
+                self.words = [w for w in r]
                 return self.words
     
     def getText(self):
@@ -54,10 +54,10 @@ class Document:
             return self.text
     
     def getSentences(self):
-        if self.sentences:
+        if len(self.sentences)>0:
             return self.sentences
         else:
             r = utils.getSentences(self.text)
-            if r:
-                self.sentences = r
+            if len(r)>0:
+                self.sentences = [s for s in r]
                 return self.sentences
