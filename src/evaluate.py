@@ -13,7 +13,7 @@ from Filter import downloadRawDocs
 from eventUtils import train_SaveClassifierRandom, train_SaveClassifier, readFileLines
 import os
 import math
-#import pickle
+import pickle
 class Evaluate(object):
     '''
     classdocs
@@ -39,27 +39,33 @@ class Evaluate(object):
 
     def buildClassifier(self,posFile,negFolder,classifierFileName):
         #negURLsFile = 'negFile.txt'
-        posURLs = readFileLines(posFile)
-        posLen = len(posURLs)
-        negFiles = os.listdir(negFolder)
-        negFiles = [os.path.join(negFolder,f) for f in negFiles if f.endswith(".txt")]
-        #print negFiles
-        negFilesURLs = [readFileLines(f) for f in negFiles]
-        
-        num = int(round(1.0* posLen/len(negFiles)))
-        negURLs = []
-        for nfu in negFilesURLs:
-            #print len(nfu)
-            if num < len(nfu):
-                #negURLs.extend(nfu[:num] )
-                negURLs.append(nfu[:num] )
-            else:
-                #negURLs.extend(nfu )
-                negURLs.append(nfu )
-        #print len(negURLs)
-        #self.classifier = train_SaveClassifierRandom(posURLs, negURLs, classifierFileName)
-        self.classifier = train_SaveClassifier(posURLs, negURLs, classifierFileName)
-        #return cls
+        try:
+            classifierFile = open(classifierFileName,"rb")
+            self.classifier = pickle.load(classifierFile)
+            classifierFile.close()
+            
+        except:
+            posURLs = readFileLines(posFile)
+            posLen = len(posURLs)
+            negFiles = os.listdir(negFolder)
+            negFiles = [os.path.join(negFolder,f) for f in negFiles if f.endswith(".txt")]
+            #print negFiles
+            negFilesURLs = [readFileLines(f) for f in negFiles]
+            
+            num = int(round(1.0* posLen/len(negFiles)))
+            negURLs = []
+            for nfu in negFilesURLs:
+                #print len(nfu)
+                if num < len(nfu):
+                    #negURLs.extend(nfu[:num] )
+                    negURLs.append(nfu[:num] )
+                else:
+                    #negURLs.extend(nfu )
+                    negURLs.append(nfu )
+            #print len(negURLs)
+            #self.classifier = train_SaveClassifierRandom(posURLs, negURLs, classifierFileName)
+            self.classifier = train_SaveClassifier(posURLs, negURLs, classifierFileName)
+            #return cls
 
     
     def evaluateFC(self,pages):

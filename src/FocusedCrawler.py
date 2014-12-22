@@ -238,32 +238,21 @@ def writeEvaluation(res,filename):
     f.close()
 
 def startCrawl(seedsFile,evaluator):
-#     seedURLs = getSeedURLs(seedsFile)
-#     t = [(-1,p,-1,"") for p in seedURLs]
-#     priorityQueue = PriorityQueue(t)
 
-    switchFC = 1
+    #switchFC = 1
     #number of keywords to represent event/topic
     num = 20
     pagesLimit = 100
     
-    #pageScoreThreshold =0.176  for UCSB shooting base
-    
-    #pageScoreThreshold =0.17 # for NY base
-    #pageScoreThreshold = 0.13 #for WA mudslide base
-    
-    pageScoreThreshold =0.7 #for UCSB shooting #0.5  for NY event
-    #pageScoreThreshold = 0.39 #for WA mudslide event
+    pageScoreThreshold =0.7
     urlScoreThreshold = 0
     #mode = 0 # no URL scoring
     mode = 1 # URL scoring
-    #crawlParams = {"num_pages": pagesLimit,"pageScoreThreshold":pageScoreThreshold,"urlScoreThreshold":urlScoreThreshold , "seeds":seedURLs, "priorityQueue":priorityQueue}
     crawlParams = {"num_pages": pagesLimit,"pageScoreThreshold":pageScoreThreshold,"urlScoreThreshold":urlScoreThreshold ,"mode":mode}
     crawlParams['No_Keywords']=num
     seedURLs = getSeedURLs(seedsFile)
     crawlParams['seedURLs'] = seedURLs
     
-    #if switchFC == 1:
     t = [(-1,p,-1,"") for p in seedURLs]
     crawlParams['t'] = t
     
@@ -296,15 +285,15 @@ if __name__ == "__main__":
     #i=0
     evaluator = Evaluate()
     #for i in range(3):
-    i=1
+    i=0
     posFile = posFiles[i]
     classifierFileName = 'classifier'+posFile.split(".")[0].split('-')[1]+".p"
     
     evaluator.buildClassifier(posFile,negFolder,classifierFileName)
 
-    '''
+    
     v=0
-    inputFile = seedsFiles[i].split('.')[0]+"_"+v+".txt"
+    inputFile = seedsFiles[i].split('.')[0]+"_"+str(v)+".txt"
     
     startCrawl(inputFile,evaluator)
-    '''
+    
