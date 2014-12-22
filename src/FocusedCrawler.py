@@ -290,7 +290,9 @@ if __name__ == "__main__":
     classifierFileName = 'classifier'+posFile.split(".")[0].split('-')[1]+".p"
     
     evaluator.buildClassifier(posFile,negFolder,classifierFileName)
+
     v = 0
+
     inputFile = seedsFiles[i].split('.')[0]+"_"+str(v)+".txt"
     
     startCrawl(inputFile,evaluator)
