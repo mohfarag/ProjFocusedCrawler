@@ -103,7 +103,8 @@ class Collection:
             
             for d in self.documents:
                 sents = d.getSentences()
-                self.sentences.extend(sents)
+                if len(sents)>0:
+                    self.sentences.extend(sents)
             
             impSents ={}
             for sent in self.sentences:
@@ -117,6 +118,6 @@ class Collection:
                         #if sent not in impSentsF:
                         #    impSentsF[sent] = len(intersect)
                     #allImptSents.append(impSents)
-            
-            self.indicativeSentences = utils.getSorted(impSents.items(),1)
+            if impSents:
+                self.indicativeSentences = utils.getSorted(impSents.items(),1)
             return self.indicativeSentences
