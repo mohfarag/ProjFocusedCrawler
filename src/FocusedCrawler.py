@@ -242,7 +242,7 @@ def startCrawl(seedsFile,evaluator):
     #switchFC = 1
     #number of keywords to represent event/topic
     num = 20
-    pagesLimit = 100
+    pagesLimit = 200
     
     pageScoreThreshold =0.7
     urlScoreThreshold = 0
