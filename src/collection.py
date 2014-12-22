@@ -82,7 +82,7 @@ class Collection:
             return self.indicativeWords
             
     def getWordsTFDF(self):
-        
+        self.getWordsFrequencies()
         tokensTF = dict(self.wordsFrequencies)
         tokensDF = {}
         for te in tokensTF:
