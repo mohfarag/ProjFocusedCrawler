@@ -168,7 +168,8 @@ if __name__ == "__main__":
     evaluator.buildClassifier(posFile,negFolder,classifierFileName)
 
 
-    v = 1
+
+    v = 0
 
     inputFile = seedsFiles[i].split('.')[0]+"_"+str(v)+".txt"
     

@@ -97,7 +97,7 @@ class EventModel:
         sortedImptSents = corpus.getIndicativeSentences(self.topK,self.intersectionTh)
         # Get Event Model
         eventModelInstances = getEventModelInsts(sortedImptSents)
-        self.entities['Disaster'] = sortedToksTFDF[:self.topK]
+        self.entities['Disaster'] = set(sortedToksTFDF[:self.topK])
         self.entities['LOCATION']= []
         self.entities['DATE'] = []
         for e in eventModelInstances:
@@ -194,24 +194,22 @@ class EventModel:
     
     
     def calculate_similarity(self,doc):
-        tokens = getTokenizedDoc(doc)
+        #tokens = getTokenizedDoc(doc)
+        tokens = getTokens(doc)
         doc_set = set(tokens)
-        #doc_set = set(doc.split(" "))
         
         scores = []
-        #intersect = len(doc_set & self.entity_set)
-        #intersect = len(doc_set & self.entitiesSet["Disaster"])
         
         for k in self.entities:
                 intersect = len(doc_set & self.entities[k])
-                score = intersect * 1.0 / len(self.entities[k])
                 if k == "Disaster":
                     if intersect == 0:
                         return 0
+                score = intersect * 1.0 / len(self.entities[k])
                     
-                    score = score * self.dw
-                else:
-                    score = score * self.ltw
+                    #score = score * self.dw
+                #else:
+                    #score = score * self.ltw
                 
                 scores.append(score)
         
