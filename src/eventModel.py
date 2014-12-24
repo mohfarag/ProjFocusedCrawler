@@ -97,7 +97,8 @@ class EventModel:
         sortedImptSents = corpus.getIndicativeSentences(self.topK,self.intersectionTh)
         # Get Event Model
         eventModelInstances = getEventModelInsts(sortedImptSents)
-        self.entities['Disaster'] = set(sortedToksTFDF[:self.topK])
+        topToks = [k for k,_ in sortedToksTFDF]
+        self.entities['Disaster'] = set(topToks[:self.topK])
         self.entities['LOCATION']= []
         self.entities['DATE'] = []
         for e in eventModelInstances:
