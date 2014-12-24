@@ -44,6 +44,8 @@ class Document:
             if len(r)>0:
                 self.words = [w for w in r]
                 return self.words
+            else:
+                return []
     
     def getText(self):
         if self.text != '':
@@ -65,3 +67,5 @@ class Document:
                 if len(r)>0:
                     self.sentences = [s for s in r]
                     return self.sentences
+                else:
+                    return []

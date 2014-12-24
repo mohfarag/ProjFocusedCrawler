@@ -41,7 +41,7 @@ def baseFC(crawlParams):
     f.close()
     furl.close()
     
-    bres = evaluator.evaluateFC(crawler.baseRelevantPages)
+    bres = evaluator.evaluateFC(crawler.relevantPages)
     writeEvaluation(bres,"base-evaluateData.txt")    
     print sum(bres)
     print len(bres)
@@ -167,7 +167,8 @@ if __name__ == "__main__":
     
     evaluator.buildClassifier(posFile,negFolder,classifierFileName)
 
-    v = 2
+
+    v = 1
 
     inputFile = seedsFiles[i].split('.')[0]+"_"+str(v)+".txt"
     

@@ -61,7 +61,8 @@ class Collection:
     def getWordsFrequencies(self):
         for d in self.documents:
             w = d.getWords()
-            self.words.extend(w)
+            if w:
+                self.words.extend(w)
         f = utils.getFreq(self.words)
         tokensFreqs = f.items()
         self.wordsFrequencies = utils.getSorted(tokensFreqs,1)
@@ -86,7 +87,7 @@ class Collection:
         tokensTF = dict(self.wordsFrequencies)
         tokensDF = {}
         for te in tokensTF:
-            df = sum([1 for t in self.documents if te in t.getWords()])
+            df = sum([1 for t in self.documents if te in t.words])
             tokensDF[te] = df
         
         tokensTFDF = {}
