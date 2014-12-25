@@ -132,7 +132,7 @@ def startCrawl(seedsFile,evaluator):
     #switchFC = 1
     #number of keywords to represent event/topic
     num = 20
-    pagesLimit = 200
+    pagesLimit = 500
     
     pageScoreThreshold =0.7
     urlScoreThreshold = 0
@@ -146,9 +146,8 @@ def startCrawl(seedsFile,evaluator):
     
     #crawlParams['t'] = t
     
-    baseRelevantPages =baseFC(crawlParams)
-      
-    #eventRelevantPages = eventFC(crawlParams)
+    #baseRelevantPages =baseFC(crawlParams) 
+    eventRelevantPages = eventFC(crawlParams)
 
 
 
@@ -169,7 +168,7 @@ if __name__ == "__main__":
 
 
 
-    v = 0
+    v = 1
 
     inputFile = seedsFiles[i].split('.')[0]+"_"+str(v)+".txt"
     
