@@ -146,9 +146,9 @@ def startCrawl(seedsFile,evaluator):
     
     #crawlParams['t'] = t
     
-    #baseRelevantPages =baseFC(crawlParams)
+    baseRelevantPages =baseFC(crawlParams)
       
-    eventRelevantPages = eventFC(crawlParams)
+    #eventRelevantPages = eventFC(crawlParams)
 
 
 

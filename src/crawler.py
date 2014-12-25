@@ -33,6 +33,7 @@ class Crawler:
                 page_score = self.scorer.calculate_score(page.text)
             else:
                 continue
+            page.estimatedScore = page_score
             print -1 * work_url[0],",", str(page_score),",",work_url[1],",", work_url[3]
             self.pagesCount += 1
             page.getUrls()

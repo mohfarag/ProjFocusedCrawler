@@ -186,7 +186,7 @@ class EventModel:
                 #impSentences.append(sent)
                 sentEnts = getEntities(sent)[0]
                 sentEnts['Disaster'] = intersect
-                webpageEnts.append(sent,sentEnts)
+                webpageEnts.append((sent,sentEnts))
         #entities = getEntities(impSentences)
         #webpageEnts = zip(impSentences,entities)
         

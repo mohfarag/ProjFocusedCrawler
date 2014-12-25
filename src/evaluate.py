@@ -72,7 +72,7 @@ class Evaluate(object):
         results=[]
         #for page,score in pages:
         for page in pages:
-            #if score ==1:
+            #if page.estimatedScore > 0:
             s = self.classifier.calculate_score(page.text)[0]
             results.append(s)
             #else:
