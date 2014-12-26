@@ -41,8 +41,8 @@ class Crawler:
             for link in page.outgoingUrls:
                 url = link.address
                 if url != None and url != '':
-                    #if url.find('?')!= -1:                            
-                    #    url = url.split('?')[0]
+                    if url.find('?')!= -1:                            
+                        url = url.split('?')[0]
                     if url.find('#') != -1:
                         url = url.split('#')[0]
                     

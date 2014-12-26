@@ -273,7 +273,8 @@ def getTokens(texts):
     return allTokens
 
 def getFreq(tokens):
-    return nltk.FreqDist(tokens)
+    toks = [t.lower() for t in tokens]
+    return nltk.FreqDist(toks)
 
 def getSentences(textList =[]):
     #stopwordsList = stopwords.words('english')

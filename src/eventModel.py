@@ -11,7 +11,8 @@ from nltk import stem
 #import nltk.data
 import ner
 from collection import Collection
-from eventUtils import getEventModelInsts, getSentences, getEntities, getTokens, getIntersection
+import eventUtils
+#from eventUtils import getEventModelInsts, getSentences, getEntities, getTokens, getIntersection
 from Filter import getTokenizedDoc
 #from zss import simple_distance, Node
 
@@ -96,9 +97,12 @@ class EventModel:
         print sortedToksTFDF
         sortedImptSents = corpus.getIndicativeSentences(self.topK,self.intersectionTh)
         # Get Event Model
-        eventModelInstances = getEventModelInsts(sortedImptSents)
+        eventModelInstances = eventUtils.getEventModelInsts(sortedImptSents)
         topToks = [k for k,_ in sortedToksTFDF]
-        self.entities['Disaster'] = set(topToks[:self.topK])
+        if self.topK < len(topToks):
+            topToks =  topToks[:self.topK]
+        self.entities['Disaster'] = set(topToks)
+        
         self.entities['LOCATION']= []
         self.entities['DATE'] = []
         for e in eventModelInstances:
@@ -107,6 +111,21 @@ class EventModel:
             elif 'DATE' in e:
                 self.entities['DATE'].extend( e['DATE'])
         
+        entitiesFreq = {}
+        entitiesFreq['LOCATION'] = eventUtils.getFreq(self.entities['LOCATION'])
+        entitiesFreq['LOCATION'] = eventUtils.getSorted(entitiesFreq['LOCATION'].items(), 1)
+        entitiesFreq['DATE'] = eventUtils.getFreq(self.entities['DATE'])
+        entitiesFreq['DATE'] = eventUtils.getSorted(entitiesFreq['DATE'].items(), 1)
+        
+        l = [k for k,_ in entitiesFreq['LOCATION']]
+        if self.topK < len(l):
+            l = l[:self.topK]
+        self.entities['LOCATION'] = set(l)
+        
+        d = [k for k,_ in entitiesFreq['DATE']]
+        if self.topK < len(d):
+            d = d[:self.topK]
+        self.entities['DATE'] = set(d)
         '''
         locList = self.entities['LOCATION']
         locSet = set(locList)
@@ -173,18 +192,18 @@ class EventModel:
     def webpageEntities(self,docText=""):
         disasters=self.entities["Disaster"]
         
-        sentences = getSentences(docText)
+        sentences = eventUtils.getSentences(docText)
         #impSentences = getIndicativeSents(sentences, disasters, len(disasters), 0)
         #impSentences = []
         webpageEnts =[]
         for sent in sentences:
-            sentToks = getTokens(sent)
+            sentToks = eventUtils.getTokens(sent)
             if len(sentToks) > 100:
                 continue
-            intersect = getIntersection(disasters, sentToks)
+            intersect = eventUtils.getIntersection(disasters, sentToks)
             if len(intersect) > self.intersectionTh:
                 #impSentences.append(sent)
-                sentEnts = getEntities(sent)[0]
+                sentEnts = eventUtils.getEntities(sent)[0]
                 sentEnts['Disaster'] = intersect
                 webpageEnts.append((sent,sentEnts))
         #entities = getEntities(impSentences)
@@ -196,7 +215,7 @@ class EventModel:
     
     def calculate_similarity(self,doc):
         #tokens = getTokenizedDoc(doc)
-        tokens = getTokens(doc)
+        tokens = eventUtils.getTokens(doc)
         doc_set = set(tokens)
         
         scores = []
