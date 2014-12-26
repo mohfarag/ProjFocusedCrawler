@@ -111,7 +111,7 @@ class TFIDF:
     def buildModel(self,seedURLs,num):
         #docs = downloadRawDocs(seedURLs)
         td = getWebpageText(seedURLs)
-        docs = [t['text'] + " "+ t['title'] for t in td]
+        docs = [t['text'] + " "+ t['title'] for t in td if t.has_key('text')]
         
         docs = getTokenizedDocs(docs)
         self.n = len(docs)

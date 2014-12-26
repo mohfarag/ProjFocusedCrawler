@@ -25,6 +25,9 @@ from gensim import corpora, models
 import pickle
 import random
 
+from nltk.stem.porter import PorterStemmer
+from nltk.tokenize.regexp import WordPunctTokenizer
+
 #logging.getLogger('requests').setLevel(logging.WARNING)
 #corpusTokens = []
 #docsTokens = []
@@ -259,17 +262,24 @@ def visible(element):
 def getTokens(texts):
     #global corpusTokens
     #global docsTokens
+    stemmer = PorterStemmer()
+    tokenizer = WordPunctTokenizer()
+    
     allTokens=[]
     #tokens=[]
     if type(texts) != type([]):
         texts = [texts]
     for s in texts:
-        toks = nltk.word_tokenize(s.lower())
+        #toks = nltk.word_tokenize(s.lower())
+        toks = tokenizer.tokenize(s)
         allTokens.extend(toks)
         #corpusTokens.extend(toks)
         #docsTokens.append(toks)
-    allTokens = [t.lower() for t in allTokens if len(t)>2]
+   
+    #allTokens = [t.lower() for t in allTokens if len(t)>2]
+    allTokens = [t.lower() for t in allTokens if t.isalnum()]
     allTokens = [t for t in allTokens if t not in stopwordsList]
+    allTokens = [stemmer.stem(word) for word in allTokens]
     return allTokens
 
 def getFreq(tokens):
