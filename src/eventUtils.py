@@ -27,6 +27,7 @@ import random
 
 from nltk.stem.porter import PorterStemmer
 from nltk.tokenize.regexp import WordPunctTokenizer
+from _socket import timeout
 
 #logging.getLogger('requests').setLevel(logging.WARNING)
 #corpusTokens = []
@@ -445,7 +446,7 @@ def getWebpageText(URLs = []):
         URLs = [URLs]
     for url in URLs:
         try:
-            page = requests.get(url.strip()).content
+            page = requests.get(url.strip(),timeout=10).content
             #text = extractMainArticle(page)
             text = extractTextFromHTML(page)
         except:

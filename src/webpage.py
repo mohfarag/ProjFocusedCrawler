@@ -1,10 +1,7 @@
-import sys
-from bs4 import BeautifulSoup,Comment
+
+import eventUtils as utils
 from url import Url
 from urllib import FancyURLopener
-import urllib2
-import nltk
-import requests
 class MyOpener(FancyURLopener):
     #version = 'Mozilla/5.0 (Windows; U; Windows NT 5.1; it; rv:1.8.1.11) Gecko/20071127 Firefox/2.0.0.11'
     version = 'Mozilla/5.0'
@@ -34,14 +31,19 @@ class Webpage:
     def __init__(self,url,pageId):
         self.pageUrl = url
         self.pageId = pageId
-        #myopener = MyOpener()
-        #page = myopener.open(url[1])
+        self.text = ""
+        self.title = "" 
         
+        res = utils.getWebpageText(url[1])[0]
+        
+        if res:
+            self.text = res['text']
+            self.title = res['title']
+        
+        '''
         try:
-            #headers = { 'User-Agent' : 'Mozilla/5.0'}
+            
             headers = { 'User-Agent' : 'Mozilla/5.0 (Windows NT 5.1; rv:10.0.1) Gecko/20100101 Firefox/10.0.1'}
-#             if url[1].find("\n") != -1:
-#                 pageUrl = url[1][:-1]
             req = urllib2.Request(url[1], None, headers)
             page = urllib2.urlopen(req).read()        
         except urllib2.HTTPError:
@@ -60,14 +62,11 @@ class Webpage:
             print sys.exc_info()[0]
             self.text = "Error"
             return
+        '''
+        '''   
         self.soup = BeautifulSoup(page)
         self.outgoingUrls=[]
         self.title = ""
-#         if self.soup.title:
-#             if self.soup.title.string:
-#                 self.title = self.soup.title.string
-#             else:
-#                 self.title = self.soup.title
         try:
 #             if self.soup.html:
 #                 if self.soup.html.head:
@@ -81,6 +80,8 @@ class Webpage:
         visible_text = filter(visible, text_nodes)
         self.text = ''.join(visible_text)
         self.text = self.title + " " + self.text
+        
+        '''
 
 def visible(element):
     if element.parent.name in ['style', 'script', '[document]', 'head']:
