@@ -168,7 +168,7 @@ if __name__ == "__main__":
 
 
 
-    v = 1
+    v = 2
 
     inputFile = seedsFiles[i].split('.')[0]+"_"+str(v)+".txt"
     

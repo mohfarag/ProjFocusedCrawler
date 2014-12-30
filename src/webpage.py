@@ -2,6 +2,7 @@
 import eventUtils as utils
 from url import Url
 from urllib import FancyURLopener
+from bs4 import BeautifulSoup
 class MyOpener(FancyURLopener):
     #version = 'Mozilla/5.0 (Windows; U; Windows NT 5.1; it; rv:1.8.1.11) Gecko/20071127 Firefox/2.0.0.11'
     version = 'Mozilla/5.0'
@@ -16,17 +17,18 @@ class Webpage:
         self.outgoingUrls=[]
     '''
     def getUrls(self):
-        links = self.soup.find_all('a')
-        for link in links:
-            anchor =""
-            if link.string:
-                anchor = link.string
-            elif link.text:
-                anchor = link.text
-            else:
-                anchor = ""
-            u = Url(anchor,link.get('href'),"")
-            self.outgoingUrls.append(u)
+        if self.soup:
+            links = self.soup.find_all('a')
+            for link in links:
+                anchor =""
+                if link.string:
+                    anchor = link.string
+                elif link.text:
+                    anchor = link.text
+                else:
+                    anchor = ""
+                u = Url(anchor,link.get('href'),"")
+                self.outgoingUrls.append(u)
     
     def __init__(self,url,pageId):
         self.pageUrl = url
@@ -39,6 +41,7 @@ class Webpage:
         if res:
             self.text = res['text']
             self.title = res['title']
+            self.soup = BeautifulSoup(res['html'])
         
         '''
         try:

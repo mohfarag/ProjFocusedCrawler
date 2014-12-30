@@ -449,6 +449,7 @@ def getWebpageText(URLs = []):
             page = requests.get(url.strip(),timeout=10).content
             #text = extractMainArticle(page)
             text = extractTextFromHTML(page)
+            text['html']= page
         except:
             print sys.exc_info()
             #text = ""
