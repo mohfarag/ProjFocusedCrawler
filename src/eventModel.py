@@ -70,7 +70,7 @@ class EventModel:
         lematized = lmtzr.lemmatize(word)
         return lematized
     
-    def __init__(self,topK=10,th=1):
+    def __init__(self,topK=5,th=1):
         self.entities = {}
         self.topK=topK
         self.intersectionTh=th
@@ -119,12 +119,14 @@ class EventModel:
         
         l = [k for k,_ in entitiesFreq['LOCATION']]
         if self.topK < len(l):
-            l = l[:self.topK]
+            #l = l[:self.topK]
+            l = l[:5]
         self.entities['LOCATION'] = set(l)
         
         d = [k for k,_ in entitiesFreq['DATE']]
         if self.topK < len(d):
-            d = d[:self.topK]
+            #d = d[:self.topK]
+            d = d[:5]
         self.entities['DATE'] = set(d)
         '''
         locList = self.entities['LOCATION']

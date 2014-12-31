@@ -57,9 +57,8 @@ def eventFC(crawlParams):
     
     crawlParams["priorityQueue"]=priorityQueue
     
-    #eventModel = EventModel()
-    #eventModel.buildEventModel(crawlParams['seedURLs'],crawlParams['No_Keywords'])
-    eventModel = EventModel(crawlParams['No_Keywords'])
+    eventModel = EventModel()
+    #eventModel = EventModel(crawlParams['No_Keywords'])
     eventModel.buildEventModel(crawlParams['seedURLs'])
     
     
@@ -146,8 +145,8 @@ def startCrawl(seedsFile,evaluator):
     
     #crawlParams['t'] = t
     
-    baseRelevantPages =baseFC(crawlParams) 
-    #eventRelevantPages = eventFC(crawlParams)
+    #baseRelevantPages =baseFC(crawlParams) 
+    eventRelevantPages = eventFC(crawlParams)
 
 
 
@@ -168,7 +167,7 @@ if __name__ == "__main__":
 
 
 
-    v = 2
+    v = 0
 
     inputFile = seedsFiles[i].split('.')[0]+"_"+str(v)+".txt"
     
