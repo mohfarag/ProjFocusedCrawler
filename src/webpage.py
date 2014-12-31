@@ -35,6 +35,7 @@ class Webpage:
         self.pageId = pageId
         self.text = ""
         self.title = "" 
+        self.outgoingUrls=[]
         
         res = utils.getWebpageText(url[1])[0]
         
