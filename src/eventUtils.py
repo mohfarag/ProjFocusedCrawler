@@ -446,7 +446,7 @@ def getWebpageText(URLs = []):
         URLs = [URLs]
     for url in URLs:
         try:
-            page = requests.get(url.strip(),timeout=10).content
+            page = requests.get(url.strip(),timeout=10,verify=False).content
             #text = extractMainArticle(page)
             text = extractTextFromHTML(page)
             text['html']= page

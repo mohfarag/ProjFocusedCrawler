@@ -34,7 +34,7 @@ def baseFC(crawlParams):
     furl = open("base-Output-URLs.txt","w")
     for p in crawler.relevantPages:
         f.write(str(p.pageId) + "," + str(p.pageUrl[2]) + "\n")
-        furl.write(p.pageUrl[1]+"\n")
+        furl.write(p.pageUrl[1].encode("utf-8")+"\n")
         ftext = open("base-webpages/"+str(p.pageId) + ".txt", "w")
         ftext.write(p.text.encode("utf-8"))
         ftext.close()
@@ -146,8 +146,8 @@ def startCrawl(seedsFile,evaluator):
     
     #crawlParams['t'] = t
     
-    #baseRelevantPages =baseFC(crawlParams) 
-    eventRelevantPages = eventFC(crawlParams)
+    baseRelevantPages =baseFC(crawlParams) 
+    #eventRelevantPages = eventFC(crawlParams)
 
 
 

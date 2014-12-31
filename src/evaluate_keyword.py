@@ -26,12 +26,13 @@ def evaluate(collFolder,k):
             evalres.append(0)
         '''
         if 'hagupit' in text or 'ruby' in text:
-            if 'typhoon' in text:
-                evalres.append(1)
-            elif 'Philippines' in text:
-                evalres.append(1)
-            else:
-                evalres.append(0)
+            #if 'typhoon' in text:
+            #    evalres.append(1)
+            #elif 'philippin' in text:
+            #    evalres.append(1)
+            #else:
+            #    evalres.append(0)
+            evalres.append(1)
         else:
             evalres.append(0)
             
@@ -41,8 +42,8 @@ if __name__ == '__main__':
     j = 1
     for i in range(3):
         #i=0
-        #collFiles = '/Users/mmagdy/fc results/'+j+'/event-'+str(i)+'/event-webpages/'
-        collFiles = '/Users/mmagdy/fc results/'+j+'/base-'+str(i)+'/base-webpages/'
+        collFiles = '/Users/mmagdy/fc results/'+str(j)+'/event-'+str(i)+'/event-webpages/'
+        #collFiles = '/Users/mmagdy/fc results/'+j+'/base-'+str(i)+'/base-webpages/'
         res = evaluate(collFiles,500)
         f = open(collFiles+'evaluationRes_Words-?.txt','w')
         f.write('\n'.join([str(r) for r in res]))
