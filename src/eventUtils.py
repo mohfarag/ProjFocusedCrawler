@@ -29,7 +29,7 @@ from nltk.stem.porter import PorterStemmer
 from nltk.tokenize.regexp import WordPunctTokenizer
 from _socket import timeout
 
-#logging.getLogger('requests').setLevel(logging.WARNING)
+logging.getLogger('requests').setLevel(logging.WARNING)
 #corpusTokens = []
 #docsTokens = []
 #allSents = []
