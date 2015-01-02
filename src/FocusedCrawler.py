@@ -22,8 +22,9 @@ def baseFC(crawlParams):
     
     crawlParams["priorityQueue"]=priorityQueue
     mytfidf = TFIDF()
-   
-    mytfidf.buildModel(crawlParams['seedURLs'],crawlParams['No_Keywords'])
+    
+    mytfidf.buildModel(crawlParams['model'],crawlParams['No_Keywords'])
+    #mytfidf.buildModel(crawlParams['seedURLs'],crawlParams['No_Keywords'])
     crawlParams['scorer']=mytfidf
     
     #crawler = Crawler(priorityQueue,scorer,options)
@@ -58,20 +59,15 @@ def eventFC(crawlParams):
     crawlParams["priorityQueue"]=priorityQueue
     
     eventModel = EventModel()
-    #eventModel = EventModel(crawlParams['No_Keywords'])
-    eventModel.buildEventModel(crawlParams['seedURLs'])
+    
+    #eventModel.buildEventModel(crawlParams['seedURLs'])
+    eventModel.buildEventModel(crawlParams['model'])
     
     
     crawlParams['scorer']=eventModel
     crawler = Crawler(crawlParams)
-    crawler.crawl()
-    #print crawler.relevantPagesCount
-    #print crawler.pagesCount
     
-#     f = open("event-harverstRatioData.txt","w")
-#     for r,p in crawler.harvestRatioData:
-#         f.write(str(r) + "," + str(p) + "\n")
-#     f.close()
+    crawler.crawl()
     
     f = open("event-logData.txt","w")
     furl = open("event-Output-URLs.txt","w")
@@ -126,7 +122,7 @@ def writeEvaluation(res,filename):
         f.write(str(rel) + "," + str(tot) + "\n")
     f.close()
 
-def startCrawl(seedsFile,evaluator):
+def startCrawl(seedsFile,evaluator,modelFile):
 
     #switchFC = 1
     #number of keywords to represent event/topic
@@ -141,6 +137,8 @@ def startCrawl(seedsFile,evaluator):
     crawlParams['No_Keywords']=num
     seedURLs = getSeedURLs(seedsFile)
     crawlParams['seedURLs'] = seedURLs
+    modelURLs = readFileLines(modelFile)
+    crawlParams['model']=modelURLs
     
     
     #crawlParams['t'] = t
@@ -151,7 +149,7 @@ def startCrawl(seedsFile,evaluator):
 
 
 if __name__ == "__main__":
-    
+    modelFile = 'modelFile'
     seedsFiles=['seeds_459.txt','seeds_474.txt','seeds_478.txt']
     posFiles = ['pos-FSU.txt','pos-Hagupit.txt','pos-LAFire.txt']
     negFolder = 'neg'
@@ -161,6 +159,7 @@ if __name__ == "__main__":
     #for i in range(3):
     i=1
     posFile = posFiles[i]
+    modelFile = modelFile +"-"+str(i)+".txt"
     classifierFileName = 'classifier'+posFile.split(".")[0].split('-')[1]+".p"
     
     evaluator.buildClassifier(posFile,negFolder,classifierFileName)
@@ -171,5 +170,5 @@ if __name__ == "__main__":
 
     inputFile = seedsFiles[i].split('.')[0]+"_"+str(v)+".txt"
     
-    startCrawl(inputFile,evaluator)
+    startCrawl(inputFile,evaluator,modelFile)
     

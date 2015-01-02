@@ -35,7 +35,11 @@ logging.getLogger('requests').setLevel(logging.WARNING)
 #allSents = []
 
 stopwordsList = stopwords.words('english')
+<<<<<<< Updated upstream
 stopwordsList.extend(["favorite","home","search","follow","year","account","update","com","video","close","http","retweet","tweet","twitter","news","people","said","comment","comments","share","email","new","would","one","world"])
+=======
+stopwordsList.extend(["video","close","http","retweet","tweet","twitter","news","people","said","comment","comments","share","email","new","would","one","world"])
+>>>>>>> Stashed changes
 
 '''
 def train_SaveClassifier(posURLs,negURLs,classifierFileName):
