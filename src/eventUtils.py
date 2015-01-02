@@ -35,7 +35,7 @@ logging.getLogger('requests').setLevel(logging.WARNING)
 #allSents = []
 
 stopwordsList = stopwords.words('english')
-stopwordsList.extend(["http","retweet","tweet","twitter","news","people","said","comment","comments","share","email","new","would","one","world"])
+stopwordsList.extend(["favorite","home","search","follow","year","account","update","com","video","close","http","retweet","tweet","twitter","news","people","said","comment","comments","share","email","new","would","one","world"])
 
 '''
 def train_SaveClassifier(posURLs,negURLs,classifierFileName):
@@ -277,8 +277,8 @@ def getTokens(texts):
         #corpusTokens.extend(toks)
         #docsTokens.append(toks)
    
-    #allTokens = [t.lower() for t in allTokens if len(t)>2]
-    allTokens = [t.lower() for t in allTokens if t.isalnum()]
+    allTokens = [t.lower() for t in allTokens if len(t)>2]
+    allTokens = [t for t in allTokens if t.isalnum()]
     allTokens = [t for t in allTokens if t not in stopwordsList]
     allTokens = [stemmer.stem(word) for word in allTokens]
     return allTokens

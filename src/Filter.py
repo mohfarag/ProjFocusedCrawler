@@ -159,6 +159,7 @@ def getTokenizedDoc(doc):
     stopwords = nltk.corpus.stopwords.words('english')
     stopwords.extend(["http","retweet","tweet","twitter","news","people","said","comment","comments","share","email","new","would","one","world"])
     tokens = tokenizer.tokenize(doc)
+    tokens = [token for token in tokens if len(token) > 2]
     clean = [token for token in tokens if token.isalnum()]
     clean = [token.lower() for token in clean if token.lower() not in stopwords] 
     #clean = [token for token in clean if len(token) > 2]

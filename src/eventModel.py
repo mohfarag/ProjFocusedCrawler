@@ -70,7 +70,7 @@ class EventModel:
         lematized = lmtzr.lemmatize(word)
         return lematized
     
-    def __init__(self,topK=5,th=1):
+    def __init__(self,topK=3,th=1):
         self.entities = {}
         self.topK=topK
         self.intersectionTh=th
@@ -98,10 +98,10 @@ class EventModel:
         sortedImptSents = corpus.getIndicativeSentences(self.topK,self.intersectionTh)
         # Get Event Model
         eventModelInstances = eventUtils.getEventModelInsts(sortedImptSents)
-        topToks = [k for k,_ in sortedToksTFDF]
-        if self.topK < len(topToks):
-            topToks =  topToks[:self.topK]
-        self.entities['Disaster'] = set(topToks)
+        #topToks = [k for k,_ in sortedToksTFDF]
+        #if self.topK < len(topToks):
+        #    topToks =  topToks[:self.topK]
+        #self.entities['Disaster'] = set(topToks)
         
         self.entities['LOCATION']= []
         self.entities['DATE'] = []
@@ -120,13 +120,13 @@ class EventModel:
         l = [k for k,_ in entitiesFreq['LOCATION']]
         if self.topK < len(l):
             #l = l[:self.topK]
-            l = l[:5]
+            l = l[:3]
         self.entities['LOCATION'] = set(l)
         
         d = [k for k,_ in entitiesFreq['DATE']]
         if self.topK < len(d):
             #d = d[:self.topK]
-            d = d[:5]
+            d = d[:3]
         self.entities['DATE'] = set(d)
         '''
         locList = self.entities['LOCATION']
@@ -141,6 +141,20 @@ class EventModel:
         self.entities['DATE'] = [d for d in dateSet]
         '''
         self.entities['DATE'] = self.getUniqueEntities(self.entities['DATE']) 
+        
+        locDate = list(self.entities['LOCATION']) + list(self.entities['DATE'])
+        locDate = eventUtils.getTokens(' '.join(locDate))
+        
+        ntopToks = []
+        topToks = [k for k,_ in sortedToksTFDF]
+        for tok in topToks:
+            if tok not in locDate:
+                ntopToks.append(tok)
+        topToks = ntopToks
+        if self.topK < len(topToks):
+            topToks =  topToks[:self.topK]
+        self.entities['Disaster'] = set(topToks)
+        
         
         self.allEntities = []
         for k in self.entities:
@@ -227,6 +241,7 @@ class EventModel:
                 if k == "Disaster":
                     if intersect == 0:
                         return 0
+                
                 score = intersect * 1.0 / len(self.entities[k])
                     
                     #score = score * self.dw
@@ -315,6 +330,7 @@ class EventModel:
             scores = []
             for k in uentities:
                 intersect = len(uentities[k] & self.entities[k])
+                
                 score = intersect * 1.0 / len(self.entities[k])
                 scores.append(score)
             score = sum(scores)
