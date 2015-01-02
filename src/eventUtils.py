@@ -35,11 +35,8 @@ logging.getLogger('requests').setLevel(logging.WARNING)
 #allSents = []
 
 stopwordsList = stopwords.words('english')
-<<<<<<< Updated upstream
 stopwordsList.extend(["favorite","home","search","follow","year","account","update","com","video","close","http","retweet","tweet","twitter","news","people","said","comment","comments","share","email","new","would","one","world"])
-=======
-stopwordsList.extend(["video","close","http","retweet","tweet","twitter","news","people","said","comment","comments","share","email","new","would","one","world"])
->>>>>>> Stashed changes
+
 
 '''
 def train_SaveClassifier(posURLs,negURLs,classifierFileName):
@@ -263,6 +260,13 @@ def visible(element):
     if element.parent.name in ['style', 'script', '[document]', 'head']:
         return False
     return True
+
+def getStemmedWords(words):
+    stemmer = PorterStemmer()
+    stemmedWords = []
+    for w in words:
+        stemmedWords.append(stemmer.stem(w))
+    return stemmedWords
 
 def getTokens(texts):
     #global corpusTokens
@@ -514,7 +518,14 @@ def getEventModelInsts(sortedImptSents):
     '''
     imptSents = [s[0] for s in sortedImptSents]
     eventModelInstances = getEntities(imptSents)
-    return eventModelInstances
+    impEventModelInstances = []
+    for emi in eventModelInstances:
+        if emi.has_key('LOCATION'):
+            impEventModelInstances.append(emi)
+        elif emi.has_key('DATE'):
+            impEventModelInstances.append(emi)
+    #return eventModelInstances
+    return impEventModelInstances
 
 '''
 def getTokensTFDF(texts):
@@ -619,6 +630,7 @@ def extractText(html_files):
         textFiles.append(html_body)
         docsURLs.append(file_url)
     return textFiles,docsURLs
+    
 
 #def main(argv):
 def expandWarcFile(warcFile):

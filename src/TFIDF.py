@@ -126,22 +126,7 @@ class TFIDF:
         self.model = (selected,selected_words)
         #n = len(docs)
         #selected_words_idfs = [n/math.log(len(self.index[w[1]])) for w in selected]
-        '''
-        docs_tfidf = []
         
-        for doc in docs_bow:
-            doc_tfidf = []
-            for word in selected_words:
-                found = False
-                for t in doc:
-                    if word == t[0]:
-                        doc_tfidf.append(t)
-                        found = True
-                        break
-                if found == False:
-                    doc_tfidf.append((word,0))
-            docs_tfidf.append(doc_tfidf)
-        '''
     def convertDoctoTFIDF(self,doc):
         stemmer = PorterStemmer()
         tokenizer = WordPunctTokenizer()
@@ -154,7 +139,8 @@ class TFIDF:
         doc_tfidf=[]
         words = self.model[1]
         for i in range(0,len(words)):            
-            tf = final_doc.count(words[i])  
+            tf = final_doc.count(words[i])
+            tf = 1 + math.log(tf)  
             doc_tfidf.append((tf,words[i]))
         return doc_tfidf
     

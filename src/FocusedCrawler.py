@@ -73,7 +73,7 @@ def eventFC(crawlParams):
     furl = open("event-Output-URLs.txt","w")
     for p in crawler.relevantPages:
         f.write(str(p.pageId) + "," + str(p.pageUrl[2]) + "\n")
-        furl.write(p.pageUrl[1]+"\n")
+        furl.write(p.pageUrl[1].encode('utf-8')+"\n")
         ftext = open("event-webpages/"+str(p.pageId) + ".txt", "w")
         ftext.write(p.text.encode("utf-8"))
         ftext.close()
@@ -166,7 +166,7 @@ if __name__ == "__main__":
 
 
 
-    v = 1
+    v = 0
 
     inputFile = seedsFiles[i].split('.')[0]+"_"+str(v)+".txt"
     

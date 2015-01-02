@@ -6,14 +6,14 @@ Created on Feb 18, 2014
 import urllib2
 from bs4 import BeautifulSoup,Comment
 #import nltk_contrib
-import nltk
 from nltk import stem
+import math
 #import nltk.data
-import ner
 from collection import Collection
 import eventUtils
 #from eventUtils import getEventModelInsts, getSentences, getEntities, getTokens, getIntersection
 from Filter import getTokenizedDoc
+#from eventUtils import getFreq
 #from zss import simple_distance, Node
 
 class EventModel:
@@ -74,6 +74,20 @@ class EventModel:
         self.entities = {}
         self.topK=topK
         self.intersectionTh=th
+    
+    def getEntitiesFreq(self,entityList):
+        el = [e.lower() for e in entityList]
+        
+        entitiesWords = []
+        for w in el:
+            p = w.split()
+            if len(p)>1:
+                entitiesWords.extend(p)
+            else:
+                entitiesWords.append(w)
+        s = eventUtils.getFreq(entitiesWords)
+        s = eventUtils.getSorted(s, 1)
+        return s
         
     def getUniqueEntities(self,entityList):
         el = [e.lower() for e in entityList]
@@ -90,6 +104,67 @@ class EventModel:
     
     
     def buildEventModel(self,seedURLs):
+        
+        corpus = Collection(seedURLs)
+        #sortedTokensFreqs = corpus.getWordsFrequencies()
+        sortedToksTFDF = corpus.getIndicativeWords()
+        self.toksTFDFDic = dict(sortedToksTFDF)
+        print sortedToksTFDF
+        sortedImptSents = corpus.getIndicativeSentences(self.topK,self.intersectionTh)
+        # Get Event Model
+        eventModelInstances = eventUtils.getEventModelInsts(sortedImptSents)
+        
+        
+        self.entities['LOCATION']= []
+        self.entities['DATE'] = []
+        for e in eventModelInstances:
+            if 'LOCATION' in e:
+                self.entities['LOCATION'].extend( e['LOCATION'])
+            elif 'DATE' in e:
+                self.entities['DATE'].extend( e['DATE'])
+        
+        entitiesFreq = {}
+        entitiesFreq['LOCATION'] = self.getEntitiesFreq(self.entities['LOCATION'])
+        entitiesFreq['DATE'] = self.getEntitiesFreq(self.entities['DATE'])
+        
+        
+        #l = [k for k,_ in entitiesFreq['LOCATION']]
+        s = len(entitiesFreq['LOCATION'])
+        if self.topK < s:
+            s = self.topK
+        self.entities['LOCATION'] = dict(entitiesFreq['LOCATION'][:s])
+               
+        #d = [k for k,_ in entitiesFreq['DATE']]
+        s = len(entitiesFreq['DATE'])
+        if self.topK < s:
+            s = self.topK
+        self.entities['DATE'] = dict(entitiesFreq['DATE'][:s])
+        
+        
+        #locDate = list(self.entities['LOCATION']) + list(self.entities['DATE'])
+        locDate = [k for k,_ in entitiesFreq['LOCATION']] + [m for m,_ in entitiesFreq['DATE']]
+        locDate = eventUtils.getTokens(' '.join(locDate))
+        
+        ntopToks = []
+        topToks = [k for k,_ in sortedToksTFDF]
+        for tok in topToks:
+            if tok not in locDate:
+                ntopToks.append(tok)
+        topToks = ntopToks
+        if self.topK < len(topToks):
+            topToks =  topToks[:self.topK]
+        
+        print "Disaster: ", topToks
+        
+        topToksDic = {}
+        for t in topToks:
+            topToksDic[t] = self.toksTFDFDic[t]
+        #self.entities['Disaster'] = set(topToks)
+        self.entities['Disaster'] = topToksDic
+        
+        
+    
+    def buildEventModel_old(self,seedURLs):
         
         corpus = Collection(seedURLs)
         #sortedTokensFreqs = corpus.getWordsFrequencies()
@@ -206,6 +281,24 @@ class EventModel:
     '''
     
     def webpageEntities(self,docText=""):
+        disasters=set(self.entities["Disaster"].keys())
+        
+        sentences = eventUtils.getSentences(docText)
+        webpageEnts =[]
+        for sent in sentences:
+            sentToks = eventUtils.getTokens(sent)
+            if len(sentToks) > 100:
+                continue
+            intersect = eventUtils.getIntersection(disasters, sentToks)
+            if len(intersect) > self.intersectionTh:
+                sentEnts = eventUtils.getEntities(sent)[0]
+                if sentEnts.has_key('LOCATION') or sentEnts.has_key('DATE'):
+                    sentEnts['Disaster'] = intersect
+                    webpageEnts.append((sent,sentEnts))
+        
+        return webpageEnts
+    
+    def webpageEntities_old(self,docText=""):
         disasters=self.entities["Disaster"]
         
         sentences = eventUtils.getSentences(docText)
@@ -220,16 +313,74 @@ class EventModel:
             if len(intersect) > self.intersectionTh:
                 #impSentences.append(sent)
                 sentEnts = eventUtils.getEntities(sent)[0]
-                sentEnts['Disaster'] = intersect
-                webpageEnts.append((sent,sentEnts))
+                if sentEnts.has_key('LOCATION') or sentEnts.has_key('DATE'):
+                    sentEnts['Disaster'] = intersect
+                    webpageEnts.append((sent,sentEnts))
         #entities = getEntities(impSentences)
         #webpageEnts = zip(impSentences,entities)
         
         return webpageEnts
     
     
-    
     def calculate_similarity(self,doc):
+        eDisDic = self.entities['Disaster']
+        
+        locToks = self.entities['LOCATION'].keys()
+        locToks = eventUtils.getStemmedWords(locToks)
+        locDic = dict(zip(locToks,self.entities['LOCATION'].values))
+        
+        dToks = self.entities['DATE'].keys()
+        dToks = eventUtils.getStemmedWords(dToks)
+        dDic = dict(zip(dToks,self.entities['DATE'].values))
+        
+        tokens = eventUtils.getTokens(doc)
+        tokensDic = eventUtils.getFreq(tokens)
+        scores = []
+        
+        ks = 0    
+        for i in tokensDic:
+            if i in eDisDic:
+                ks += (1+math.log(eDisDic[i][0]))* (1+math.log(tokensDic[i]))
+        if ks > 0:
+            ev = [1+math.log(e) for e,_ in eDisDic.values()]
+            wv = [1+math.log(e) for e in tokensDic.values()]
+            ks = float(ks)/(self.getScalar(ev) * self.getScalar(wv))
+            
+        else:
+            ks = 0
+        scores.append(0.5*ks)
+        
+        ks = 0    
+        for i in tokensDic:
+            if i in locDic:
+                ks += (1+math.log(locDic[i]))* (1+math.log(tokensDic[i]))
+        if ks > 0:
+            ev = [1+math.log(e) for e in locDic.values()]
+            wv = [1+math.log(e) for e in tokensDic.values()]
+            ks = float(ks)/(self.getScalar(ev) * self.getScalar(wv))
+            
+        else:
+            ks = 0
+        scores.append(0.25*ks)
+        
+        ks = 0    
+        for i in tokensDic:
+            if i in dDic:
+                ks += (1+math.log(dDic[i]))* (1+math.log(tokensDic[i]))
+        if ks > 0:
+            ev = [1+math.log(e) for e in dDic.values()]
+            wv = [1+math.log(e) for e in tokensDic.values()]
+            ks = float(ks)/(self.getScalar(ev) * self.getScalar(wv))
+            
+        else:
+            ks = 0
+        scores.append(0.25*ks)
+        
+        
+        score = sum(scores)     
+        return score
+    
+    def calculate_similarity_old(self,doc):
         #tokens = getTokenizedDoc(doc)
         tokens = eventUtils.getTokens(doc)
         doc_set = set(tokens)
@@ -237,24 +388,50 @@ class EventModel:
         scores = []
         
         for k in self.entities:
-                intersect = len(doc_set & self.entities[k])
-                if k == "Disaster":
-                    if intersect == 0:
-                        return 0
+            intersect = len(doc_set & self.entities[k])
+            if k == "Disaster":
+                if intersect == 0:
+                    return 0
+            
+            score = intersect * 1.0 / len(self.entities[k])
                 
-                score = intersect * 1.0 / len(self.entities[k])
-                    
-                    #score = score * self.dw
-                #else:
-                    #score = score * self.ltw
-                
-                scores.append(score)
+                #score = score * self.dw
+            #else:
+                #score = score * self.ltw
+            
+            scores.append(score)
         
-        score = sum(scores)
-        #score = intersect * 1.0 /len(self.entity_set)       
+        score = sum(scores)     
         return score
     
     def extractWebpageEventModel(self, text):
+        webpageEventModel = {}
+        
+        entities = self.webpageEntities(text)
+        if len(entities) > 1:
+            for sent in entities:
+                dictval = sent[1]
+                for k in dictval:
+                    if k in ["LOCATION","Disaster","DATE"]:
+                        if webpageEventModel.has_key(k):
+                            webpageEventModel[k].extend(dictval[k])
+                        else:
+                            webpageEventModel[k] = []
+                            webpageEventModel[k].extend(dictval[k])
+            for k in ["LOCATION","DATE"]:
+                webpageEventModel[k] = dict(self.getEntitiesFreq(webpageEventModel[k]))
+            
+            webpageToks = eventUtils.getTokens(text)
+            webpageDis = set(webpageEventModel['Disaster'])
+            webpageDisDic = {}
+            for wd in webpageDis:
+                webpageDisDic[wd]=webpageToks.count(wd)
+            webpageEventModel['Disaster']=webpageDisDic
+            
+            
+        return webpageEventModel
+    
+    def extractWebpageEventModel_old(self, text):
         webpageEventModel = {}
         entities = self.webpageEntities(text)
         if len(entities) > 1:
@@ -323,8 +500,41 @@ class EventModel:
         return score
     '''
     
+    def getScalar(self,doc_tfidf):
+        total = 0
+        for i in range(len(doc_tfidf)):
+            total += doc_tfidf[i] * doc_tfidf[i]
+        return math.sqrt(total)
+    
     
     def calculate_score(self,doc=""):
+        uentities = self.extractWebpageEventModel(doc)
+        if uentities and uentities.has_key('Disaster'):
+            scores = []
+            for k in uentities:
+                ks = 0
+                
+                ekv = self.entities[k]
+                wkv = uentities[k]
+                for i in wkv:
+                    ks += (1+math.log(ekv[i][0]))* (1+math.log(wkv[i]))
+                if ks > 0:
+                    ev = [1+math.log(e) for e,_ in ekv.values()]
+                    wv = [1+math.log(e) for e in wkv.values()]
+                    ks = float(ks)/(self.getScalar(ev) * self.getScalar(wv))
+                    
+                else:
+                    ks = 0
+                if k == 'Disaster':
+                    scores.append(0.5*ks)
+                else:
+                    scores.append(0.25*ks)
+            score = sum(scores)
+        else:
+            score = self.calculate_similarity(doc)
+        return score
+    
+    def calculate_score_old(self,doc=""):
         uentities = self.extractWebpageEventModel(doc)
         if uentities and uentities.has_key('Disaster'):
             scores = []
@@ -383,20 +593,3 @@ class EventModel:
         
         #score = 1.0/distance
         return score
-"""
-def test():
-    e = EventModel()
-    #urls = getSeedURLs("seedsURLs")
-    e.buildEventModel()
-    
-    
-
-def pageUrlEventModel(url=""):
-    text = getTextFromWebpage(url)
-    entities = webpageEntities(text)
-    eventTree = getEventTree(entities)
-    return eventTree
-
-if __name__ == "__main__":
-    test()    
-"""
