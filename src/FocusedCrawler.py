@@ -127,7 +127,7 @@ def startCrawl(seedsFile,evaluator,modelFile):
     #switchFC = 1
     #number of keywords to represent event/topic
     num = 20
-    pagesLimit = 500
+    pagesLimit = 50
     
     pageScoreThreshold =0.7
     urlScoreThreshold = 0
@@ -157,7 +157,7 @@ if __name__ == "__main__":
     #i=0
     evaluator = Evaluate()
     #for i in range(3):
-    i=1
+    i=0
     posFile = posFiles[i]
     modelFile = modelFile +"-"+str(i)+".txt"
     classifierFileName = 'classifier'+posFile.split(".")[0].split('-')[1]+".p"

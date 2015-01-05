@@ -86,7 +86,7 @@ class EventModel:
             else:
                 entitiesWords.append(w)
         s = eventUtils.getFreq(entitiesWords)
-        s = eventUtils.getSorted(s, 1)
+        s = eventUtils.getSorted(s.items(), 1)
         return s
         
     def getUniqueEntities(self,entityList):
@@ -132,7 +132,8 @@ class EventModel:
         s = len(entitiesFreq['LOCATION'])
         if self.topK < s:
             s = self.topK
-        self.entities['LOCATION'] = dict(entitiesFreq['LOCATION'][:s])
+        t = entitiesFreq['LOCATION'][:s]
+        self.entities['LOCATION'] = dict(t)
                
         #d = [k for k,_ in entitiesFreq['DATE']]
         s = len(entitiesFreq['DATE'])
@@ -154,14 +155,15 @@ class EventModel:
         if self.topK < len(topToks):
             topToks =  topToks[:self.topK]
         
-        print "Disaster: ", topToks
+        #print "Disaster: ", topToks
+        
         
         topToksDic = {}
         for t in topToks:
             topToksDic[t] = self.toksTFDFDic[t]
         #self.entities['Disaster'] = set(topToks)
         self.entities['Disaster'] = topToksDic
-        
+        print self.entities
         
     
     def buildEventModel_old(self,seedURLs):
@@ -327,11 +329,11 @@ class EventModel:
         
         locToks = self.entities['LOCATION'].keys()
         locToks = eventUtils.getStemmedWords(locToks)
-        locDic = dict(zip(locToks,self.entities['LOCATION'].values))
+        locDic = dict(zip(locToks,self.entities['LOCATION'].values()))
         
         dToks = self.entities['DATE'].keys()
         dToks = eventUtils.getStemmedWords(dToks)
-        dDic = dict(zip(dToks,self.entities['DATE'].values))
+        dDic = dict(zip(dToks,self.entities['DATE'].values()))
         
         tokens = eventUtils.getTokens(doc)
         tokensDic = eventUtils.getFreq(tokens)
@@ -418,8 +420,9 @@ class EventModel:
                         else:
                             webpageEventModel[k] = []
                             webpageEventModel[k].extend(dictval[k])
-            for k in ["LOCATION","DATE"]:
-                webpageEventModel[k] = dict(self.getEntitiesFreq(webpageEventModel[k]))
+            for k in webpageEventModel:
+                if k in ["LOCATION","DATE"]:
+                    webpageEventModel[k] = dict(self.getEntitiesFreq(webpageEventModel[k]))
             
             webpageToks = eventUtils.getTokens(text)
             webpageDis = set(webpageEventModel['Disaster'])
@@ -516,18 +519,33 @@ class EventModel:
                 
                 ekv = self.entities[k]
                 wkv = uentities[k]
-                for i in wkv:
-                    ks += (1+math.log(ekv[i][0]))* (1+math.log(wkv[i]))
-                if ks > 0:
-                    ev = [1+math.log(e) for e,_ in ekv.values()]
-                    wv = [1+math.log(e) for e in wkv.values()]
-                    ks = float(ks)/(self.getScalar(ev) * self.getScalar(wv))
-                    
-                else:
-                    ks = 0
+                wv = [1+math.log(e) for e in wkv.values()]
+                wvscalar = self.getScalar(wv)
                 if k == 'Disaster':
+                    for i in ekv:
+                        if i in wkv:
+                            ks += (1+math.log(ekv[i][0]))* (1+math.log(wkv[i]))
+                            if ks > 0:
+                                ev = [1+math.log(e) for e,_ in ekv.values()]
+                                
+                                ks = float(ks)/(self.getScalar(ev) * wvscalar)
+                                
+                            else:
+                                ks = 0
+                #if k == 'Disaster':
                     scores.append(0.5*ks)
                 else:
+                    
+                    for i in ekv:
+                        if i in wkv:
+                            ks += (1+math.log(ekv[i]))* (1+math.log(wkv[i]))
+                            if ks > 0:
+                                ev = [1+math.log(e) for e in ekv.values()]
+                                
+                                ks = float(ks)/(self.getScalar(ev) * wvscalar)
+                                
+                            else:
+                                ks = 0
                     scores.append(0.25*ks)
             score = sum(scores)
         else:
