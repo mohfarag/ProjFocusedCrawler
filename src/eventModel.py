@@ -346,16 +346,19 @@ class EventModel:
         
         tokens = eventUtils.getTokens(doc)
         tokensDic = eventUtils.getFreq(tokens)
+        wv = [1+math.log(e) for e in tokensDic.values()]
+        wvScalar = self.getScalar(wv)
         scores = []
         
         ks = 0    
         for i in tokensDic:
             if i in eDisDic:
-                ks += (1+math.log(eDisDic[i][0]))* (1+math.log(tokensDic[i]))
+                ks += (1+math.log(eDisDic[i][0]*eDisDic[i][1]))* (1+math.log(tokensDic[i]))
         if ks > 0:
-            ev = [1+math.log(e) for e,_ in eDisDic.values()]
-            wv = [1+math.log(e) for e in tokensDic.values()]
-            ks = float(ks)/(self.getScalar(ev) * self.getScalar(wv))
+            #ev = [1+math.log(e) for e,_ in eDisDic.values()]
+            #wv = [1+math.log(e) for e in tokensDic.values()]
+            #ks = float(ks)/(self.getScalar(ev) * self.getScalar(wv))
+            ks = float(ks)/(self.scalars['Disaster'] * wvScalar)
             
         else:
             ks = 0
@@ -367,9 +370,10 @@ class EventModel:
             if i in locDic:
                 ks += (1+math.log(locDic[i]))* (1+math.log(tokensDic[i]))
         if ks > 0:
-            ev = [1+math.log(e) for e in locDic.values()]
-            wv = [1+math.log(e) for e in tokensDic.values()]
-            ks = float(ks)/(self.getScalar(ev) * self.getScalar(wv))
+            #ev = [1+math.log(e) for e in locDic.values()]
+            #wv = [1+math.log(e) for e in tokensDic.values()]
+            #ks = float(ks)/(self.getScalar(ev) * self.getScalar(wv))
+            ks = float(ks)/(self.scalars['LOCATION'] * wvScalar)
             
         else:
             ks = 0
@@ -381,16 +385,18 @@ class EventModel:
             if i in dDic:
                 ks += (1+math.log(dDic[i]))* (1+math.log(tokensDic[i]))
         if ks > 0:
-            ev = [1+math.log(e) for e in dDic.values()]
-            wv = [1+math.log(e) for e in tokensDic.values()]
-            ks = float(ks)/(self.getScalar(ev) * self.getScalar(wv))
+            #ev = [1+math.log(e) for e in dDic.values()]
+            #wv = [1+math.log(e) for e in tokensDic.values()]
+            #ks = float(ks)/(self.getScalar(ev) * self.getScalar(wv))
+            ks = float(ks)/(self.scalars['DATE'] * wvScalar)
             
         else:
             ks = 0
         #scores.append(0.25*ks)
         scores.append(ks)
         
-        score = sum(scores) / 3.0    
+        #score = sum(scores) / 3.0
+        score = sum(scores)    
         return score
     
     def calculate_similarity_old(self,doc):
@@ -562,7 +568,8 @@ class EventModel:
                         ks = 0
                     #scores.append(0.25*ks)
                     scores.append(ks)
-            score = sum(scores)/3.0
+            #score = sum(scores)/3.0
+            score = sum(scores)
         else:
             score = self.calculate_similarity(doc)
         return score

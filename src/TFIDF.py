@@ -7,7 +7,7 @@ import math
 from nltk.stem.porter import PorterStemmer
 from nltk.tokenize.regexp import WordPunctTokenizer
 from nltk.corpus import stopwords
-from Filter import getTokenizedDocs
+from Filter import getTokenizedDocs, getTokenizedDoc
 from eventUtils import getWebpageText,getSorted
 class TFIDF:
     
@@ -130,14 +130,18 @@ class TFIDF:
         #selected_words_idfs = [n/math.log(len(self.index[w[1]])) for w in selected]
         
     def convertDoctoTFIDF(self,doc):
+        '''
         stemmer = PorterStemmer()
         tokenizer = WordPunctTokenizer()
         stopwords_e = stopwords.words('english')
+        stopwords_e.extend(["last","time","week","favorite","home","search","follow","year","account","update","com","video","close","http","retweet","tweet","twitter","news","people","said","comment","comments","share","email","new","would","one","world"])
         tokens = tokenizer.tokenize(doc)
         clean = [token for token in tokens if token.isalnum()]
         clean = [token.lower() for token in clean if token.lower() not in stopwords_e] 
         clean = [token for token in clean if len(token) > 2]
         final_doc = [stemmer.stem(word) for word in clean]
+        '''
+        final_doc = getTokenizedDoc(doc)
         doc_tfidf=[]
         words = self.model[1]
         for i in range(0,len(words)):            

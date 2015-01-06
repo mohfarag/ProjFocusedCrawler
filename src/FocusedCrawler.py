@@ -130,7 +130,7 @@ def startCrawl(seedsFile,evaluator,modelFile):
     pagesLimit = 500
     
     pageScoreThreshold =0.7
-    urlScoreThreshold = 0.1
+    urlScoreThreshold = 0
     #mode = 0 # no URL scoring
     mode = 1 # URL scoring
     crawlParams = {"num_pages": pagesLimit,"pageScoreThreshold":pageScoreThreshold,"urlScoreThreshold":urlScoreThreshold ,"mode":mode}
@@ -143,8 +143,8 @@ def startCrawl(seedsFile,evaluator,modelFile):
     
     #crawlParams['t'] = t
     
-    #baseRelevantPages =baseFC(crawlParams) 
-    eventRelevantPages = eventFC(crawlParams)
+    baseRelevantPages =baseFC(crawlParams) 
+    #eventRelevantPages = eventFC(crawlParams)
 
 
 

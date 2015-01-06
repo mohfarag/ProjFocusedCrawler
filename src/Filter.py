@@ -157,7 +157,7 @@ def getTokenizedDoc(doc):
     stemmer = PorterStemmer()
     tokenizer = WordPunctTokenizer()
     stopwords = nltk.corpus.stopwords.words('english')
-    stopwords.extend(["http","retweet","tweet","twitter","news","people","said","comment","comments","share","email","new","would","one","world"])
+    stopwords.extend(["last","time","week","favorite","home","search","follow","year","account","update","com","video","close","http","retweet","tweet","twitter","news","people","said","comment","comments","share","email","new","would","one","world"])
     tokens = tokenizer.tokenize(doc)
     tokens = [token for token in tokens if len(token) > 2]
     clean = [token for token in tokens if token.isalnum()]
