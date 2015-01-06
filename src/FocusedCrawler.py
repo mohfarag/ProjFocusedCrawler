@@ -58,7 +58,7 @@ def eventFC(crawlParams):
     
     crawlParams["priorityQueue"]=priorityQueue
     
-    eventModel = EventModel()
+    eventModel = EventModel(crawlParams['No_Keywords'],2)
     
     #eventModel.buildEventModel(crawlParams['seedURLs'])
     eventModel.buildEventModel(crawlParams['model'])
@@ -127,10 +127,10 @@ def startCrawl(seedsFile,evaluator,modelFile):
     #switchFC = 1
     #number of keywords to represent event/topic
     num = 20
-    pagesLimit = 50
+    pagesLimit = 500
     
     pageScoreThreshold =0.7
-    urlScoreThreshold = 0
+    urlScoreThreshold = 0.1
     #mode = 0 # no URL scoring
     mode = 1 # URL scoring
     crawlParams = {"num_pages": pagesLimit,"pageScoreThreshold":pageScoreThreshold,"urlScoreThreshold":urlScoreThreshold ,"mode":mode}

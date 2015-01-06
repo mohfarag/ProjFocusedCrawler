@@ -109,7 +109,7 @@ class EventModel:
         #sortedTokensFreqs = corpus.getWordsFrequencies()
         sortedToksTFDF = corpus.getIndicativeWords()
         self.toksTFDFDic = dict(sortedToksTFDF)
-        print sortedToksTFDF
+        print sortedToksTFDF[:self.topK]
         sortedImptSents = corpus.getIndicativeSentences(self.topK,self.intersectionTh)
         # Get Event Model
         eventModelInstances = eventUtils.getEventModelInsts(sortedImptSents)
@@ -130,15 +130,15 @@ class EventModel:
         
         #l = [k for k,_ in entitiesFreq['LOCATION']]
         s = len(entitiesFreq['LOCATION'])
-        if self.topK < s:
-            s = self.topK
+        #if self.topK < s:
+        #    s = self.topK
         t = entitiesFreq['LOCATION'][:s]
         self.entities['LOCATION'] = dict(t)
                
         #d = [k for k,_ in entitiesFreq['DATE']]
         s = len(entitiesFreq['DATE'])
-        if self.topK < s:
-            s = self.topK
+        #if self.topK < s:
+        #    s = self.topK
         self.entities['DATE'] = dict(entitiesFreq['DATE'][:s])
         
         
@@ -165,6 +165,16 @@ class EventModel:
         self.entities['Disaster'] = topToksDic
         print self.entities
         
+        #self.vecs = {}
+        self.scalars = {}
+        for k in self.entities:
+            ekv = self.entities[k]
+            if k == 'Disaster':
+                ev = [1+math.log(e*v) for e,v in ekv.values()]
+            else:
+                ev = [1+math.log(e) for e in ekv.values()]
+            #self.vecs[k] = ev
+            self.scalars[k] = self.getScalar(ev)
     
     def buildEventModel_old(self,seedURLs):
         
@@ -323,7 +333,6 @@ class EventModel:
         
         return webpageEnts
     
-    
     def calculate_similarity(self,doc):
         eDisDic = self.entities['Disaster']
         
@@ -350,7 +359,8 @@ class EventModel:
             
         else:
             ks = 0
-        scores.append(0.5*ks)
+        #scores.append(0.5*ks)
+        scores.append(ks)
         
         ks = 0    
         for i in tokensDic:
@@ -363,7 +373,8 @@ class EventModel:
             
         else:
             ks = 0
-        scores.append(0.25*ks)
+        #scores.append(0.25*ks)
+        scores.append(ks)
         
         ks = 0    
         for i in tokensDic:
@@ -376,10 +387,10 @@ class EventModel:
             
         else:
             ks = 0
-        scores.append(0.25*ks)
+        #scores.append(0.25*ks)
+        scores.append(ks)
         
-        
-        score = sum(scores)     
+        score = sum(scores) / 3.0    
         return score
     
     def calculate_similarity_old(self,doc):
@@ -524,30 +535,34 @@ class EventModel:
                 if k == 'Disaster':
                     for i in ekv:
                         if i in wkv:
-                            ks += (1+math.log(ekv[i][0]))* (1+math.log(wkv[i]))
-                            if ks > 0:
-                                ev = [1+math.log(e) for e,_ in ekv.values()]
-                                
-                                ks = float(ks)/(self.getScalar(ev) * wvscalar)
-                                
-                            else:
-                                ks = 0
+                            ks += (1+math.log(ekv[i][0]*ekv[i][1]))* (1+math.log(wkv[i]))
+                    if ks > 0:
+                        #ev = [1+math.log(e) for e,_ in ekv.values()]
+                        
+                        #ks = float(ks)/(self.getScalar(ev) * wvscalar)
+                        ks = float(ks)/(self.scalars[k] * wvscalar)
+                        
+                    else:
+                        ks = 0
                 #if k == 'Disaster':
-                    scores.append(0.5*ks)
+                    #scores.append(0.5*ks)
+                    scores.append(ks)
                 else:
                     
                     for i in ekv:
                         if i in wkv:
                             ks += (1+math.log(ekv[i]))* (1+math.log(wkv[i]))
-                            if ks > 0:
-                                ev = [1+math.log(e) for e in ekv.values()]
-                                
-                                ks = float(ks)/(self.getScalar(ev) * wvscalar)
-                                
-                            else:
-                                ks = 0
-                    scores.append(0.25*ks)
-            score = sum(scores)
+                    if ks > 0:
+                        #ev = [1+math.log(e) for e in ekv.values()]
+                        
+                        #ks = float(ks)/(self.getScalar(ev) * wvscalar)
+                        ks = float(ks)/(self.scalars[k] * wvscalar)
+                        
+                    else:
+                        ks = 0
+                    #scores.append(0.25*ks)
+                    scores.append(ks)
+            score = sum(scores)/3.0
         else:
             score = self.calculate_similarity(doc)
         return score

@@ -8,7 +8,7 @@ from nltk.stem.porter import PorterStemmer
 from nltk.tokenize.regexp import WordPunctTokenizer
 from nltk.corpus import stopwords
 from Filter import getTokenizedDocs
-from eventUtils import getWebpageText
+from eventUtils import getWebpageText,getSorted
 class TFIDF:
     
     def bm25(self,idf, tf, dl, avgdl, B, K1):
@@ -64,11 +64,13 @@ class TFIDF:
         for v in self.index.itervalues():
             #l = len(v)
             idf = 1
-            tf = [1 + math.log(t) for t in v]
-            tfidf = idf * sum(tf)
+            #tf = [1 + math.log(t) for t in v]
+            #tfidf = idf * sum(tf)
+            tf = 1+ math.log(sum(v))
+            tfidf = idf * tf
             words_tfidf_sum.append((tfidf,i))
             i = i+1
-        self.words_tfidf_sorted = sorted(words_tfidf_sum,reverse=True)
+        self.words_tfidf_sorted = getSorted(words_tfidf_sum, 0)#sorted(words_tfidf_sum,reverse=True)
         selected = self.words_tfidf_sorted
         if len(self.words_tfidf_sorted) > k:
             selected = self.words_tfidf_sorted[:k]
@@ -140,7 +142,8 @@ class TFIDF:
         words = self.model[1]
         for i in range(0,len(words)):            
             tf = final_doc.count(words[i])
-            tf = 1 + math.log(tf)  
+            if tf > 0:
+                tf = 1 + math.log(tf)  
             doc_tfidf.append((tf,words[i]))
         return doc_tfidf
     
