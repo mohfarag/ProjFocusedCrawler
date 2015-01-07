@@ -122,7 +122,7 @@ def writeEvaluation(res,filename):
         f.write(str(rel) + "," + str(tot) + "\n")
     f.close()
 
-def startCrawl(seedsFile,evaluator,modelFile):
+def startCrawl(seedsFile,evaluator,modelFile,ct):
 
     #switchFC = 1
     #number of keywords to represent event/topic
@@ -142,9 +142,12 @@ def startCrawl(seedsFile,evaluator,modelFile):
     
     
     #crawlParams['t'] = t
-    
-    baseRelevantPages =baseFC(crawlParams) 
-    #eventRelevantPages = eventFC(crawlParams)
+    if ct =='b':
+        #baseRelevantPages =baseFC(crawlParams)
+        baseFC(crawlParams)
+    else: 
+        #eventRelevantPages = eventFC(crawlParams)
+        eventFC(crawlParams)
 
 
 
@@ -154,21 +157,31 @@ if __name__ == "__main__":
     posFiles = ['pos-FSU.txt','pos-Hagupit.txt','pos-LAFire.txt']
     negFolder = 'neg'
     
-    #i=0
+    
     evaluator = Evaluate()
     #for i in range(3):
-    i=0
+    '''
+    i=2
     posFile = posFiles[i]
     modelFile = modelFile +"-"+str(i)+".txt"
     classifierFileName = 'classifier'+posFile.split(".")[0].split('-')[1]+".p"
     
     evaluator.buildClassifier(posFile,negFolder,classifierFileName)
-
+    
 
 
     v = 0
 
     inputFile = seedsFiles[i].split('.')[0]+"_"+str(v)+".txt"
+    '''
     
-    startCrawl(inputFile,evaluator,modelFile)
+    event = 'Charlie'
+    posFile = 'pos_'+event+'.txt'
+    classifierFileName = 'classifier_'+event+'.p'
+    evaluator.buildClassifier(posFile,negFolder,classifierFileName)
+    inputFile = 'seedURLs_'+event+'.txt'
+    modelFile = 'modelURLs_'+ event + '.txt'
+    
+    crawlType = 'e'
+    startCrawl(inputFile,evaluator,modelFile,crawlType)
     
