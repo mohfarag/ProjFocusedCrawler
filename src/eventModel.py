@@ -127,23 +127,25 @@ class EventModel:
         entitiesFreq['LOCATION'] = self.getEntitiesFreq(self.entities['LOCATION'])
         entitiesFreq['DATE'] = self.getEntitiesFreq(self.entities['DATE'])
         
-        
+        llen = dlen = 5
         #l = [k for k,_ in entitiesFreq['LOCATION']]
         s = len(entitiesFreq['LOCATION'])
-        #if self.topK < s:
-        #    s = self.topK
+        
+        if llen < s:
+            s = llen
         t = entitiesFreq['LOCATION'][:s]
         self.entities['LOCATION'] = dict(t)
                
         #d = [k for k,_ in entitiesFreq['DATE']]
         s = len(entitiesFreq['DATE'])
-        #if self.topK < s:
-        #    s = self.topK
+        if dlen < s:
+            s = dlen
         self.entities['DATE'] = dict(entitiesFreq['DATE'][:s])
         
         
-        #locDate = list(self.entities['LOCATION']) + list(self.entities['DATE'])
-        locDate = [k for k,_ in entitiesFreq['LOCATION']] + [m for m,_ in entitiesFreq['DATE']]
+        
+        locDate = [k for k,_ in entitiesFreq['LOCATION'][:2]] + [m for m,_ in entitiesFreq['DATE']]
+        
         locDate = eventUtils.getTokens(' '.join(locDate))
         
         ntopToks = []

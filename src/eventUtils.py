@@ -35,7 +35,7 @@ logging.getLogger('requests').setLevel(logging.WARNING)
 #allSents = []
 
 stopwordsList = stopwords.words('english')
-stopwordsList.extend(["favorite","home","search","follow","year","account","update","com","video","close","http","retweet","tweet","twitter","news","people","said","comment","comments","share","email","new","would","one","world"])
+stopwordsList.extend(["last","time","week","favorite","home","search","follow","year","account","update","com","video","close","http","retweet","tweet","twitter","news","people","said","comment","comments","share","email","new","would","one","world"])
 
 
 '''
@@ -250,6 +250,7 @@ def getIntersection(l1,l2):
 def readFileLines(filename):
     f = open(filename,"r")
     lines = f.readlines()
+    lines = [l.strip() for l in lines]
     return lines
 
 def getSorted(tupleList,fieldIndex):
@@ -285,11 +286,11 @@ def getTokens(texts):
         #corpusTokens.extend(toks)
         #docsTokens.append(toks)
    
-    allTokens = [t.lower() for t in allTokens if len(t)>2]
-    allTokens = [t for t in allTokens if t.isalnum()]
-    allTokens = [t for t in allTokens if t not in stopwordsList]
-    allTokens = [stemmer.stem(word) for word in allTokens]
-    return allTokens
+    allTokens_2 = [t.lower() for t in allTokens if len(t)>2]
+    allTokens_an = [t2 for t2 in allTokens_2 if t2.isalnum()]
+    allTokens_stw = [t3 for t3 in allTokens_an if t3 not in stopwordsList]
+    allTokens_stem = [stemmer.stem(word) for word in allTokens_stw]
+    return allTokens_stem
 
 def getFreq(tokens):
     toks = [t.lower() for t in tokens]
@@ -439,7 +440,7 @@ def extractTextFromHTML(page):
         visible_text = filter(visible, text_nodes)
         text = ''.join(visible_text)
         
-        #text = title + text
+        text = title + text
         wtext = {"text":text,"title":title}
     except:
         print sys.exc_info()
