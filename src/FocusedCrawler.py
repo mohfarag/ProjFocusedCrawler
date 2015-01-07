@@ -160,7 +160,7 @@ if __name__ == "__main__":
     
     evaluator = Evaluate()
     #for i in range(3):
-    '''
+    
     i=2
     posFile = posFiles[i]
     modelFile = modelFile +"-"+str(i)+".txt"
@@ -173,15 +173,15 @@ if __name__ == "__main__":
     v = 0
 
     inputFile = seedsFiles[i].split('.')[0]+"_"+str(v)+".txt"
-    '''
     
+    '''
     event = 'Charlie'
     posFile = 'pos_'+event+'.txt'
     classifierFileName = 'classifier_'+event+'.p'
     evaluator.buildClassifier(posFile,negFolder,classifierFileName)
     inputFile = 'seedURLs_'+event+'.txt'
     modelFile = 'modelURLs_'+ event + '.txt'
-    
+    '''
     crawlType = 'e'
     startCrawl(inputFile,evaluator,modelFile,crawlType)
     
