@@ -58,7 +58,8 @@ def eventFC(crawlParams):
     
     crawlParams["priorityQueue"]=priorityQueue
     
-    eventModel = EventModel(crawlParams['No_Keywords'],2)
+    #eventModel = EventModel(crawlParams['No_Keywords'],2)
+    eventModel = EventModel(5,2)
     
     #eventModel.buildEventModel(crawlParams['seedURLs'])
     eventModel.buildEventModel(crawlParams['model'])
@@ -161,7 +162,7 @@ if __name__ == "__main__":
     evaluator = Evaluate()
     #for i in range(3):
     
-    i=2
+    i=1
     posFile = posFiles[i]
     modelFile = modelFile +"-"+str(i)+".txt"
     classifierFileName = 'classifier'+posFile.split(".")[0].split('-')[1]+".p"
@@ -180,6 +181,6 @@ if __name__ == "__main__":
     inputFile = 'seedURLs_'+event+'.txt'
     modelFile = 'modelURLs_'+ event + '.txt'
     '''
-    crawlType = 'e'
+    crawlType = 'b'
     startCrawl(inputFile,evaluator,modelFile,crawlType)
     
