@@ -134,6 +134,7 @@ class EventModel:
         if llen < s:
             s = llen
         t = entitiesFreq['LOCATION'][:s]
+        print t
         self.entities['LOCATION'] = dict(t)
                
         #d = [k for k,_ in entitiesFreq['DATE']]
@@ -141,7 +142,7 @@ class EventModel:
         if dlen < s:
             s = dlen
         self.entities['DATE'] = dict(entitiesFreq['DATE'][:s])
-        
+        print entitiesFreq['DATE'][:s]
         
         
         locDate = [k for k,_ in entitiesFreq['LOCATION'][:2]] + [m for m,_ in entitiesFreq['DATE']]
@@ -165,7 +166,8 @@ class EventModel:
             topToksDic[t] = self.toksTFDFDic[t]
         #self.entities['Disaster'] = set(topToks)
         self.entities['Disaster'] = topToksDic
-        print self.entities
+        #print self.entities
+        print topToks
         
         #self.vecs = {}
         self.scalars = {}
