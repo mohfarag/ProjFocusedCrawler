@@ -1,0 +1,237 @@
+Is Super Typhoon Haiyan/Yolanda one for the record books? | Deep Sea News
+Is Super Typhoon Haiyan/Yolanda one for the record books? | Deep Sea News
+
+
+
+
+x
+
+
+Search for:
+
+
+
+ 
+
+
+
+
+
+September 5, 2014
+
+
+Facebook
+Twitter
+Pinterest
+Tumblr
+
+
+
+
+
+
+
+
+
+
+
+
+
+Main menu
+Skip to content
+HomeAboutCommenting PolicyContactDisclaimerReviewsThe DSN MissionOur WritersAlex WarnekeRR HelmDr. Craig McClainDr. Holly BikRick MacPhersonDr. Alistair DoveDr. Kim MartiniGuest WritersPast ContributorsResourcesThe Essential DSN Library
+
+
+
+
+
+
+
+Posted on November 9, 2013  by  Kim Martini 
+Is Super Typhoon Haiyan/Yolanda one for the record books?
+
+
+As I was writing this, initial damage reports from the Philippines were still coming in. It looks like the damage from the storm is really bad, many are without food, water or shelter It’s still unclear how bad the damage is, but if you would like to help out those affected by the Typhoon you can donate to Doctors without Borders, or the Philippine Red Cross.
+I’ve been grumping this week as a two weather systems in the eastern Pacific have been dumping rain and wind on Seattle. But when compared to weather system that landed on the Philippines yesterday, I might as well have been grumping about a sunny day. Because Super Typhoon Haiyan/Yolanda that just hit the Phillipines is definitely the strongest storm that has existed on this earth in my lifetime. While it may not be the strongest Typhoon ever (there are about 4 ahead of it), it may however be one of the strongest storm to make landfall in recorded history.
+Let’s first take a look at Super Typhoon Haiyan from space. It doesn’t seem that big. It actually looks kind of pretty.
+[source: EUMETsat http://www.flickr.com/photos/eumetsat/10726056545/ ]
+But looks can be deceiving. According to meterologist Jeff Masters at Wunderground:
+
+“Three hours before landfall, the Joint Typhoon Warning Center (JTWC) assessed Haiyan’s sustained winds at 195 mph, gusting to 235 mph, making it the 4th strongest tropical cyclone in world history.”
+
+Those are sharknado-strength winds my friend. The extreme winds are caused by the fact that this typhoon is a low pressure BOMB. Winds are caused by air moving from regions of high pressure to regions of low pressure. And air can’t resist the low-pressure at the center of the typhoon, which was estimated to have dropped down to as low as 895 mb  (for comparison Hurricane Katrina only made it down to 902 mb).  Winds scream towards the low-pressure center and the coriolis force, which is caused by the rotation of the earth, organizes the winds into the familiar counter-clockwise spiral we see below.*
+UPDATE: The final strength of the winds  is still unclear but they might not have been as high as 196 mph. From Jeff Masters at Wunderground
+
+Typhoon and hurricane maximum wind speed estimates are only valid for over water exposure, and winds over land are typically reduced by about 15%, due to friction. This would put Haiyan’s winds at 165 mph over land areas on the south shore of Guiuan Island. This is equivalent to a high end EF-3 or low end EF-4 tornado, so the wind damage there must have been catastrophic–perhaps the greatest wind damage any place on Earth has endured from a tropical cyclone in the past century
+
+Nonetheless the winds were hairy. Here is some crazy footage of the typhoon from the Phillippines.
+
+While 195 mph winds definitely suck, the residents of the Philippines also had to worry about the coastal flooding by storm surges. Storm surges are caused by the strong typhoon winds, which push and pile water in front of the typhoon as it marches westward. This isn’t a problem in the open ocean, but upon reaching the coast, the excess water height can cause coastal flooding. I’ve posted an animation of the predicted storm surge for the Philippines, which shows the pile up of water in front of the storm. The storm surge was estimated to be almost 5 m or 15 feet in some areas, and unfortunately caused some of the coastal villages in the Phillipines to be nearly completely submerged. This is the same phenomena that caused the flooding of downtown New York City during Hurricane Sandy.
+UPDATE: The storm surge ended up being massive, much higher than predicted. It was over 20 feet in the city of Tacloban, many homes have been destroyed, many are dead and others are still missing.
+[source: Philippines Project NOAH http://noah.dost.gov.ph/}
+There is some suggestion that warm ocean temperatures in the Pacific may have fueled the creation of this super Typhoon. I haven’t looked at the hard numbers, but eyeballing the maps of Tropical Cyclone heat potential from the NOAA view site it doesn’t look like there is an unusually large amount of extra energy available to intensify a typhoon. In other words, I would expect that the water is only warm enough to create a typhoon rather than a super typhoon. While the warm water certainly helped intensify the typhoon, it seems to me that maybe other atmospheric conditions (like low wind shear as suggested by NOAA) is what ultimately created such a massive storm.** But then again, the upper ocean het content has increased over the past couple of decades so that could be fueling the unusual intensification. Regardless, it will still be interesting to find out what caused this storm to cross the line into the super category. Get on it atmospheric scientists!
+It’s still unclear what the total loss to life and property is because of super typhoon Haiyan. Many towns in the Philippines are still without power and communications. The initial reports aren’t great. From earlier reports it does sound like some complications like landslides and flooding were mitigated because the typhoon was fast-moving, causing the total rainfall amounts to be relatively small, but coastal flooding and destruction by winds is still a problem. Pre-emptive evacuations may have also helped to keep the death toll down. If you would like to help out those affected by the storm, you can donate via the Red Cross.
+UPDATE: Dave Petley over at AGU’s Landslide blog talks about the potential for landslides in the Philippines. From the news coming in, it sounds like there were landslides, but they are mostly impeding emergency response crews from getting to more remote areas.  
+While not the biggest typhoon ever to exist on this planet, Haiyan is likely to be the strongest to ever make landfall. And although it weakened after hitting the Philippines, it is still a powerful cyclone with winds >120 mph and is currently heading towards Vietnam, where it is expected to make landfall within the next 24 hours. Hopefully its bark will be worse than it’s bite.
+*I just want to note that the maximum wind speeds and minimum pressures are just estimates from satellite data and not actual measurements from stations. These values are typically obtained by “hurricane hunters”, aircraft that are designed to fly into hurricanes are take these specific measurements. Unfortunately, or perhaps more fortunately, for whatever reason no hurricane hunters sampled Super Typhoon Haiyan. But these estimates, while not absolute are still pretty robust.
+** I would probably be more convinced about the intensification to a super typhoon due to increased upper ocean heat content if they had shown a better map, maybe one with anomalies with the storm track overlain.
+
+Share the post "Is Super Typhoon Haiyan/Yolanda one for the record books?"
+FacebookTwitterGoogle+PinterestDiggE-mail
+
+Related PostsTracking the cold wake of a super typhoonCan Sea Snakes Predict The Future? What About Hurricanes? Lottery Numbers?MH370 and the proverbial haystack.The predictions of this model kills my love of models.Is the sea floor littered with dead animals due to radiation? No.Three Reasons Why Fukushima Radiation Has Nothing to Do with Starfish Wasting Syndrome
+ Kim Martini (84 Posts)Kim is a Physical Oceanographer at the Joint Institute for the Study of Atmosphere and Ocean at the University of Washington. She received her Ph.D. from the University of Washington in 2010. Her goal in life is to throw expensive s**t in the ocean. When not at sea, she uses observations from moored, satellite and land-based instruments to understand the pathways that wind and tidal energy take from large (internal tides) to small scales (turbulence). 
+
+Natural Disaster, Weather 
+
+
+Tagged haiyan, phillippines, typhoon, yolanda 
+
+
+Post navigation
+← Previous Next →
+
+
+
+			4 comments on “Is Super Typhoon Haiyan/Yolanda one for the record books?”		
+
+
+
+
+
+ Glen Michel 
+
+
+					November 9, 2013 at 18:49					
+
+
+275 kph gusts according to Philippines Met., which makes it a upper range category 4.Reports of 375 kph are pure sensationalism in order to reinforce this CAGW meme.Trust the BBC to corrupt the truth.
+
+
+
+
+
+
+Pingback: Latest Books News - Miami Book Company | Miami Book Company
+
+
+
+
+
+ Matt Maddox 
+
+
+					November 10, 2013 at 23:37					
+
+
+Tropical-based storms have been correlated with geometric or symmetric astronomical patterns. SuperTyphoon Haiyan shows a variant of a Triple K pattern within the Sun-Earth or Ecliptic plane. An Earth-Sun-Saturn alignment works to create both a second and third K pattern in addition to the pre-existent stellar K within the ecliptic plane. Please see Astrosymm.com for a mirror-image astronomical diagram of this intense storm. 2,000 geophysical events have been studied to determine the astronomical configuration at the time of event.
+
+
+
+
+
+
+
+
+
+ Akie 
+
+
+					November 25, 2013 at 02:55					
+
+
+I  amazed that typhoon haiyan is so strong and the typhoon haiyan wants to destroyed the Phillipines, many people will die
+
+
+
+
+
+
+Comments are closed.
+
+ 
+
+
+
+
+ Recent Posts 
+
+Summer of the Goatfish
+
+
+The official anthology of Rick Ross rapping about crustaceans
+
+
+My 25 Favorite Things For Ocean Field Work
+
+
+No way is that a Manta in the Kelp Forest…
+
+
+A little unexpected Monday Morning Zen with a Portuguese Man-of-War
+
+
+TagsAntarctica
+Best of Zelnio
+BP
+Cephalopod
+climate change
+conservation
+Coral
+deep sea
+Deepwater Horizon
+Donor's Choose
+evolution
+fish
+fishing
+Funding
+Giant Squid
+global warming
+Gulf of Mexico
+Hydrothermal Vent
+Japan
+jellyfish
+MBARI
+Mexico
+Microbes
+National Geographic
+NOAA
+Octopus
+oil
+Oil Spill
+Organisms
+Predation
+Reproduction
+Sailing
+scuba
+scuba diving
+sea turtle
+sex
+shark
+sharks
+Southern Fried Science
+squid
+submarine
+submersible
+taxonomy
+video
+whale
+Recent CommentsEmmett on My 25 Favorite Things For Ocean Field Workkb on Shark Weakkb on No way is that a Manta in the Kelp Forest…Aron on The Ocean Cleanup, Part 2: Technical review of the feasibility studyOlivier Le Moign on The Ocean Cleanup, Part 2: Technical review of the feasibility study 
+ 
+
+
+
+
+
+
+			© Deep Sea News                        
+		
+
+
+
+
+
+
+
+
+
