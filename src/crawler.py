@@ -47,7 +47,7 @@ class Crawler:
                     if url.find('#') != -1:
                         url = url.split('#')[0]
                     
-                    if url.endswith(("comment",".rss","video","video/","link","gif","jpeg","mp4","wav","jpg","mp3","png","share.php","sharer.php","login.php","print","print/","button/","share","email","submit","post",".pdf") ):    
+                    if url.endswith(("comment","comment/","feed","comments","feed/","comments/",".rss","video","video/","link","gif","jpeg","mp4","wav","jpg","mp3","png","share.php","sharer.php","login.php","print","print/","button/","share","email","submit","post",".pdf") ):    
                         continue
                     if not self.exists(url,1):
                         if url.startswith('http') and not self.exists(url,2):                            
