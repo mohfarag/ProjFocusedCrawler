@@ -33,7 +33,7 @@ def evaluate(collFolder,k):
         else:
             evalres.append(0)
         '''
-        
+        '''
         if 'hagupit' in text or 'ruby' in text:
             if 'typhoon' in text:
                 evalres.append(1)
@@ -44,7 +44,7 @@ def evaluate(collFolder,k):
             #evalres.append(1)
         else:
             evalres.append(0)
-        
+        '''
         '''
         if 'fire' in text:
             if 'la' in text:
@@ -73,6 +73,16 @@ def evaluate(collFolder,k):
         else:
             evalres.append(0)
         '''
+        if 'airasia' in text:
+            #if 'flight' in text and 'missing' in text:
+            #    evalres.append(1)
+            #elif 'plane' in text and 'missing' in text:
+            #    evalres.append(1)
+            #else:
+            #    evalres.append(0)
+            evalres.append(1)
+        else:
+            evalres.append(0)
         f.close()
     return evalres
 class myObj(object):
@@ -112,8 +122,8 @@ if __name__ == '__main__':
     #collFiles = '/Users/mmagdy/fc results/'+str(j)+'/event-'+str(i)+'/event-webpages/'
     #collFiles = '/Users/mmagdy/fc results/'+str(j)+'/base-'+str(i)+'/base-webpages/'
     
-    #collFiles = 'event-webpages/'
-    collFiles = 'base-webpages/'
+    collFiles = 'event-webpages/'
+    #collFiles = 'base-webpages/'
     res = evaluate(collFiles,500)
     f = open(collFiles+'evaluationRes_Words.txt','w')
     f.write('\n'.join([str(r) for r in res]))

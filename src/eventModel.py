@@ -307,6 +307,7 @@ class EventModel:
                 continue
             intersect = eventUtils.getIntersection(disasters, sentToks)
             if len(intersect) > self.intersectionTh:
+                #print intersect
                 sentEnts = eventUtils.getEntities(sent)[0]
                 if sentEnts.has_key('LOCATION') or sentEnts.has_key('DATE'):
                     sentEnts['Disaster'] = intersect
@@ -354,35 +355,38 @@ class EventModel:
         wvScalar = self.getScalar(wv)
         scores = []
         
-        ks = 0    
+        ksd = 0    
         for i in tokensDic:
             if i in eDisDic:
-                ks += (1+math.log(eDisDic[i][0]*eDisDic[i][1]))* (1+math.log(tokensDic[i]))
-        if ks > 0:
+                ksd += (1+math.log(eDisDic[i][0]*eDisDic[i][1]))* (1+math.log(tokensDic[i]))
+        if ksd > 0:
             #ev = [1+math.log(e) for e,_ in eDisDic.values()]
             #wv = [1+math.log(e) for e in tokensDic.values()]
             #ks = float(ks)/(self.getScalar(ev) * self.getScalar(wv))
-            ks = float(ks)/(self.scalars['Disaster'] * wvScalar)
+            ksd = float(ksd)/(self.scalars['Disaster'] * wvScalar)
             
         else:
-            ks = 0
+            ksd = 0
         #scores.append(0.5*ks)
-        scores.append(ks)
+        if ksd == 0:
+            return 0
+        #print ks
+        scores.append(ksd)
         
-        ks = 0    
+        ksl = 0    
         for i in tokensDic:
             if i in locDic:
-                ks += (1+math.log(locDic[i]))* (1+math.log(tokensDic[i]))
-        if ks > 0:
+                ksl += (1+math.log(locDic[i]))* (1+math.log(tokensDic[i]))
+        if ksl > 0:
             #ev = [1+math.log(e) for e in locDic.values()]
             #wv = [1+math.log(e) for e in tokensDic.values()]
             #ks = float(ks)/(self.getScalar(ev) * self.getScalar(wv))
-            ks = float(ks)/(self.scalars['LOCATION'] * wvScalar)
+            ksl = float(ksl)/(self.scalars['LOCATION'] * wvScalar)
             
         else:
-            ks = 0
+            ksl = 0
         #scores.append(0.25*ks)
-        scores.append(ks)
+        scores.append(ksl)
         
         ks = 0    
         for i in tokensDic:
@@ -400,7 +404,8 @@ class EventModel:
         scores.append(ks)
         
         #score = sum(scores) / 3.0
-        score = sum(scores)    
+        score = sum(scores) 
+        #print ksd,ksl,ks,doc
         return score
     
     def calculate_similarity_old(self,doc):

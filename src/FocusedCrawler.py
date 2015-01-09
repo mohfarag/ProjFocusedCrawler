@@ -154,15 +154,15 @@ def startCrawl(seedsFile,evaluator,modelFile,ct):
 
 if __name__ == "__main__":
     modelFile = 'modelFile'
-    seedsFiles=['seeds_459.txt','seeds_474.txt','seeds_478.txt']
-    posFiles = ['pos-FSU.txt','pos-Hagupit.txt','pos-LAFire.txt']
+    seedsFiles=['seeds_459.txt','seeds_474.txt','seeds_478.txt','seedsURLs_z_534.txt']
+    posFiles = ['pos-FSU.txt','pos-Hagupit.txt','pos-LAFire.txt','pos-AirAsia.txt']
     negFolder = 'neg'
     
     
     evaluator = Evaluate()
     #for i in range(3):
     
-    i=1
+    i=3
     posFile = posFiles[i]
     modelFile = modelFile +"-"+str(i)+".txt"
     classifierFileName = 'classifier'+posFile.split(".")[0].split('-')[1]+".p"
