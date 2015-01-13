@@ -16,6 +16,7 @@ class Crawler:
         self.urlScoreThreshold = crawlParams['urlScoreThreshold']
         self.pagesLimit = crawlParams['num_pages']
         self.mode = crawlParams['mode']
+        self.restricted = crawlParams['restricted']
         #self.pages = []
     
     def crawl(self):
@@ -37,6 +38,9 @@ class Crawler:
             #print -1 * work_url[0],",", str(page_score),",",work_url[1],",", work_url[3]
             print -1 * work_url[0],",",work_url[1],",", work_url[3]
             self.pagesCount += 1
+            if self.restricted:
+                if page_score < self.pageScoreThreshold:
+                    continue
             page.getUrls()
             self.relevantPages.append(page)
             for link in page.outgoingUrls:

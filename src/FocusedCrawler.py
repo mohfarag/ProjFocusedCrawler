@@ -140,6 +140,7 @@ def startCrawl(seedsFile,evaluator,modelFile,ct):
     crawlParams['seedURLs'] = seedURLs
     modelURLs = readFileLines(modelFile)
     crawlParams['model']=modelURLs
+    crawlParams['restricted'] = 0
     
     
     #crawlParams['t'] = t
@@ -154,22 +155,27 @@ def startCrawl(seedsFile,evaluator,modelFile,ct):
 
 if __name__ == "__main__":
     modelFile = 'modelFile'
-    seedsFiles=['seeds_459.txt','seeds_474.txt','seeds_478.txt','seedsURLs_z_534.txt']
-    posFiles = ['pos-FSU.txt','pos-Hagupit.txt','pos-LAFire.txt','pos-AirAsia.txt']
-    negFolder = 'neg'
-    
+    #seedsFiles=['seeds_459.txt','seeds_474.txt','seeds_478.txt','seedsURLs_z_534.txt']
+    seedsFiles=['seeds_459.txt','seeds_474.txt','seedsURLs_z_534.txt']
+    #seedsFiles=['seedsURLs_z_501.txt','seedsURLs_z_504.txt','seedsURLs_z_529.txt','seedsURLs_z_540.txt']
+    #posFiles = ['pos-FSU.txt','pos-Hagupit.txt','pos-LAFire.txt','pos-AirAsia.txt']
+    posFiles = ['pos-FSU.txt','pos-Hagupit.txt','pos-AirAsia.txt']
+    #negFolder = 'neg'
+    negFiles = ['neg-FSU.txt','neg-Hagupit.txt','neg-AirAsia.txt']
     
     evaluator = Evaluate()
     #for i in range(3):
     
-    i=3
+    i=0
     posFile = posFiles[i]
+    negFile = negFiles[i]
     modelFile = modelFile +"-"+str(i)+".txt"
     classifierFileName = 'classifier'+posFile.split(".")[0].split('-')[1]+".p"
     
-    evaluator.buildClassifier(posFile,negFolder,classifierFileName)
+    #evaluator.buildClassifier(posFile,negFolder,classifierFileName)
+    evaluator.buildClassifier(posFile,negFile,classifierFileName)
 
-    v = 1
+    v = 0
 
     inputFile = seedsFiles[i].split('.')[0]+"_"+str(v)+".txt"
     

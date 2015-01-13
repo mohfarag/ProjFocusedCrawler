@@ -37,7 +37,7 @@ class Evaluate(object):
             
     '''
 
-    def buildClassifier(self,posFile,negFolder,classifierFileName):
+    def buildClassifierFolder(self,posFile,negFolder,classifierFileName):
         #negURLsFile = 'negFile.txt'
         try:
             classifierFile = open(classifierFileName,"rb")
@@ -67,6 +67,18 @@ class Evaluate(object):
             self.classifier = train_SaveClassifier(posURLs, negURLs, classifierFileName)
             #return cls
 
+    def buildClassifier(self,posFile,negFile,classifierFileName):
+        #negURLsFile = 'negFile.txt'
+        try:
+            classifierFile = open(classifierFileName,"rb")
+            self.classifier = pickle.load(classifierFile)
+            classifierFile.close()
+            
+        except:
+            posURLs = readFileLines(posFile)
+            negURLs = readFileLines(negFile)
+            self.classifier = train_SaveClassifier(posURLs, negURLs, classifierFileName)
+            #return cls
     
     def evaluateFC(self,pages):
         results=[]

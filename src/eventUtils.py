@@ -120,7 +120,7 @@ def train_SaveClassifier(posURLs,negURLs,classifierFileName):
     return classifier
 '''
 
-def train_SaveClassifier(posURLs,negURLs,classifierFileName):
+def train_SaveClassifierFolder(posURLs,negURLs,classifierFileName):
         
     posDocs = getWebpageText(posURLs)
     posDocs = [d['title'] + " " + d['text'] for d in posDocs if d]
@@ -150,6 +150,52 @@ def train_SaveClassifier(posURLs,negURLs,classifierFileName):
     
     testingDocs = posTest + negTesting
     testingLabels = [1]*len(posTest) + [0]*len(negTesting)
+        
+    classifier = NaiveBayesClassifier()
+    #classifier = SVMClassifier()
+    
+    trainingLabelsArr = np.array(trainingLabels)
+    classifier.trainClassifier(trainingDocs,trainingLabelsArr)
+    
+    print classifier.score(trainingDocs, trainingLabelsArr)
+    print metrics.classification_report(trainingLabelsArr, classifier.predicted)
+       
+    test_labelsArr = np.array(testingLabels)
+    print classifier.score(testingDocs, test_labelsArr)
+    
+    
+    print metrics.classification_report(test_labelsArr, classifier.predicted)
+    classifierFile = open(classifierFileName,"wb")
+    pickle.dump(classifier,classifierFile)
+    classifierFile.close()
+    return classifier
+
+def train_SaveClassifier(posURLs,negURLs,classifierFileName):
+        
+    posDocs = getWebpageText(posURLs)
+    posDocs = [d['title'] + " " + d['text'] for d in posDocs if d]
+    
+    negDocs = getWebpageText(negURLs)
+    negDocs = [d['title'] + " " + d['text'] for d in negDocs if d]
+    
+    #negTraining = [d['title'] + " " + d['text'] for d in negTraining if d]
+    #negTesting = [d['title'] + " " + d['text'] for d in negTesting if d]
+    
+    posLen = len(posDocs)
+    posSep = int(0.7*posLen)
+    posTraining = posDocs[:posSep]
+    posTest = posDocs[posSep:]
+    
+    negLen = len(negDocs)
+    negSep = int(0.7*negLen)
+    negTraining = negDocs[:negSep]
+    negTest = negDocs[negSep:]
+    
+    trainingDocs = posTraining + negTraining
+    trainingLabels = [1]* len(posTraining) + [0]*len(negTraining)
+    
+    testingDocs = posTest + negTest
+    testingLabels = [1]*len(posTest) + [0]*len(negTest)
         
     classifier = NaiveBayesClassifier()
     #classifier = SVMClassifier()

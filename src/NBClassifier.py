@@ -28,7 +28,7 @@ class NaiveBayesClassifier(object):
         self.tf_transformer = TfidfTransformer(use_idf=True,sublinear_tf=True).fit(X_train_counts)
         X_train_tf = self.tf_transformer.transform(X_train_counts)
         
-        self.ch2 = SelectKBest(chi2,k=30)
+        self.ch2 = SelectKBest(chi2)
         X_train = self.ch2.fit_transform(X_train_tf, self.labels)
         
         #self.classifier.fit(X_train_tf, self.labels)
