@@ -163,10 +163,20 @@ if __name__ == "__main__":
     #negFolder = 'neg'
     negFiles = ['neg-FSU.txt','neg-Hagupit.txt','neg-AirAsia.txt']
     
+    '''
+    seedsFiles=['seedsURLs_z_501.txt','seedsURLs_z_540.txt']
+    
+    #posFiles = ['pos-FSU.txt','pos-Hagupit.txt','pos-AirAsia.txt']
+    #negFiles = ['neg-FSU.txt','neg-Hagupit.txt','neg-AirAsia.txt']
+    
+    posFiles = ['pos-Charlie.txt','pos-sydneyseige.txt']
+    negFiles = ['neg-Charlie.txt','neg-sydneyseige.txt']
+    '''
+    
     evaluator = Evaluate()
     #for i in range(3):
     
-    i=0
+    i=2
     posFile = posFiles[i]
     negFile = negFiles[i]
     modelFile = modelFile +"-"+str(i)+".txt"
