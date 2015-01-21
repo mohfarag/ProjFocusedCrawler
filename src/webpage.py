@@ -36,7 +36,7 @@ class Webpage:
         self.text = ""
         self.title = "" 
         self.outgoingUrls=[]
-        
+        self.soup = None
         res = utils.getWebpageText(url[1])[0]
         
         if res:

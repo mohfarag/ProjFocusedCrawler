@@ -5,7 +5,7 @@ Created on Dec 25, 2014
 '''
 import codecs
 
-from eventUtils import getTokens
+from eventUtils import getTokens, getFreq
 from evaluate import Evaluate
 def evaluate(collFolder,k):
     evalres = []
@@ -22,6 +22,7 @@ def evaluate(collFolder,k):
                 t = t[:-1]
             te.append(t)
         text = te
+        textFreq = getFreq(text)
         '''
         if 'shoot' in text or 'shooter' in text or 'shooting' in text:
             if 'fsu' in text:
@@ -73,7 +74,7 @@ def evaluate(collFolder,k):
         else:
             evalres.append(0)
         '''
-        
+        '''
         if 'airasia' in text or 'qz8501' in text:
             if 'flight' in text and 'missing' in text:
                 evalres.append(1)
@@ -84,7 +85,23 @@ def evaluate(collFolder,k):
             #evalres.append(1)
         else:
             evalres.append(0)
-        
+        '''
+        th = 2
+        if textFreq.get('qz8501',0)>th:
+            evalres.append(1)
+        elif textFreq.get('airasia',0)>th:
+            if textFreq.get('flight',0) or textFreq.get('plane',0):
+                if textFreq.get('missing',0) or textFreq.get('crash',0):
+                    evalres.append(1)
+                elif textFreq.get('8501',0) or textFreq.get('qz8501',0):
+                    evalres.append(1)
+                else:
+                    evalres.append(0)
+            else:
+                evalres.append(0)
+            #evalres.append(1)
+        else:
+            evalres.append(0)
         f.close()
     return evalres
 class myObj(object):
@@ -140,21 +157,21 @@ if __name__ == '__main__':
                 evaluateClassifier(classifierFile,collFiles,500)
     '''
     
-    j = 2
-    for i in range(3):
+    #j = 2
+    #for i in range(3):
     #i=0
-        collFiles = '/Users/mmagdy/fc results/'+str(j)+'/event-'+str(i)+'/event-webpages/'
+        #collFiles = '/Users/mmagdy/fc results/'+str(j)+'/event-'+str(i)+'/event-webpages/'
         #collFiles = '/Users/mmagdy/fc results/'+str(j)+'/base-'+str(i)+'/base-webpages/'
     
-    #collFiles = 'event-webpages/'
+    collFiles = 'event-webpages/0/'
     #collFiles = 'base-webpages/'
-        res = evaluate(collFiles,500)
-        f = open(collFiles+'evaluationRes_Words.txt','w')
-        #writeEvaluation(res, collFiles+ 'evalResults_2.txt')
-        f.write('\n'.join([str(r) for r in res]))
-        f.close()
-        print sum(res)
-    
+    res = evaluate(collFiles,500)
+    f = open(collFiles+'evaluationRes_Words.txt','w')
+    #writeEvaluation(res, collFiles+ 'evalResults_2.txt')
+    f.write('\n'.join([str(r) for r in res]))
+    f.close()
+    print sum(res)
+        
     
     '''
     n = ['/base-','/event-']

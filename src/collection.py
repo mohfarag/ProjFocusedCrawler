@@ -68,7 +68,7 @@ class Collection:
         self.wordsFrequencies = utils.getSorted(tokensFreqs,1)
         return self.wordsFrequencies
     
-    def getIndicativeWords(self):
+    def getIndicativeWords_old(self):
         if self.indicativeWords:
             return self.indicativeWords
         else:
@@ -80,6 +80,22 @@ class Collection:
             nvWords = [w[0] for w in wordsTags if w[1].startswith('N') or w[1].startswith('V')]
             wordsDic = dict(sortedToksTFDF)
             self.indicativeWords = [(w,wordsDic[w]) for w in nvWords]
+            return self.indicativeWords
+    
+    def getIndicativeWords(self):
+        if self.indicativeWords:
+            return self.indicativeWords
+        else:
+            
+            #toksTFDF = self.getWordsTFDF()
+            #sortedToksTFDF = sorted(toksTFDF.items(), key=lambda x: x[1][0], reverse=True)
+            #indWords = [w[0] for w in sortedToksTFDF]
+            
+            #wordsTags = utils.getPOS(indWords)
+            #nvWords = [w[0] for w in wordsTags if w[1].startswith('N') or w[1].startswith('V')]
+            #wordsDic = dict(sortedToksTFDF)
+            #self.indicativeWords = [(w,wordsDic[w]) for w in nvWords]
+            self.indicativeWords = self.getWordsFrequencies()
             return self.indicativeWords
             
     def getWordsTFDF(self):
@@ -101,6 +117,7 @@ class Collection:
             return self.indicativeSentences
         else:
             topToksTuples = self.indicativeWords[:topK]
+            #topToksTuples = self.indicativeWords
             topToks = [k for k,_ in topToksTuples]
             
             for d in self.documents:
@@ -116,10 +133,14 @@ class Collection:
                         continue
                     intersect = utils.getIntersection(topToks, sentToks)
                     if len(intersect) > intersectionTh:
-                        impSents[sent] = len(intersect)
+                        #impSents[sent] = len(intersect)
+                        impSents[sent] = intersect
+                        #print intersect
                         #if sent not in impSentsF:
                         #    impSentsF[sent] = len(intersect)
                     #allImptSents.append(impSents)
             if impSents:
-                self.indicativeSentences = utils.getSorted(impSents.items(),1)
+                #self.indicativeSentences = utils.getSorted(impSents.items(),1)
+                self.indicativeSentences = sorted(impSents.items(),key=lambda x: len(x[1]), reverse=True)
+                #sortedToksTFDF = sorted(toksTFDF.items(), key=lambda x: x[1][0], reverse=True)
             return self.indicativeSentences

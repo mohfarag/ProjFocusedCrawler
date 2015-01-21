@@ -103,46 +103,31 @@ class EventModel:
         return s
     
     
-    def buildEventModel(self,keywordsTh, seedURLs):
+    def buildEventModel(self,seedURLs):
         
         corpus = Collection(seedURLs)
-        
-        #NoTFDF
+        #sortedTokensFreqs = corpus.getWordsFrequencies()
         sortedToksTFDF = corpus.getIndicativeWords()
         self.toksTFDFDic = dict(sortedToksTFDF)
         print sortedToksTFDF
-        
-        #sortedImptSents = corpus.getIndicativeSentences(self.topK,self.intersectionTh)
-        sortedImptSents = corpus.getIndicativeSentences(keywordsTh,self.intersectionTh)
+        sortedImptSents = corpus.getIndicativeSentences(self.topK,self.intersectionTh)
         # Get Event Model
         eventModelInstances = eventUtils.getEventModelInsts(sortedImptSents)
         
         
         self.entities['LOCATION']= []
         self.entities['DATE'] = []
-        self.entities['Disaster']=[]
         for e in eventModelInstances:
             if 'LOCATION' in e:
                 self.entities['LOCATION'].extend( e['LOCATION'])
             elif 'DATE' in e:
                 self.entities['DATE'].extend( e['DATE'])
-            self.entities['Disaster'].extend(e['Disaster'])
         
         entitiesFreq = {}
         entitiesFreq['LOCATION'] = self.getEntitiesFreq(self.entities['LOCATION'])
         entitiesFreq['DATE'] = self.getEntitiesFreq(self.entities['DATE'])
-        entitiesFreq['Disaster'] = self.getEntitiesFreq(self.entities['Disaster'])
-        filteredDates = []
-        months = ['january','february','march','april','may','june','july','august','september','october','november','december']
-        for d,v in entitiesFreq['DATE']:
-            if d.isdigit() and len(d) == 4:
-                filteredDates.append((d,v))
-            elif d.lower() in months:
-                filteredDates.append((d,v))
-        entitiesFreq['DATE']=filteredDates
         
-        llen = 5
-        dlen = 5
+        llen = dlen = 5
         #l = [k for k,_ in entitiesFreq['LOCATION']]
         s = len(entitiesFreq['LOCATION'])
         
@@ -163,7 +148,7 @@ class EventModel:
         locDate = [k for k,_ in entitiesFreq['LOCATION'][:2]] + [m for m,_ in entitiesFreq['DATE']]
         
         locDate = eventUtils.getTokens(' '.join(locDate))
-        '''
+        
         ntopToks = []
         topToks = [k for k,_ in sortedToksTFDF]
         for tok in topToks:
@@ -172,15 +157,7 @@ class EventModel:
         topToks = ntopToks
         if self.topK < len(topToks):
             topToks =  topToks[:self.topK]
-        '''
-        ntopToks = []
-        topToks = [k for k,_ in entitiesFreq['Disaster']]
-        for tok in topToks:
-            if tok not in locDate:
-                ntopToks.append(tok)
-        topToks = ntopToks
-        if self.topK < len(topToks):
-            topToks =  topToks[:self.topK]
+        
         #print "Disaster: ", topToks
         
         
@@ -196,14 +173,10 @@ class EventModel:
         self.scalars = {}
         for k in self.entities:
             ekv = self.entities[k]
-            '''
             if k == 'Disaster':
                 ev = [1+math.log(e*v) for e,v in ekv.values()]
             else:
                 ev = [1+math.log(e) for e in ekv.values()]
-            '''
-            #NoTFDF
-            ev = [1+math.log(e) for e in ekv.values()]
             #self.vecs[k] = ev
             self.scalars[k] = self.getScalar(ev)
     
@@ -385,9 +358,7 @@ class EventModel:
         ksd = 0    
         for i in tokensDic:
             if i in eDisDic:
-                #NoTFDF
-                #ksd += (1+math.log(eDisDic[i][0]*eDisDic[i][1]))* (1+math.log(tokensDic[i]))
-                ksd += (1+math.log(eDisDic[i]))* (1+math.log(tokensDic[i]))
+                ksd += (1+math.log(eDisDic[i][0]*eDisDic[i][1]))* (1+math.log(tokensDic[i]))
         if ksd > 0:
             #ev = [1+math.log(e) for e,_ in eDisDic.values()]
             #wv = [1+math.log(e) for e in tokensDic.values()]
@@ -432,8 +403,8 @@ class EventModel:
         #scores.append(0.25*ks)
         scores.append(ks)
         
-        score = sum(scores) / 3.0
-        #score = sum(scores) 
+        #score = sum(scores) / 3.0
+        score = sum(scores) 
         #print ksd,ksl,ks,doc
         return score
     
@@ -566,54 +537,6 @@ class EventModel:
     
     
     def calculate_score(self,doc=""):
-        uentities = self.extractWebpageEventModel(doc)
-        if uentities and uentities.has_key('Disaster'):
-            scores = []
-            for k in uentities:
-                ks = 0
-                
-                ekv = self.entities[k]
-                wkv = uentities[k]
-                wv = [1+math.log(e) for e in wkv.values()]
-                wvscalar = self.getScalar(wv)
-                '''
-                if k == 'Disaster':
-                    for i in ekv:
-                        if i in wkv:
-                            ks += (1+math.log(ekv[i][0]*ekv[i][1]))* (1+math.log(wkv[i]))
-                    if ks > 0:
-                        #ev = [1+math.log(e) for e,_ in ekv.values()]
-                        
-                        #ks = float(ks)/(self.getScalar(ev) * wvscalar)
-                        ks = float(ks)/(self.scalars[k] * wvscalar)
-                        
-                    else:
-                        ks = 0
-                #if k == 'Disaster':
-                    #scores.append(0.5*ks)
-                    scores.append(ks)
-                else:
-                '''    
-                for i in ekv:
-                    if i in wkv:
-                        ks += (1+math.log(ekv[i]))* (1+math.log(wkv[i]))
-                if ks > 0:
-                    #ev = [1+math.log(e) for e in ekv.values()]
-                    
-                    #ks = float(ks)/(self.getScalar(ev) * wvscalar)
-                    ks = float(ks)/(self.scalars[k] * wvscalar)
-                    
-                else:
-                    ks = 0
-                #scores.append(0.25*ks)
-                scores.append(ks)
-            score = sum(scores)/3.0
-            #score = sum(scores)
-        else:
-            score = self.calculate_similarity(doc)
-        return score
-    
-    def calculate_score_TFDF(self,doc=""):
         uentities = self.extractWebpageEventModel(doc)
         if uentities and uentities.has_key('Disaster'):
             scores = []

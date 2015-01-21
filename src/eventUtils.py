@@ -35,7 +35,8 @@ logging.getLogger('requests').setLevel(logging.WARNING)
 #allSents = []
 
 stopwordsList = stopwords.words('english')
-stopwordsList.extend(["last","time","week","favorite","home","search","follow","year","account","update","com","video","close","http","retweet","tweet","twitter","news","people","said","comment","comments","share","email","new","would","one","world"])
+#stopwordsList.extend(["last","time","week","favorite","home","search","follow","year","account","update","com","video","close","http","retweet","tweet","twitter","news","people","said","comment","comments","share","email","new","would","one","world"])
+stopwordsList.extend(["com","http","retweet","tweet","twitter"])
 
 
 '''
@@ -336,7 +337,8 @@ def getTokens(texts):
     allTokens_an = [t2 for t2 in allTokens_2 if t2.isalnum()]
     allTokens_stw = [t3 for t3 in allTokens_an if t3 not in stopwordsList]
     allTokens_stem = [stemmer.stem(word) for word in allTokens_stw]
-    return allTokens_stem
+    final = [t for t in allTokens_stem if t not in stopwordsList]
+    return final
 
 def getFreq(tokens):
     toks = [t.lower() for t in tokens]
@@ -566,11 +568,13 @@ def getEventModelInsts(sortedImptSents):
     imptSents = [s[0] for s in sortedImptSents]
     eventModelInstances = getEntities(imptSents)
     impEventModelInstances = []
-    for emi in eventModelInstances:
+    for emi,s in zip(eventModelInstances,sortedImptSents):
         if emi.has_key('LOCATION'):
             impEventModelInstances.append(emi)
+            emi['Disaster'] = s[1]
         elif emi.has_key('DATE'):
             impEventModelInstances.append(emi)
+            emi['Disaster'] = s[1]
     #return eventModelInstances
     return impEventModelInstances
 

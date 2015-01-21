@@ -28,19 +28,22 @@ class Crawler:
             work_url = self.priorityQueue.pop()
             self.visited.append(work_url)
             page = Webpage(work_url,self.pagesCount)
-            if page.text == "Error":
+            if page.text =='' :
                 continue
+            '''
             if len(page.text) > 0:
                 page_score = self.scorer.calculate_score(page.text)
             else:
                 continue
             page.estimatedScore = page_score
-            #print -1 * work_url[0],",", str(page_score),",",work_url[1],",", work_url[3]
-            print -1 * work_url[0],",",work_url[1],",", work_url[3]
-            self.pagesCount += 1
             if self.restricted:
                 if page_score < self.pageScoreThreshold:
                     continue
+            '''
+            #print -1 * work_url[0],",", str(page_score),",",work_url[1],",", work_url[3]
+            print -1 * work_url[0],",",work_url[1],",", work_url[3]
+            self.pagesCount += 1
+            
             page.getUrls()
             self.relevantPages.append(page)
             for link in page.outgoingUrls:
@@ -61,8 +64,8 @@ class Crawler:
                                 tot_score = url_score
                                 if tot_score >= self.urlScoreThreshold:
                                     self.priorityQueue.push(((-1 * tot_score),url,page.pageId,link.getAllText()))
-                            else:
-                                self.priorityQueue.push(((-1 * page_score),url,page.pageId,link.getAllText()))
+                            #else:
+                            #    self.priorityQueue.push(((-1 * page_score),url,page.pageId,link.getAllText()))
             #else:
             #    self.pages.append((page,0))
                                     

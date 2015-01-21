@@ -30,7 +30,8 @@ def baseFC(crawlParams):
     #crawler = Crawler(priorityQueue,scorer,options)
     crawler = Crawler(crawlParams)
     crawler.crawl()
-   
+
+    '''
     f = open("base-logData.txt","w")
     furl = open("base-Output-URLs.txt","w")
     for p in crawler.relevantPages:
@@ -41,12 +42,11 @@ def baseFC(crawlParams):
         ftext.close()
     f.close()
     furl.close()
-    
     bres = evaluator.evaluateFC(crawler.relevantPages)
     writeEvaluation(bres,"base-evaluateData.txt")    
     print sum(bres)
     print len(bres)
-    
+    '''
     return crawler.relevantPages
     #return crawler.relevantPages
 
@@ -62,7 +62,7 @@ def eventFC(crawlParams):
     eventModel = EventModel(5,2)
     
     #eventModel.buildEventModel(crawlParams['seedURLs'])
-    eventModel.buildEventModel(crawlParams['model'])
+    eventModel.buildEventModel(20, crawlParams['model'])
     
     
     crawlParams['scorer']=eventModel
@@ -70,6 +70,9 @@ def eventFC(crawlParams):
     
     crawler.crawl()
     
+    
+    #return crawler.pages
+    '''
     f = open("event-logData.txt","w")
     furl = open("event-Output-URLs.txt","w")
     for p in crawler.relevantPages:
@@ -80,11 +83,12 @@ def eventFC(crawlParams):
         ftext.close()
     f.close()
     furl.close()
-    #return crawler.pages
+    
     eres = evaluator.evaluateFC(crawler.relevantPages)
     writeEvaluation(eres,"event-evaluateData.txt")    
     print sum(eres)
     print len(eres)
+    '''
     return crawler.relevantPages
     
 def intelligentFC(scorer,options):
@@ -123,7 +127,7 @@ def writeEvaluation(res,filename):
         f.write(str(rel) + "," + str(tot) + "\n")
     f.close()
 
-def startCrawl(seedsFile,evaluator,modelFile,ct):
+def startCrawl(v,seedsFile,evaluator,modelFile,ct):
 
     #switchFC = 1
     #number of keywords to represent event/topic
@@ -146,22 +150,57 @@ def startCrawl(seedsFile,evaluator,modelFile,ct):
     #crawlParams['t'] = t
     if ct =='b':
         #baseRelevantPages =baseFC(crawlParams)
-        baseFC(crawlParams)
+        
+        
+        rp = baseFC(crawlParams)
+        
+        f = open("base-webpages/"+str(v)+"/"+"base-logData.txt","w")
+        furl = open("base-webpages/"+str(v)+"/"+"base-Output-URLs.txt","w")
+        for p in rp:
+            f.write(str(p.pageId) + "," + str(p.pageUrl[2]) + "\n")
+            #furl.write(p.pageUrl[1].encode("utf-8")+","+str(p.estimatedScore)+"\n")
+            furl.write(p.pageUrl[1].encode("utf-8")+"\n")
+            ftext = open("base-webpages/"+str(v)+"/"+str(p.pageId) + ".txt", "w")
+            ftext.write(p.text.encode("utf-8"))
+            ftext.close()
+        f.close()
+        furl.close()
+        
+        res = evaluator.evaluateFC(rp)
+        writeEvaluation(res,"base-webpages/"+str(v)+"/"+"base-evaluateData.txt")    
+        print sum(res)
+        print len(res)
     else: 
         #eventRelevantPages = eventFC(crawlParams)
-        eventFC(crawlParams)
-
+        
+        rp = eventFC(crawlParams)
+        f = open("event-webpages/"+str(v)+"/"+"event-logData.txt","w")
+        furl = open("event-webpages/"+str(v)+"/"+"event-Output-URLs.txt","w")
+        for p in rp:
+            f.write(str(p.pageId) + "," + str(p.pageUrl[2]) + "\n")
+            #furl.write(p.pageUrl[1].encode('utf-8')+","+str(p.estimatedScore)+"\n")
+            furl.write(p.pageUrl[1].encode('utf-8')+"\n")
+            ftext = open("event-webpages/"+str(v)+"/"+str(p.pageId) + ".txt", "w")
+            ftext.write(p.text.encode("utf-8"))
+            ftext.close()
+        f.close()
+        furl.close()
+        res = evaluator.evaluateFC(rp)
+        writeEvaluation(res,"event-webpages/"+str(v)+"/"+"event-evaluateData.txt")    
+        print sum(res)
+        print len(res)
+    
 
 
 if __name__ == "__main__":
     modelFile = 'modelFile'
     #seedsFiles=['seeds_459.txt','seeds_474.txt','seeds_478.txt','seedsURLs_z_534.txt']
-    seedsFiles=['seeds_459.txt','seeds_474.txt','seedsURLs_z_534.txt']
+    seedsFiles=['seeds_459.txt','seeds_474.txt','seedsURLs_z_534.txt','seedsURLs_z_501.txt','seedsURLs_z_540.txt']
     #seedsFiles=['seedsURLs_z_501.txt','seedsURLs_z_504.txt','seedsURLs_z_529.txt','seedsURLs_z_540.txt']
     #posFiles = ['pos-FSU.txt','pos-Hagupit.txt','pos-LAFire.txt','pos-AirAsia.txt']
-    posFiles = ['pos-FSU.txt','pos-Hagupit.txt','pos-AirAsia.txt']
+    posFiles = ['pos-FSU.txt','pos-Hagupit.txt','pos-AirAsia.txt','pos-sydneyseige.txt','pos-Charlie.txt']
     #negFolder = 'neg'
-    negFiles = ['neg-FSU.txt','neg-Hagupit.txt','neg-AirAsia.txt']
+    negFiles = ['neg-FSU.txt','neg-Hagupit.txt','neg-AirAsia.txt','neg-sydneyseige.txt','neg-Charlie.txt']
     
     '''
     seedsFiles=['seedsURLs_z_501.txt','seedsURLs_z_540.txt']
@@ -176,7 +215,7 @@ if __name__ == "__main__":
     evaluator = Evaluate()
     #for i in range(3):
     
-    i=2
+    i=4
     posFile = posFiles[i]
     negFile = negFiles[i]
     modelFile = modelFile +"-"+str(i)+".txt"
@@ -197,6 +236,7 @@ if __name__ == "__main__":
     inputFile = 'seedURLs_'+event+'.txt'
     modelFile = 'modelURLs_'+ event + '.txt'
     '''
-    crawlType = 'b'
-    startCrawl(inputFile,evaluator,modelFile,crawlType)
+    crawlType = 'e'
+    modelFile = inputFile
+    startCrawl(v,inputFile,evaluator,modelFile,crawlType)
     
