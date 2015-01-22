@@ -221,9 +221,9 @@ if __name__ == '__main__':
     relevTh = 0.5
     k = 500
     #collFiles = 'event-webpages/1/'
-    collFiles = 'base-webpages/1/'
-    targeEventFile = 'pos-Hagupit.txt'
-    res = evaluateVSM(targeEventFile, collFiles, k, relevTh, 'classifierVSM-Hagupit.p')
+    collFiles = 'base-webpages/0/'
+    targeEventFile = 'pos-FSU.txt'
+    res = evaluateVSM(targeEventFile, collFiles, k, relevTh, 'classifierVSM-FSU.p')
     f = open(collFiles+'evaluationRes_Words.txt','w')
     #writeEvaluation(res, collFiles+ 'evalResults_2.txt')
     f.write('\n'.join([str(r) for r in res]))
