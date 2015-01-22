@@ -237,7 +237,7 @@ if __name__ == "__main__":
     inputFile = 'seedURLs_'+event+'.txt'
     modelFile = 'modelURLs_'+ event + '.txt'
     '''
-    crawlType = 'e'
+    crawlType = 'b'
     modelFile = inputFile
     startCrawl(v,inputFile,evaluator,modelFile,crawlType)
     
