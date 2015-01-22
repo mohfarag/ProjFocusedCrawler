@@ -7,6 +7,8 @@ import codecs
 
 from eventUtils import getTokens, getFreq
 from evaluate import Evaluate
+def evaluateVSM(targeEvent, collFolder,k):
+    return
 def evaluate(collFolder,k):
     evalres = []
     for j in range(k):

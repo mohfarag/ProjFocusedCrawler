@@ -12,9 +12,7 @@ import requests
 from nltk.corpus import stopwords
 from readability.readability import Document
 from operator import itemgetter
-from contextlib import closing
-from hanzo.warctools import ArchiveRecord, WarcRecord
-from warcunpack_ia import *
+import math
 import logging
 from NBClassifier import NaiveBayesClassifier
 from SVMClassifier import SVMClassifier
@@ -267,6 +265,14 @@ def train_SaveClassifierRandom(posURLs,negURLs,classifierFileName):
     pickle.dump(classifier,classifierFile)
     classifierFile.close()
     return classifier
+
+def getScalar(doc_tfidf):
+        total = 0
+        #for i in range(len(doc_tfidf)):
+        #    total += doc_tfidf[i] * doc_tfidf[i]
+        for k in doc_tfidf:
+            total += doc_tfidf[k] * doc_tfidf[k]
+        return math.sqrt(total)
 
 def getEntities(texts):
         

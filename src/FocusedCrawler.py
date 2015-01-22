@@ -193,7 +193,7 @@ def startCrawl(v,seedsFile,evaluator,modelFile,ct):
 
 
 if __name__ == "__main__":
-    modelFile = 'modelFile'
+    #modelFile = 'modelFile'
     #seedsFiles=['seeds_459.txt','seeds_474.txt','seeds_478.txt','seedsURLs_z_534.txt']
     seedsFiles=['seeds_459.txt','seeds_474.txt','seedsURLs_z_534.txt','seedsURLs_z_501.txt','seedsURLs_z_540.txt']
     #seedsFiles=['seedsURLs_z_501.txt','seedsURLs_z_504.txt','seedsURLs_z_529.txt','seedsURLs_z_540.txt']
@@ -215,14 +215,15 @@ if __name__ == "__main__":
     evaluator = Evaluate()
     #for i in range(3):
     
-    i=4
+    i=0
     posFile = posFiles[i]
     negFile = negFiles[i]
-    modelFile = modelFile +"-"+str(i)+".txt"
-    classifierFileName = 'classifier'+posFile.split(".")[0].split('-')[1]+".p"
-    
+    #modelFile = modelFile +"-"+str(i)+".txt"
+    #classifierFileName = 'classifier'+posFile.split(".")[0].split('-')[1]+".p"
+    vsmClassifierFileName = 'classifierVSM-'+posFile.split(".")[0].split('-')[1]+".p"
     #evaluator.buildClassifier(posFile,negFolder,classifierFileName)
-    evaluator.buildClassifier(posFile,negFile,classifierFileName)
+    #evaluator.buildClassifier(posFile,negFile,classifierFileName)
+    evaluator.buildVSMClassifier(posFile, vsmClassifierFileName)
 
     v = 0
 
