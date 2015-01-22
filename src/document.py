@@ -2,18 +2,18 @@ import eventUtils as utils
 class Document:
     ''' class for representing corpus document'''
     def __init__(self,url='',text=''):
-        
+        self.words = []
+        self.sentences = []
+        self.text = ''
         if url != '':
             self.URL = url.strip()
             if text == '':
-                self.text = ''
                 self.getText()
                 if self.text == '':
                     return None
             else:
                 self.text = text.strip()
-        self.words = []
-        self.sentences = []
+        
     '''
     def __init__(self):
         self.URL = ''
