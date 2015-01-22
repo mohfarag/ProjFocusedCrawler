@@ -42,7 +42,7 @@ class VSMClassifier(object):
         for dTF in self.docsTF:
             s = self.cosSim(docTF, dTF)
             sims.append(s)
-        sim = [max(sims)]
+        sim = max(sims)
         if sim >= self.relevanceth:
             return [1]
         else:
