@@ -122,7 +122,8 @@ class Evaluate(object):
             for url in f:
                 url = url.strip()
                 d = Document(url)
-                docs.append(d)
+                if d:
+                    docs.append(d)
             f.close()
             docsTF = []
             for d in docs:
