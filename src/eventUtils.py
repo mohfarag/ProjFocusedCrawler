@@ -37,6 +37,38 @@ stopwordsList = stopwords.words('english')
 stopwordsList.extend(["com","http","retweet","tweet","twitter"])
 
 
+class VSMClassifier(object):
+    def __init__(self, targetDocsTF,relevTh):
+        self.docsTF = targetDocsTF
+        self.relevanceth = relevTh
+        
+    def cosSim(self, doc1,doc2):
+        sim = 0
+        for k in doc1:
+            if k in doc2:
+                sim += (1 + math.log(doc1[k])) *  (1+math.log(doc2[k]))
+        
+        if sim > 0:
+            
+            sim = float(sim)/(getScalar(doc1) * getScalar(doc2))
+            
+        else:
+            sim = 0
+        return sim
+    
+    def calculate_score(self, doc):
+        sims=[]
+        docWords = getTokens(doc)
+        docTF = getFreq(docWords)
+        for dTF in self.docsTF:
+            s = self.cosSim(docTF, dTF)
+            sims.append(s)
+        sim = [max(sims)]
+        if sim >= self.relevanceth:
+            return [1]
+        else:
+            return [0]
+
 '''
 def train_SaveClassifier(posURLs,negURLs,classifierFileName):
     #posURLs = readFileLines(posURLsFile)

@@ -4,11 +4,60 @@ Created on Dec 25, 2014
 @author: mmagdy
 '''
 import codecs
-
-from eventUtils import getTokens, getFreq
+from eventUtils import getFreq
 from evaluate import Evaluate
-def evaluateVSM(targeEvent, collFolder,k):
-    return
+
+def evaluateVSM(targeEventFile, collFolder,k,relevTh,vsmClassifierFileName):
+    '''
+    docs = []
+    try:
+        classifierFile = open(vsmClassifierFileName,"rb")
+        classifier = pickle.load(classifierFile)
+        classifierFile.close()
+    except:    
+        f = open(targeEventFile,'r')
+        for url in f:
+            url = url.strip()
+            d = Document(url)
+            if d:
+                docs.append(d)
+        f.close()
+        docsTF = []
+        for d in docs:
+            wordsFreq = getFreq(d.getWords())
+            docsTF.append(wordsFreq)
+        
+        classifier = VSMClassifier(docsTF,relevTh)
+    
+    evalres = []
+    for j in range(k):
+        
+        fn = collFolder+str(j)+'.txt'
+        f = codecs.open(fn, encoding='utf-8')
+        ftext = f.read()
+        r = classifier.calculate_score(ftext)[0]
+        evalres.append(r)
+        f.close()
+    '''
+    evaluator = Evaluate()
+    evaluator.buildVSMClassifier(targeEventFile,vsmClassifierFileName,relevTh)
+    collFiles = []
+    for j in range(k):
+        
+        fn = collFolder+str(j)+'.txt'
+        f = codecs.open(fn, encoding='utf-8')
+        ftext = f.read()
+        o = myObj()
+        o.text = ftext
+        collFiles.append(o)
+    res = evaluator.evaluateFC(collFiles)
+    f = open(collFolder+'evaluationRes_VSM.txt','w')
+    f.write('\n'.join([str(r) for r in res]))
+    f.close()
+    print sum(res)
+    
+    
+
 def evaluate(collFolder,k):
     evalres = []
     for j in range(k):
@@ -106,6 +155,7 @@ def evaluate(collFolder,k):
             evalres.append(0)
         f.close()
     return evalres
+
 class myObj(object):
     def __init__(self):
         self.text =""
@@ -165,9 +215,15 @@ if __name__ == '__main__':
         #collFiles = '/Users/mmagdy/fc results/'+str(j)+'/event-'+str(i)+'/event-webpages/'
         #collFiles = '/Users/mmagdy/fc results/'+str(j)+'/base-'+str(i)+'/base-webpages/'
     
-    collFiles = 'event-webpages/0/'
+    #collFiles = 'event-webpages/0/'
     #collFiles = 'base-webpages/'
-    res = evaluate(collFiles,500)
+    #res = evaluate(collFiles,500)
+    relevTh = 0.5
+    k = 500
+    #collFiles = 'event-webpages/1/'
+    collFiles = 'base-webpages/1/'
+    targeEventFile = 'pos-Hagupit.txt'
+    res = evaluateVSM(targeEventFile, collFiles, k, relevTh, 'classifierVSM-Hagupit.p')
     f = open(collFiles+'evaluationRes_Words.txt','w')
     #writeEvaluation(res, collFiles+ 'evalResults_2.txt')
     f.write('\n'.join([str(r) for r in res]))
