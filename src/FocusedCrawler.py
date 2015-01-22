@@ -214,7 +214,7 @@ if __name__ == "__main__":
     
     evaluator = Evaluate()
     #for i in range(3):
-    
+    th = 0.5
     i=0
     posFile = posFiles[i]
     negFile = negFiles[i]
@@ -223,7 +223,7 @@ if __name__ == "__main__":
     vsmClassifierFileName = 'classifierVSM-'+posFile.split(".")[0].split('-')[1]+".p"
     #evaluator.buildClassifier(posFile,negFolder,classifierFileName)
     #evaluator.buildClassifier(posFile,negFile,classifierFileName)
-    evaluator.buildVSMClassifier(posFile, vsmClassifierFileName)
+    evaluator.buildVSMClassifier(posFile, vsmClassifierFileName,th)
 
     v = 0
 

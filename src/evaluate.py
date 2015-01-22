@@ -17,8 +17,9 @@ import pickle
 from document import Document
 
 class VSMClassifier(object):
-    def __init__(self, targetDocsTF):
+    def __init__(self, targetDocsTF,th):
         self.docsTF = targetDocsTF
+        self.th = th
         
     def cosSim(self, doc1,doc2):
         sim = 0
@@ -41,7 +42,11 @@ class VSMClassifier(object):
         for dTF in self.docsTF:
             s = self.cosSim(docTF, dTF)
             sims.append(s)
-        return [max(sims)]
+        sim = [max(sims)]
+        if sim >= self.th:
+            return [1]
+        else:
+            return [0]
     
     
 class Evaluate(object):
@@ -110,7 +115,7 @@ class Evaluate(object):
             self.classifier = train_SaveClassifier(posURLs, negURLs, classifierFileName)
             #return cls
     
-    def buildVSMClassifier(self,posFile,vsmClassifierFileName):
+    def buildVSMClassifier(self,posFile,vsmClassifierFileName,th):
         
         try:
             classifierFile = open(vsmClassifierFileName,"rb")
@@ -130,7 +135,7 @@ class Evaluate(object):
                 wordsFreq = getFreq(d.getWords())
                 docsTF.append(wordsFreq)
             
-            self.classifier = VSMClassifier(docsTF)
+            self.classifier = VSMClassifier(docsTF,th)
             classifierFile = open(vsmClassifierFileName,"wb")
             pickle.dump(self.classifier,classifierFile)
             classifierFile.close()
