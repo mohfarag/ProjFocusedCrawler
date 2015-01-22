@@ -41,7 +41,7 @@ class VSMClassifier(object):
         for dTF in self.docsTF:
             s = self.cosSim(docTF, dTF)
             sims.append(s)
-        return max(sims)
+        return [max(sims)]
     
     
 class Evaluate(object):
@@ -132,7 +132,7 @@ class Evaluate(object):
             
             self.classifier = VSMClassifier(docsTF)
             classifierFile = open(vsmClassifierFileName,"wb")
-            pickle.dump(self.classifier,vsmClassifierFileName)
+            pickle.dump(self.classifier,classifierFile)
             classifierFile.close()
         
     def evaluateFC(self,pages):
