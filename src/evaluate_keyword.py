@@ -220,11 +220,13 @@ if __name__ == '__main__':
     #res = evaluate(collFiles,500)
     relevTh = 0.75
     k = 500
-    #collFiles = 'event-webpages/0/'
-    #collFiles = 'base-webpages/0/'
+   
     es = ['FSU','Hagupit','AirAsia','sydneyseige','Charlie']
     j = 4
     i = 0
+    #collFiles = 'event-webpages/'+str(i)+'/'
+    #collFiles = 'base-webpages/'+i+'/'
+    
     collFiles = '/Users/mmagdy/fc results/'+str(j)+'/base-'+str(i)+'/'
     #collFiles = '/Users/mmagdy/fc results/'+str(j)+'/event-'+str(i)+'/'
     targeEventFile = 'pos-'+es[j]+'.txt'
@@ -232,7 +234,7 @@ if __name__ == '__main__':
     #targeEventFile = 'pos-AirAsia.txt'
     #targeEventFile = 'pos-sydneyseige.txt'
     #targeEventFile = 'pos-Charlie.txt'
-    noK = 10
+    noK = 20
     res = evaluateVSM(targeEventFile, collFiles, k, relevTh, 'classifierVSM-'+es[j]+'.p',noK)
     f = open(collFiles+'evaluationRes_VSM.txt','w')
     #writeEvaluation(res, collFiles+ 'evalResults_2.txt')

@@ -216,7 +216,7 @@ if __name__ == "__main__":
     #for i in range(3):
     noK = 10
     th = 0.75
-    i=0
+    i=4
     posFile = posFiles[i]
     negFile = negFiles[i]
     #modelFile = modelFile +"-"+str(i)+".txt"

@@ -385,36 +385,23 @@ class EventModel:
         ksd = 0    
         for i in tokensDic:
             if i in eDisDic:
-                #NoTFDF
-                #ksd += (1+math.log(eDisDic[i][0]*eDisDic[i][1]))* (1+math.log(tokensDic[i]))
                 ksd += (1+math.log(eDisDic[i]))* (1+math.log(tokensDic[i]))
         if ksd > 0:
-            #ev = [1+math.log(e) for e,_ in eDisDic.values()]
-            #wv = [1+math.log(e) for e in tokensDic.values()]
-            #ks = float(ks)/(self.getScalar(ev) * self.getScalar(wv))
             ksd = float(ksd)/(self.scalars['Disaster'] * wvScalar)
-            
         else:
             ksd = 0
-        #scores.append(0.5*ks)
         if ksd == 0:
             return 0
-        #print ks
         scores.append(ksd)
-        
         ksl = 0    
         for i in tokensDic:
             if i in locDic:
                 ksl += (1+math.log(locDic[i]))* (1+math.log(tokensDic[i]))
         if ksl > 0:
-            #ev = [1+math.log(e) for e in locDic.values()]
-            #wv = [1+math.log(e) for e in tokensDic.values()]
-            #ks = float(ks)/(self.getScalar(ev) * self.getScalar(wv))
             ksl = float(ksl)/(self.scalars['LOCATION'] * wvScalar)
             
         else:
             ksl = 0
-        #scores.append(0.25*ks)
         scores.append(ksl)
         
         ks = 0    
@@ -422,22 +409,16 @@ class EventModel:
             if i in dDic:
                 ks += (1+math.log(dDic[i]))* (1+math.log(tokensDic[i]))
         if ks > 0:
-            #ev = [1+math.log(e) for e in dDic.values()]
-            #wv = [1+math.log(e) for e in tokensDic.values()]
-            #ks = float(ks)/(self.getScalar(ev) * self.getScalar(wv))
             ks = float(ks)/(self.scalars['DATE'] * wvScalar)
             
         else:
             ks = 0
-        #scores.append(0.25*ks)
         scores.append(ks)
         
         score = sum(scores) / 3.0
-        #score = sum(scores) 
-        #print ksd,ksl,ks,doc
         return score
     
-    def calculate_similarity_old(self,doc):
+    def calculate_similarity_intersect(self,doc):
         #tokens = getTokenizedDoc(doc)
         tokens = eventUtils.getTokens(doc)
         doc_set = set(tokens)
@@ -445,16 +426,14 @@ class EventModel:
         scores = []
         
         for k in self.entities:
-            intersect = len(doc_set & self.entities[k])
+            entSet = set(self.entities[k].keys())
+            intersect = len(doc_set & entSet)
+            union = len(doc_set | entSet)
             if k == "Disaster":
                 if intersect == 0:
                     return 0
             
-            score = intersect * 1.0 / len(self.entities[k])
-                
-                #score = score * self.dw
-            #else:
-                #score = score * self.ltw
+            score = intersect * 1.0 / union #len(self.entities[k])
             
             scores.append(score)
         
@@ -564,12 +543,27 @@ class EventModel:
             total += doc_tfidf[i] * doc_tfidf[i]
         return math.sqrt(total)
     
+    def calculate_score_intersect(self,doc=""):
+        uentities = self.extractWebpageEventModel(doc)
+        if uentities and uentities.has_key('Disaster'):
+            scores = []
+            for k in uentities:
+                entSet = set(self.entities[k].keys())
+                intersect = len(uentities[k] & entSet)
+                union = len(uentities[k] | entSet)
+                score = intersect * 1.0 / union#len(self.entities[k])
+                scores.append(score)
+            score = sum(scores)
+        else:
+            score = self.calculate_similarity(doc)
+        return score
     
     def calculate_score(self,doc=""):
         uentities = self.extractWebpageEventModel(doc)
         if uentities and uentities.has_key('Disaster'):
             scores = []
             for k in uentities:
+                #print 'yes'
                 ks = 0
                 
                 ekv = self.entities[k]
@@ -610,6 +604,7 @@ class EventModel:
             score = sum(scores)/3.0
             #score = sum(scores)
         else:
+            #print 'no'
             score = self.calculate_similarity(doc)
         return score
     
