@@ -222,19 +222,21 @@ if __name__ == '__main__':
     k = 500
    
     es = ['FSU','Hagupit','AirAsia','sydneyseige','Charlie']
-    j = 4
+    seedsFiles=['seeds_459.txt','seeds_474.txt','seedsURLs_z_534.txt','seedsURLs_z_501.txt','seedsURLs_z_540.txt']
+    j = 3
     i = 0
-    #collFiles = 'event-webpages/'+str(i)+'/'
-    #collFiles = 'base-webpages/'+i+'/'
+    collFiles = 'event-webpages/'+str(i)+'/'
+    #collFiles = 'base-webpages/'+str(i)+'/'
     
-    collFiles = '/Users/mmagdy/fc results/'+str(j)+'/base-'+str(i)+'/'
+    #collFiles = '/Users/mmagdy/fc results/'+str(j)+'/base-'+str(i)+'/'
     #collFiles = '/Users/mmagdy/fc results/'+str(j)+'/event-'+str(i)+'/'
-    targeEventFile = 'pos-'+es[j]+'.txt'
+    #targeEventFile = 'pos-'+es[j]+'.txt'
+    targeEventFile = seedsFiles[i].split('.')[0]+"_"+str(i)+".txt"
     #targeEventFile = 'pos-Hagupit.txt'
     #targeEventFile = 'pos-AirAsia.txt'
     #targeEventFile = 'pos-sydneyseige.txt'
     #targeEventFile = 'pos-Charlie.txt'
-    noK = 20
+    noK = 10
     res = evaluateVSM(targeEventFile, collFiles, k, relevTh, 'classifierVSM-'+es[j]+'.p',noK)
     f = open(collFiles+'evaluationRes_VSM.txt','w')
     #writeEvaluation(res, collFiles+ 'evalResults_2.txt')

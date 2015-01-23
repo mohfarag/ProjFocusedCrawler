@@ -437,7 +437,7 @@ class EventModel:
             
             scores.append(score)
         
-        score = sum(scores)     
+        score = sum(scores)/3.0     
         return score
     
     def extractWebpageEventModel(self, text):
@@ -553,7 +553,7 @@ class EventModel:
                 union = len(uentities[k] | entSet)
                 score = intersect * 1.0 / union#len(self.entities[k])
                 scores.append(score)
-            score = sum(scores)
+            score = sum(scores)/3.0
         else:
             score = self.calculate_similarity(doc)
         return score
