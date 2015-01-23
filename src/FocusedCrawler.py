@@ -214,7 +214,8 @@ if __name__ == "__main__":
     
     evaluator = Evaluate()
     #for i in range(3):
-    th = 0.5
+    noK = 10
+    th = 0.1
     i=0
     posFile = posFiles[i]
     negFile = negFiles[i]
@@ -223,7 +224,7 @@ if __name__ == "__main__":
     vsmClassifierFileName = 'classifierVSM-'+posFile.split(".")[0].split('-')[1]+".p"
     #evaluator.buildClassifier(posFile,negFolder,classifierFileName)
     #evaluator.buildClassifier(posFile,negFile,classifierFileName)
-    evaluator.buildVSMClassifier(posFile, vsmClassifierFileName,th)
+    evaluator.buildVSMClassifier(posFile, vsmClassifierFileName,th,noK)
 
     v = 0
 
@@ -237,7 +238,7 @@ if __name__ == "__main__":
     inputFile = 'seedURLs_'+event+'.txt'
     modelFile = 'modelURLs_'+ event + '.txt'
     '''
-    crawlType = 'b'
+    crawlType = 'e'
     modelFile = inputFile
     startCrawl(v,inputFile,evaluator,modelFile,crawlType)
     
