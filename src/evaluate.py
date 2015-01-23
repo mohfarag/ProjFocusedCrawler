@@ -30,14 +30,15 @@ class VSMClassifier(object):
             sim +=  a * b 
         
         if sim > 0:
-            
-            sim = float(sim)/(getScalar(doc1) * getScalar(doc2))
+            doc1s = [1+math.log(doc1[k]) for k in doc1]
+            doc2s = [1+math.log(doc2[k]) for k in doc2]
+            sim = float(sim)/(getScalar(doc1s) * getScalar(doc2s))
             
         else:
             sim = 0
         return sim
     
-    def calculate_score(self, doc):
+    def calculate_score_AllDocs(self, doc):
         sims=[]
         docWords = getTokens(doc)
         docTF = getFreq(docWords)
@@ -51,6 +52,30 @@ class VSMClassifier(object):
             s = self.cosSim(ndocTF, dTF)
             sims.append(s)
         sim = max(sims)
+        if sim >= self.relevanceth:
+            return [1,sim]
+        else:
+            return [0,sim]
+    
+    def calculate_score(self, doc):
+        #sims=[]
+        docWords = getTokens(doc)
+        docTF = getFreq(docWords)
+        ndocTF = dict.fromkeys(self.topVocabDic)
+        
+        
+        for k in ndocTF:
+            if k in docTF:
+                ndocTF[k] = docTF[k]
+            else:
+                ndocTF[k] = 1/math.e
+        sim = self.cosSim(self.topVocabDic, ndocTF)
+        '''
+        for dTF in self.docsTF:
+            s = self.cosSim(ndocTF, dTF)
+            sims.append(s)
+        sim = max(sims)
+        '''
         if sim >= self.relevanceth:
             return [1,sim]
         else:
@@ -149,7 +174,7 @@ class Evaluate(object):
             vocabTFDic = {}
             for d in docs:
                 wordsFreq = getFreq(d.getWords())
-                docsTF.append(wordsFreq)
+                #docsTF.append(wordsFreq)
                 for w in wordsFreq:
                     if w in vocabTFDic:
                         vocabTFDic[w] += wordsFreq[w]
@@ -158,7 +183,10 @@ class Evaluate(object):
             
             vocabSorted = getSorted(vocabTFDic.items(), 1)
             topVocabDic = dict(vocabSorted[:topK])
+            #topVocabDic = vocabTFDic
+            
             ndocsTF = []
+            '''
             for d in docsTF:
                 ndocTF = {}
                 for k in topVocabDic:
@@ -167,7 +195,7 @@ class Evaluate(object):
                     else: 
                         ndocTF[k] = 1/math.e
                 ndocsTF.append(ndocTF)
-                
+             '''   
             
             self.classifier = VSMClassifier(topVocabDic,ndocsTF,th)
             classifierFile = open(vsmClassifierFileName,"wb")

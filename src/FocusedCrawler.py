@@ -215,7 +215,7 @@ if __name__ == "__main__":
     evaluator = Evaluate()
     #for i in range(3):
     noK = 10
-    th = 0.1
+    th = 0.75
     i=0
     posFile = posFiles[i]
     negFile = negFiles[i]

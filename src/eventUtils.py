@@ -300,10 +300,10 @@ def train_SaveClassifierRandom(posURLs,negURLs,classifierFileName):
 
 def getScalar(doc_tfidf):
         total = 0
-        #for i in range(len(doc_tfidf)):
-        #    total += doc_tfidf[i] * doc_tfidf[i]
-        for k in doc_tfidf:
-            total += doc_tfidf[k] * doc_tfidf[k]
+        for i in range(len(doc_tfidf)):
+            total += doc_tfidf[i] * doc_tfidf[i]
+        #for k in doc_tfidf:
+        #    total += doc_tfidf[k] * doc_tfidf[k]
         return math.sqrt(total)
 
 def getEntities(texts):

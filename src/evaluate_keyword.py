@@ -218,13 +218,22 @@ if __name__ == '__main__':
     #collFiles = 'event-webpages/0/'
     #collFiles = 'base-webpages/'
     #res = evaluate(collFiles,500)
-    relevTh = 0.1
+    relevTh = 0.75
     k = 500
-    #collFiles = 'event-webpages/1/'
-    collFiles = 'base-webpages/0/'
-    targeEventFile = 'pos-FSU.txt'
+    #collFiles = 'event-webpages/0/'
+    #collFiles = 'base-webpages/0/'
+    es = ['FSU','Hagupit','AirAsia','sydneyseige','Charlie']
+    j = 4
+    i = 0
+    collFiles = '/Users/mmagdy/fc results/'+str(j)+'/base-'+str(i)+'/'
+    #collFiles = '/Users/mmagdy/fc results/'+str(j)+'/event-'+str(i)+'/'
+    targeEventFile = 'pos-'+es[j]+'.txt'
+    #targeEventFile = 'pos-Hagupit.txt'
+    #targeEventFile = 'pos-AirAsia.txt'
+    #targeEventFile = 'pos-sydneyseige.txt'
+    #targeEventFile = 'pos-Charlie.txt'
     noK = 10
-    res = evaluateVSM(targeEventFile, collFiles, k, relevTh, 'classifierVSM-FSU.p',noK)
+    res = evaluateVSM(targeEventFile, collFiles, k, relevTh, 'classifierVSM-'+es[j]+'.p',noK)
     f = open(collFiles+'evaluationRes_VSM.txt','w')
     #writeEvaluation(res, collFiles+ 'evalResults_2.txt')
     f.write('\n'.join([str(r) for r in res]))
