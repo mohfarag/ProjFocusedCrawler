@@ -7,7 +7,7 @@ import codecs
 from eventUtils import getFreq
 from evaluate import Evaluate
 
-def evaluateVSM(targeEventFile, collFolder,k,relevTh,vsmClassifierFileName):
+def evaluateVSM(targeEventFile, collFolder,k,relevTh,vsmClassifierFileName,topK):
     '''
     docs = []
     try:
@@ -40,7 +40,7 @@ def evaluateVSM(targeEventFile, collFolder,k,relevTh,vsmClassifierFileName):
         f.close()
     '''
     evaluator = Evaluate()
-    evaluator.buildVSMClassifier(targeEventFile,vsmClassifierFileName,relevTh)
+    evaluator.buildVSMClassifier(targeEventFile,vsmClassifierFileName,relevTh,topK)
     collFiles = []
     for j in range(k):
         
@@ -51,11 +51,11 @@ def evaluateVSM(targeEventFile, collFolder,k,relevTh,vsmClassifierFileName):
         o.text = ftext
         collFiles.append(o)
     res = evaluator.evaluateFC(collFiles)
-    f = open(collFolder+'evaluationRes_VSM.txt','w')
-    f.write('\n'.join([str(r) for r in res]))
-    f.close()
-    print sum(res)
-    
+    #f = open(collFolder+'evaluationRes_VSM.txt','w')
+    #f.write('\n'.join([str(r) for r in res]))
+    #f.close()
+    #print sum(res)
+    return res
     
 
 def evaluate(collFolder,k):
@@ -218,13 +218,14 @@ if __name__ == '__main__':
     #collFiles = 'event-webpages/0/'
     #collFiles = 'base-webpages/'
     #res = evaluate(collFiles,500)
-    relevTh = 0.5
+    relevTh = 0.1
     k = 500
     #collFiles = 'event-webpages/1/'
     collFiles = 'base-webpages/0/'
     targeEventFile = 'pos-FSU.txt'
-    res = evaluateVSM(targeEventFile, collFiles, k, relevTh, 'classifierVSM-FSU.p')
-    f = open(collFiles+'evaluationRes_Words.txt','w')
+    noK = 10
+    res = evaluateVSM(targeEventFile, collFiles, k, relevTh, 'classifierVSM-FSU.p',noK)
+    f = open(collFiles+'evaluationRes_VSM.txt','w')
     #writeEvaluation(res, collFiles+ 'evalResults_2.txt')
     f.write('\n'.join([str(r) for r in res]))
     f.close()

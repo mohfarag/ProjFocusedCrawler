@@ -10,22 +10,24 @@ import numpy as np
 from sklearn import metrics
 from Filter import downloadRawDocs
 '''
-from eventUtils import getFreq, train_SaveClassifier, readFileLines,getTokens, getScalar
+from eventUtils import getFreq, train_SaveClassifier, readFileLines,getTokens, getScalar,getSorted
 import os
 import math
 import pickle
 from document import Document
 
 class VSMClassifier(object):
-    def __init__(self, targetDocsTF,relevTh):
+    def __init__(self, topVocabDic,targetDocsTF,relevTh):
         self.docsTF = targetDocsTF
         self.relevanceth = relevTh
-        
+        self.topVocabDic = topVocabDic
     def cosSim(self, doc1,doc2):
         sim = 0
         for k in doc1:
-            if k in doc2:
-                sim += (1 + math.log(doc1[k])) *  (1+math.log(doc2[k]))
+            #if k in doc2:
+            a = (1 + math.log(doc1[k]))
+            b = (1+math.log(doc2[k]))
+            sim +=  a * b 
         
         if sim > 0:
             
@@ -39,14 +41,20 @@ class VSMClassifier(object):
         sims=[]
         docWords = getTokens(doc)
         docTF = getFreq(docWords)
+        ndocTF = dict.fromkeys(self.topVocabDic)
+        for k in ndocTF:
+            if k in docTF:
+                ndocTF[k] = docTF[k]
+            else:
+                ndocTF[k] = 1/math.e
         for dTF in self.docsTF:
-            s = self.cosSim(docTF, dTF)
+            s = self.cosSim(ndocTF, dTF)
             sims.append(s)
         sim = max(sims)
         if sim >= self.relevanceth:
-            return [1]
+            return [1,sim]
         else:
-            return [0]
+            return [0,sim]
     
     
 class Evaluate(object):
@@ -115,7 +123,7 @@ class Evaluate(object):
             self.classifier = train_SaveClassifier(posURLs, negURLs, classifierFileName)
             #return cls
     
-    def buildVSMClassifier(self,posFile,vsmClassifierFileName,th):
+    def buildVSMClassifier(self,posFile,vsmClassifierFileName,th,topK):
         
         try:
             classifierFile = open(vsmClassifierFileName,"rb")
@@ -130,26 +138,55 @@ class Evaluate(object):
                 if d and d.text:
                     docs.append(d)
             f.close()
+            '''
             docsTF = []
             for d in docs:
                 wordsFreq = getFreq(d.getWords())
                 docsTF.append(wordsFreq)
-            
             self.classifier = VSMClassifier(docsTF,th)
+            '''
+            docsTF = []
+            vocabTFDic = {}
+            for d in docs:
+                wordsFreq = getFreq(d.getWords())
+                docsTF.append(wordsFreq)
+                for w in wordsFreq:
+                    if w in vocabTFDic:
+                        vocabTFDic[w] += wordsFreq[w]
+                    else:
+                        vocabTFDic[w] = wordsFreq[w]
             
+            vocabSorted = getSorted(vocabTFDic.items(), 1)
+            topVocabDic = dict(vocabSorted[:topK])
+            ndocsTF = []
+            for d in docsTF:
+                ndocTF = {}
+                for k in topVocabDic:
+                    if k in d:
+                        ndocTF[k] = d[k]
+                    else: 
+                        ndocTF[k] = 1/math.e
+                ndocsTF.append(ndocTF)
+                
+            
+            self.classifier = VSMClassifier(topVocabDic,ndocsTF,th)
             classifierFile = open(vsmClassifierFileName,"wb")
             pickle.dump(self.classifier,classifierFile)
             classifierFile.close()
         
     def evaluateFC(self,pages):
         results=[]
+        scores = []
         #for page,score in pages:
         for page in pages:
             #if page.estimatedScore > 0:
-            s = self.classifier.calculate_score(page.text)[0]
-            results.append(s)
+            s = self.classifier.calculate_score(page.text)
+            r = s[0]
+            results.append(r)
+            scores.append(s[1])
             #else:
             #    results.append(0)
+        print scores
         return results
         
         
