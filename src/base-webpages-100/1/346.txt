@@ -1,0 +1,181 @@
+PAGASA-DOST
+PAGASA-DOST
+
+
+
+
+
+
+
+ Tools
+ Back to Home
+
+
+
+
+
+
+
+
+
+ Zoom In
+ Zoom Out
+
+
+
+
+
+Weather Stations
+
+
+Network 1
+Network 2
+
+
+Humidity(%)
+Temperature (°C)
+Pressure (hPa)
+Solar Radiation (wm²)
+Wind Direction (°)
+Wind Speed (mps)
+Rain(mm)
+Station Plot
+None
+
+
+CAR
+REGION I
+REGION II
+REGION III
+NCR
+REGION IV-A
+REGION IV-B
+REGION V
+REGION VI
+REGION VII
+REGION VIII
+REGION IX
+REGION X
+REGION XI
+REGION XII
+REGION XIII
+ARMM
+
+
+
+
+PAGASA Radar
+
+
+  Aparri
+ Baguio
+Subic
+ Tagaytay
+  Virac
+ Cebu
+  Hinatuan
+  Guiuan
+  Tampakan
+Opacity Settings
+
+
+
+
+Satellite Images
+
+
+MTSAT IR
+ MTSAT VIS
+ FY2E IR
+ FY2E VIS
+ None
+Opacity Settings
+
+
+
+
+Flood Forecasting
+
+
+Cagayan Valley
+Opacity Settings
+
+
+
+
+Weather Camera
+
+
+
+Science Garden
+
+
+Tuguegarao
+
+
+Mactan
+
+
+Legazpi
+
+
+El Salvador
+
+
+NAIA
+
+
+
+
+
+
+
+PAGASA Common Alerting Protocol
+
+
+
+
+Headline
+Response
+Urgency
+Severity
+Expires
+Link
+
+
+
+Not Available 
+
+
+* For more info visit www.pagasa.dost.gov.ph
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -85,15 +85,18 @@ def evaluate(collFolder,k):
         else:
             evalres.append(0)
         '''
+        
         '''
-        if 'hagupit' in text or 'ruby' in text:
-            if 'typhoon' in text:
+        if 'typhoon' in text:
+            if 'hagupit' in text or 'ruby' in text:
                 evalres.append(1)
-            elif 'philippin' in text or 'philippines' in text:
-                evalres.append(1)
+            #elif 'philippin' in text or 'philippines' in text:
+            #    evalres.append(1)
             else:
                 evalres.append(0)
             #evalres.append(1)
+        elif 'hagupit' in text:
+            evalres.append(1)
         else:
             evalres.append(0)
         '''
@@ -125,17 +128,22 @@ def evaluate(collFolder,k):
         else:
             evalres.append(0)
         '''
-        '''
-        if 'airasia' in text or 'qz8501' in text:
+        if 'qz8501' in text:
+            evalres.append(1)
+        elif 'airasia' in text:
             if 'flight' in text and 'missing' in text:
                 evalres.append(1)
-            elif 'plane' in text and 'missing' in text:
-                evalres.append(1)
+            elif 'plane' in text:
+                if 'crash' in text or 'missing' in text:
+                    evalres.append(1)
+                else:
+                    evalres.append(0)
             else:
                 evalres.append(0)
             #evalres.append(1)
         else:
             evalres.append(0)
+        
         '''
         th = 2
         if textFreq.get('qz8501',0)>th:
@@ -154,6 +162,7 @@ def evaluate(collFolder,k):
         else:
             evalres.append(0)
         f.close()
+        '''
     return evalres
 
 class myObj(object):
@@ -223,26 +232,29 @@ if __name__ == '__main__':
    
     es = ['FSU','Hagupit','AirAsia','sydneyseige','Charlie']
     seedsFiles=['seeds_459.txt','seeds_474.txt','seedsURLs_z_534.txt','seedsURLs_z_501.txt','seedsURLs_z_540.txt']
-    j = 3
-    i = 0
-    collFiles = 'event-webpages/'+str(i)+'/'
-    #collFiles = 'base-webpages/'+str(i)+'/'
-    
-    #collFiles = '/Users/mmagdy/fc results/'+str(j)+'/base-'+str(i)+'/'
-    #collFiles = '/Users/mmagdy/fc results/'+str(j)+'/event-'+str(i)+'/'
-    #targeEventFile = 'pos-'+es[j]+'.txt'
-    targeEventFile = seedsFiles[i].split('.')[0]+"_"+str(i)+".txt"
-    #targeEventFile = 'pos-Hagupit.txt'
-    #targeEventFile = 'pos-AirAsia.txt'
-    #targeEventFile = 'pos-sydneyseige.txt'
-    #targeEventFile = 'pos-Charlie.txt'
-    noK = 10
-    res = evaluateVSM(targeEventFile, collFiles, k, relevTh, 'classifierVSM-'+es[j]+'.p',noK)
-    f = open(collFiles+'evaluationRes_VSM.txt','w')
-    #writeEvaluation(res, collFiles+ 'evalResults_2.txt')
-    f.write('\n'.join([str(r) for r in res]))
-    f.close()
-    print sum(res)
+    j = 2
+    for i in range(3):
+        #i = 0
+        #collFiles = 'event-webpages/'+str(i)+'/'
+        #collFiles = 'base-webpages/'+str(i)+'/'
+        
+        collFiles = '/Users/mmagdy/fc results/'+str(j)+'/base-'+str(i)+'/base-webpages/'
+        #collFiles = '/Users/mmagdy/fc results/'+str(j)+'/event-'+str(i)+'/event-webpages/'
+        #targeEventFile = 'pos-'+es[j]+'.txt'
+        targeEventFile = seedsFiles[i].split('.')[0]+"_"+str(i)+".txt"
+        #targeEventFile = 'pos-Hagupit.txt'
+        #targeEventFile = 'pos-AirAsia.txt'
+        #targeEventFile = 'pos-sydneyseige.txt'
+        #targeEventFile = 'pos-Charlie.txt'
+        noK = 10
+        #res = evaluateVSM(targeEventFile, collFiles, k, relevTh, 'classifierVSM-'+es[j]+'.p',noK)
+        res = evaluate(collFiles,500)
+        f = open(collFiles+'evaluationRes_KW.txt','w')
+        #f = open(collFiles+'evaluationRes_VSM.txt','w')
+        #writeEvaluation(res, collFiles+ 'evalResults_2.txt')
+        f.write('\n'.join([str(r) for r in res]))
+        f.close()
+        print sum(res)
         
     
     '''

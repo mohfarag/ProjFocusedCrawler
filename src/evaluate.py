@@ -18,21 +18,43 @@ from document import Document
 
 class VSMClassifier(object):
     def __init__(self, topVocabDic,targetDocsTF,relevTh):
-        self.docsTF = targetDocsTF
+        #self.docsTF = targetDocsTF
         self.relevanceth = relevTh
         self.topVocabDic = topVocabDic
-    def cosSim(self, doc1,doc2):
+        doc1s = [1+math.log(self.topVocabDic[k]) for k in self.topVocabDic]
+        self.vocabScalar = getScalar(doc1s)
+    
+    def cosSim_old(self, doc1,doc2):
         sim = 0
         for k in doc1:
-            #if k in doc2:
-            a = (1 + math.log(doc1[k]))
-            b = (1+math.log(doc2[k]))
-            sim +=  a * b 
+            if k in doc2:
+                a = (1 + math.log(doc1[k]))
+                b = (1+math.log(doc2[k]))
+                sim +=  a * b 
         
         if sim > 0:
             doc1s = [1+math.log(doc1[k]) for k in doc1]
             doc2s = [1+math.log(doc2[k]) for k in doc2]
             sim = float(sim)/(getScalar(doc1s) * getScalar(doc2s))
+            
+        else:
+            sim = 0
+        return sim
+    
+    def cosSim(self,doc2):
+        sim = 0
+        #for k in doc1:
+        for k in self.topVocabDic:
+            if k in doc2:
+                a = (1 + math.log(self.topVocabDic[k]))
+                b = (1+math.log(doc2[k]))
+                sim +=  a * b 
+        
+        if sim > 0:
+            #doc1s = [1+math.log(doc1[k]) for k in doc1]
+            doc2s = [1+math.log(doc2[k]) for k in doc2]
+            #sim = float(sim)/(getScalar(doc1s) * getScalar(doc2s))
+            sim = float(sim)/(self.vocabScalar * getScalar(doc2s))
             
         else:
             sim = 0
@@ -58,6 +80,29 @@ class VSMClassifier(object):
             return [0,sim]
     
     def calculate_score(self, doc):
+        #sims=[]
+        docWords = getTokens(doc)
+        docTF = getFreq(docWords)
+        #ndocTF = dict.fromkeys(self.topVocabDic)
+        #for k in ndocTF:
+        #    if k in docTF:
+        #        ndocTF[k] = docTF[k]
+        #    else:
+        #        ndocTF[k] = 1/math.e
+        #sim = self.cosSim(self.topVocabDic, ndocTF)
+        sim = self.cosSim( docTF)
+        '''
+        for dTF in self.docsTF:
+            s = self.cosSim(ndocTF, dTF)
+            sims.append(s)
+        sim = max(sims)
+        '''
+        if sim >= self.relevanceth:
+            return [1,sim]
+        else:
+            return [0,sim]
+    
+    def calculate_score_old(self, doc):
         #sims=[]
         docWords = getTokens(doc)
         docTF = getFreq(docWords)
@@ -182,6 +227,7 @@ class Evaluate(object):
                         vocabTFDic[w] = wordsFreq[w]
             
             vocabSorted = getSorted(vocabTFDic.items(), 1)
+            print vocabSorted[:topK]
             topVocabDic = dict(vocabSorted[:topK])
             #topVocabDic = vocabTFDic
             

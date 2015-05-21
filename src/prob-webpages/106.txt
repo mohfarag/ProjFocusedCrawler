@@ -1,0 +1,691 @@
+3 Ways Nepalis Are Using Crowdsourcing to Aid in Quake Relief - NYTimes.com 
+
+
+
+3 Ways Nepalis Are Using Crowdsourcing to Aid in Quake Relief - NYTimes.com
+
+
+
+
+
+
+
+NYTimes.com no longer supports Internet Explorer 8 or earlier. Please upgrade your browser.
+LEARN MORE »
+
+
+
+
+
+
+
+
+
+Sections
+
+Home
+
+Search
+Skip to content
+Skip to navigation
+View mobile version
+
+
+
+
+
+
+
+
+
+Asia Pacific|3 Ways Nepalis Are Using Crowdsourcing to Aid in Quake Relief
+ 
+
+Advertisement
+
+
+
+
+
+ Search
+ 
+Log In
+0
+Settings
+
+
+
+
+Close search
+
+search sponsored by
+
+
+
+
+
+
+Search NYTimes.com
+
+
+
+Clear this text input
+
+
+
+Go
+
+
+
+
+
+
+http://nyti.ms/1GCaaJk
+
+
+
+
+Loading...
+
+
+
+
+See next articles
+
+
+
+
+
+See previous articles
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+Advertisement
+
+
+
+
+
+Asia Pacific 
+3 Ways Nepalis Are Using Crowdsourcing to Aid in Quake Relief
+
+By SHREEYA SINHAMAY 1, 2015
+ 
+Inside
+
+
+
+Supported By
+
+
+
+
+
+
+
+
+
+Advertisement
+Continue reading the main story
+
+
+Advertisement
+Continue reading the main story
+
+
+
+
+
+Continue reading the main story
+Share This Page
+
+Continue reading the main story
+
+
+Continue reading the main story
+
+ 
+In the wake of the 7.8 magnitude earthquake that hit their country over the weekend, many Nepalis at home and abroad have found a new way to help — as digital volunteers, spending hours hunched over their laptops, using crowdsourcing technologies and social platforms to participate in the relief effort.Here are three examples of initiatives led by Nepalis to assist their countrymen as they try to rebuild, using open-source mapping, crowdfunding and crowdsourcing, and how experts see the effort.Open Mapping: Kathmandu Living Labs
+Photo
+
+
+
+
+
+
+The Nepali-based group Kathmandu Living Labs has collected hundreds of reports from earthquake-affected areas to map where aid and relief is needed.
+
+Credit
+            Kathmandu Living Labs        
+
+
+The Nepali-based nonprofit technology company focused on open-source mapping was created by Nama Raj Budhathoki, 45, who received a Ph.D. in crowdsourcing, open data and social and mobile media at the University of Illinois, Urbana-Champaign. Born in Dhading, he currently lives in Kathmandu and serves on the board of directors of Humanitarian OpenStreetMap Team, which focues on open-mapping in the context of humanitarian work. 
+
+Continue reading the main story
+
+
+                            Related Coverage
+                    
+
+
+
+
+
+
+
+
+map
+
+
+
+Maps of the Damage From the Nepal EarthquakesAPRIL 25, 2015
+
+
+
+
+
+
+
+
+
+
+slideshow
+
+
+
+Nepal’s Historic Sites, Before and After the EarthquakeAPRIL 25, 2015
+
+
+
+
+
+
+
+
+
+
+
+
+Photographs of Earthquake Devastation in NepalAPRIL 28, 2015
+
+
+
+
+
+
+
+
+In Relief Work, Online Mapping Yet to Attain Full PotentialMARCH 28, 2011
+
+
+
+
+
+
+
+How has the earthquake affected your friends and family?
+Photo
+
+
+
+
+
+
+Nama Raj Budhathoki created a detailed map of Katmandu using open mapping before the earthquake hit.
+
+Credit
+            Nama Raj Budhathoki        
+
+
+Fortunately, there were no deaths in my immediate family, but I’ve been sleeping in a tent with my family of five because we are too scared to go back into our home. I haven’t been able to get in touch with many of my friends, and since my work began, I’ve had no time to check in.How are you using technology to help in relief efforts?I’d say we have mapped about 70-80 percent of the earthquake-hit zones. Before the earthquake, I had 7 to 100 volunteers a day. Now I’m coordinating about 2,400 mappers, a majority of them international, from a situation room.I started Kathmandu Living Labs, a Nepali-based nonprofit technology company in 2013 because I knew an earthquake would hit Nepal. Every data is open source and we don’t sell data. We have been mapping the country using OpenStreetMap, the Wikipedia of mapping where people can view, contribute and edit. For example, we use satellite imaging from companies like DigitalGlobe to identify displaced people. We also deployed a mobile app so people can report observations, which are plotted on a map. We also try to verify these accounts on the ground and through social media like Facebook and Twitter, though it is obviously hard to go on the ground to check each incident.I studied the use of open mapping for my Ph.D. and saw how it was heavily used during the earthquake in Haiti. I came back to Nepal after finishing my studies in 2011, and started mobilizing an OpenStreetMap community of volunteers to map major points of interests like roads, buildings, schools and hospitals. Before the earthquake, we had the most detailed map of Kathmandu Valley in the country. After the earthquake, we expanded beyond Kathmandu and teamed up with Humanitarian OpenStreetMap Team, a group of open mappers focused on humanitarian relief mainly from abroad.
+Photo
+
+
+
+
+
+
+An image posted on Facebook of mappers at Kathmandu Living Labs on Sunday. Aftershocks forced the team to move outside.
+
+Credit
+            Kathmandu Living Labs        
+
+
+How do you measure your impact?It is a bit too early to say since we went live on Monday, but we are working with several humanitarian groups on a daily basis, including the Red Cross and the Nepali Army, to provide maps of road blocks and displaced people.
+Advertisement
+Continue reading the main story
+What challenges are you facing? It is hard to track satellite images outside of Kathmandu especially because of rain. It’s also hard to effectively mobilize so many volunteers across different time zones. We’re a small nonprofit, and we weren’t prepared for the scale of this disaster. The building we are working in is not very safe and we need more computers.■ Expert’s Take: Dale Kunce, a senior engineer at American Red Cross International Services, said Mr. Budhathoki’s project was providing data that the Red Cross gives to its relief staff on the ground. “We have a longstanding relationship with the team and we’ve been using them as a sounding board,” he said. The New York Times also used the Living Labs maps as a source.Adele Waugaman, a former fellow at the Harvard Humanitarian Initiative, said, “The open mapping community is a really wonderful resource. Kathmandu Living Labs was able to map all the health facilities in Kathmandu Valley before the earthquake, which will undoubtedly help the relief workers’ ability to deliver supplies and help save lives.”“Success is being able to mount an effective response in coordination with a local community,” she said, “and I think the mapping work they are doing is a demonstration of how that can be done.”Crowdfunding: Indiegogo
+Photo
+
+
+
+
+
+
+Lokesh Todi has been documenting the aftermath of the Nepal earthquake on his Facebook page, and has seen as many as 7,000 shares on his posts. He traveled with young volunteers and a nonprofit to Sindhupalchowk, where he took this image on Thursday.
+
+Credit
+            Lokesh Todi        
+
+
+Lokesh Todi, 28, has raised over $100,000 in six days using the crowdfunding platform, Indiegogo. He returned to Kathmandu nine months ago after completing his M.B.A. from Yale University with a course on managing global catastrophes. He currently works in his family cement business, Reliance Group Nepal.How has the earthquake affected your friends and family?
+Photo
+
+
+
+
+
+
+Lokesh Todi 
+
+Credit
+            Reliance Group        
+
+
+Luckily for me and my immediate family and friends, nothing traumatic happened. We are lucky we are from good backgrounds in safe homes with access to food and drinking water. There’s guilt associated with that; it plays on your mind. People are mentally scarred. My 9-year-old nephew is still afraid to climb the stairs past the first floor in case something happens.How are you using technology to help in relief efforts?Indiegogo is a site much like Kickstarter, but people use it for fund-raising. The whole idea was to use me and my cousin Aditya’s network of friends in the United States to raise money. We raised $20,000 within the first 12 hours. Overnight, after I took photos of the destruction and shared them on Facebook, it shot up to $40,000. People are engaging with us because I’m posting video updates, responding to the press and connecting with individuals. (According to the site, in six days, 1,445 people have raised more than $116,000.)I’m also working with Global Shapers, a network of young leaders, in partnership with Childreach, an NGO working in the Sindhupalchowk district. I’m posting on Facebook what they need and handling the logistics of getting the aid to them. I’m also working with Uber to pick up donations from people’s homes in India. A friend at an Indian airline was able to help me figure out how to get the aid here. I’ve had to tell people only to collect things I’m asking for on behalf of the NGO; we’d rather get cash than donations for things we don’t need. That’s the message the government should be telling people.
+Advertisement
+Continue reading the main story
+In Nepal, we don’t have a good, structured, central way of handling disasters, so we depend heavily on international aid and NGOs. The country needs to be thankful for them, but after they leave, the burden shifts to local NGOs who don’t have international connections to raise money. My aim is to get money for local NGOs to do relief work for the foreseeable future, one or two years. One hundred rupees, or one dollar, goes a long way in a small village in Nepal. That’s two or three big meals.
+Advertisement
+Continue reading the main story
+How do you ensure that your efforts make an impact on the ground?We’ve identified three areas for the money to go: child care, women’s issues and sanitation. We have another 20 days or so before the funds are released from Indiegogo, but in the meantime we are vetting local NGOs: What is their history and do they have experience with the community and terrain?■ Expert’s Take: “I think this is a wonderful model,” said Ms. Waugaman. “These crowdfunding models take off when you have a relationship with someone in the affected area, who you trust and is endorsing a particular organization, especially a small one.”Volunteer Coordination: Google DocsRavi Kumar, who also goes by the name Ravi Nepal, 27, is the co-founder of Code for Nepal which aims to increase digital literacy and use of open data. From Janakpur, living in Washington, he is crowdsourcing on social media to help disseminate information about relief aid for victims of the earthquake. He received an M.S. in digital media from Columbia University.Q. How has the earthquake affected your friends and family?
+Photo
+
+
+
+
+
+
+Ravi Kumar
+
+Credit
+            April Allen        
+
+
+My parents had been sleeping outside their house in a nearby open space. They recently moved back inside. My uncle and aunt live with their two children in Kathmandu. They have minor injuries. They lived in a shared tent with neighbors for two days. Due to rain, I was told their son got sick. Our house has some cracks. Nothing life-threatening though.How are you using technology to help in relief efforts?I’m using technology to do three things:1. Create low-tech solutions to connect volunteers and people affected, and vice versa. Our #Nepalquake resource doc, which disseminates information about food, shelter, clean water and medicine for victims of the earthquake, has been shared more than 7,000 times on Facebook, and more than 50 volunteers actively curate, verify and connect people using that document. Because many Nepalis are on Facebook, and it’s easy to use it even with slow Internet in Nepal, we have been using Facebook ads to inform people. Facebook is kind of like radio for us.2. We are using Viber to get latest status updates on volunteers, or at times to help with urgent needs, blast those needs via Twitter and/or Facebook and do our best to find volunteers who can help people.
+Continue reading the main story
+
+
+            Interactive map to help #NepalRelief deliver aid in all affected areas: http://t.co/QtfSL52mT8 #NepalQuake #dataviz pic.twitter.com/vNCGJXuDQM  —
+        Ravi Nepal (@RaviNepal)
+        April 29, 2015
+
+
+
+3. We are using social media and data to dispel rumors. A map we published this week is a good example that shows most of the country, in fact, is intact and with everyone’s help, we will recover, rise, and rebuild.
+Advertisement
+Continue reading the main story
+
+
+Advertisement
+Continue reading the main story
+How do you measure success?It’s hard to say exactly how many people are benefiting from our initiative. The document has been shared roughly 8,000 times on social media. A local group of volunteers and people in need are using this document to coordinate. A group reached out to me saying they want to use our doc to build an app. Our Facebook ads have reached at least 70,000 people. I get 4 to 8 calls a day about coordination. From the response, I believe many people are using this document.How do you ensure that your efforts make an impact on the ground?We do our best to follow-up. For example, a young woman based in Virginia called me using Viber about a victim trapped on the outskirts of Kathmandu.When she called me, she sounded very worried. I assured her that if she sends me more details, I’ll work with contacts and will do our best to help. I sent out information to our contacts, and we were told volunteers were dispatched who were already in the area. After 24 hours, I contacted the woman again and she told me the victim got some help. And also told me that people in nearby area need more help.
+Continue reading the main story
+
+
+            Update: Some help in Sindhupalchowk. But #NepalRelief not yet in Kavre? Kids at risk. Pls help them. #NepalEarthquake pic.twitter.com/0hCLbzYmLl  —
+        Ravi Nepal (@RaviNepal)
+        April 29, 2015
+
+
+
+Our volunteers also call people listed on the document about their latest status and what they need. They then update the document reflecting any changes on the ground.That being said, we don’t know if all of the information is accurate, since it’s a publicly crowdsourced document. Anyone can comment and few, around 20, super users have full access to edit, and some of us call to verify information.■ Expert’s Take: Dr. Madhur Basnet, who is working in the Gordkha district, said he would have used the work by Code for Nepal and Kathmandu Living Labs if he had Internet connectivity. Instead, when he does have Internet access, he saves screenshots of maps on his cellphone to use offline.Ms. Waugaman said, “This kind of open approach to gathering information and analyzing information can be incredibly valuable in a resource-constrained context where there are not enough responders on the ground, though you need some degree of verification.”“Often times the problem is not the technology,” she added, “but the personal and institutional barriers, including whether the tool is capable of functioning offline in hot zones.”
+
+
+
+
+
+
+Loading...
+
+
+
+
+
+
+
+
+Go to Home Page »
+
+Site Index
+
+
+
+
+
+
+
+
+News
+
+
+World
+
+
+U.S.
+
+
+Politics
+
+
+New York
+
+
+Business
+
+
+Technology
+
+
+Science
+
+
+Health
+
+
+Sports
+
+
+Education
+
+
+Obituaries
+
+
+Today's Paper
+
+
+Corrections
+
+
+
+
+Opinion
+
+
+Today's Opinion
+
+
+Op-Ed Columnists
+
+
+Editorials
+
+
+Contributing Writers
+
+
+Op-Ed Contributors
+
+
+Opinionator
+
+
+Letters
+
+
+Sunday Review
+
+
+Taking Note
+
+
+Room for Debate
+
+
+Public Editor
+
+
+Video: Opinion
+
+
+
+
+Arts
+
+
+Today's Arts
+
+
+Art & Design
+
+
+ArtsBeat
+
+
+Books
+
+
+Dance
+
+
+Movies
+
+
+Music
+
+
+N.Y.C. Events Guide
+
+
+Television
+
+
+Theater
+
+
+Video Games
+
+
+Video: Arts
+
+
+
+
+Living
+
+
+Automobiles
+
+
+Crossword
+
+
+Food
+
+
+Education
+
+
+Fashion & Style
+
+
+Health
+
+
+Home & Garden
+
+
+Jobs
+
+
+Magazine
+
+
+N.Y.C. Events Guide
+
+
+Real Estate
+
+
+T Magazine
+
+
+Travel
+
+
+Weddings & Celebrations
+
+
+
+
+Listings & More
+
+
+Classifieds
+
+
+Tools & Services
+
+
+Times Topics
+
+
+Public Editor
+
+
+N.Y.C. Events Guide
+
+
+TV Listings
+
+
+Blogs
+
+
+Cartoons
+
+
+Multimedia
+
+
+Photography
+
+
+Video
+
+
+NYT Store
+
+
+Times Journeys
+
+
+Subscribe
+
+
+Manage My Account
+
+
+
+
+Subscribe
+
+Subscribe
+
+
+Times Premier
+
+
+
+Home Delivery
+
+
+
+Digital Subscriptions
+
+
+
+NYT Opinion
+
+
+
+Crossword
+
+
+
+
+Email Newsletters
+
+
+Alerts
+
+
+Gift Subscriptions
+
+
+Corporate Subscriptions
+
+
+Education Rate
+
+
+
+
+Mobile Applications
+
+
+Replica Edition
+
+
+International New York Times
+
+
+
+
+
+
+
+
+
+
+
+                    © 2015 The New York Times Company
+
+
+Home
+Search
+Contact Us
+Work With Us
+Advertise
+Your Ad Choices
+Privacy
+Terms of Service
+Terms of Sale
+
+
+
+
+Site Map
+Help
+Site Feedback
+Subscriptions
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+

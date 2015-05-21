@@ -1,0 +1,344 @@
+Earthquakes without Frontiers Nepal earthquake: update on landslide hazard - Earthquakes without Frontiers 
+Earthquakes without Frontiers Nepal earthquake: update on landslide hazard - Earthquakes without Frontiers
+
+
+
+
+
+
+
+ 
+
+
+
+— Main Menu —Home
+About Us
+Projects
+Blog
+Events
+Publications
+Contact
+Home
+About Us
+Projects
+Blog
+Events
+Publications
+Contact
+ 
+
+ 
+ 
+
+Blog Post05MAY2015Nepal earthquake: update on landslide hazardPosted By : Earthquakes without FrontiersComments : 0British Geological Survey, Durham University & University of East Anglia
+1200 BST Tuesday 5 May 2015
+**PLEASE NOTE: THIS MAP WAS UPDATED ON 8 MAY 2015. THE UPDATED MAP CAN BE ACCESSED HERE: http://ewf.nerc.ac.uk/2015/05/08/nepal-earthquake-update-on-landslide-hazard-2/ **
+
+Please note: High and low-resolution versions of this map in both colour and black & white can be downloaded as PDF files from: ftp:\\topdog.dur.ac.uk\njr\nepal_eq
+ 
+Key messages (all observations based on available cloud free satellite imagery)
+
+Major or disruptive landsliding is limited to a zone that runs east-west, approx. parallel to the transition between the Lesser and High Himalaya. This zone includes parts of the districts of Gorkha, Dhading, Nuwakot, Rasuwa, Sindhupalchok, Dolakha, Ramechhap, and Khavre.
+We observe several large valley-blocking landslides. Most observed landslides comprise comparatively small rockfalls and debris avalanches that have a significant local impact and loss of life.
+The need to plan measures to mitigate landslide deaths and disruption in the forthcoming monsoon season must remain a priority. Many more damaging landslides may occur in the 2015 monsoon, likely to start in late June, than would be expected if a major earthquake had not occurred.
+
+ 
+Status
+We were working to three objectives: identification of large landslides (1) blocking valleys and potentially causing significant secondary hazards; (2) affecting villages; and (3) disrupting infrastructure, such as roads. The team has undertaken a thorough investigation of available satellite imagery from multiple sources. The imagery has been investigated at 1:5,000 to 1:10,000 scales (with smallest features that can be distinguished ranging from about 5 to 15 m). Image resolution ranged from 2 m to more than 22 m. The team has obtained access to satellite imagery covering c.55,000 km2 with approximately 25% cloud-free. Analysis of imagery from the high Himalayas by the Charter Project Manager’s institution (NRSC-ISRO) has also been evaluated by the UK team.
+We summarise some preliminary conclusions:
+Siwalik and Lesser Himalayan regions 
+
+We have high confidence that there are few major or disruptive landslides. Most landslides are small; many are re-activations of pre-existing failures whose locations will be known to local populations.
+Analysis of villages/infrastructure known to have been damaged by landslides shows that the latter are almost all small (> 10-50 m wide) and extremely difficult to identify using the available imagery.
+
+ 
+High Himalayan region
+
+We have identified several large valley-blocking landslides (landslide dams) on the basis of satellite imagery (see Appendix 1). We stress that further valley-blocking landslides may still be found as additional imagery becomes available; other valleys in the High Himalayas should be assumed to be at risk until the existence of landslide dams can be confirmed or ruled out.
+A zone of relatively intense landsliding and disruption can be mapped in every valley for which cloud-free imagery is available, north and northeast of Kathmandu (red lines in the above map). This zone contains numerous rockfalls and debris avalanches, with many events following pre-existing pathways or channels and having long runout distances (in most cases, all the way to the valley floor). These events are individually localised but together are extremely widespread, and have had catastrophic impacts on roads and villages. It is these small, but widespread, landslides that are likely to have probably caused the largest loss of life due to landsliding.
+Cloud-free images are not yet available for all valleys within this zone; until they are, we must expect that similar levels of disruption are present in ALL valleys within the zone, not just those indicated in the accompanying map.
+Where visible, high-elevation areas (> 3,500 m) show evidence of some large rockslides, along with extensive avalanching (the latter especially above 4,500 m). Most of these areas are far from permanent settlements or infrastructure, and pose no direct threat to the population.
+Large areas of the High Himalaya, including valley floors and also most areas above 2,500 m, have not yet been examined because of cloud cover. We are continuing to monitor all possible sources of data.
+
+ 
+Entire earthquake affected region
+
+The zone of intense landsliding corresponds to areas with high rates of seasonal rainfall-triggered landslides. We must thus expect that the risk due to continued landsliding in this area will escalate significantly as the rains begin. This continued landslide occurrence will threaten already-affected areas with continued failure, and will wash landslide sediment downstream onto valley floors and floodplains.
+
+ 
+Landslides and major roads
+The Arniko Highway (north to Tibet) is reported to be blocked from near Larcha to the Tibetan border by numerous rockfalls. This area has had chronic landslide problems prior to the earthquake, and the road is regularly impassable during the monsoon.
+The Prithvi Highway (the main route from Kathmandu south to India) has also experienced ongoing landslide problems since the earthquake, including large rockfalls onto the road. This road has suffered extensive landsliding in the past. In August 2000 a single landslide blocked the road for 11 days, leading to severe shortage of fuel and other commodities in the metropolitan area.
+ 
+Recommendations
+
+Before the onset of the monsoon, the potential valley-blocking landslides and valleys at risk discussed in the appendix should be inspected and monitored to assess the risk of landslide dam formation and further risk of failure during the monsoon. At present, there does not appear to be a high risk of imminent failure in any of the dams that may severely impact valleys downstream, but this may change as the monsoon develops.
+Road access to, and through, the zone of intense landsliding is going to be very challenging at least through the 2015 monsoon season. It would be sensible to undertake a survey of the major transportation corridors to identify where the problems are most likely to arise, and to prepare for the possibility of BOTH immediate action to clear rockfall debris AND continued clearance and maintenance of major roads after future landsliding.
+Collation of observations of the distribution, character and impact of landslides from people in the field is required to refine landslide hazard and risk assessments and validate the findings of the satellite-based survey we have undertaken. We have already instigated a social-media call to initiate this, but additional measures may be required, and a method of collation agreed.
+Users of post-event map products should be aware that several factors, unrelated to the actual distribution of landslides, may have influenced their apparent distribution: i) large areas of Nepal (such as most of those east of the map above) remain unsurveyed – largely because of cloud cover and image availability; ii) some other published maps are based on pre-earthquake landslide susceptibility evaluations rather than post-event observations; and iii) different methods have been utilised by respective agencies to map landslides; for instance, some do not appear to have taken full account of the occurrence of pre-existing landslides in their assessment of landsliding associated with the earthquake.
+
+ 
+Appendix 1: List of confirmed or potential valley-blocking landslides
+
+Therapati, in the south of the Langtang National Park, in the Melamchi catchment. A landslide deposit has been identified on the edge of a high-resolution optical DG image (03/05/2015), and shows surface features characteristic of a rock avalanche (> 1M m3), which appears to toe-out across the valley base and likely causes a blockage. There is no evidence of a lake forming, but the valley at this time of year does not appear to have an active channel. The valley drains into the Trisuli River. If this interpretation is correct, this blockage may be a concern during melt / rainfall.
+Satellite images suggest multiple large valley blocking landslides in the main stem of the Trisuli, between Resuo (Nepal) and north to Jilong Community (Tibet). Some of these have already been identified by ICIMOD. This area presents concern.
+Video footage from the Upper Bhote Koshi suggests several reaches of rivers with abnormal standing water, notably immediately south of Chaku – most probably from extensive rockslides which appear to have removed extensive sections of the Arniko Highway, making this impassable. Flow downstream from these sites continues, so these blockages are unlikely to be high risk.
+Satellite images and news reports describe large post-seismic landslides in the 20 km north of Chaku to the Tibet – Nepal border at Kodari. Prior to the earthquake this road section had numerous deep-seated landslides in colluvium which tend to be highly active during the wet season. These sites pose significant risk of valley blocking should these landslides move. In addition, satellite imagery indicates extensive rockfalls and channelized failures on this stretch of road. Indications are that this area is still cut off. The Chinese army has cleared the road to Zhangmu (sometimes referred to as Zham) on the northern side of the border, but the communities of Larcha, Liping, Tatopani and Kodari appear still to remain isolated.
+Satellite images north of the Tibet – Nepal border at Nyalam show extensive areas of landsliding and avalanching. Rockslides have in places crossed the road and have reached the river, but none have generated lakes that are visible in the presently available imagery in the river network.
+Near Poki: a 1 km long rockslide (identified also by ICIMOD), appears to have blocked a valley, but has now been breached by the river. This area presents concern, but reports and imagery suggest that water is now flowing across this dam.
+Langtang: extensive landslides, rock avalanches and possible glacier snout collapses appear to have traversed the valley floor, and are likely to inhibit flow during melt. The situation in Langtang is well-documented elsewhere.
+
+ 
+Note that the 2014 Sun Koshi landslide which cuts the Arniko Highway just upstream of the Bhote Kosi Hydropower plant, and the rock dam that it created, appear to be intact. The river and lake levels do not appear to have changed during the earthquake.
+ 
+Appendix 2: Maps
+High and low-resolution versions of the above map in both colour and black & white can be downloaded as PDF files from: ftp:\\topdog.dur.ac.uk\njr\nepal_eq
+ 
+Vanessa Banks, Alex Densmore, Tom Dijkstra, Colm Jordan, David Milledge, Dave Petley, John Rees, Nick Rosser, Jack Williams
+ 
+ 
+About the AuthorSocial Share 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Leave a Reply Cancel reply
+
+Name *
+Email *
+Website
+
+
+
+
+Anti-Spam
+*
+
+
+ 
+
+ 
+
+ 
+  Recent Posts 
+
+Nepal: update on landslide hazard following 12 May 2015 earthquake
+May 12, 2015
+
+
+Landslides in the Nepal earthquake: preliminary guidelines for relief and response activities from 28 April in Nepali – नेपालमा भूकम्प र भूकम्पजनित पहिरो : राहत र प्रतिकार्य गतिविधिका लागि तयार गरिएको प्रारम्भिक निर्देशिका
+May 10, 2015
+
+
+Nepal earthquake: update on landslide hazard (8 May)
+May 8, 2015
+
+
+Nepal earthquake: update on landslide hazard
+May 5, 2015
+
+
+Building rural resilience to earthquakes
+April 29, 2015
+
+
+Archive Archive
+
+Select Month
+ May 2015 
+ April 2015 
+ December 2014 
+ September 2014 
+ June 2014 
+ April 2014 
+ March 2014 
+ February 2014 
+ December 2013 
+ October 2013 
+ July 2013 
+ May 2013 
+ April 2013 
+ January 2013 
+ December 2012 
+ November 2012 
+ October 2012 
+ September 2012 
+ August 2012 
+ July 2012 
+
+CategoriesCategories
+Select Category
+blog
+conference
+earthquakes
+landslides
+policy
+resilience
+Uncategorized
+
+
+Tagsactive Fault
+Almaty
+CBDRR
+China
+Citizen science
+earthquake
+EwF
+fault
+featured
+hazard
+InSAR
+Iran
+job opportunity
+Kazakhstan
+landslide
+landslide dams
+landslides
+Nepal
+Nepal earthquake
+New Zealand
+Ordos
+Pakistan
+palaeo-earthquake. Mongolia
+Remote sensing
+report
+Social media
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+Latest Blog Posts 
+
+
+ 
+								Resilience in China: EwF in Sichuan Province 
+							
+
+
+
+								December 01, 2014							
+
+
+
+
+
+
+
+
+ 
+								New satellite maps out Napa Valley earthquake 
+							
+
+
+
+								September 02, 2014							
+
+
+
+
+
+
+
+ 
+								Earthquake-triggered landslides: what do we need to know? 
+							
+
+
+
+								September 02, 2014							
+
+
+
+
+Latest TweetsRT @NepalDRR: The latest Situation Report of #NepalQuake now available: http://t.co/2X6xgmTrwH @UN_Nepal @OCHAAsiaPac 22 hours agoRT @AGU_Eos: Landslides in Nepal and the impact of the SW Monsoon
+http://t.co/oLuZuETz0i @davepetley #AGUblogs http://t.co/skPSH9RM7A 22 hours agoBuilding a new Nepal: why the world must heed the lessons of Haiti | Prospery Raymond http://t.co/paCJiSMB6d 4 days ago 
+ 
+
+
+
+
+
+
+
+							Earthquakes without Frontiers is supported by the Natural Evironment Research Council (NERC) and the Economic and Social Research Council
+(ESRC) through the Increasing Resilience to Natural Hazards (IRNH) programme. © Copyright EwF 2013
+						
+
+
+
+
+
+
+
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+

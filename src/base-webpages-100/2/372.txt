@@ -1,0 +1,858 @@
+Westernpacificweather.com | 04W MAWARWesternpacificweather.com | 04W MAWARWesternpacificweather.com | 04W MAWAR		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Local Forecast
+Surface Analysis
+Tropical Info. Center
+Satellite Imagery
+
+Full Disk IR
+Full Disk VIS
+Radar Imagery
+SE Asia Enhanced IR
+SE Asia VIS/IR
+Western Pacific Enhanced IR
+Western Pacific IR
+Western Pacific WV
+
+
+Earthquake & Tsunami
+Links
+Tropical Threat Map
+About
+
+Copyright Notice
+Hail…. The Weather Game
+Social Media Hub
+Westpacwx APP
+
+
+Interactive Map
+Scales
+
+Australia Cyclone Scale
+Fujita Scale
+India Meteorological Cyclone Intensity Scale
+RSMC Tokyo’s Cyclone Intensity Scale
+Saffir-Simpson Scale
+Temperature Conversion
+
+Current Tropical Systems
+Typhoon Names
+Weather Search
+Westpacwx Search
+
+
+Tropical Cyclone Classification Guide
+
+
+Winds
+
+Clouds
+
+
+Education
+
+2011 Year in Review
+2012 Year in Review
+2014 Year in Review
+Image of the Day
+Japan Warning Translations
+Lake / Ocean Effect Snow
+Six Westerly Lows of Eastern Asia
+South West / North East Monsoon
+Storm Footage
+Tropical Cyclone Tracks
+
+2006
+2007
+2008
+2009
+2010
+2011
+2012
+
+01W ONE
+02W PAKHAR
+03W SANVU
+04W MAWAR
+05W GUCHOL
+06W TALIM
+07W DOKSURI
+08W KHANUN
+09W VINCENTE
+10W SAOLA
+11W DAMREY
+12W HAIKUI
+
+
+2013
+
+01W SONAMU
+02W Shanshan
+
+
+
+
+Western Pacific Ocean Currents
+Who is the Official Typhoon Agency?
+Tropical Cyclone Overview
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+04W MAWAR 
+
+Track Image Courtesy of: Unisys Weather
+
+Date: 31 May – 06 June 2012
+Name: 04W –  TY MAWAR (AMBO)
+Code: 1203
+Data: RSMC – JMA
+
+
+
+ADV
+TIME
+LAT
+LON
+WIND (kt)
+DIRECTION
+PRESSURE
+STATUS
+
+
+1
+31/05/06Z
+11.8
+128.7
+30
+WNW
+1004
+Tropical Depression
+
+
+2
+31/05/09Z
+11.8
+128.4
+30
+WNW
+1004
+Tropical Depression
+
+
+3
+31/05/12Z
+12.2
+128.1
+30
+WNW
+1004
+Tropical Depression
+
+
+4
+31/05/15Z
+12.5
+127.9
+30
+NW
+1004
+Tropical Depression
+
+
+5
+31/05/18Z
+13.0
+127.4
+30
+NW
+1004
+Tropical Depression
+
+
+6
+31/05/21Z
+13.4
+126.9
+30
+NW
+1004
+Tropical Depression
+
+
+7
+01/06/00Z
+13.4
+126.8
+30
+NW
+1002
+Tropical Depression
+
+
+8
+01/06/03Z
+14.1
+126.0
+30
+NW
+1002
+Tropical Depression
+
+
+9
+01/06/06Z
+14.9
+125.5
+35
+NW
+998
+Tropical Storm
+
+
+10
+01/06/09Z
+15.2
+125.3
+35
+NW
+998
+Tropical Storm
+
+
+11
+01/06/12Z
+15.3
+125.3
+35
+NW
+998
+Tropical Storm
+
+
+12
+01/06/15Z
+15.5
+124.8
+35
+NW
+998
+Tropical Storm
+
+
+13
+01/06/18Z
+15.7
+124.8
+40
+NW
+998
+Tropical Storm
+
+
+14
+01/06/21Z
+16.1
+124.6
+40
+NNW
+996
+Tropical Storm
+
+
+15
+02/06/00Z
+16.5
+124.3
+45
+NNW
+996
+Tropical Storm
+
+
+16
+02/06/03Z
+16.7
+124.1
+45
+NNW
+990
+Tropical Storm
+
+
+17
+02/06/06Z
+17.1
+124.1
+55
+NNW
+985
+Severe Tropical Storm
+
+
+18
+02/06/09Z
+17.6
+124.1
+55
+N
+985
+Severe Tropical Storm
+
+
+19
+02/06/12Z
+17.6
+124.2
+55
+N
+980
+Severe Tropical Storm
+
+
+20
+02/06/15Z
+17.7
+124.4
+55
+N
+980
+Severe Tropical Storm
+
+
+21
+02/06/18Z
+17.9
+124.5
+55
+N
+980
+Severe Tropical Storm
+
+
+22
+02/06/21Z
+18.4
+124.6
+55
+N
+980
+Severe Tropical Storm
+
+
+23
+03/06/00Z
+18.6
+124.7
+55
+NNE
+980
+Severe Tropical Storm
+
+
+24
+03/06/03Z
+18.8
+125.0
+55
+NNE
+980
+Severe Tropical Storm
+
+
+25
+03/06/06Z
+19.3
+125.4
+55
+NNE
+980
+Severe Tropical Storm
+
+
+26
+03/06/09Z
+19.7
+125.6
+55
+NNE
+980
+Severe Tropical Storm
+
+
+27
+03/06/12Z
+20.1
+125.6
+65
+NNE
+970
+Typhoon
+
+
+28
+03/06/15Z
+20.5
+125.7
+65
+NNE
+970
+Typhoon
+
+
+29
+03/06/18Z
+20.9
+125.8
+75
+NNE
+960
+Typhoon
+
+
+30
+03/06/21Z
+21.3
+125.9
+75
+N
+960
+Typhoon
+
+
+31
+04/06/00Z
+21.6
+126.2
+75
+NNE
+960
+Typhoon
+
+
+32
+04/06/03Z
+22.1
+126.6
+75
+NNE
+960
+Typhoon
+
+
+33
+04/06/06Z
+22.6
+126.7
+75
+NE
+960
+Typhoon
+
+
+34
+04/06/09Z
+23.0
+127.1
+75
+NNE
+960
+Typhoon
+
+
+35
+04/06/12Z
+23.2
+127.7
+75
+NE
+960
+Typhoon
+
+
+36
+04/06/15Z
+23.6
+128.2
+75
+NE
+960
+Typhoon
+
+
+37
+04/06/18Z
+24.5
+128.5
+70
+NE
+965
+Typhoon
+
+
+38
+04/06/21Z
+25.3
+129.2
+70
+NE
+965
+Typhoon
+
+
+39
+05/06/00Z
+26.0
+130.2
+65
+NE
+970
+Typhoon
+
+
+40
+05/06/03Z
+26.5
+130.8
+65
+NE
+970
+Typhoon
+
+
+41
+05/06/06Z
+27.1
+131.1
+60
+NE
+975
+Typhoon
+
+
+42
+05/06/09Z
+27.6
+131.9
+60
+NE
+975
+Typhoon
+
+
+43
+05/06/12Z
+28.1
+133.3
+55
+NE
+980
+Severe Tropical Storm
+
+
+44
+05/06/15Z
+28.6
+134.8
+55
+ENE
+980
+Severe Tropical Storm
+
+
+45
+05/06/18Z
+29.3
+136.3
+55
+ENE
+980
+Severe Tropical Storm
+
+
+46
+05/06/21Z
+30.1
+138.7
+55
+ENE
+980
+Severe Tropical Storm
+
+
+47
+06/06/00Z
+31.0
+140.6
+55
+ENE
+980
+Severe Tropical Storm
+
+
+48
+06/06/03Z
+32.2
+142.5
+55
+ENE
+980
+Severe Tropical Storm
+
+
+49*
+06/06/06Z
+34.0
+144.0
+55
+NE
+976
+Low Pressure Area
+
+
+
+
+
+
+
+
+
+
+
+
+
+Note: (*) indicating final issue.
+ 
+ 
+Copyright © 2010-2012 Westernpacificweather.com. All Rights Reserved.
+
+
+
+
+
+
+You must log in to post a comment.
+
+
+
+
+
+
+
+Convective Outlook 24-26 Jan 2015
+Japan takes a wintry hit as the remainder of the WPAC remains quiet
+Moisture from Mekkhala Hits Japan / Weekend Outlook
+Convective Outlook 23 Jan 2015
+
+
+
+1234
+ 
+
+ 
+
+ 
+
+
+
+ 
+
+
+
+James Reynolds Typhoon Video
+
+You need Flash player 8+ and JavaScript enabled to view this video.
+
+
+ 
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+Major City Weather Search 
+
+
+
+
+
+
+
+
+
+
+Translate Language
+
+
+
+
+Help the Site 
+
+
+
+
+
+
+  
+Website Search 
+
+
+
+
+
+
+
+
+
+
+Partners
+
+28storms
+Auscyclonechasers
+Earthquake-report
+Earthuncut.tv
+ExtremeStorms.Com
+Manila Typhoon Center
+MarkVoganWeather
+Sagitnangbagyo
+Storm2k.org
+Typhoon and Weather Imagery
+weather-manila
+West Pacific Meteorological Discussion Group
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+							© Westernpacificweather.com						
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

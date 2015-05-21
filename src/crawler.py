@@ -17,6 +17,7 @@ class Crawler:
         self.pagesLimit = crawlParams['num_pages']
         self.mode = crawlParams['mode']
         self.restricted = crawlParams['restricted']
+        self.combineScore = crawlParams['combineScore']
         #self.pages = []
     
     def crawl(self):
@@ -30,16 +31,17 @@ class Crawler:
             page = Webpage(work_url,self.pagesCount)
             if page.text =='' :
                 continue
-            '''
-            if len(page.text) > 0:
-                page_score = self.scorer.calculate_score(page.text)
-            else:
-                continue
-            page.estimatedScore = page_score
-            if self.restricted:
-                if page_score < self.pageScoreThreshold:
+            page_score = 0.0
+            if self.combineScore:
+                if len(page.text) > 0:
+                    page_score = self.scorer.calculate_score(page.text,'W')
+                else:
                     continue
-            '''
+                page.estimatedScore = page_score
+                if self.restricted:
+                    if page_score < self.pageScoreThreshold:
+                        continue
+                
             #print -1 * work_url[0],",", str(page_score),",",work_url[1],",", work_url[3]
             print -1 * work_url[0],",",work_url[1],",", work_url[3]
             self.pagesCount += 1
@@ -58,18 +60,23 @@ class Crawler:
                     if url.endswith(("comment","comment/","feed","comments","feed/","comments/",".rss","video","video/","link","gif","jpeg","mp4","wav","jpg","mp3","png","share.php","sharer.php","login.php","print","print/","button/","share","email","submit","post",".pdf") ):    
                         continue
                     if not self.exists(url,1):
+                        #tot_score = 0.0
                         if url.startswith('http') and not self.exists(url,2):                            
                             if self.mode == 1:
-                                url_score = self.scorer.calculate_score(link.getAllText())
-                                tot_score = url_score
-                                if tot_score >= self.urlScoreThreshold:
-                                    self.priorityQueue.push(((-1 * tot_score),url,page.pageId,link.getAllText()))
+                                url_score = self.scorer.calculate_score(link.getAllText(),'U')
+                                if self.combineScore:
+                                    tot_score= 0.5 *page_score + 0.5 *url_score
+                                else:
+                                    tot_score = url_score
+                                #if tot_score >= self.urlScoreThreshold:
+                                self.priorityQueue.push(((-1 * tot_score),url,page.pageId,link.getAllText()))
                             #else:
                             #    self.priorityQueue.push(((-1 * page_score),url,page.pageId,link.getAllText()))
             #else:
             #    self.pages.append((page,0))
                                     
         print self.priorityQueue.isempty()
+        #print '\n'.join([str(-1*s[0]) +"," +s[1] for s in self.priorityQueue.queue])
                 
     def exists(self,url,s):
         if s == 1:

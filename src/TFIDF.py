@@ -66,7 +66,9 @@ class TFIDF:
             idf = 1
             #tf = [1 + math.log(t) for t in v]
             #tfidf = idf * sum(tf)
-            tf = 1+ math.log(sum(v))
+            
+            #tf = 1+ math.log(sum(v))
+            tf = sum([1+math.log(it) for it in v])
             tfidf = idf * tf
             words_tfidf_sum.append((tfidf,i))
             i = i+1
@@ -168,7 +170,7 @@ class TFIDF:
         else:
             return 0
     
-    def calculate_score(self,query):
+    def calculate_score(self,query,m):
         score = self.calculateCosSim(query)
         return score        
             

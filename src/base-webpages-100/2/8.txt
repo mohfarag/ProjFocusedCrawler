@@ -1,0 +1,680 @@
+Typhoon Hagupit - OpenStreetMap Wiki
+Typhoon Hagupit - OpenStreetMap Wiki
+
+
+
+
+
+
+Typhoon Hagupit
+
+From OpenStreetMap Wiki
+(Redirected from Humanitarian OSM Team/Typhoon Hagupit (Ruby))
+
+					Jump to:					navigation, 					search
+
+
+Typhoon Hagupit (Ruby) - Humanitarian OpenStreetMap Team Activation Wiki
+Dec 5. HOT officially activated to support the Philippine Government and the international organizations that will respond to this humanitarian emergency.
+
+Dec 10. HOT decides to continue activation for one more week to ensure all aspects of the response are covered
+
+Dec 17. HOT officially Deactivates, however HOT will continue to support Priority Mapping Tasks to help the OSM-PH Community.
+
+
+ Satellite image of Typhoon Ruby on 4th December, 2014
+ Actual Track of Typhoon Ruby until it was downgraded into a Tropical Depression on 9th December, 2014 + Remote Mapping tasks
+
+
+
+Contents
+
+1 Typhoon Hagupit (Ruby) - Humanitarian OpenStreetMap Team Activation Wiki
+2 Activation
+
+2.1 Status
+2.2 Coordination
+2.3 Published Tasks in the Task Manager
+2.4 Tracking
+2.5 Useful Tools
+2.6 Identified Risks
+2.7 Support Team
+2.8 Mapping Effort Required
+2.9 Imagery Partners
+2.10 Timeline of Activity
+
+
+3 Humanitarian Mapping
+
+3.1 Mapping Standards
+3.2 Validating Tips
+3.3 How YOU can Contribute and Help
+3.4 Tools and Services Available
+3.5 New Mappers
+3.6 Mappers with Experience
+3.7 Maps Available
+
+3.7.1 General Info
+3.7.2 On-site maps
+
+
+
+
+4 Communication and Media
+
+4.1 Communication
+
+4.1.1 Hash Tags
+4.1.2 Information and Contacting People Involved
+
+
+4.2 Media
+
+
+
+
+
+
+
+Activation
+
+
+Status
+
+
+Typhoon Ruby is a tropical cyclone that is currently impacting the Philippines,  however it weakened to a category 3 typhoon before it made Landfall at 9:15pm Saturday 6th December 2014 (Local Time) at the town of Dolores, eastern Samar. 
+Less disastrous than Typhoon Haiyan last year.  So far only 23 reported deaths due to hypothermia.
+Ruby weakened before making landfall, reducing the humanitarian impact. The low death toll is also widely regarded as a success in disaster response, particularly with better coordinated mass evacuations. However families have returned to find themselves homeless, or effected by the infrastructural damage. Of course we are providing free maps, and we can work on improving our mapping to aid in recovery.
+
+
+
+Coordination
+
+
+Mark Cupitt and Maning Sambale, assisted by Andrew Buck and Pierre Béland, are coordinating this activation. We coordinate with OCHA, the Red Cross / Red Crescent and the Digital Humanitarian Network partners.
+
+
+
+
+Published Tasks in the Task Manager
+
+
+
+
+
+
+   Job No.     
+
+ Location
+
+ What to map
+
+ Task Mapping Status
+
+
+ Job 798 
+ Eastern Samar 
+ roads; schools, hospitals, churches, buildings, residential and commercial areas and waterfronts, malls, sports complexes from HIU/MapGive imagery 
+ Validation - in progress
+
+
+ Job 799 
+ Northern Samar 
+ roads; schools, hospitals, churches, buildings, residential and commercial areas and waterfronts, malls, sports complexes from Bing imagery 
+ In Progress
+
+
+ Job 801 
+ Eastern Samar 
+ roads; schools, hospitals, churches, buildings, residential and commercial areas and waterfronts, malls, sports complexes from Bing imagery 
+ In Progress
+
+
+ Job 804 
+ Masbate 
+ roads; schools, hospitals, churches, buildings, residential and commercial areas and waterfronts, malls, sports complexes from Bing imagery 
+ In Progress
+
+
+ Job 807 
+ North West Samar Islands 
+ roads; schools, hospitals, churches, buildings, residential and commercial areas and waterfronts, malls, sports complexes from Hiu/MapGive imagery 
+ Validation - In Progress
+
+
+ Job 808 
+ East Coast - Borongan 
+ roads; schools, hospitals, churches, buildings, residential and commercial areas and waterfronts, malls, sports complexes from HIU/MapGive imagery 
+ Validation - In Progress
+
+
+ Job 805 
+ Northern Samar 
+ roads; schools, hospitals, churches, buildings, residential and commercial areas and waterfronts, malls, sports complexes from HIU/MapGive imagery 
+ In Progress
+
+
+ Job 837 
+ Can-Avid, Dolores, San Policarpio, Arteche, Oras Eastern Samar 
+ roads; schools, hospitals, churches, buildings, residential and commercial areas and waterfronts, malls, sports complexes from SkyEye UAV imagery 
+ In Progress
+
+
+
+
+
+Tracking
+
+
+The following sites have tracking information for monitoring progress ..
+
+
+ Multi Agency Forecast Track (All Agency Tracks on one Map)
+
+ Typhoon2000 (located in Bicol)
+
+ Wundermap From Weather Underground
+
+ Jeff Masters Blog
+
+ Weather Underground Tracking Map
+
+
+
+
+
+Useful Tools
+
+ A quick Analysis of the existing Coverage and potential landfall areas with no or Low Res coverage (Updated 2014-12-04)Green = High Res, red = Low Res]Source: Bing Analyzer
+
+
+
+ Bing Analyzer Green means high-resolution imagery is available, zoomed in. Red means normal resolution at all zoom levels
+
+ Bing Imagery Age Analysis Tool
+
+ OSM Wiki on Bing Coverage
+
+ Yolanda Geonode Data with useful GIS data derived from the Yolanda Response
+
+ OSM-PH Imagery Coverage Map
+
+ Animated Winds
+
+ Crisis and Disaster Management Magazine Typhoon Ruby (Hagupit) Resources
+
+
+
+OSM Changesets of the last 7 Days for Ruby
+
+
+
+
+
+
+Identified Risks
+
+
+
+
+ Landslide Risk Areas Published by NOAH
+
+ Storm Surge Risk Areas Published by NOAH
+
+
+
+
+
+Support Team
+
+
+
+The support team communicates via the  irc://irc.oftc.net #hot IRC channel. You can join the Support Team and the Coordinators on the IRC for discussions or help for mapping.  You can also talk with other mappers or the support team by installing mumble and connecting to our server talk.hotosm.org
+Additional information can be found at Humanitarian OSM Team (HOT) Mailling-List. You have to subscribe to this list to have the autorization to send emails to the group.
+
+
+
+
+Mapping Effort Required
+
+
+
+With the dispersion of the population in numerous islands and with the extent of the damages, up-to-date maps are an essential aspect of the management of this crisis. Tremendous efforts have been made by the OpenStreetMap community. The developers are adapting tools to provide up-to-date maps rapidly to humanitarian field workers. Hundred of contributors are also tracing over satellite imagery to update continuously the maps.
+
+The following features were initially identified as being essential to map to assist with Response Effort.
+
+
+ roads 
+
+ schools 
+
+ hospitals 
+
+ churches
+
+ buildings
+
+ residential and commercial areas
+
+ waterfronts
+
+ malls
+
+ sports complexes
+
+ Helicopter Landing Areas
+
+
+
+
+
+Imagery Partners
+
+
+
+
+ The MapGive Project - Humanitarian Information Unit (HIU) of the U.S. Department of State
+
+ Bing
+
+
+
+
+
+Timeline of Activity
+
+
+
+
+ Dec. 3 Taking into account the major impact predicted of this typhoon, Humanitarian OpenStreetMap Team starts to monitor the typhoon with various partners
+
+ Dec. 4 International Charter Space & Major Disasters Activates to provide imagery
+
+ Dec. 5 HOT offically activates and publishes activation notice
+
+ Dec. 5 Initial area for mapping identified as southeastern Samar
+
+ Dec. 5 Initial features to map determined (roads; schools, hospitals, churches, buildings, residential and commercial areas and waterfronts, malls, sports complexes.)
+
+ Dec. 5 Imagery Requests submitted to The Imagery Coordination Team for missing high-resolution imagery for northern and southeastern Samar
+
+ Dec. 5 Coordination established with DHN (Digital Humanitarian Network)
+
+ Dec. 5 Received provincial and municipal shape files from Undersecretary Moya's office, licensed for use in OpenStreetMap
+
+ Dec. 5 GPS-assisted map for the Philippines based on OSM Data provided by Schadow1 Expeditions, which commenced its daily update to catch up on OSM data updates provided by the activation. Evacuation centers are now searchable. Map available for download OSM-PH GPS map for Garmin
+
+ Dec. 5 Latest tracks show Ruby to be headed more north of original predicted track. Landfall now predicted at 4 p.m., Sat. Dec 6, Wind Speeds expected to be 205 to 250 Kph (128 to 155 mph). Current predictions indicate Gamay, Samar) as a possible landfall location.
+
+ Dec 5 First HOT Task #798 Released for mapping, 90% completion in 5 hours. Incredible Response (40 mappers, 181 tiles)
+
+ Dec 5 Second HOT Task 799 Published
+
+ Dec 6 Typhoon Ruby Downgraded from A Super Typhoon to Typhoon Status
+
+ Dec 6 First MapGive Imagery received for North East Samar
+
+ Dec 6 Third HOT Task #801 Published
+
+ Dec 6 Latest Track Predictions indicate landfall between Central Samar and North Samar, tracking North west between Central Mindoro and just South of Manila
+
+ Dec 6 ANC (Yahoo) announces landfall At Dolores, North Eastern Samar, this evening on TV. Hot responds by resetting priorities to that area 80Km north and south of Dolores to account for Storm Surge
+
+ Dec 6 Typhoon Ruby made Landfall at 9:15pm Saturday 6th December 2014 (Local Time) at the town of Dolores, eastern Samar
+
+ Dec 7 Second MapGive Imagery released in area of Dolores and islands between Samar and Masbate
+
+ Dec 7 Published Task #804 - Masbate (Bing)
+
+ Dec 7 Published Task #807 - North West Samar Islands (Mapgive)
+
+ Dec 7 Published Task #808 - East Coast - Borongon (Mapgive)
+
+ Dec 7 Typhoon Ruby made Landfall on Masbate 35km South of Masbate City at 12:00 p.m. Sustained winds near the eye at 140kph Gusting to 170kph
+
+ Dec 8 Mapping in Samar and Masbate continues with focus on coastlines, landfall area and islands where imagery was available
+
+ Dec 9 Typhoon Ruby Weakens and is Classifieds as a Tropical Storm. Location: South East of Marinduque Island
+
+ Dec 9 Editing Stats (Last 7 Days) as of 9am Local Time, Philippines - Number of OSM Contributors: 165, Number of Map Changes: 313,386, Total number of Changesets: 3,706. (Source: http://resultmaps.neis-one.org/osm-changesets?comment=ruby#2/27.1/26.4)
+
+ Dec 9 Typhoon Ruby weakens and is now classified as a Tropical Depression. Location: Batangas
+
+ Dec 10 Published Task #805 - North Samar (Mapgive)
+
+ Dec 10. HOT decides to continue activation for one more week to ensure all aspects of the response are covered
+
+ Dec 17. HOT officially Deactivates, however HOT will continue to support Priority Mapping Tasks to help the OSM-PH Community.
+
+
+
+
+
+Humanitarian Mapping
+
+
+Mapping Standards
+
+
+Mapping will need to be done to a consistent standard. The following tagging scheme is based on the OSM-PH Mapping Standards and should be used on all activation mapping.  
+In addition to the Philippine mapping convention, tagging for structures that are used as evacuation centers must be added evacuation_center=yes.
+
+
+
+
+
+ Features 
+ Description 
+ Tags used 
+ Bing 
+ HIU
+
+
+Highways
+
+ Roads indicate people and settlements. Trace as much road features as possible. Make sure are properly tagged, use bridge=yes
+
+Refer to PH road tags
+
+
+
+
+
+
+Settlements
+
+ Trace approximate boundary of settlement to identify areas where people are. Boundary do not need to be too detailed.
+
+landuse=residential
+
+ 
+
+ 
+
+
+Schools
+
+ Schools in rural Philippine are usually long building arranged in parallel to each other.  There is usually an open ground in the center used for school activities.  During emergencies, schools are use as evacuation centers. Trace the whole boundary of the school as amenity=school and then trace individual buildings within the school complex.  Open grounds can be use as landing spots during emergencies. Add the tag evacuation_center=yes, if it was verified from other sources.
+
+amenity=school, name=*, evacuation_center=yes (optional tag)
+
+
+
+
+
+
+Place of worship / Churches
+
+Trace the church grounds and individual buildings within. They are also used as evacuation centers during emergencies.
+
+amenity=place_of_worship, name=*, building=yes for individual buildings within, evacuation_center=yes (optional tag)
+
+
+
+
+
+
+Open spaces like basketball courts
+
+Trace the open grounds like basketball courts. They are also used as evacuation centers during emergencies and landing spots of helicopters.
+
+leisure=pitch, name=*, sport=basketball, evacuation_center=yes (optional tag)
+
+
+
+
+
+
+
+
+
+Validating Tips
+
+
+Please refer to Validating Data for information on Validating Tiles.
+
+
+
+How YOU can Contribute and Help
+
+
+
+Tools and Services Available
+The Tasking Manager and the JOSM editor are essential parts of this Project. As new imagery are available, new jobs are added to the Tasking Manager. It has allowed HOT to coordinate efforts of mappers around the world. Some days there were more then 200 simultaneous mappers registered on the Task Manager and editing mainly with the JOSM editor. Online editors are also used for less intensive mapping. LearnOSM.org offers learning material for beginners and more advanced mappers.
+
+New Mappers
+
+ Most of our volunteer needs are for remote OSM contributors, visit LearnOSM.org section for new remote mappers to get started.
+
+
+Mappers with Experience
+
+Please refer to the Task List at the Top of this Wiki for active Tasks
+
+
+
+Maps Available
+
+
+
+General Info
+OpenStreetMap (OSM) provides good mapping data for this country (free!)
+Browse the map to get a feel for the data we have available. Different map styles can be selected on the right hand side.
+See Downloading data for instructions on getting large scale map data. See Shapefiles if you need this format.
+
+
+On-site maps
+Hourly updates of Geofabrik data is available. There are shape files for GIS analysis and GPS ready files (Garmin format) available.
+Schadow1 Expeditions offers a daily update of Garmin Routable GPS Map of the whole Philippines compiled from OSM data starting December 6, 2014 until relief operations is concluded. OSM-PH Garmin Map
+The FieldPapers website allows you to select an area, and print the map of this area to collect field data. 
+The MapOSMatic website renders  ready-for-print city maps (in pdf, svg, png) with an index of streets.
+A Tile Server with layers for critical infrastructure elements at risk and the residential population distribution in the Philipines in 90m resolution. Further details here
+
+
+
+Communication and Media
+
+
+Communication
+
+
+
+
+ Activation Blog post: Typhoon Hagupit (Ruby) Activation Live
+
+
+
+
+Hash Tags
+
+ #RubyPH #Hagupit - Twitter/etc hashtags
+
+ #mapPHL - Mapping community response
+
+ #ReliefPH - Relief Efforts
+
+ #RescuePH - Needs rescue
+
+ #SafeNow - Rescue operations has succeeded
+
+
+Information and Contacting People Involved
+
+ IRC - irc://irc.oftc.net #hot
+
+ HOT Email List - Humanitarian OSM Team (HOT) Mailing-List (Subscription Required)
+
+
+
+
+
+
+Media
+
+
+
+
+ Storm nears typhoon-ravaged area in Philippines
+
+ Philippines on highest alert as super-typhoon approaches
+
+ Filipino villagers flee as strong typhoon nears central region devastated by Haiyan last year
+
+ Bicol braces for massive landslides, lahar flow
+
+ International Charter Space and major Disasters formally activates at request of UNITAR/UNOSAT on behalf of UN OCHA Philippines
+
+ #RubyPH maintains strength, moves toward Eastern Visayas
+
+ How 'Hagupit' got its name, Ruby is the Local Name ..
+
+ Cool Animations and Visuals - Dangerous super typhoon Hagupit (Ruby) nears the Philippines
+
+ Typhoon Hagupit: People flee homes as panic grips Philippines eastern coast; 2000 travellers stranded in capital Manila
+
+ Evacuations Gather Pace in Philippines as Typhoon Hagupit Nears
+
+ Super Typhoon Hagupit: 500,000 Flee As Storm Approaches
+
+ Super Typhoon Hagupit (aka Ruby) forces airport closures in Calbayog, Legazpi and Naga; all flights cancelled, Philippines aviation authority reports @CAAP_Operations
+
+ Two C-130 planes will head to Samar after Ruby
+
+ DILG and National Disaster Chief in Borongon Eastern Samar
+
+ US Embassy offers planes, personnel as AFP continues preparations for Ruby
+
+ Trees felled, power cut as typhoon hits Philippines
+
+ Typhoon tears into disaster-weary Philippines
+
+ Cleanup Begins in Parts of Philippines as Typhoon Hagupit Heads Northwest
+
+ FIRST LOOK: Images along path of Ruby after landfall
+
+ Typhoon Hagupit (Ruby) Invades the Philippines (PHOTOS)
+
+ Evacuations help limit human toll of Typhoon Hagupit in the Philippines
+
+
+
+
+
+
+
+ 
+				Retrieved from "http://wiki.openstreetmap.org/w/index.php?title=Typhoon_Hagupit&oldid=1128424"				
+Category: Humanitarian OpenStreetMap Projects 
+
+
+
+Navigation menu
+
+
+Personal tools
+
+EnglishCreate accountLog in 
+
+
+
+Namespaces
+
+Page
+Discussion
+
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+Views
+
+Read
+View source
+View history
+
+
+
+Actions
+
+
+
+
+
+
+Search
+
+
+  
+
+
+
+
+
+
+
+
+site
+
+
+Main Page
+The map
+Map Features
+Contributors
+Help
+Blogs
+Shop
+Donations
+Recent changes
+
+
+
+
+Tools
+
+
+What links here
+Related changes
+Special pages
+Printable version
+Permanent link
+Page information
+Cite this page 
+
+
+
+
+
+
+ This page was last modified on 18 January 2015, at 01:11.
+Content is available under Creative Commons Attribution-ShareAlike 2.0 license unless otherwise noted.
+
+
+Privacy policy
+About OpenStreetMap Wiki
+Disclaimers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

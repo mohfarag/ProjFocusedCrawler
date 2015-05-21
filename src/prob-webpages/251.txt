@@ -1,0 +1,47 @@
+M6.3  - 33km NNE of Ramechhap, Nepal
+M6.3  - 33km NNE of Ramechhap, Nepal
+
+
+
+
+Jump to Navigation
+
+
+
+M6.3  - 33km NNE of Ramechhap, Nepal
+
+
+
+
+2015-05-12 07:36:53 (UTC)
+
+      27.618°N86.166°E      
+      15.0 km depth
+    
+
+
+VIDYFI?VIIShakeMap GREENPAGER 
+
+
+
+Downloads
+
+cap (US) us20002ek5capalert.xml (4KB)dyfi (US) us20002ek5cdi_geo.txt (2KB)cdi_geo.xml (6KB)cdi_zip.txt (3KB)cdi_zip.xml (8KB)dyfi.kmz (1KB)dyfi_geo.geojson (6KB)dyfi_geo.kmz (3KB)dyfi_zip.kmz (3KB)event_data.xml (2KB)us20002ek5_ciim.jpg (291KB)us20002ek5_ciim.pdf (538KB)us20002ek5_ciim.ps (892KB)us20002ek5_ciim_geo.jpg (285KB)us20002ek5_ciim_geo.pdf (536KB)us20002ek5_ciim_geo.ps (888KB)us20002ek5_ciim_geo_imap.html (4KB)us20002ek5_ciim_imap.html (3KB)us20002ek5_plot_atten.jpg (35KB)us20002ek5_plot_atten.ps (45KB)us20002ek5_plot_numresp.jpg (23KB)us20002ek5_plot_numresp.ps (29KB)losspager (US) us20002ek5alertecon.pdf (11KB)alertecon.png (14KB)alertecon_small.png (8KB)alertecon_smaller.png (4KB)alertfatal.pdf (9KB)alertfatal.png (14KB)alertfatal_small.png (8KB)alertfatal_smaller.png (4KB)alertsponge.pdf (7KB)alertsponge.png (34KB)alertsponge_small.png (6KB)empfat.png (46KB)emphist.png (56KB)empprob.png (24KB)expolegend.pdf (121KB)expolegend.png (65KB)exposure.pdf (257KB)exposure.png (300KB)exposure.xml (78KB)exposure_small.png (236KB)grid.xml (6MB)historical_events.png (159KB)history.png (62KB)info.xml (5KB)location.png (18KB)onepager.pdf (591KB)pager.xml (40KB)pagerexpo.kmz (139KB)semi_inventory.png (110KB)temp.png (134KB)moment-tensor (US) us20002ek5quakeml.xml (4KB)origin (US) us20002ek5quakeml.xml (3KB)phase-data (US) us20002ek5quakeml.xml (702KB)shakemap (US) us20002ek5about_formats.html (28KB)20002ek5.kml (1KB)cont_mi.json (149KB)cont_mi.kmz (32KB)cont_pga.json (30KB)cont_pga.kmz (7KB)cont_pgv.json (37KB)cont_pgv.kmz (8KB)cont_psa03.json (23KB)cont_psa03.kmz (5KB)cont_psa10.json (69KB)cont_psa10.kmz (15KB)cont_psa30.json (87KB)cont_psa30.kmz (19KB)epicenter.kmz (1KB)event.txt (120B)grid.xml (6MB)grid.xml.zip (1MB)grid.xyz.zip (1MB)hazus.zip (663KB)ii_overlay.png (170KB)ii_thumbnail.jpg (3KB)info.xml (5KB)intensity.jpg (140KB)intensity.ps.zip (554KB)metadata.txt (32KB)overlay.kmz (170KB)pga.jpg (117KB)pga.ps.zip (846KB)pgv.jpg (118KB)pgv.ps.zip (847KB)polygons_mi.kmz (67KB)psa03.jpg (116KB)psa03.ps.zip (846KB)psa10.jpg (119KB)psa10.ps.zip (848KB)psa30.jpg (119KB)psa30.ps.zip (849KB)raster.zip (6MB)rock_grid.xml.zip (641KB)sd.jpg (53KB)shape.zip (4MB)stationlist.json (3KB)stationlist.txt (904B)stationlist.xml (4KB)stations.kmz (3KB)tvguide.txt (8KB)tvmap.jpg (216KB)tvmap.ps.zip (1MB)tvmap_bare.jpg (216KB)tvmap_bare.ps.zip (1MB)uncertainty.xml.zip (667KB)urat_pga.jpg (53KB)urat_pga.ps.zip (35KB)us20002ek5.kml (1KB)us20002ek5.kmz (344KB)intensity.html (5KB)pga.html (5KB)pgv.html (5KB)products.html (16KB)psa03.html (6KB)psa10.html (6KB)psa30.html (6KB)stationlist.html (3KB) 
+
+
+
+
+
+
+Questions or comments? Facebook Twitter Google Email 
+
+Event SummaryEarthquakesHazardsDataLearnMonitoringResearch
+
+
+
+
+
+Search
+
+
+HomeAbout UsContact UsLegal

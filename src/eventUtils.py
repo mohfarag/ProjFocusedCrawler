@@ -28,6 +28,7 @@ from nltk.tokenize.regexp import WordPunctTokenizer
 from _socket import timeout
 
 logging.getLogger('requests').setLevel(logging.WARNING)
+headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 6.0; WOW64; rv:24.0) Gecko/20100101 Firefox/24.0'}#'Digital Library Research Laboratory (DLRL)'}
 #corpusTokens = []
 #docsTokens = []
 #allSents = []
@@ -541,10 +542,13 @@ def getWebpageText(URLs = []):
         URLs = [URLs]
     for url in URLs:
         try:
-            page = requests.get(url.strip(),timeout=10,verify=False).content
-            #text = extractMainArticle(page)
-            text = extractTextFromHTML(page)
-            text['html']= page
+            r = requests.get(url.strip(),timeout=10,verify=False,headers=headers)            
+            if r.status_code == requests.codes.ok:
+                page = r.content
+                text = extractTextFromHTML(page)
+                text['html']= page
+            else:
+                text = {}
         except:
             print sys.exc_info()
             #text = ""
@@ -552,6 +556,13 @@ def getWebpageText(URLs = []):
         webpagesText.append(text)
     return webpagesText
 
+def saveObjUsingPickle(obj,fileName):
+    out_s = open(fileName, 'wb')
+    try:
+        # Write to the stream
+        pickle.dump(obj, out_s)
+    finally:
+        out_s.close() 
 
 
 #Get Frequent Tokens
@@ -587,7 +598,7 @@ def getIndicativeSents(texts,sortedToksTFDF,topK,intersectionTh):
 			if len(sentToks) > 100:
 				continue
 			intersect = getIntersection(topToks, sentToks)
-			if len(intersect) > intersectionTh:
+			if len(intersect) >= intersectionTh:
 				impSents[sent] = len(intersect)
 				#if sent not in impSentsF:
 				#	impSentsF[sent] = len(intersect)
@@ -608,11 +619,13 @@ def getEventModelInsts(sortedImptSents):
     impEventModelInstances = []
     for emi,s in zip(eventModelInstances,sortedImptSents):
         if emi.has_key('LOCATION'):
+            emi['Topic'] = s[1]
             impEventModelInstances.append(emi)
-            emi['Disaster'] = s[1]
+            
         elif emi.has_key('DATE'):
+            emi['Topic'] = s[1]
             impEventModelInstances.append(emi)
-            emi['Disaster'] = s[1]
+            
     #return eventModelInstances
     return impEventModelInstances
 

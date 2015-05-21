@@ -1,5 +1,6 @@
 from document import Document
 import eventUtils as utils
+import math
 class Collection:
     ''' Class for handling corpus collection'''
     def __init__(self,urls=[],texts=[]):
@@ -95,7 +96,11 @@ class Collection:
             #nvWords = [w[0] for w in wordsTags if w[1].startswith('N') or w[1].startswith('V')]
             #wordsDic = dict(sortedToksTFDF)
             #self.indicativeWords = [(w,wordsDic[w]) for w in nvWords]
-            self.indicativeWords = self.getWordsFrequencies()
+            #-----
+
+            #self.indicativeWords = self.getWordsFrequencies()
+            toksTFIDF = self.getWordsTFIDF()
+            self.indicativeWords = utils.getSorted(toksTFIDF.items(),1)
             return self.indicativeWords
             
     def getWordsTFDF(self):
@@ -111,6 +116,20 @@ class Collection:
             tokensTFDF[t] = (tokensTF[t],tokensDF[t])
         
         return tokensTFDF
+    
+    def getWordsTFIDF(self):
+        self.getWordsFrequencies()
+        tokensTF = dict(self.wordsFrequencies)
+        tokensDF = {}
+        for te in tokensTF:
+            df = sum([1 for t in self.documents if te in t.words])
+            tokensDF[te] = df
+        
+        tokensTFIDF = {}
+        for t in tokensDF:
+            tokensTFIDF[t] = (1+ math.log(tokensTF[t])) * math.log(len(self.documents)/ 1.0*tokensDF[t])
+        
+        return tokensTFIDF
     
     def getIndicativeSentences(self,topK,intersectionTh):
         if len(self.indicativeSentences) > 0:

@@ -1,0 +1,824 @@
+
+Google Asia Pacific Blog: Responding to the Nepal earthquakes
+
+
+Google Asia Pacific Blog: Responding to the Nepal earthquakes
+
+
+
+
+
+
+
+
+
+
+
+
+
+Asia Pacific Blog
+Google and the Internet from .in to .au
+
+
+
+
+
+
+
+
+
+
+
+
+Responding to the Nepal earthquakes
+
+
+Posted:
+Sunday, April 26, 2015
+
+
+
+
+
+Tweet
+
+
+
+
+
+UPDATED 13 MAY
+Another powerful earthquake, registering 7.3 on the Richter Scale, struck Nepal yesterday. It was felt as far away as New Delhi. Our team is looking at ways to help.
+
+Free calls to loved ones in Nepal
+You can now call friends and loved ones in Nepal for free from most places around the world, using Google Voice, the Hangouts Dialer on an Android phone, your computer using Hangouts or from Gmail if you’re using Google Talk. We are working hard to ensure that spammers do not abuse this offer and stress Nepal's infrastructure, and will be monitoring closely, but wanted to make calls to those affected as easy as possible.
+
+Already, people in Nepal with a data connection can use Hangouts or Gmail to call phones in the U.S. and Canada for free, while calls to India are 1 cent per minute. Voice or video calls between Google accounts are always free. Please note that telecom infrastructure has been impacted in the country, so lines may be busy or unavailable at times.
+
+Person Finder available
+Person Finder is fully operational to help those affected by this new quake. Records can be added or searched below or on the Person Finder site. And can be searched vis SMS by texting “search <name>” to 6040 in Nepal, +91.977.330.0000 in India or +1.650.800.3978 in the U.S.
+
+We'll update here as we have more information to share. Our hearts go out to those affected in Nepal who were just beginning the long journey to recover and rebuild.
+
+------
+UPDATED 28 APR
+
+On Saturday night, Nepal experienced its worst earthquake in more than 80 years, registering 7.8 on the Richter Scale. Our team is doing a few things to try to aid the response.
+
+Updated satellite imagery
+We continue to update satellite imagery to a Crisis Map to hopefully help those responding in their work to identify impacted areas, locations most in need of aid and evacuation routes. Here is a small collection of before and after imagery showing some of the extent of the continuing impact, from damaged buildings to tents being erected as shelter in open spaces ('before' on the left, 'after' on the right, all ‘after’ imagery is from Apr 27):
+
+You can also look through the satellite imagery in the map below, on the Crisis Map directly or download the data in full for use with Google Earth (KML files). Use the layers menu to select different sets of imagery and adjust the transparency to compare to earlier imagery:
+
+Person Finder
+We launched Person Finder just after the quake hit in English, Nepali, Hindi and several other languages available in the drop-down menu in the top right of the page.  Person Finder gives people a way to post and search for family or friends affected by the disaster.  If you’re worried about someone, click on “I’m looking for someone” and type in their name. If you want to let people know you’re safe or have heard from someone in the area, then click on “I have information about someone” and put in their names and details.  
+
+We’ve also made the Search function of Person Finder available through SMS. In Nepal, India and the U.S., simply text “search <name>” to 6040 in Nepal (toll free), +91.977.330.0000 in India or +1.650.800.3978 in the U.S.
+
+The Person Finder tool can also be embedded on any website using the following HTML code: 
+
+<iframe src="http://google.org/personfinder/2015-nepal-earthquake/?ui=small" width=400 height=300 frameborder=0style="border: dashed 2px #77c"></iframe>
+Call loved ones in Nepal for 1 cent per minute
+To help people communicate with friends and loved ones in Nepal, we’re reducing the cost of calls through Google Voice into the country for the next week from 19 cents to 1 cent (that’s 0.01 USD, with similar cost in other supported currencies) per minute.  We chose 1 cent, instead of making calls free, to prevent spammers from abusing our systems and possibly adding more load to the already stretched Nepalese telephone network.
+
+If you don’t have a Google Voice number, you can make calls at this reduced rate using the Hangouts Dialer on an Android phone, through your computer using Hangouts or from Gmail if you’re using Google Talk, from most places around the world.
+
+Already, people in Nepal with a data connection can use Hangouts or Gmail to call phones in the U.S. and Canada for free, while calls to India are 1 cent per minute.  Voice or video calls between Google accounts are always free.  Please note that telecom infrastructure has been impacted in the country, so lines may be busy or unavailable at times.
+
+Searching to help
+The world’s response to the tragedy can be seen in this map of the world searching for “Nepal” and “help” in various languages in the earthquake’s aftermath. 
+
+This can be embedded on any website using the following HTML code:
+
+<iframe width='100%' height='520' frameborder='0' src='https://srogers.cartodb.com/viz/6714a43a-eca5-11e4-9f3d-0e853d047bba/embed_map' allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+
+Giving to the response
+Google.org has committed $1 million to response efforts, and we are providing an additional $750,000 in employee gift-matching.
+ 
+Sadly, we also lost one of our own to this tragedy, Dan Fredinburg, who was on his way to try to summit Everest.  He was a long-time member of our Privacy team and an all around amazing person. Our thoughts are with the people of Nepal, and with Dan’s family and friends during this terrible time.
+
+Posted by Nigel Snoad, Product Manager, Google Crisis Response
+
+
+
+Labels:
+
+Crisis Response,
+Nepal
+
+
+
+
+
+
+
+
+
+19 comments:
+
+
+
+
+Karolinna PintadoApril 27, 2015 at 9:21 PMThanks google for your help  in this moment.ReplyDeleteAnil KarkiApril 27, 2015 at 11:13 PMThank youReplyDeleteYasir MughalApril 28, 2015 at 2:55 AMAwesome Google as always.ReplyDeleteKaran RawalApril 28, 2015 at 12:05 PMThanks for Support in nepal ....ReplyDeleteKaran RawalApril 28, 2015 at 12:05 PMThanks for Support in nepal ....ReplyDeleteKaran RawalApril 28, 2015 at 12:06 PMThanks for Support in nepal ....ReplyDeletebarbara gattobigioApril 28, 2015 at 1:55 PMBIG G!ReplyDeleteRepliesadventgeekApril 28, 2015 at 9:20 PMYep i admire you. Google Always Prove His Efficiency. DeleteReplyNithya PariApril 28, 2015 at 7:08 PMThanks Google! It feels good to know that Technology can help humans and animals in times of Disaster!ReplyDeleteRaju DawadiApril 28, 2015 at 7:12 PMThanks. Keep on updating...ReplyDeleteEkendra LamsalApril 28, 2015 at 7:33 PMVery useful insight in response to Nepal's disastrous earthquake. Person finder is one among other tool helping people find their missing relatives, friends and families. Crisis responding is even better with Google's tech. Thanks.ReplyDeleteadventgeekApril 28, 2015 at 9:17 PMKudos for your effort. xDReplyDeleteSAMIR KUMAR ChakraborttyApril 28, 2015 at 11:12 PMTHE DISASTER OF NEPAL STARTED BY THE GORKHAS SHOWING THERE KHUKRIES IN FRONT OF THE DOORS OF KEDARNATHJI TEMPLE WHEN IT WAS OPEN FOR DARSHAN THIS YEAR 2015 HATS OF TO GOOGLE TO HELP MANKIND AND ESPESALLY NEPALIES AT THERE HOUR OF NEED.SAMIR KUMAR CHAKRABORTTY.NEW DELHI INDIAReplyDeleteAjay KCApril 29, 2015 at 9:43 AMthank you google.ReplyDeleteSocial work for elderlyApril 30, 2015 at 7:46 PMTo search people lost or if you have any information about anyone just click on https://google.org/personfinder/2015-nepal-earthquake/With your support, HelpAge India-NGO in India, offering help regarding relief camps in Nepal will be one step closer to offering food, accommodation, and health care to those who need it the most. Just donate online to support non profit organization- HelpAge India .ReplyDeleteSocial work for elderlyMay 2, 2015 at 1:55 PMIt was the devastating earthquake which killed more than 6K people till now. People lost their shelters and have nothing to eat and drink. If you feel their sorrow just come to help them via donating money to HelpAge India, to provide all basic needs to save life in Nepal. Every donation made to HelpAge India is eligible to a 100% tax exemption under section 35AC or sec 80GGA. So don't delay just log on http://goo.gl/xUUPgXReplyDeleteSandeep Raj GhimireMay 13, 2015 at 1:59 PMThank you GOOGLE.To help us.ReplyDeleteRisca AgustinMay 13, 2015 at 3:28 PMI'm so sorry for hear it.may god keep bleseed and protect for Nepal.Thank you very much Google for information :)ReplyDeleteERIC ShengMay 14, 2015 at 10:11 AMIt is a shame that there is always vacancy in China. :(ReplyDeleteAdd commentLoad more...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Newer Post
+
+
+Older Post
+
+Home
+
+
+
+
+
+
+
+Search This Blog
+
+
+Loading...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Labels
+
+
+
+Asia Trends
+(27)
+
+
+Australia
+(21)
+
+
+Bangladesh
+(8)
+
+
+Bhutan
+(1)
+
+
+Big Tent
+(1)
+
+
+Cambodia
+(4)
+
+
+China
+(14)
+
+
+Computer Science
+(3)
+
+
+Crisis Response
+(11)
+
+
+Culture
+(17)
+
+
+Digital literacy
+(9)
+
+
+Doodle
+(25)
+
+
+Education and research
+(22)
+
+
+Entrepreneurs Series
+(21)
+
+
+Entrepreneurship
+(17)
+
+
+Google.org
+(7)
+
+
+Hong Kong
+(20)
+
+
+India
+(43)
+
+
+Indonesia
+(25)
+
+
+Japan
+(49)
+
+
+Korea
+(34)
+
+
+Laos
+(2)
+
+
+Malaysia
+(16)
+
+
+Maps
+(6)
+
+
+Mobile First World
+(5)
+
+
+Mongolia
+(2)
+
+
+Myanmar
+(3)
+
+
+Nepal
+(6)
+
+
+New Zealand
+(10)
+
+
+Online safety
+(1)
+
+
+Pakistan
+(4)
+
+
+Philippines
+(23)
+
+
+Singapore
+(16)
+
+
+Sri Lanka
+(7)
+
+
+Taiwan
+(16)
+
+
+Thailand
+(15)
+
+
+Vietnam
+(4)
+
+
+Women
+(14)
+
+
+
+
+
+
+
+
+
+
+
+
+
+Archive
+
+
+
+
+
+
+▼ 
+
+2015
+(50)
+
+
+
+
+
+          ► 
+        
+
+
+May
+(8)
+
+
+
+
+
+▼ 
+
+April
+(9)
+
+Keeping an EYE out for Hong Kong's mobile startups...
+Responding to the Nepal earthquakes
+Asian culture in the digital era
+How India knocked mobile for a six
+Nursed to success: online education for nurses
+5 Things to Know about Indonesia’s HiJup.com
+A month of language love in Southeast Asiaআপনার ভা...
+Samurai meet YouTube Space Tokyo
+Introducing the new face of Search — Google Panda
+
+
+
+
+
+
+
+
+          ► 
+        
+
+
+March
+(15)
+
+
+
+
+
+
+
+          ► 
+        
+
+
+February
+(13)
+
+
+
+
+
+
+
+          ► 
+        
+
+
+January
+(5)
+
+
+
+
+
+
+
+
+
+          ► 
+        
+
+
+2014
+(162)
+
+
+
+
+
+          ► 
+        
+
+
+December
+(15)
+
+
+
+
+
+
+
+          ► 
+        
+
+
+November
+(19)
+
+
+
+
+
+
+
+          ► 
+        
+
+
+October
+(12)
+
+
+
+
+
+
+
+          ► 
+        
+
+
+September
+(13)
+
+
+
+
+
+
+
+          ► 
+        
+
+
+August
+(14)
+
+
+
+
+
+
+
+          ► 
+        
+
+
+July
+(14)
+
+
+
+
+
+
+
+          ► 
+        
+
+
+June
+(14)
+
+
+
+
+
+
+
+          ► 
+        
+
+
+May
+(12)
+
+
+
+
+
+
+
+          ► 
+        
+
+
+April
+(11)
+
+
+
+
+
+
+
+          ► 
+        
+
+
+March
+(15)
+
+
+
+
+
+
+
+          ► 
+        
+
+
+February
+(13)
+
+
+
+
+
+
+
+          ► 
+        
+
+
+January
+(10)
+
+
+
+
+
+
+
+
+
+          ► 
+        
+
+
+2013
+(20)
+
+
+
+
+
+          ► 
+        
+
+
+December
+(8)
+
+
+
+
+
+
+
+          ► 
+        
+
+
+November
+(9)
+
+
+
+
+
+
+
+          ► 
+        
+
+
+October
+(3)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Subscribe by email or RSS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Googleon
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Translate
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Give us feedback in our Product Forums.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Company-wide
+
+
+
+Official Google Blog
+
+
+Public Policy Blog
+
+
+Europe Blog
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Across Asia Pacific
+
+
+
+Australia Blog
+
+
+India Blog
+
+
+Japan Blog
+
+
+Korea Blog
+
+
+Thailand Blog
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Google
+Privacy & Terms
+
+
+
+
+
+
+
+
+
+

@@ -15,14 +15,20 @@ Created on Mar 6, 2014
 # f.close()
 # fw.close()
 
-
-import sys, codecs
+import eventModel,eventUtils
+#import sys, codecs
 # sys.stdout.errors = 'replace'
 
-
+'''
 if sys.stdout.encoding != 'utf-8':
     sys.stdout = codecs.getwriter('utf-8')(sys.stdout, 'strict')
 print u'\xad'
 # print sys.stdout.encoding
 # import locale
 # print locale.getdefaultlocale()[1]
+'''
+seedsFile = 'Output-nepalEarthquake-long.txt'
+seedURLs = eventUtils.readFileLines(seedsFile) 
+em = eventModel.EventModel(5,2)
+
+em.buildEventModel(20, seedURLs)

@@ -11,6 +11,7 @@ from TFIDF import TFIDF
 from ExtendedPriorityQueue import PubVenPriorityQueue
 from EnhancedCrawler import EnhancedCrawler
 from eventModel import EventModel
+from ProbEventModel import ProbEventModel
 from evaluate import Evaluate
 from eventUtils import train_SaveClassifier, readFileLines
 import os
@@ -90,6 +91,29 @@ def eventFC(crawlParams):
     print len(eres)
     '''
     return crawler.relevantPages
+
+def probEventFC(crawlParams):
+    
+    seedURLs = crawlParams["seedURLs"] 
+    t = [(-1000,p,-1,"") for p in seedURLs]
+    priorityQueue = PriorityQueue(t)
+    
+    crawlParams["priorityQueue"]=priorityQueue
+    
+    #eventModel = EventModel(crawlParams['No_Keywords'],2)
+    probEvtModel = ProbEventModel()
+    
+    #eventModel.buildEventModel(crawlParams['seedURLs'])
+    probEvtModel.buildProbEventModel(crawlParams['model'],crawlParams['No_Keywords'])
+    
+    
+    crawlParams['scorer']=probEvtModel
+    crawler = Crawler(crawlParams)
+    
+    crawler.crawl()
+    
+    return crawler.relevantPages
+
     
 def intelligentFC(scorer,options):
     seedUrls = ["http://www.cnn.com/2013/09/27/world/africa/kenya-mall-attack/index.html",
@@ -127,12 +151,13 @@ def writeEvaluation(res,filename):
         f.write(str(rel) + "," + str(tot) + "\n")
     f.close()
 
-def startCrawl(v,seedsFile,evaluator,modelFile,ct):
+#def startCrawl(v,seedsFile,evaluator,modelFile,ct):
+def startCrawl(seedsFile,evaluator,modelFile,ct):
 
     #switchFC = 1
     #number of keywords to represent event/topic
-    num = 15
-    pagesLimit = 500
+    num = 10
+    pagesLimit = 300
     
     pageScoreThreshold =0.7
     urlScoreThreshold = 0
@@ -145,78 +170,119 @@ def startCrawl(v,seedsFile,evaluator,modelFile,ct):
     modelURLs = readFileLines(modelFile)
     crawlParams['model']=modelURLs
     crawlParams['restricted'] = 0
-    
+    crawlParams['combineScore'] = 0
     
     #crawlParams['t'] = t
     if ct =='b':
         #baseRelevantPages =baseFC(crawlParams)
-        
+        logDataFilename="base-webpages/base-logData.txt"
+        outputURLsFilename="base-webpages/base-Output-URLs.txt"
+        pagesDir="base-webpages/"
+        evalFilename="base-webpages/base-evaluateData.txt"
         
         rp = baseFC(crawlParams)
-        
-        f = open("base-webpages/"+str(v)+"/"+"base-logData.txt","w")
-        furl = open("base-webpages/"+str(v)+"/"+"base-Output-URLs.txt","w")
+        '''
+        #f = open("base-webpages/"+str(v)+"/"+"base-logData.txt","w")
+        #furl = open("base-webpages/"+str(v)+"/"+"base-Output-URLs.txt","w")
+        f = open("base-webpages/base-logData.txt","w")
+        furl = open("base-webpages/base-Output-URLs.txt","w")
         for p in rp:
             f.write(str(p.pageId) + "," + str(p.pageUrl[2]) + "\n")
             #furl.write(p.pageUrl[1].encode("utf-8")+","+str(p.estimatedScore)+"\n")
             furl.write(p.pageUrl[1].encode("utf-8")+"\n")
-            ftext = open("base-webpages/"+str(v)+"/"+str(p.pageId) + ".txt", "w")
+            ftext = open("base-webpages/"+str(p.pageId) + ".txt", "w")
             ftext.write(p.text.encode("utf-8"))
             ftext.close()
         f.close()
         furl.close()
         
         res = evaluator.evaluateFC(rp)
-        writeEvaluation(res,"base-webpages/"+str(v)+"/"+"base-evaluateData.txt")    
+        writeEvaluation(res,"base-webpages/base-evaluateData.txt")    
         print sum(res)
         print len(res)
-    else: 
-        #eventRelevantPages = eventFC(crawlParams)
+        '''
+    elif ct =='p':
+        logDataFilename="prob-webpages/prob-logData.txt"
+        outputURLsFilename="prob-webpages/prob-Output-URLs.txt"
+        pagesDir="prob-webpages/"
+        evalFilename="prob-webpages/prob-evaluateData.txt"
+        rp = probEventFC(crawlParams)
+        '''
+        #f = open("base-webpages/"+str(v)+"/"+"base-logData.txt","w")
+        #furl = open("base-webpages/"+str(v)+"/"+"base-Output-URLs.txt","w")
+        f = open("prob-webpages/prob-logData.txt","w")
+        furl = open("prob-webpages/prob-Output-URLs.txt","w")
+        for p in rp:
+            f.write(str(p.pageId) + "," + str(p.pageUrl[2]) + "\n")
+            #furl.write(p.pageUrl[1].encode("utf-8")+","+str(p.estimatedScore)+"\n")
+            furl.write(p.pageUrl[1].encode("utf-8")+"\n")
+            ftext = open("prob-webpages/"+str(p.pageId) + ".txt", "w")
+            ftext.write(p.text.encode("utf-8"))
+            ftext.close()
+        f.close()
+        furl.close()
         
+        res = evaluator.evaluateFC(rp)
+        writeEvaluation(res,"prob-webpages/prob-evaluateData.txt")    
+        print sum(res)
+        print len(res)
+        '''
+    elif ct =='e': 
+        #eventRelevantPages = eventFC(crawlParams)
+        logDataFilename="event-webpages/event-logData.txt"
+        outputURLsFilename="event-webpages/event-Output-URLs.txt"
+        pagesDir="event-webpages/"
+        evalFilename="event-webpages/event-evaluateData.txt"
         rp = eventFC(crawlParams)
-        f = open("event-webpages/"+str(v)+"/"+"event-logData.txt","w")
-        furl = open("event-webpages/"+str(v)+"/"+"event-Output-URLs.txt","w")
+        '''
+        f = open(logDataFilename,"w")
+        furl = open(outputURLsFilename,"w")
         for p in rp:
             f.write(str(p.pageId) + "," + str(p.pageUrl[2]) + "\n")
             #furl.write(p.pageUrl[1].encode('utf-8')+","+str(p.estimatedScore)+"\n")
             furl.write(p.pageUrl[1].encode('utf-8')+"\n")
-            ftext = open("event-webpages/"+str(v)+"/"+str(p.pageId) + ".txt", "w")
+            ftext = open(pagesDir+str(p.pageId) + ".txt", "w")
             ftext.write(p.text.encode("utf-8"))
             ftext.close()
         f.close()
         furl.close()
         res = evaluator.evaluateFC(rp)
-        writeEvaluation(res,"event-webpages/"+str(v)+"/"+"event-evaluateData.txt")    
+        writeEvaluation(res,evalFilename)    
         print sum(res)
         print len(res)
+        '''
+    f = open(logDataFilename,"w")
+    furl = open(outputURLsFilename,"w")
     
+    for p in rp:
+        f.write(str(p.pageId) + "," + str(p.pageUrl[2]) + "\n")
+        #furl.write(p.pageUrl[1].encode("utf-8")+","+str(p.estimatedScore)+"\n")
+        furl.write(p.pageUrl[1].encode("utf-8")+"\n")
+        ftext = open(pagesDir+str(p.pageId) + ".txt", "w")
+        ftext.write(p.text.encode("utf-8"))
+        ftext.close()
+    f.close()
+    furl.close()
+    
+    res = evaluator.evaluateFC(rp)
+    writeEvaluation(res,evalFilename)    
+    print sum(res)
+    print len(res)
 
 
 if __name__ == "__main__":
-    #modelFile = 'modelFile'
-    #seedsFiles=['seeds_459.txt','seeds_474.txt','seeds_478.txt','seedsURLs_z_534.txt']
-    seedsFiles=['seeds_459.txt','seeds_474.txt','seedsURLs_z_534.txt','seedsURLs_z_501.txt','seedsURLs_z_540.txt']
-    #seedsFiles=['seedsURLs_z_501.txt','seedsURLs_z_504.txt','seedsURLs_z_529.txt','seedsURLs_z_540.txt']
-    #posFiles = ['pos-FSU.txt','pos-Hagupit.txt','pos-LAFire.txt','pos-AirAsia.txt']
-    posFiles = ['pos-FSU.txt','pos-Hagupit.txt','pos-AirAsia.txt','pos-sydneyseige.txt','pos-Charlie.txt']
+    
+    seedsFiles=['Output-boatCapsized.txt','Output-nepalEarthquake.txt','seeds_459.txt','seeds_474.txt','seedsURLs_z_534.txt','seedsURLs_z_501.txt','seedsURLs_z_540.txt']
+    
+    posFiles = ['Output-boatCapsized.txt','Output-nepalEarthquake.txt','pos-FSU.txt','pos-Hagupit.txt','pos-AirAsia.txt','pos-sydneyseige.txt','pos-Charlie.txt']
     #negFolder = 'neg'
     negFiles = ['neg-FSU.txt','neg-Hagupit.txt','neg-AirAsia.txt','neg-sydneyseige.txt','neg-Charlie.txt']
-    
-    '''
-    seedsFiles=['seedsURLs_z_501.txt','seedsURLs_z_540.txt']
-    
-    #posFiles = ['pos-FSU.txt','pos-Hagupit.txt','pos-AirAsia.txt']
-    #negFiles = ['neg-FSU.txt','neg-Hagupit.txt','neg-AirAsia.txt']
-    
-    posFiles = ['pos-Charlie.txt','pos-sydneyseige.txt']
-    negFiles = ['neg-Charlie.txt','neg-sydneyseige.txt']
-    '''
     
     evaluator = Evaluate()
     #for i in range(3):
     noK = 10
-    th = 0.75
-    i=3
+    th = 0.2
+    i=0
     posFile = posFiles[i]
     negFile = negFiles[i]
     #modelFile = modelFile +"-"+str(i)+".txt"
@@ -226,9 +292,10 @@ if __name__ == "__main__":
     #evaluator.buildClassifier(posFile,negFile,classifierFileName)
     evaluator.buildVSMClassifier(posFile, vsmClassifierFileName,th,noK)
 
-    v = 0
+    #v = 0
 
-    inputFile = seedsFiles[i].split('.')[0]+"_"+str(v)+".txt"
+    #inputFile = seedsFiles[i].split('.')[0]+"_"+str(v)+".txt"
+    inputFile = seedsFiles[i]
     
     '''
     event = 'Charlie'
@@ -240,5 +307,6 @@ if __name__ == "__main__":
     '''
     crawlType = 'e'
     modelFile = inputFile
-    startCrawl(v,inputFile,evaluator,modelFile,crawlType)
+    #startCrawl(v,inputFile,evaluator,modelFile,crawlType)
+    startCrawl(inputFile,evaluator,modelFile,crawlType)
     
