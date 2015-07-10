@@ -17,11 +17,12 @@ import pickle
 from document import Document
 
 class VSMClassifier(object):
-    def __init__(self, topVocabDic,targetDocsTF,relevTh):
+    def __init__(self, topVocabDic,relevTh):
         #self.docsTF = targetDocsTF
         self.relevanceth = relevTh
         self.topVocabDic = topVocabDic
-        doc1s = [1+math.log(self.topVocabDic[k]) for k in self.topVocabDic]
+        #doc1s = [1+math.log(self.topVocabDic[k]) for k in self.topVocabDic]
+        doc1s = [self.topVocabDic[k] for k in self.topVocabDic]
         self.vocabScalar = getScalar(doc1s)
     
     def cosSim_old(self, doc1,doc2):
@@ -46,13 +47,17 @@ class VSMClassifier(object):
         #for k in doc1:
         for k in self.topVocabDic:
             if k in doc2:
-                a = (1 + math.log(self.topVocabDic[k]))
-                b = (1+math.log(doc2[k]))
+                #a = (1 + math.log(self.topVocabDic[k]))
+                #b = (1+math.log(doc2[k]))
+                a = self.topVocabDic[k]
+                b = doc2[k]
                 sim +=  a * b 
         
         if sim > 0:
             #doc1s = [1+math.log(doc1[k]) for k in doc1]
-            doc2s = [1+math.log(doc2[k]) for k in doc2]
+            
+            #doc2s = [1+math.log(doc2[k]) for k in doc2]
+            doc2s = [doc2[k] for k in doc2]
             #sim = float(sim)/(getScalar(doc1s) * getScalar(doc2s))
             sim = float(sim)/(self.vocabScalar * getScalar(doc2s))
             
@@ -217,50 +222,45 @@ class Evaluate(object):
             '''
             docsTF = []
             vocabTFDic = {}
+            n = len(docs)
             for d in docs:
                 wordsFreq = getFreq(d.getWords())
                 #docsTF.append(wordsFreq)
                 for w in wordsFreq:
                     if w in vocabTFDic:
-                        vocabTFDic[w] += wordsFreq[w]
+                        #vocabTFDic[w] += wordsFreq[w]
+                        vocabTFDic[w].append( wordsFreq[w])
                     else:
-                        vocabTFDic[w] = wordsFreq[w]
-            
-            vocabSorted = getSorted(vocabTFDic.items(), 1)
+                        vocabTFDic[w] = [wordsFreq[w]]
+            #vocTF_IDF = [(w,sum(vocabTFDic[w])*math.log(n*1.0/len(vocabTFDic[w]))) for w in vocabTFDic]
+            idf = 1.0
+            vocTF_IDF = [(w,sum([1+math.log(vtf) for vtf in vocabTFDic[w]])*idf) for w in vocabTFDic]
+             
+            #vocabSorted = getSorted(vocabTFDic.items(), 1)
+            vocabSorted = getSorted(vocTF_IDF, 1)
             print vocabSorted[:topK]
             topVocabDic = dict(vocabSorted[:topK])
             #topVocabDic = vocabTFDic
+             
             
-            ndocsTF = []
-            '''
-            for d in docsTF:
-                ndocTF = {}
-                for k in topVocabDic:
-                    if k in d:
-                        ndocTF[k] = d[k]
-                    else: 
-                        ndocTF[k] = 1/math.e
-                ndocsTF.append(ndocTF)
-             '''   
-            
-            self.classifier = VSMClassifier(topVocabDic,ndocsTF,th)
+            self.classifier = VSMClassifier(topVocabDic,th)
             classifierFile = open(vsmClassifierFileName,"wb")
             pickle.dump(self.classifier,classifierFile)
             classifierFile.close()
         
     def evaluateFC(self,pages):
         results=[]
-        scores = []
+        self.scores = []
         #for page,score in pages:
         for page in pages:
             #if page.estimatedScore > 0:
             s = self.classifier.calculate_score(page.text)
             r = s[0]
             results.append(r)
-            scores.append(s[1])
+            self.scores.append(s[1])
             #else:
             #    results.append(0)
-        print scores
+        print self.scores
         return results
         
         

@@ -230,8 +230,11 @@ if __name__ == '__main__':
     relevTh = 0.75
     k = 500
    
+    #classifierVSM-fifa arrests.p
+    
     es = ['FSU','Hagupit','AirAsia','sydneyseige','Charlie']
     seedsFiles=['seeds_459.txt','seeds_474.txt','seedsURLs_z_534.txt','seedsURLs_z_501.txt','seedsURLs_z_540.txt']
+    
     j = 2
     for i in range(3):
         #i = 0

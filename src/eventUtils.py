@@ -319,8 +319,8 @@ def getEntities(texts):
         tagger = ner.SocketNER(host='localhost',port=8000)
         entities = []
         for t in texts:
-            sentence_entities = tagger.get_entities(t)
-            entities.append(sentence_entities)
+            ents = tagger.get_entities(t)
+            entities.append(ents)
         return entities
 
 def isListsDisjoint(l1,l2):
@@ -606,6 +606,8 @@ def getIndicativeSents(texts,sortedToksTFDF,topK,intersectionTh):
 	
 	sortedImptSents = getSorted(impSents.items(),1)
 	return sortedImptSents
+
+
 
 def getEventModelInsts(sortedImptSents):
     '''    

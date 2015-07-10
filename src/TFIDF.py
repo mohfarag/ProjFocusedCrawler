@@ -112,6 +112,7 @@ class TFIDF:
         return
     
     #def buildModel(self,docs):
+    
     def buildModel(self,seedURLs,num):
         #docs = downloadRawDocs(seedURLs)
         td = getWebpageText(seedURLs)
@@ -123,7 +124,7 @@ class TFIDF:
         #vocab = self.buildVocab(docs_bow)
         self.buildVocabIndex(docs_bow)
         selected = self.selectImportantWords_tf(num)
-        print selected
+        #print selected
         wordsList = self.index.keys()
         selected_words = [wordsList[k[1]] for k in selected]
         print selected_words

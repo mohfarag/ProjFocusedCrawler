@@ -103,7 +103,108 @@ class EventModel:
         return s
     
     
-    def buildEventModel(self,keywordsTh, seedURLs):
+    def buildEventModel(self,seedURLs):
+        
+        corpus = Collection(seedURLs)
+        
+        #NoTFDF
+        self.toksDic= corpus.getIndicativeWords('TF')
+        #sortedImptSents = corpus.getIndicativeSentences(keywordsTh,self.intersectionTh)
+        #for s in sortedImptSents[:self.topK]: 
+        #    print s 
+        # Get Event Model
+        docsTexts = [d.text for d in corpus.documents]
+        eventModelInstances = eventUtils.getEntities(docsTexts)
+        #eventModelInstances = eventUtils.getEventModelInsts(docsTexts)
+        #print eventModelInstances[:self.topK]
+        
+        self.entities['LOCATION']= []
+        self.entities['DATE'] = []
+        self.entities['Topic']=[]
+        
+        for e in eventModelInstances:
+            if 'LOCATION' in e:
+                self.entities['LOCATION'].extend( e['LOCATION'])
+            elif 'DATE' in e:
+                self.entities['DATE'].extend( e['DATE'])
+            #self.entities['Topic'].extend(e['Topic'])
+        
+        entitiesFreq = {}
+        entitiesFreq['LOCATION'] = self.getEntitiesFreq(self.entities['LOCATION'])
+        entitiesFreq['DATE'] = self.getEntitiesFreq(self.entities['DATE'])
+        entitiesFreq['Topic'] = eventUtils.getSorted(self.toksDic, 1)
+       
+        filteredDates = []
+        months = ['jan','feb','mar','apr','aug','sept','oct','nov','dec','january','february','march','april','may','june','july','august','september','october','november','december']
+        for d,v in entitiesFreq['DATE']:
+            if d.isdigit() and len(d) == 4:
+                filteredDates.append((d,v))
+            elif d.lower() in months:
+                filteredDates.append((d,v))
+        entitiesFreq['DATE']=filteredDates
+        
+        llen = self.topK
+        dlen = self.topK
+        #l = [k for k,_ in entitiesFreq['LOCATION']]
+        s = len(entitiesFreq['LOCATION'])
+        
+        if llen < s:
+            s = llen
+        t = entitiesFreq['LOCATION'][:s]
+        print t
+        self.entities['LOCATION'] = dict(t)
+               
+        #d = [k for k,_ in entitiesFreq['DATE']]
+        s = len(entitiesFreq['DATE'])
+        if dlen < s:
+            s = dlen
+        self.entities['DATE'] = dict(entitiesFreq['DATE'][:s])
+        print entitiesFreq['DATE'][:s]
+        
+        
+        #locDate = [k for k,_ in entitiesFreq['LOCATION']] + [m for m,_ in entitiesFreq['DATE']]
+        locDate = self.entities['LOCATION'].keys() + self.entities['DATE'].keys()
+        
+        locDate = eventUtils.getTokens(' '.join(locDate))
+        
+        
+        ntopToks = []
+        topToks = [k for k,_ in entitiesFreq['Topic']]
+        for tok in topToks:
+            if tok not in locDate:
+                ntopToks.append(tok)
+        topToks = ntopToks
+        
+        if self.topK < len(topToks):
+            topToks =  topToks[:self.topK]
+        #print "Disaster: ", topToks
+        
+        
+        topToksDic = {}
+        for t in topToks:
+            topToksDic[t] = self.toksDic[t]
+        #self.entities['Disaster'] = set(topToks)
+        self.entities['Topic'] = topToksDic
+        
+        #print self.entities
+        print topToksDic
+        
+        #self.vecs = {}
+        self.scalars = {}
+        for k in self.entities:
+            ekv = self.entities[k]
+            '''
+            if k == 'Disaster':
+                ev = [1+math.log(e*v) for e,v in ekv.values()]
+            else:
+                ev = [1+math.log(e) for e in ekv.values()]
+            '''
+            #NoTFDF
+            ev = [1+math.log(e) for e in ekv.values()]
+            #self.vecs[k] = ev
+            self.scalars[k] = self.getScalar(ev)
+    
+    def buildEventModel_Sents(self,keywordsTh, seedURLs):
         
         corpus = Collection(seedURLs)
         
@@ -136,13 +237,13 @@ class EventModel:
         entitiesFreq['LOCATION'] = self.getEntitiesFreq(self.entities['LOCATION'])
         entitiesFreq['DATE'] = self.getEntitiesFreq(self.entities['DATE'])
         entitiesFreq['Topic'] = self.getEntitiesFreq(self.entities['Topic'])
-        
-        
+        #entitiesFreq['Topic'] = [(t,self.toksTFIDFDic[t]) for t,f in tf ]
+        '''
         if self.topK < len(entitiesFreq['Topic']):
             entitiesFreq['Topic'] = entitiesFreq['Topic'][:self.topK]
         self.entities['Topic'] = dict(entitiesFreq['Topic'])
         print entitiesFreq['Topic']
-        
+        '''
         filteredDates = []
         months = ['jan','feb','mar','apr','aug','sept','oct','nov','dec','january','february','march','april','may','june','july','august','september','october','november','december']
         for d,v in entitiesFreq['DATE']:
@@ -172,10 +273,11 @@ class EventModel:
         
         
         #locDate = [k for k,_ in entitiesFreq['LOCATION']] + [m for m,_ in entitiesFreq['DATE']]
+        locDate = self.entities['LOCATION'].keys() + self.entities['DATE'].keys()
         
-        #locDate = eventUtils.getTokens(' '.join(locDate))
+        locDate = eventUtils.getTokens(' '.join(locDate))
         
-        '''
+        
         ntopToks = []
         topToks = [k for k,_ in entitiesFreq['Topic']]
         for tok in topToks:
@@ -196,7 +298,7 @@ class EventModel:
         
         #print self.entities
         print topToksDic
-        '''
+        
         #self.vecs = {}
         self.scalars = {}
         for k in self.entities:
@@ -388,15 +490,19 @@ class EventModel:
         scores = []
         
         ksd = 0    
+        #interst = 0
         for i in tokensDic:
             if i in eDisDic:
                 ksd += (1+math.log(eDisDic[i]))* (1+math.log(tokensDic[i]))
+                #interst +=1
         if ksd > 0:
             ksd = float(ksd)/(self.scalars['Topic'] * wvScalar)
         else:
             ksd = 0
         if ksd == 0:
             return 0
+        #if interst < 2:
+            #return 0
         scores.append(ksd)
         ksl = 0    
         for i in tokensDic:
@@ -492,6 +598,7 @@ class EventModel:
                 webpageEventModel[k] = self.getUniqueEntities(webpageEventModel[k])
             
         return webpageEventModel
+    
     '''
     def calculate_score(self,doc=""):
         entities = self.webpageEntities(doc)       

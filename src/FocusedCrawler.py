@@ -59,11 +59,11 @@ def eventFC(crawlParams):
     
     crawlParams["priorityQueue"]=priorityQueue
     
-    #eventModel = EventModel(crawlParams['No_Keywords'],2)
-    eventModel = EventModel(5,2)
+    eventModel = EventModel(crawlParams['No_Keywords'])
+    #eventModel = EventModel(5,2)
     
-    #eventModel.buildEventModel(crawlParams['seedURLs'])
-    eventModel.buildEventModel(20, crawlParams['model'])
+    eventModel.buildEventModel(crawlParams['model'])
+    #eventModel.buildEventModel(20, crawlParams['model'])
     
     
     crawlParams['scorer']=eventModel
@@ -95,7 +95,7 @@ def eventFC(crawlParams):
 def probEventFC(crawlParams):
     
     seedURLs = crawlParams["seedURLs"] 
-    t = [(-1000,p,-1,"") for p in seedURLs]
+    t = [(-0.0001,p,-1,"") for p in seedURLs]
     priorityQueue = PriorityQueue(t)
     
     crawlParams["priorityQueue"]=priorityQueue
@@ -152,15 +152,15 @@ def writeEvaluation(res,filename):
     f.close()
 
 #def startCrawl(v,seedsFile,evaluator,modelFile,ct):
-def startCrawl(seedsFile,evaluator,modelFile,ct):
+def startCrawl(seedsFile,evaluator,modelFile,ct,num=5,pagesLimit=100, pageScoreThreshold=0.5,urlScoreThreshold=0):
 
     #switchFC = 1
     #number of keywords to represent event/topic
-    num = 10
-    pagesLimit = 300
+    #num = 5
+    #pagesLimit = 300
     
-    pageScoreThreshold =0.7
-    urlScoreThreshold = 0
+    #pageScoreThreshold =0.7
+    #urlScoreThreshold = 0
     #mode = 0 # no URL scoring
     mode = 1 # URL scoring
     crawlParams = {"num_pages": pagesLimit,"pageScoreThreshold":pageScoreThreshold,"urlScoreThreshold":urlScoreThreshold ,"mode":mode}
@@ -171,14 +171,14 @@ def startCrawl(seedsFile,evaluator,modelFile,ct):
     crawlParams['model']=modelURLs
     crawlParams['restricted'] = 0
     crawlParams['combineScore'] = 0
-    
+    outputDir = seedsFile.split(".")[0]
     #crawlParams['t'] = t
     if ct =='b':
         #baseRelevantPages =baseFC(crawlParams)
-        logDataFilename="base-webpages/base-logData.txt"
-        outputURLsFilename="base-webpages/base-Output-URLs.txt"
-        pagesDir="base-webpages/"
-        evalFilename="base-webpages/base-evaluateData.txt"
+        pagesDir=outputDir+"/base-webpages/"
+        logDataFilename=pagesDir+"base-logData.txt"
+        outputURLsFilename=pagesDir+"base-Output-URLs.txt"
+        evalFilename=pagesDir+"base-evaluateData.txt"
         
         rp = baseFC(crawlParams)
         '''
@@ -202,10 +202,10 @@ def startCrawl(seedsFile,evaluator,modelFile,ct):
         print len(res)
         '''
     elif ct =='p':
-        logDataFilename="prob-webpages/prob-logData.txt"
-        outputURLsFilename="prob-webpages/prob-Output-URLs.txt"
-        pagesDir="prob-webpages/"
-        evalFilename="prob-webpages/prob-evaluateData.txt"
+        pagesDir=outputDir+"/prob-webpages/"
+        logDataFilename=pagesDir+"prob-logData.txt"
+        outputURLsFilename=pagesDir+"prob-Output-URLs.txt"
+        evalFilename=pagesDir+"prob-evaluateData.txt"
         rp = probEventFC(crawlParams)
         '''
         #f = open("base-webpages/"+str(v)+"/"+"base-logData.txt","w")
@@ -229,10 +229,10 @@ def startCrawl(seedsFile,evaluator,modelFile,ct):
         '''
     elif ct =='e': 
         #eventRelevantPages = eventFC(crawlParams)
-        logDataFilename="event-webpages/event-logData.txt"
-        outputURLsFilename="event-webpages/event-Output-URLs.txt"
-        pagesDir="event-webpages/"
-        evalFilename="event-webpages/event-evaluateData.txt"
+        pagesDir=outputDir+"/event-webpages/"
+        logDataFilename=pagesDir+"event-logData.txt"
+        outputURLsFilename=pagesDir+"event-Output-URLs.txt"
+        evalFilename=pagesDir+"event-evaluateData.txt"
         rp = eventFC(crawlParams)
         '''
         f = open(logDataFilename,"w")
@@ -251,6 +251,11 @@ def startCrawl(seedsFile,evaluator,modelFile,ct):
         print sum(res)
         print len(res)
         '''
+    
+    #if not os.path.exists(outputDir):
+    #    os.makedirs(outputDir)
+    if not os.path.exists(pagesDir):
+        os.makedirs(pagesDir)
     f = open(logDataFilename,"w")
     furl = open(outputURLsFilename,"w")
     
@@ -272,17 +277,18 @@ def startCrawl(seedsFile,evaluator,modelFile,ct):
 
 if __name__ == "__main__":
     
-    seedsFiles=['Output-boatCapsized.txt','Output-nepalEarthquake.txt','seeds_459.txt','seeds_474.txt','seedsURLs_z_534.txt','seedsURLs_z_501.txt','seedsURLs_z_540.txt']
+    seedsFiles=['Output-tunisiaHotelAttack.txt','Output-samesexmarriage.txt','Output-CharlestonShooting.txt','Output-fifaArrests.txt','Output-boatCapsized.txt','Output-nepalEarthquake.txt','seeds_459.txt','seeds_474.txt','seedsURLs_z_534.txt','seedsURLs_z_501.txt','seedsURLs_z_540.txt']
     
-    posFiles = ['Output-boatCapsized.txt','Output-nepalEarthquake.txt','pos-FSU.txt','pos-Hagupit.txt','pos-AirAsia.txt','pos-sydneyseige.txt','pos-Charlie.txt']
+    posFiles = ['pos-tunisiaHotelAttack.txt','pos-samesexmarriage.txt','pos-CharlestonShooting.txt','Output-fifaArrests.txt','Output-boatCapsized.txt','Output-nepalEarthquake.txt','pos-FSU.txt','pos-Hagupit.txt','pos-AirAsia.txt','pos-sydneyseige.txt','pos-Charlie.txt']
     #negFolder = 'neg'
     negFiles = ['neg-FSU.txt','neg-Hagupit.txt','neg-AirAsia.txt','neg-sydneyseige.txt','neg-Charlie.txt']
-    
+    modelFiles = ['model-tunisiaHotelAttack.txt','model-samesexmarriage.txt','model-CharlestonShooting.txt']
     evaluator = Evaluate()
     #for i in range(3):
-    noK = 10
+    pagesLimit = 700
+    noK = 5
     th = 0.2
-    i=0
+    i=2
     posFile = posFiles[i]
     negFile = negFiles[i]
     #modelFile = modelFile +"-"+str(i)+".txt"
@@ -306,7 +312,7 @@ if __name__ == "__main__":
     modelFile = 'modelURLs_'+ event + '.txt'
     '''
     crawlType = 'e'
-    modelFile = inputFile
+    modelFile = inputFile#modelFiles[i]#'modelFile.txt'#inputFile
     #startCrawl(v,inputFile,evaluator,modelFile,crawlType)
-    startCrawl(inputFile,evaluator,modelFile,crawlType)
+    startCrawl(inputFile,evaluator,modelFile,crawlType,noK,pagesLimit, th)
     

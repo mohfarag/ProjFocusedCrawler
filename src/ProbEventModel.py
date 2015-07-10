@@ -27,7 +27,7 @@ class ProbEventModel:
     
     def buildProbEventModel(self,urlsList,topK):
         
-        docsList = self.getCollectionDocs(urlsList)
+        docsList = eventUtils.getWebpageText(urlsList) #self.getCollectionDocs(urlsList)
         t = ''
         #docsTotalFreqs=[]
         docsEntities=[]

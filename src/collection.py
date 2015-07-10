@@ -83,7 +83,7 @@ class Collection:
             self.indicativeWords = [(w,wordsDic[w]) for w in nvWords]
             return self.indicativeWords
     
-    def getIndicativeWords(self):
+    def getIndicativeWords(self,t):
         if self.indicativeWords:
             return self.indicativeWords
         else:
@@ -99,8 +99,15 @@ class Collection:
             #-----
 
             #self.indicativeWords = self.getWordsFrequencies()
-            toksTFIDF = self.getWordsTFIDF()
-            self.indicativeWords = utils.getSorted(toksTFIDF.items(),1)
+            
+            if t =='TFIDF':
+                toks = self.getWordsTFIDF()
+            elif t == 'TFDF':
+                toks = self.getWordsTFDF()
+            elif t == 'TF':
+                toks = self.getWordsTF()
+            #self.indicativeWords = utils.getSorted(toks.items(),1)
+            self.indicativeWords = toks
             return self.indicativeWords
             
     def getWordsTFDF(self):
@@ -130,6 +137,23 @@ class Collection:
             tokensTFIDF[t] = (1+ math.log(tokensTF[t])) * math.log(len(self.documents)/ 1.0*tokensDF[t])
         
         return tokensTFIDF
+    
+    def getWordsTF(self):
+        self.getWordsFrequencies()
+        tokensTF = dict(self.wordsFrequencies)
+        '''
+        tokensDF = {}
+        for te in tokensTF:
+            df = sum([1 for t in self.documents if te in t.words])
+            tokensDF[te] = df
+        
+        tokensTFIDF = {}
+        for t in tokensDF:
+            tokensTFIDF[t] = (1+ math.log(tokensTF[t])) * math.log(len(self.documents)/ 1.0*tokensDF[t])
+        '''
+        for te in tokensTF:
+            tokensTF[te] = (1+ math.log(tokensTF[te]))
+        return tokensTF
     
     def getIndicativeSentences(self,topK,intersectionTh):
         if len(self.indicativeSentences) > 0:
