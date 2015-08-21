@@ -7,7 +7,8 @@ Created on Oct 10, 2014
 import nltk
 import sys, os
 import re
-from bs4 import BeautifulSoup, Comment
+from bs4 import BeautifulSoup, Comment, NavigableString
+#import bs4
 import requests
 from nltk.corpus import stopwords
 from readability.readability import Document
@@ -25,7 +26,8 @@ import random
 
 from nltk.stem.porter import PorterStemmer
 from nltk.tokenize.regexp import WordPunctTokenizer
-from _socket import timeout
+#from _socket import timeout
+
 
 logging.getLogger('requests').setLevel(logging.WARNING)
 headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 6.0; WOW64; rv:24.0) Gecko/20100101 Firefox/24.0'}#'Digital Library Research Laboratory (DLRL)'}
@@ -35,7 +37,7 @@ headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 6.0; WOW64; rv:24.0) Gecko/201
 
 stopwordsList = stopwords.words('english')
 #stopwordsList.extend(["last","time","week","favorite","home","search","follow","year","account","update","com","video","close","http","retweet","tweet","twitter","news","people","said","comment","comments","share","email","new","would","one","world"])
-stopwordsList.extend(["com","http","retweet","tweet","twitter"])
+stopwordsList.extend(["com","http","retweet","tweet","twitter","news","people"])
 
 
 class VSMClassifier(object):
@@ -151,6 +153,35 @@ def train_SaveClassifier(posURLs,negURLs,classifierFileName):
     classifierFile.close()
     return classifier
 '''
+
+def getSourceFreqDic(origLongURLsFreqDic):
+    sourcesFreqDic = {}
+    for k,v in origLongURLsFreqDic.items():
+        su = sum([l for s,l in v])
+        dom = getDomain(k)
+        if dom in sourcesFreqDic:
+            sourcesFreqDic[dom].append(su)
+        else:
+            sourcesFreqDic[dom] = [su]
+            
+    return sourcesFreqDic
+
+def getDomain(url):
+    domain = ""
+    ind = url.find("//")
+    if ind != -1 :
+        domain = url[ind+2:]
+        ind = domain.find("/")
+        domain = domain[:ind]
+    return domain
+
+def saveObjUsingPickle(obj,fileName):
+    out_s = open(fileName, 'wb')
+    try:
+        # Write to the stream
+        pickle.dump(obj, out_s)
+    finally:
+        out_s.close() 
 
 def train_SaveClassifierFolder(posURLs,negURLs,classifierFileName):
         
@@ -339,9 +370,22 @@ def readFileLines(filename):
     lines = [l.strip() for l in lines]
     return lines
 
+def saveListToFile(l, filename):
+    f = open(filename,"w")
+    li = [str(il) for il in l]
+    liStr = '\n'.join(li)
+    f.write(liStr)
+    f.close()
+    #return lines
+
 def getSorted(tupleList,fieldIndex):
     sorted_list = sorted(tupleList, key=itemgetter(fieldIndex), reverse=True)
     return sorted_list
+
+def filterLinks(element):
+    if element.parent.name == 'a':
+        return False
+    return True
 
 def visible(element):
     if element.parent.name in ['style', 'script', '[document]', 'head']:
@@ -522,10 +566,59 @@ def extractTextFromHTML(page):
         
         comments = soup.findAll(text=lambda text:isinstance(text,Comment))
         [comment.extract() for comment in comments]
-        text_nodes = soup.findAll(text=True)
         
+        text_nodes = soup.findAll(text=True)
+        #text_nodes_noLinks = soup.findAll(text=True)
         visible_text = filter(visible, text_nodes)
         text = ''.join(visible_text)
+        
+        text = title + text
+        wtext = {"text":text,"title":title}
+    except:
+        print sys.exc_info()
+        #text = ""
+        wtext = {}
+    #return text
+    return wtext
+
+def getWebpage(url):
+    try:
+        r = requests.get(url.strip(),timeout=10,verify=False,headers=headers)            
+        if r.status_code == requests.codes.ok:
+            page = r.content
+            #text = extractTextFromHTML(page)
+            #text['html']= page
+        else:
+            page = ''
+    except:
+        print sys.exc_info()
+        #text = ""
+        page = ''
+    return page
+
+def extractTextFromHTML_noURLs(page):
+    try:
+        soup = BeautifulSoup(page)
+        title = ""
+        text = ""
+        if soup.title:
+            if soup.title.string:
+                title = soup.title.string
+        
+        comments = soup.findAll(text=lambda text:isinstance(text,Comment))
+        [comment.extract() for comment in comments]
+        '''
+        links = soup.findAll('a')
+        for tn in links:
+            if tn.name == 'a':
+                tn.extract()
+        '''
+        text_nodes = soup.findAll(text=True)
+        #text_nodes_noLinks = soup.findAll(text=True)
+        visible_text = filter(visible, text_nodes)
+        text_noURLs = filter(filterLinks,visible_text)
+        #text = ''.join(visible_text)
+        text = ' '.join(text_noURLs)
         
         text = title + text
         wtext = {"text":text,"title":title}
@@ -555,7 +648,7 @@ def getWebpageText(URLs = []):
             text = {}
         webpagesText.append(text)
     return webpagesText
-
+'''
 def saveObjUsingPickle(obj,fileName):
     out_s = open(fileName, 'wb')
     try:
@@ -563,7 +656,7 @@ def saveObjUsingPickle(obj,fileName):
         pickle.dump(obj, out_s)
     finally:
         out_s.close() 
-
+'''
 
 #Get Frequent Tokens
 #moved
@@ -624,8 +717,9 @@ def getEventModelInsts(sortedImptSents):
             emi['Topic'] = s[1]
             impEventModelInstances.append(emi)
             
-        elif emi.has_key('DATE'):
-            emi['Topic'] = s[1]
+        if emi.has_key('DATE'):
+            if 'Topic' not in emi:
+                emi['Topic'] = s[1]
             impEventModelInstances.append(emi)
             
     #return eventModelInstances

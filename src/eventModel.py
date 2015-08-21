@@ -102,8 +102,8 @@ class EventModel:
         s = set(entitiesWords)
         return s
     
-    
-    def buildEventModel(self,seedURLs):
+    # When tested, it gave bad results as topic dic includes noise words (news, police for example)
+    def buildEventModel_wholeCollection(self,seedURLs):
         
         corpus = Collection(seedURLs)
         
@@ -125,14 +125,14 @@ class EventModel:
         for e in eventModelInstances:
             if 'LOCATION' in e:
                 self.entities['LOCATION'].extend( e['LOCATION'])
-            elif 'DATE' in e:
+            if 'DATE' in e:
                 self.entities['DATE'].extend( e['DATE'])
             #self.entities['Topic'].extend(e['Topic'])
         
         entitiesFreq = {}
         entitiesFreq['LOCATION'] = self.getEntitiesFreq(self.entities['LOCATION'])
         entitiesFreq['DATE'] = self.getEntitiesFreq(self.entities['DATE'])
-        entitiesFreq['Topic'] = eventUtils.getSorted(self.toksDic, 1)
+        entitiesFreq['Topic'] = eventUtils.getSorted(self.toksDic.items(), 1)
        
         filteredDates = []
         months = ['jan','feb','mar','apr','aug','sept','oct','nov','dec','january','february','march','april','may','june','july','august','september','october','november','december']
@@ -204,18 +204,19 @@ class EventModel:
             #self.vecs[k] = ev
             self.scalars[k] = self.getScalar(ev)
     
-    def buildEventModel_Sents(self,keywordsTh, seedURLs):
+    #def buildEventModel(self,keywordsTh, seedURLs):
+    def buildEventModel(self, seedURLs):
         
         corpus = Collection(seedURLs)
         
         #NoTFDF
-        sortedToksTFIDF = corpus.getIndicativeWords()
-        
-        self.toksTFIDFDic = dict(sortedToksTFIDF)
+        corpus.getIndicativeWords('TF')
+        self.toksDic= dict(corpus.indicativeWords)
+        #self.toksTFIDFDic = dict(sortedToksTFIDF)
         #print sortedToksTFDF
         
-        #sortedImptSents = corpus.getIndicativeSentences(self.topK,self.intersectionTh)
-        sortedImptSents = corpus.getIndicativeSentences(keywordsTh,self.intersectionTh)
+        sortedImptSents = corpus.getIndicativeSentences(3 * self.topK,self.intersectionTh)
+        #sortedImptSents = corpus.getIndicativeSentences(keywordsTh,self.intersectionTh)
         for s in sortedImptSents[:self.topK]: 
             print s 
         # Get Event Model
@@ -229,7 +230,7 @@ class EventModel:
         for e in eventModelInstances:
             if 'LOCATION' in e:
                 self.entities['LOCATION'].extend( e['LOCATION'])
-            elif 'DATE' in e:
+            if 'DATE' in e:
                 self.entities['DATE'].extend( e['DATE'])
             self.entities['Topic'].extend(e['Topic'])
         
@@ -253,8 +254,8 @@ class EventModel:
                 filteredDates.append((d,v))
         entitiesFreq['DATE']=filteredDates
         
-        llen = 5
-        dlen = 5
+        llen = self.topK
+        dlen = self.topK
         #l = [k for k,_ in entitiesFreq['LOCATION']]
         s = len(entitiesFreq['LOCATION'])
         
@@ -264,18 +265,17 @@ class EventModel:
         print t
         self.entities['LOCATION'] = dict(t)
                
+        #locDate = [k for k,_ in entitiesFreq['LOCATION']] + [m for m,_ in entitiesFreq['DATE']]
+        locDate = self.entities['LOCATION'].keys() + [m for m,_ in entitiesFreq['DATE']]#self.entities['DATE'].keys()
+        
+        locDate = eventUtils.getTokens(' '.join(locDate))
+        
         #d = [k for k,_ in entitiesFreq['DATE']]
         s = len(entitiesFreq['DATE'])
         if dlen < s:
             s = dlen
         self.entities['DATE'] = dict(entitiesFreq['DATE'][:s])
         print entitiesFreq['DATE'][:s]
-        
-        
-        #locDate = [k for k,_ in entitiesFreq['LOCATION']] + [m for m,_ in entitiesFreq['DATE']]
-        locDate = self.entities['LOCATION'].keys() + self.entities['DATE'].keys()
-        
-        locDate = eventUtils.getTokens(' '.join(locDate))
         
         
         ntopToks = []
@@ -292,7 +292,7 @@ class EventModel:
         
         topToksDic = {}
         for t in topToks:
-            topToksDic[t] = self.toksTFIDFDic[t]
+            topToksDic[t] = self.toksDic[t]
         #self.entities['Disaster'] = set(topToks)
         self.entities['Topic'] = topToksDic
         
@@ -471,8 +471,75 @@ class EventModel:
         #webpageEnts = zip(impSentences,entities)
         
         return webpageEnts
-    
+ 
     def calculate_similarity(self,doc):
+        weigths ={'Topic':0.0,'LOCATION':0.0, 'DATE':0.0}
+        
+        entFreq = {}
+        for k in self.entities:
+            entFreq[k]= sum(self.entities[k].values())
+        totFreq = sum(entFreq.values())
+        
+        for k in weigths:
+            weigths[k] = entFreq[k]*1.0 / totFreq
+        
+        topicDic = self.entities['Topic']
+        
+        locToks = self.entities['LOCATION'].keys()
+        locToks = eventUtils.getStemmedWords(locToks)
+        locDic = dict(zip(locToks,self.entities['LOCATION'].values()))
+        
+        dToks = self.entities['DATE'].keys()
+        dToks = eventUtils.getStemmedWords(dToks)
+        dDic = dict(zip(dToks,self.entities['DATE'].values()))
+        
+        tokens = eventUtils.getTokens(doc)
+        tokensDic = eventUtils.getFreq(tokens)
+        wv = [1+math.log(e) for e in tokensDic.values()]
+        wvScalar = self.getScalar(wv)
+        scores = []
+        
+        ksd = 0    
+        #interst = 0
+        for i in tokensDic:
+            if i in topicDic:
+                ksd += (1+math.log(topicDic[i]))* (1+math.log(tokensDic[i]))
+                #interst +=1
+        if ksd > 0:
+            ksd = float(ksd)/(self.scalars['Topic'] * wvScalar)
+        else:
+            ksd = 0
+        if ksd == 0:
+            return 0
+        #if interst < 2:
+            #return 0
+        scores.append(ksd)
+        ksl = 0    
+        for i in tokensDic:
+            if i in locDic:
+                ksl += (1+math.log(locDic[i]))* (1+math.log(tokensDic[i]))
+        if ksl > 0:
+            ksl = float(ksl)/(self.scalars['LOCATION'] * wvScalar)
+            
+        else:
+            ksl = 0
+        scores.append(ksl)
+        
+        ks = 0    
+        for i in tokensDic:
+            if i in dDic:
+                ks += (1+math.log(dDic[i]))* (1+math.log(tokensDic[i]))
+        if ks > 0:
+            ks = float(ks)/(self.scalars['DATE'] * wvScalar)
+            
+        else:
+            ks = 0
+        scores.append(ks)
+        
+        score = sum(scores) / 3.0
+        return score
+    
+    def calculate_similarity_equalWeights(self,doc):
         eDisDic = self.entities['Topic']
         
         locToks = self.entities['LOCATION'].keys()

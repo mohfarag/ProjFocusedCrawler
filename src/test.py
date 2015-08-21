@@ -189,11 +189,18 @@ def getEM_Whole(wps):
     
     return docsEntities, entitiesProb
     '''
-seedsFile = 'Output-boatCapsized.txt'#'Output-nepalEarthquake3.txt'#'Output-fifaArrests.txt'
-seedURLs = eventUtils.readFileLines(seedsFile) 
-#em = eventModel.EventModel(5,2)
-#em.buildEventModel(20, seedURLs)
+#seedsFile = 'Output-boatCapsized.txt'#'Output-nepalEarthquake3.txt'#'Output-fifaArrests.txt'
+#seedURLs = eventUtils.readFileLines(seedsFile) 
+##em = eventModel.EventModel(5,2)
+##em.buildEventModel(20, seedURLs)
 
-wps = eventUtils.getWebpageText(seedURLs)
-#output = 'textContent.txt'
+#wps = eventUtils.getWebpageText(seedURLs)
+url = ''
+page = eventUtils.getWebpage(url)
+text = eventUtils.extractTextFromHTML(page)
+print text
+
+text = eventUtils.extractTextFromHTML_noURLs(page)
+print text
+
 
