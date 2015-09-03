@@ -7,7 +7,8 @@ Created on Oct 10, 2014
 import nltk
 import sys, os
 import re
-from bs4 import BeautifulSoup, Comment
+from bs4 import BeautifulSoup, Comment, NavigableString
+#import bs4
 import requests
 from nltk.corpus import stopwords
 from readability.readability import Document
@@ -22,11 +23,12 @@ import ner
 from gensim import corpora, models
 import pickle
 import random
-
+import json
 from nltk.stem.porter import PorterStemmer
 from nltk.tokenize.regexp import WordPunctTokenizer
-from _socket import timeout
-
+#from _socket import timeout
+#requests.packages.urllib3.disable_warnings()
+from contextlib import closing
 logging.getLogger('requests').setLevel(logging.WARNING)
 headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 6.0; WOW64; rv:24.0) Gecko/20100101 Firefox/24.0'}#'Digital Library Research Laboratory (DLRL)'}
 #corpusTokens = []
@@ -35,7 +37,7 @@ headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 6.0; WOW64; rv:24.0) Gecko/201
 
 stopwordsList = stopwords.words('english')
 #stopwordsList.extend(["last","time","week","favorite","home","search","follow","year","account","update","com","video","close","http","retweet","tweet","twitter","news","people","said","comment","comments","share","email","new","would","one","world"])
-stopwordsList.extend(["com","http","retweet","tweet","twitter"])
+stopwordsList.extend(["com","http","retweet","tweet","twitter","news","people"])
 
 
 class VSMClassifier(object):
@@ -152,6 +154,140 @@ def train_SaveClassifier(posURLs,negURLs,classifierFileName):
     return classifier
 '''
 
+def getTweets(jsonFileName):
+    f = open(jsonFileName,'r')
+    texts = {}
+    tweets = []
+    for line in f:
+        l = line.strip()
+        if l:
+            try:
+                s = json.loads(l)
+                tweets.append(s)
+                if 'id_str' in s:
+                    #if s['id_str'] in texts:
+                    #	continue
+                    if 'text' in s:
+                        texts[s['id_str']] = s['text']
+            except Exception as e: 
+                print(e)
+                print l
+    f.close()
+    print len(texts)
+    print len(tweets)
+    return texts
+
+def extractShortURLsFreqDic(tweetsText):
+    shortURLsDic = {}
+    regExp = "(?P<url>https?://[a-zA-Z0-9\./-]+)"
+    for t in tweetsText:
+        #t = t[0]
+        url_li = re.findall(regExp, t)  # find all short urls in a single tweet
+        while (len(url_li) > 0): 
+            surl = url_li.pop()
+            '''
+            i = surl.rfind("/")
+            if i+1 >= len(surl):
+                continue
+            p = surl[i+1:]
+            if len(p) < 10:
+                continue
+            '''
+            while surl.endswith("."):
+                surl = surl[:-1]
+            if surl in shortURLsDic:
+                shortURLsDic[surl] += 1
+            else:
+                shortURLsDic[surl]=1
+            #shortURLsList.append()
+    return shortURLsDic#shortURLsList
+
+def getOrigLongURLs(shortURLs):
+    expandedURLs = {}
+        #freqShortURLs = freqShortURLs[:2000]
+    i=0
+    e=0
+    
+    for surl,v in shortURLs:
+        try:
+            with closing(requests.get(surl,timeout=10, stream=True, verify=False)) as r:
+                #print r.status_code
+                if r.status_code == requests.codes.ok:
+                    #print surl
+                    ori_url =r.url
+                    if ori_url in expandedURLs:
+                        expandedURLs[ori_url].append((surl,v))
+                    else:
+                        expandedURLs[ori_url] = [(surl,v)]
+                    #expandedURLs.append(ori_url)
+                    i  =i+1
+                elif r.url != surl:
+                    ori_url =r.url
+                    if ori_url in expandedURLs:
+                        expandedURLs[ori_url].append((surl,v))
+                    else:
+                        expandedURLs[ori_url] = [(surl,v)]
+                    i  =i+1
+                elif r.request.url != surl:
+                    ori_url =r.request.url
+                    if ori_url in expandedURLs:
+                        expandedURLs[ori_url].append((surl,v))
+                    else:
+                        expandedURLs[ori_url] = [(surl,v)]
+                    i  =i+1
+                else:
+                    e = e+1    
+                    print r.status_code , surl, r.url, r.request.url
+                    #expandedURLs.append("")
+        except :
+            print sys.exc_info()[0], surl
+            #expandedURLs.append("")
+            e = e +1
+    print "urls expanded: ", i
+    print "bad Urls: ",e
+    return expandedURLs
+
+
+def getSourceFreqDic(origLongURLsFreqDic):
+    sourcesFreqDic = {}
+    for k,v in origLongURLsFreqDic.items():
+        su = sum([l for s,l in v])
+        dom = getDomain(k)
+        if dom in sourcesFreqDic:
+            sourcesFreqDic[dom].append(su)
+        else:
+            sourcesFreqDic[dom] = [su]
+            
+    return sourcesFreqDic
+
+def saveSourcesFreqDic(sourcesFreqDic,filename):
+    t = [(k, len(v),sum(v)) for k,v in sourcesFreqDic.items()]
+    st = getSorted(t, 1)
+    f= open(filename,'w')
+    #for k,v in sourcesFreqDic.items():
+    for k,l,s in st:
+        #f.write(k +"," + str(len(v))+"," + str(sum(v))+"\n")
+        f.write(k +"," + str(l)+"," + str(s)+"\n")
+    f.close()
+
+
+def getDomain(url):
+    domain = ""
+    ind = url.find("//")
+    if ind != -1 :
+        domain = url[ind+2:]
+        ind = domain.find("/")
+        domain = domain[:ind]
+    return domain
+
+def saveObjUsingPickle(obj,fileName):
+    out_s = open(fileName, 'wb')
+    try:
+        # Write to the stream
+        pickle.dump(obj, out_s)
+    finally:
+        out_s.close() 
+
 def train_SaveClassifierFolder(posURLs,negURLs,classifierFileName):
         
     posDocs = getWebpageText(posURLs)
@@ -204,10 +340,12 @@ def train_SaveClassifierFolder(posURLs,negURLs,classifierFileName):
 
 def train_SaveClassifier(posURLs,negURLs,classifierFileName):
         
-    posDocs = getWebpageText(posURLs)
+    #posDocs = getWebpageText(posURLs)
+    posDocs = getWebpageText_NoURLs(posURLs)
     posDocs = [d['title'] + " " + d['text'] for d in posDocs if d]
     
-    negDocs = getWebpageText(negURLs)
+    #negDocs = getWebpageText(negURLs)
+    negDocs = getWebpageText_NoURLs(negURLs)
     negDocs = [d['title'] + " " + d['text'] for d in negDocs if d]
     
     #negTraining = [d['title'] + " " + d['text'] for d in negTraining if d]
@@ -240,9 +378,11 @@ def train_SaveClassifier(posURLs,negURLs,classifierFileName):
        
     test_labelsArr = np.array(testingLabels)
     print classifier.score(testingDocs, test_labelsArr)
-    
-    
     print metrics.classification_report(test_labelsArr, classifier.predicted)
+    
+    #print classifier.classifier.feature_log_prob_
+    #print classifier.classifier.coef_
+    
     classifierFile = open(classifierFileName,"wb")
     pickle.dump(classifier,classifierFile)
     classifierFile.close()
@@ -339,9 +479,25 @@ def readFileLines(filename):
     lines = [l.strip() for l in lines]
     return lines
 
+def saveListToFile(l, filename):
+    f = open(filename,"w")
+    li = [str(il) for il in l]
+    liStr = '\n'.join(li)
+    f.write(liStr)
+    f.close()
+    #return lines
+
 def getSorted(tupleList,fieldIndex):
     sorted_list = sorted(tupleList, key=itemgetter(fieldIndex), reverse=True)
     return sorted_list
+
+def filterLinks(element):
+    if element.parent.name == 'a':
+        return False
+    p = element.parent
+    if p.parent.name == 'a':
+        return False
+    return True
 
 def visible(element):
     if element.parent.name in ['style', 'script', '[document]', 'head']:
@@ -522,10 +678,59 @@ def extractTextFromHTML(page):
         
         comments = soup.findAll(text=lambda text:isinstance(text,Comment))
         [comment.extract() for comment in comments]
-        text_nodes = soup.findAll(text=True)
         
+        text_nodes = soup.findAll(text=True)
+        #text_nodes_noLinks = soup.findAll(text=True)
         visible_text = filter(visible, text_nodes)
-        text = ''.join(visible_text)
+        text = '\n'.join(visible_text)
+        
+        text = title + text
+        wtext = {"text":text,"title":title}
+    except:
+        print sys.exc_info()
+        #text = ""
+        wtext = {}
+    #return text
+    return wtext
+
+def getWebpage(url):
+    try:
+        r = requests.get(url.strip(),timeout=10,verify=False,headers=headers)            
+        if r.status_code == requests.codes.ok:
+            page = r.content
+            #text = extractTextFromHTML(page)
+            #text['html']= page
+        else:
+            page = ''
+    except:
+        print sys.exc_info()
+        #text = ""
+        page = ''
+    return page
+
+def extractTextFromHTML_noURLs(page):
+    try:
+        soup = BeautifulSoup(page)
+        title = ""
+        text = ""
+        if soup.title:
+            if soup.title.string:
+                title = soup.title.string
+        
+        comments = soup.findAll(text=lambda text:isinstance(text,Comment))
+        [comment.extract() for comment in comments]
+        '''
+        links = soup.findAll('a')
+        for tn in links:
+            if tn.name == 'a':
+                tn.extract()
+        '''
+        text_nodes = soup.findAll(text=True)
+        #text_nodes_noLinks = soup.findAll(text=True)
+        visible_text = filter(visible, text_nodes)
+        text_noURLs = filter(filterLinks,visible_text)
+        #text = ''.join(visible_text)
+        text = '\n'.join(text_noURLs)
         
         text = title + text
         wtext = {"text":text,"title":title}
@@ -556,6 +761,26 @@ def getWebpageText(URLs = []):
         webpagesText.append(text)
     return webpagesText
 
+def getWebpageText_NoURLs(URLs = []):
+    webpagesText = []
+    if type(URLs) != type([]):
+        URLs = [URLs]
+    for url in URLs:
+        try:
+            r = requests.get(url.strip(),timeout=10,verify=False,headers=headers)            
+            if r.status_code == requests.codes.ok:
+                page = r.content
+                text = extractTextFromHTML_noURLs(page)
+                text['html']= page
+            else:
+                text = {}
+        except:
+            print sys.exc_info()
+            #text = ""
+            text = {}
+        webpagesText.append(text)
+    return webpagesText
+'''
 def saveObjUsingPickle(obj,fileName):
     out_s = open(fileName, 'wb')
     try:
@@ -563,7 +788,7 @@ def saveObjUsingPickle(obj,fileName):
         pickle.dump(obj, out_s)
     finally:
         out_s.close() 
-
+'''
 
 #Get Frequent Tokens
 #moved
@@ -624,8 +849,9 @@ def getEventModelInsts(sortedImptSents):
             emi['Topic'] = s[1]
             impEventModelInstances.append(emi)
             
-        elif emi.has_key('DATE'):
-            emi['Topic'] = s[1]
+        if emi.has_key('DATE'):
+            if 'Topic' not in emi:
+                emi['Topic'] = s[1]
             impEventModelInstances.append(emi)
             
     #return eventModelInstances

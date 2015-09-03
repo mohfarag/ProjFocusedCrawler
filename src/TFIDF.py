@@ -8,7 +8,7 @@ from nltk.stem.porter import PorterStemmer
 from nltk.tokenize.regexp import WordPunctTokenizer
 from nltk.corpus import stopwords
 from Filter import getTokenizedDocs, getTokenizedDoc
-from eventUtils import getWebpageText,getSorted
+from eventUtils import getWebpageText,getSorted,getWebpageText_NoURLs
 class TFIDF:
     
     def bm25(self,idf, tf, dl, avgdl, B, K1):
@@ -115,7 +115,9 @@ class TFIDF:
     
     def buildModel(self,seedURLs,num):
         #docs = downloadRawDocs(seedURLs)
-        td = getWebpageText(seedURLs)
+        #td = getWebpageText(seedURLs)
+        td = getWebpageText_NoURLs(seedURLs)
+        
         docs = [t['text'] + " "+ t['title'] for t in td if t.has_key('text')]
         
         docs = getTokenizedDocs(docs)
@@ -124,10 +126,12 @@ class TFIDF:
         #vocab = self.buildVocab(docs_bow)
         self.buildVocabIndex(docs_bow)
         selected = self.selectImportantWords_tf(num)
-        #print selected
+        selected = [(1,k[1]) for k in selected]
+        print selected
         wordsList = self.index.keys()
         selected_words = [wordsList[k[1]] for k in selected]
         print selected_words
+        selected = [(1,k[1]) for k in selected]
         self.model = (selected,selected_words)
         #n = len(docs)
         #selected_words_idfs = [n/math.log(len(self.index[w[1]])) for w in selected]

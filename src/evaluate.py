@@ -3,6 +3,7 @@ Created on Mar 13, 2014
 
 @author: mohamed
 '''
+from _collections import defaultdict
 '''
 #from SVMClassifier import SVMClassifier
 from NBClassifier import NaiveBayesClassifier
@@ -10,15 +11,15 @@ import numpy as np
 from sklearn import metrics
 from Filter import downloadRawDocs
 '''
-from eventUtils import getFreq, train_SaveClassifier, readFileLines,getTokens, getScalar,getSorted
+from eventUtils import getFreq, train_SaveClassifier, readFileLines,getTokens, getScalar,getSorted, getWebpageText_NoURLs
 import os
 import math
 import pickle
 from document import Document
 
 class VSMClassifier(object):
-    def __init__(self, topVocabDic,relevTh):
-        #self.docsTF = targetDocsTF
+    def __init__(self, topVocabDic,relevTh,docs):
+        self.docs = docs
         self.relevanceth = relevTh
         self.topVocabDic = topVocabDic
         #doc1s = [1+math.log(self.topVocabDic[k]) for k in self.topVocabDic]
@@ -88,20 +89,8 @@ class VSMClassifier(object):
         #sims=[]
         docWords = getTokens(doc)
         docTF = getFreq(docWords)
-        #ndocTF = dict.fromkeys(self.topVocabDic)
-        #for k in ndocTF:
-        #    if k in docTF:
-        #        ndocTF[k] = docTF[k]
-        #    else:
-        #        ndocTF[k] = 1/math.e
-        #sim = self.cosSim(self.topVocabDic, ndocTF)
         sim = self.cosSim( docTF)
-        '''
-        for dTF in self.docsTF:
-            s = self.cosSim(ndocTF, dTF)
-            sims.append(s)
-        sim = max(sims)
-        '''
+        
         if sim >= self.relevanceth:
             return [1,sim]
         else:
@@ -198,7 +187,51 @@ class Evaluate(object):
             self.classifier = train_SaveClassifier(posURLs, negURLs, classifierFileName)
             #return cls
     
-    def buildVSMClassifier(self,posFile,vsmClassifierFileName,th,topK):
+    def buildVSMClassifier(self,posFile,vsmClassifierFileName,th,leastK):
+        
+        try:
+            classifierFile = open(vsmClassifierFileName,"rb")
+            self.classifier = pickle.load(classifierFile)
+            classifierFile.close()
+        except:
+            docs = []
+            
+            f = open(posFile,'r')
+            for url in f:
+                url = url.strip()
+                d = Document(url)
+                if d and d.text:
+                    docs.append(d)
+            f.close()
+           
+            #docsBOW = []
+            vocabTFDic = defaultdict([])
+            #n = len(docs)
+            for d in docs:
+                wordsFreq = getFreq(d.getWords())
+                #docsBOW.append(wordsFreq)
+                for w in wordsFreq:
+                    vocabTFDic[w].append( wordsFreq[w])
+            
+            #idf = 1.0
+            #vocTF_IDF = [(w,sum([1+math.log(vtf) for vtf in vocabTFDic[w]])*idf) for w in vocabTFDic]
+            voc_CollFreq = [(w,sum(vocabTFDic[w])) for w in vocabTFDic]
+            vocab_filtered = [(w,f) for w in voc_CollFreq if f>= leastK] 
+            vocab_filtered_dict = dict(vocab_filtered)
+            #vocabSorted = getSorted(voc_CollFreq, 1)
+            '''
+            print vocabSorted[:topK]
+            topVocabDic = dict(vocabSorted[:topK])
+            '''
+            
+            self.classifier = VSMClassifier(vocab_filtered_dict,th)
+            classifierFile = open(vsmClassifierFileName,"wb")
+            pickle.dump(self.classifier,classifierFile)
+            classifierFile.close()
+            
+            # new logic code here
+
+    def buildVSMClassifier_OneTargetTopicVector(self,posFile,vsmClassifierFileName,th,topK):
         
         try:
             classifierFile = open(vsmClassifierFileName,"rb")
@@ -257,10 +290,10 @@ class Evaluate(object):
             s = self.classifier.calculate_score(page.text)
             r = s[0]
             results.append(r)
-            self.scores.append(s[1])
-            #else:
-            #    results.append(0)
-        print self.scores
+            #self.scores.append(s[1])
+            
+        #print self.scores
+        print results
         return results
         
         

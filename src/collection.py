@@ -65,9 +65,12 @@ class Collection:
             if w:
                 self.words.extend(w)
         f = utils.getFreq(self.words)
-        tokensFreqs = f.items()
-        self.wordsFrequencies = utils.getSorted(tokensFreqs,1)
+        
+        #tokensFreqs = f.items()
+        #self.wordsFrequencies = utils.getSorted(tokensFreqs,1)
+        self.wordsFrequencies = f
         return self.wordsFrequencies
+        
     
     def getIndicativeWords_old(self):
         if self.indicativeWords:
@@ -106,8 +109,8 @@ class Collection:
                 toks = self.getWordsTFDF()
             elif t == 'TF':
                 toks = self.getWordsTF()
-            #self.indicativeWords = utils.getSorted(toks.items(),1)
-            self.indicativeWords = toks
+            self.indicativeWords = utils.getSorted(toks.items(),1)
+            #self.indicativeWords = toks
             return self.indicativeWords
             
     def getWordsTFDF(self):
@@ -139,8 +142,9 @@ class Collection:
         return tokensTFIDF
     
     def getWordsTF(self):
-        self.getWordsFrequencies()
-        tokensTF = dict(self.wordsFrequencies)
+        tokensTF = self.getWordsFrequencies()
+        #tokensTF = dict(self.wordsFrequencies)
+        
         '''
         tokensDF = {}
         for te in tokensTF:
@@ -151,8 +155,8 @@ class Collection:
         for t in tokensDF:
             tokensTFIDF[t] = (1+ math.log(tokensTF[t])) * math.log(len(self.documents)/ 1.0*tokensDF[t])
         '''
-        for te in tokensTF:
-            tokensTF[te] = (1+ math.log(tokensTF[te]))
+        #for te in tokensTF:
+        #    tokensTF[te] = (1+ math.log(tokensTF[te]))
         return tokensTF
     
     def getIndicativeSentences(self,topK,intersectionTh):
@@ -175,7 +179,7 @@ class Collection:
                     if len(sentToks) > 100:
                         continue
                     intersect = utils.getIntersection(topToks, sentToks)
-                    if len(intersect) > intersectionTh:
+                    if len(intersect) >= intersectionTh:
                         #impSents[sent] = len(intersect)
                         impSents[sent] = intersect
                         #print intersect

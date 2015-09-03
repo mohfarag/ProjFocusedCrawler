@@ -189,11 +189,32 @@ def getEM_Whole(wps):
     
     return docsEntities, entitiesProb
     '''
-seedsFile = 'Output-boatCapsized.txt'#'Output-nepalEarthquake3.txt'#'Output-fifaArrests.txt'
-seedURLs = eventUtils.readFileLines(seedsFile) 
-#em = eventModel.EventModel(5,2)
-#em.buildEventModel(20, seedURLs)
+#seedsFile = 'Output-boatCapsized.txt'#'Output-nepalEarthquake3.txt'#'Output-fifaArrests.txt'
+#seedURLs = eventUtils.readFileLines(seedsFile) 
+##em = eventModel.EventModel(5,2)
+##em.buildEventModel(20, seedURLs)
 
-wps = eventUtils.getWebpageText(seedURLs)
-#output = 'textContent.txt'
+#wps = eventUtils.getWebpageText(seedURLs)
+
+url = 'http://www.cnn.com/2015/08/22/europe/vintage-plane-crash-deaths-england/index.html'
+page = eventUtils.getWebpage(url)
+'''page = 
+<html>
+<head></head>
+<body>
+<p> Hello world</p>
+<a href='www.google.com'>Go to google</a>
+</body>
+</html>
+'''
+text = eventUtils.extractTextFromHTML(page)
+print text
+f = open('text.txt','w')
+f.write(text['text'].encode('utf8'))
+f.close()
+text = eventUtils.extractTextFromHTML_noURLs(page)
+print text
+f = open('text_noURLs.txt','w')
+f.write(text['text'].encode('utf8'))
+f.close()
 

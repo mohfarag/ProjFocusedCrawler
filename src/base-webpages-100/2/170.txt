@@ -1,6 +1,0 @@
-403 Forbidden403 Forbidden
-Forbidden
-You don't have permission to access /tentblogger/wp-content/cache/supercache/info4disasters.org/typhoon-ruby-resources//index-https.html.gz
-on this server.
-Additionally, a 500 Internal Server Error
-error was encountered while trying to use an ErrorDocument to handle the request.
