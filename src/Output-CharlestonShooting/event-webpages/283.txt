@@ -1,7 +1,16 @@
+<<<<<<< HEAD
 Knife-wielding man shot by police in New Jersey: cops | New York's PIX11 / WPIX-TV 
 
 
 Knife-wielding man shot by police in New Jersey: cops | New York's PIX11 / WPIX-TV
+=======
+
+      Charleston Shooting Suspect Dylann Roof Became a Loner in Recent Years - WSJ
+    
+
+      Charleston Shooting Suspect Dylann Roof Became a Loner in Recent Years - WSJ
+    
+>>>>>>> origin/master
 
 
 
@@ -11,13 +20,20 @@ Knife-wielding man shot by police in New Jersey: cops | New York's PIX11 / WPIX-
 
 
 
+<<<<<<< HEAD
+=======
+ 
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 Go
 Search
+=======
+>>>>>>> origin/master
 
 
 
@@ -29,6 +45,7 @@ Search
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -50,11 +67,41 @@ PIX11 TV Schedule
 
 
  Contact Us
+=======
+Nikkei
+
+▲
+
+
+20089.16
+1.56%
+
+zazrduyr
+
+ 
 
 
 
 
 
+Hang Seng
+
+▲
+
+
+24992.22
+0.37%
+
+
+
+ 
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
 
 
 
@@ -97,22 +144,85 @@ Traffic
 
 
 Events
+=======
+U.S. 10 Yr
+
+▲
+
+
+3/32 yield
+2.389%
+
+
+
+ 
 
 
 
 
 
+Crude Oil
+
+▲
+
+
+51.93
+-1.54%
+
+
+
+ 
+
+
+
+
+
+Yen
+
+▲
+
+
+122.64
+-0.12%
+
+
+
+ 
+
+EXPANDCLOSE
+
+
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
 
 
 
 
 
 Weather 
+=======
+View all Companies
+ Search Quotes & Companies
+
+
+Market Data
+
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 77°
+=======
+>>>>>>> origin/master
 
 
 
@@ -121,19 +231,32 @@ Weather
 
 
 
+<<<<<<< HEAD
+
+
+
+=======
+Subscribe Now
+
+
+
+Sign In
+>>>>>>> origin/master
 
 
 
 
 
-
-
-
+<<<<<<< HEAD
 77°
+=======
+The Wall Street Journal
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 Low 
@@ -142,10 +265,21 @@ Low
 
 High 
 81°
+=======
+Sections
+
+
+
+              
+              My Journal
+            
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -180,10 +314,54 @@ Sun
 					
 
 
+=======
+Home
+
+
+World
+
+
+U.S.
+
+
+Politics
+
+
+Economy
+
+
+Business
+
+
+Tech
+
+
+Markets
+
+
+Opinion
+
+
+Arts
+
+
+Life
+
+
+Real Estate
+
+
+Today's Paper
+
+
+SHOW ALL SECTIONS
+HIDE ALL SECTIONS
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Mon
 
 
@@ -216,18 +394,87 @@ See complete forecast
 
 
 
+=======
+World Home
+
+
+Africa
+Asia
+Canada
+China
+Europe
+Latin America
+Middle East
+
+
+Brussels Real Time
+China Real Time
+India Real Time
+Japan Real Time
+
+
+Economy
+
+
+World Video
 
 
 
 
+U.S. Home
+
+
+Economy
+Law
+New York
+Politics
+
+
+Real Time Economics
+The Numbers
+Washington Wire
+
+
+Journal Report
+U.S. Video
 
 
 
 
+Politics Home
+
+
+Think Tank
+Washington Wire
+
+
+Politics Video
+WSJ/NBC News Poll
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+
+
+
+
+=======
+Economy Home
+
+
+Real Time Economics
+
+
+Economic Forecasting Survey
+Economy Video
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
@@ -237,10 +484,48 @@ See complete forecast
 
 
 
+=======
+Business Home
+
+
+Aerospace & Defense
+Autos & Transportation
+Commercial Real Estate
+Consumer Products
+Energy
+Entrepreneurship
+Financial Services
+Food & Services
+Health Care
+Hospitality
+Law
+Management
+Manufacturing
+Media & Marketing
+Natural Resources
+Retail
+Tech/WSJ.D
+
+
+CFO Journal
+CIO Journal
+CMO Today
+Logistics Report
+Risk & Compliance
+
+
+Bankruptcy Beat
+Heard on the Street
+
+
+Business Video
+Journal Report
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -308,10 +593,129 @@ The suspect is listed in critical condition at University Hospital in Newark.
 
 
 
+=======
+Tech Home
+
+
+CIO Journal
+E-Commerce
+Mobile
+Personal Tech
+Privacy & Security
+Startups
+
+
+Christopher Mims
+Digits
+Geoffrey Fowler
+Joanna Stern
+Personal Tech News
+Venture Capital Dispatch
+
+
+Billion Dollar Startup Club
+Tech Trader Daily
+Tech Video
+The Accelerators
 
 
 
 
+Markets Home
+
+
+Bonds
+Commercial Real Estate
+Commodities
+Currencies
+Deals
+Financial Services
+Funds
+Stocks
+Your Money
+
+
+Frontiers
+Heard on the Street
+MoneyBeat
+Private Equity Beat
+Total Return
+Wealth Adviser
+
+
+CFO Journal
+Journal Report
+Market Data
+Markets Video
+
+
+
+
+Opinion Home
+
+
+Arts in Review
+Book Reviews
+Commentary
+Editorials
+Letters to the Editor
+
+
+Best of the Web
+Columnists
+Morning Editorial Report
+Peggy Noonan
+Political Diary
+
+
+Opinion Video
+
+
+
+
+Arts Home
+
+
+Arts in Review
+Books
+
+
+Speakeasy
+
+
+Arts Video
+WSJ. Magazine
+
+
+
+
+Life Home
+
+
+Careers
+Cars
+Food & Drink
+Health
+Ideas
+Real Estate
+Sports
+Style & Fashion
+Travel
+
+
+Expat
+The Daily Fix
+
+
+Life Video
+WSJ. Magazine
+WSJ Puzzles
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 Filed in:
  
@@ -320,11 +724,23 @@ News
 
 
 
+=======
+Real Estate Home
+
+
+Commercial Real Estate
+House of the Day
+Mansion
+
+
+Real Estate Video
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 
 
 ×
@@ -337,19 +753,44 @@ Report a Typo
 
 
 
+=======
+HIDE ALL SECTIONS
 
 
 
 
+
+Aim higher, reach further.
+
+      Get the Wall Street Journal $12 for 12 weeks.
+      Subscribe Now
+
+
+Sign In
+
+
+Reveal Navigation Options
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 Name
 (required)
+=======
+Home
+
+
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -363,57 +804,146 @@ Typo
 
 
 
+=======
+World
 
 
 
 
 
+Regions
+Africa
+Asia
+Canada
+China
+Europe
+Latin America
+Middle East
+
+
+Blogs
+Brussels Real Time
+China Real Time
+India Real Time
+Japan Real Time
+
+
+Sections
+Economy
+
+
+More
+World Video
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
+=======
+U.S.
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
  
 
 
 
 
 Cancel
+=======
+Sections
+Economy
+Law
+New York
+Politics
+
+
+Columns & Blogs
+Real Time Economics
+The Numbers
+Washington Wire
+
+
+More
+Journal Report
+U.S. Video
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
+=======
+Politics
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
+
+
+=======
+Blogs
+Think Tank
+Washington Wire
+
+
+More
+Politics Video
+WSJ/NBC News Poll
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
+=======
+Economy
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
+
+
+=======
+Blogs
+Real Time Economics
+
+
+More
+Economic Forecasting Survey
+Economy Video
+>>>>>>> origin/master
 
 
 
 
-
-
-
-
+<<<<<<< HEAD
  
 
+=======
+
+Business
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -427,26 +957,102 @@ Watch The CW Now!
 
 See last night’s episodes now on The CW
 
+=======
+Industries
+Aerospace & Defense
+Autos & Transportation
+Commercial Real Estate
+Consumer Products
+Energy
+Entrepreneurship
+Financial Services
+Food & Services
+Health Care
+Hospitality
+Law
+Management
+Manufacturing
+Media & Marketing
+Natural Resources
+Retail
+Tech/WSJ.D
+
+
+C-Suite
+CFO Journal
+CIO Journal
+CMO Today
+Logistics Report
+Risk & Compliance
+
+
+Columns & Blogs
+Bankruptcy Beat
+Heard on the Street
+
+
+More
+Business Video
+Journal Report
 
 
 
 
 
+Tech
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 
 
 
 
+=======
+Sections
+CIO Journal
+E-Commerce
+Mobile
+Personal Tech
+Privacy & Security
+Startups
+
+
+Columns & Blogs
+Christopher Mims
+Digits
+Geoffrey Fowler
+Joanna Stern
+Personal Tech News
+Venture Capital Dispatch
+
+
+More
+Billion Dollar Startup Club
+Tech Trader Daily
+Tech Video
+The Accelerators
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
 
  
+=======
+Markets
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
  
 
 
@@ -458,52 +1064,157 @@ Popular
 
 
 
+=======
+Sections
+Bonds
+Commercial Real Estate
+Commodities
+Currencies
+Deals
+Financial Services
+Funds
+Stocks
+Your Money
+
+
+Columns & Blogs
+Frontiers
+Heard on the Street
+MoneyBeat
+Private Equity Beat
+Total Return
+Wealth Adviser
+
+
+More
+CFO Journal
+Journal Report
+Market Data
+Markets Video
 
 
 
 
 
+Opinion
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
 NBA great Darryl Dawkins has died at 58 years old
 
 
 
 
+=======
+Sections
+Arts in Review
+Book Reviews
+Commentary
+Editorials
+Letters to the Editor
+
+
+Columns & Blogs
+Best of the Web
+Columnists
+Morning Editorial Report
+Peggy Noonan
+Political Diary
+
+
+More
+Opinion Video
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Video showing shootings of WDBJ crew posted under Bryce Williams Twitter, Facebook accounts
 
+=======
+
+Arts
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 
 
 Reporter, photographer shot to death on air in Virginia
 
 
+=======
+Sections
+Arts in Review
+Books
+
+
+Blogs
+Speakeasy
+
+
+More
+Arts Video
+WSJ. Magazine
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 
 ‘Dead’ teen ‘wakes up’ screaming, banging inside coffin; family smashes tomb
+=======
+Life
+
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+
+
+
+
+=======
+Sections
+Careers
+Cars
+Food & Drink
+Health
+Ideas
+Real Estate
+Sports
+Style & Fashion
+Travel
+
+
+Blogs
+Expat
+The Daily Fix
+
+
+More
+Life Video
+WSJ. Magazine
+WSJ Puzzles
+>>>>>>> origin/master
 
 
 
 
 
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 
 
 
@@ -515,55 +1226,88 @@ Reporter, photographer shot to death on air in Virginia
 
 
 Latest News
+=======
+Real Estate
+
+
+
+
+
+Sections
+Commercial Real Estate
+House of the Day
+Mansion
+
+
+More
+Real Estate Video
+
+
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 
 
 One man’s poop is another’s medicine
 
 
 
+=======
+Search
 
 
 
 
 
+SEARCH →
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
 Calif. man bitten while taking selfie with rattlesnake
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+Subscribe
+Sign In
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 CEO of Ashley Madison parent company steps down after hack
 
 
 
-
-
-
-
-
-WATCH IT: Sinkhole swallows 5 people in China is captured on video
-
-
-
-
-
-
-
-
-
+=======
 
 
 
  
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
+WATCH IT: Sinkhole swallows 5 people in China is captured on video
+=======
+>>>>>>> origin/master
 
 
 
@@ -576,6 +1320,12 @@ WATCH IT: Sinkhole swallows 5 people in China is captured on video
 
 
 
+<<<<<<< HEAD
+ 
+=======
+                    U.S. Wants Drones in North Africa
+                  
+>>>>>>> origin/master
 
 
 
@@ -587,14 +1337,40 @@ WATCH IT: Sinkhole swallows 5 people in China is captured on video
 
 
 
+<<<<<<< HEAD
+=======
+                    Can an Infection Trigger OCD?
+                  
+>>>>>>> origin/master
 
 
 
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+                    Year-End Budget Fight Is Taking Shape
+                  
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 News
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Police: Tennessee movie theater attack suspect had been committed 4 times
 
 
@@ -603,51 +1379,91 @@ Police: Tennessee movie theater attack suspect had been committed 4 times
 
 
 Northern Suburbs
+=======
+
+
+
+                    Kentucky Is New Test Case on Health Law
+                  
+
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Knife-wielding suspect fatally shot by officers in Beacon
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 Brooklyn
  
 News
+=======
+                    House Passes Bill to Improve Safety Monitoring of Medical Devices
+                  
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Police searching for two suspects shot at by officers in Brooklyn
+=======
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 
 News
+=======
+                    Walker White House Campaign to Target GOP Core
+                  
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 SWAT team shoots, kills NJ man holding 17-month-old son hostage at knife point: officials
+=======
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 News
  
 Queens
+=======
+                    Republicans Weigh In on Trump’s Immigrant Stance
+                  
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Thief wanted in string of Dunkin’ Donuts robberies in Queens: cops
+=======
+>>>>>>> origin/master
 
 
 
@@ -655,14 +1471,35 @@ Thief wanted in string of Dunkin’ Donuts robberies in Queens: cops
 
 
 
+<<<<<<< HEAD
 
  
+=======
+                    Clinton to Chart a Center-Left Economic Plan
+                  
 
 
 
 
 
 
+
+
+
+
+
+                    Criminal Records Haunt Hiring Initiative
+                  
+
+
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
 New Jersey
  
 News
@@ -671,61 +1508,127 @@ News
 
 
 Man dies after being shot by police at Lyndhurst Public Library in New Jersey: officials
+=======
+
+
+
+                    Soaking Rainfalls, Cool Temperatures Plague Midwest
+                  
+
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 New Jersey
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Police shoot, kill knife-wielding man in Hackensack: prosecutor
+=======
+                    Inflation Is Low, but Consumers Feel Pinch
+                  
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 Brooklyn
  
 News
+=======
+
+
+ 
 
 
 
 
+ 
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Knife-wielding man shot by police in Brooklyn still at large: NYPD
+=======
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 News
 
 
 
 
 SEE IT: Video shows police shoot hammer attack suspect near Penn Station
+=======
+
+      5529
+      
+
+
+      414
+      
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 News
+=======
+Save Article
+Sign In to Save
+Subscribe to WSJ
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Shooter in critical condition after being shot by police during protest in Ferguson
+=======
+Text Size
+Regular
+Medium
+Large
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
+=======
+Google+
+      
+LinkedIn
+      
+
+Print
+>>>>>>> origin/master
 
 
 
@@ -736,23 +1639,39 @@ Shooter in critical condition after being shot by police during protest in Ferg
 
 
 
+<<<<<<< HEAD
 News
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Cleveland officer not guilty in killing unarmed pair
+=======
+U.S.
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 Manhattan
+=======
+Charleston Shooting Suspect Dylann Roof Became a Loner in Recent Years
+Relative says he told people he was involved in racist groups; ‘he just fell off the grid somehow’
+
+ 
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Police: Man used samurai sword in Holland Tunnel road rage incident
 
 
@@ -768,16 +1687,67 @@ Bronx
 Police open fire after 19-year-old allegedly points gun at officer in the Bronx
 
 
+=======
+
+By
+
+Jennifer Levitz and 
+              
+
+Jennifer Levitz
+The Wall Street Journal
+
+CANCEL
+
+BiographyJennifer Levitz
+@jenniferlevitz
+Jennifer.Levitz@wsj.com
+
+
+
+Jon Kamp
+
+
+Jon Kamp
+The Wall Street Journal
+
+CANCEL
+
+BiographyJon Kamp
+@jon_kamp
+Jon.Kamp@wsj.com
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
 
 
 
+=======
+  Updated June 18, 2015 7:02 p.m. ET
 
 
+About a month ago, Dylann Roof’s family was concerned. The once-quiet, bright boy from a middle-class South Carolina family was espousing troubling racist views. “He apparently told people that he was involved in groups, racist groups,” said a woman who said she was the mother of Mr. Roof’s former stepmother. “He was kind and sweet and polite to my daughter. He didn’t even want her to know what kind of things he was doing. She told...
+  
 
 
+    To Read the Full Story,
+  
+
+
+      Subscribe
+    
+    or
+    
+      Sign In
+    
+
+>>>>>>> origin/master
 
 
  
@@ -790,6 +1760,7 @@ Police open fire after 19-year-old allegedly points gun at officer in the Bronx
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -800,6 +1771,8 @@ Android App
 iPhone & iPad App
 
 
+=======
+ 
 
 
 
@@ -807,6 +1780,17 @@ iPhone & iPad App
 
 
 
+              Popular on WSJ
+            
+>>>>>>> origin/master
+
+
+
+
+
+
+
+<<<<<<< HEAD
 
 Facebook
 
@@ -818,6 +1802,25 @@ Instagram
 
 
 About & Contact
+=======
+Popular on WSJ
+
+
+
+Articles
+
+
+
+
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+Europeans Press for Iran Deal Monday
+>>>>>>> origin/master
 
 
 
@@ -826,14 +1829,17 @@ About & Contact
 
 
 
+<<<<<<< HEAD
+=======
+Apple’s Share of Smartphone Industry’s Profits Soars to 92%
+
+
+>>>>>>> origin/master
 
 
 
 
-
-
-
-
+<<<<<<< HEAD
 Online Public File
  • 				
 Terms of Service
@@ -853,6 +1859,11 @@ WordPress.com VIP
  
 
 
+=======
+
+
+Germany Flexes Its Muscles on Greece
+>>>>>>> origin/master
 
 
 
@@ -861,12 +1872,38 @@ WordPress.com VIP
 
 
 
+<<<<<<< HEAD
 
 
 ×
 
 
 Email Alerts
+=======
+Want to Raise a Smart Kid? Read Out Loud
+
+
+
+
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+Merkel Facing Criticism Over Greek Crisis
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+Videos
+>>>>>>> origin/master
 
 
 
@@ -876,6 +1913,10 @@ Email Alerts
 
 
 
+<<<<<<< HEAD
+=======
+Mexican Drug Lord ‘El Chapo’ Guzmán Escapes
+>>>>>>> origin/master
 
 
 
@@ -885,6 +1926,10 @@ Email Alerts
 
 
 
+<<<<<<< HEAD
+=======
+The Double Mastectomy Rebellion
+>>>>>>> origin/master
 
 
 
@@ -894,6 +1939,10 @@ Email Alerts
 
 
 
+<<<<<<< HEAD
+=======
+Time-Lapse: Jaguar Lightweight E-Type Sports Car
+>>>>>>> origin/master
 
 
 
@@ -903,6 +1952,10 @@ Email Alerts
 
 
 
+<<<<<<< HEAD
+=======
+Inside Pesäpallo, Finland's Answer to Baseball
+>>>>>>> origin/master
 
 
 
@@ -912,33 +1965,43 @@ Email Alerts
 
 
 
+<<<<<<< HEAD
+=======
+Serena Williams Wins Sixth Wimbledon Championship
+>>>>>>> origin/master
 
 
 
 
 
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 
 
 Follow
+=======
+ 
 
 
 
 
+
+              Editors’ Picks
+            
+
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Follow “New York's PIX11 / WPIX-TV”
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Get every new post delivered to your Inbox.
 
 
@@ -959,10 +2022,45 @@ Join 5,004 other followers
 
 
 
+=======
+U.S.
+Soaking Rainfalls, Cool Temperatures Plague Midwest
+
+
+
+Tech
+India’s Outsourcing Firms Change Direction as ‘Cloud’ Moves In
+
+
+
+The Outlook
+Inflation Is Low, but Consumers Feel Pinch
+
+
+
+U.S.
+Can an Infection Trigger OCD?
+
+
+
+Keywords
+Mims: How Future Bitcoin Can Prevent a Future Greece
+
+
+
+U.S.
+Criminal Records Haunt Hiring Initiative
+
+
+
+WSJ Logistics Report
+Lego Tries to Build a Better Brick
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Build a website with WordPress.com
 
 
@@ -971,6 +2069,20 @@ Build a website with WordPress.com
 
 
 
+=======
+
+
+PLAY
+
+World 
+
+Curtis Lepore's Secrets to Six-Second Vine Success
+
+
+
+ 
+
+>>>>>>> origin/master
 
 
 
@@ -979,34 +2091,82 @@ Build a website with WordPress.com
 
 
 
+<<<<<<< HEAD
 
 
 
 Send to Email Address
+=======
+ 
+
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Your Name
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Your Email Address
 
+=======
+Wall Street Journal
+U.S. Edition
+
+U.S.
+Asia
+Europe
+India
+América Latina
+Brasil
+中国 (China)
+日本 (Japan)
+한국 (Korea)
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
 
 
+=======
+Edition:
+
+U.S.
+Asia
+Europe
+India
+América Latina
+Brasil
+中国 (China)
+日本 (Japan)
+한국 (Korea)
+
+
+
+Text Size:
+
+Small
+Medium
+Large
+>>>>>>> origin/master
 
 
 
 
-
-
-
-
+<<<<<<< HEAD
 Cancel
 
 
@@ -1020,6 +2180,28 @@ Cancel
 
 
 				Sorry, your blog cannot share posts by email.			
+=======
+
+SubscribeSign In
+
+Customer Center
+Legal Policies
+
+
+
+Subscribe
+Sign In
+
+
+TOP«
+
+
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
@@ -1036,15 +2218,106 @@ Cancel
 
 
 
+=======
+Subscribe
+
+Why Subscribe?
+WSJ+
+Corporate Subscriptions
+Apps
+Professor Journal
+Student Journal
+
+
+Customer Service
+
+Customer Center
+Live Help
+Redesign Guided Tour
+
+
+Tools & Features
+
+Emails & Alerts
+Guides
+My News
+Portfolio
+RSS Feeds
+Topics
+Video Center
+Watchlist
+
+
+Ads
+
+Advertise
+Advertise Locally
+Commercial Real Estate Ads
+Place a Classified Ad
+Sell Your Business
+Sell Your Home
+Recruitment & Career Ads
+
+
+More
+
+Content Partnerships
+Corrections
+Jobs at WSJ
+Make Time
+News Archive
+Register for Free
+Reprints
+
+
+
+Facebook
+Twitter
+Google+
+LinkedIn
+YouTube
+Podcasts
+GooglePlay
+AppStore
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
+=======
+Dow Jones Products
+Barron's
+BigCharts
+DJX
+Dow Jones Newswires
+Factiva
+Financial News
+Mansion Global
+MarketWatch
+Private Markets
+realtor.com
+Risk & Compliance
+WSJ Conference
+WSJ Video
+WSJ Wine
 
 
 
 
+
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Data Policy
+Subscriber Agreement & Terms of Use
+Your Ad Choices
+Copyright ©2015 Dow Jones & Company, Inc. All Rights Reserved.
+
+
+
+>>>>>>> origin/master
 
 
 

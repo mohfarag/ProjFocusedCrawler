@@ -1,7 +1,22 @@
+<<<<<<< HEAD
 South Carolina church shooting | myfox8.com 
 
 
 South Carolina church shooting | myfox8.com
+=======
+Dash cam video shows Charleston shooting suspect’s arrest in North Carolina | Fox 59 
+Dash cam video shows Charleston shooting suspect’s arrest in North Carolina | Fox 59
+
+
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+GoSearch
+>>>>>>> origin/master
 
 
 
@@ -10,10 +25,7 @@ South Carolina church shooting | myfox8.com
 
 
 
-
-
-
-
+<<<<<<< HEAD
 
 
 Go
@@ -49,6 +61,12 @@ FOX8 TV Schedule
  Search
 
 
+=======
+FOX59 TV Schedule 
+
+
+ Search
+>>>>>>> origin/master
  Contact Us
 
 
@@ -56,6 +74,7 @@ FOX8 TV Schedule
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -146,6 +165,24 @@ High
 
 
 
+=======
+Fox 59
+
+ Menu
+
+News
+Morning
+Community
+Richmond Hill Trial
+Sports
+Traffic
+Weather
+On-Air
+HealthTrax
+
+
+ 
+>>>>>>> origin/master
 
 
 
@@ -154,6 +191,7 @@ High
 
 
 
+<<<<<<< HEAD
 Sat
 
 
@@ -163,10 +201,19 @@ Sat
 					64° 
  87°
 					
+=======
+
+
+ 
+
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 Sun
@@ -179,17 +226,42 @@ Sun
  88°
 					
 
+=======
+Dash cam video shows Charleston shooting suspect’s arrest in North Carolina
+
+Posted 10:46 PM, June 23, 2015, by CNN Wire, Updated at 10:51pm, June 23, 2015 
+
+FacebookTwitterGoogleLinkedInPinterestEmail 
+
+
+
+(June 23, 2015) – Shelby Police released dash cam video from Dylann Roof’s arrest in North Carolina.
+Roof is charged with killing nine people during a Bible study inside a historic church in Charleston, South Carolina last Wednesday.
+He was identified in North Carolina by florist Debbie Dills, who recognized his car while driving to work.
+Her boss called 9-1-1- while she followed Roof’s car for 30-miles, waiting for police to catch up.
+When police caught up with Roof, police say he admitted who he was and surrendered without incident.
+Officers also confiscated a semi-automatic handgun from the automobile.
+
+
+
+Trademark and Copyright 2015 Cable News Network, Inc., a Time Warner Company. All rights reserved.
+Filed in: National & World, News 
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 Mon
+=======
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 					68° 
  88°
 					
@@ -203,6 +275,72 @@ See complete forecast
 
 
 
+=======
+
+
+
+ 
+
+
+
+
+
+
+ All Local. All Morning Long.
+Begin your mornings with FOX59 Morning News!
+>>>>>>> origin/master
+
+
+
+
+
+
+
+ 
+
+<<<<<<< HEAD
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=======
+ 
+
+
+Popular
+
+
+
+Widow shocked to see husband’s death featured on reality show
+
+
+
+Woman reveals comment allegedly from ‘Subway Guy’ Jared Fogle that led to raid
+
+
+
+Child abuse charges re-filed after disturbing photos go viral on Facebook
+
+
+
+Florida woman wore wire to aid investigation into Subway spokesman Jared Fogle
+>>>>>>> origin/master
 
 
 
@@ -213,35 +351,7 @@ See complete forecast
  
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
+<<<<<<< HEAD
 
 
 
@@ -262,18 +372,47 @@ News
 
 
 Charleston remembers three more with services for victims of church massacre
+=======
+Latest News
+
+
+
+Morgan County residents clean up after flash flooding overtakes homes and creates a muddy mess
+
+
+
+Closing arguments to begin Monday morning in Richmond Hill Trial
+
+
+
+New Mexico Amber Alert teen found safe in Indianapolis, suspect in custody
+
+
+
+Tornado rips through Johnson County; damage repairs underway
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 News
+=======
+ 
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Watch President Obama sing ‘Amazing Grace’ at eulogy for reverend killed in Charleston shooting
+=======
+>>>>>>> origin/master
 
 
 
@@ -282,6 +421,7 @@ Watch President Obama sing ‘Amazing Grace’ at eulogy for reverend killed in 
 
 News
 
+<<<<<<< HEAD
 
 
 
@@ -290,10 +430,14 @@ Minister: ‘No evildoer, no demon’ can close church targeted by shooter
 
 
 
+=======
+Dylann Roof says he almost backed out because everyone at church was ‘so nice,’ bond set at $1 million
+>>>>>>> origin/master
 
 
 News
 
+<<<<<<< HEAD
 
 
 
@@ -315,12 +459,31 @@ New details emerge about how the Charleston shooting unfolded
 
 
 
+=======
+Charleston church shooting suspect, Dylann Storm Roof, arrested in North Carolina
+
+
+National & World News
+
+Charleston church shooting suspect Dylann Roof charged with 9 counts of murder
+
+
+Crimetracker News
+
+Family of Charleston church shooting suspect Dylann Roof speaks for the first time
+
+
+National & World News
+
+Woman who helped police catch Charleston church shooting suspect credits divine intervention
+>>>>>>> origin/master
 
 
 
  
 
 
+<<<<<<< HEAD
 
 
 
@@ -335,10 +498,21 @@ Panthers donate $100k to families of victims in SC church shooting that killed 
 
 
 
+=======
+National & World News
+
+Charleston shooting victims’ names released
+
+
+National & World News
+
+FBI names suspect in Charleston church shooting as 21-year-old Dylann Storm Roof
+>>>>>>> origin/master
 
 
 News
 
+<<<<<<< HEAD
 
 
 
@@ -384,12 +558,26 @@ Clinton, Obama seek gun control in wake of Charleston massacre
 
 
 
+=======
+Worshippers return to Charleston’s Emanuel AME on Sunday
+
+
+National & World News
+
+South Carolina officer charged with murder of unarmed man
+
+
+National & World News
+
+Charleston: Forgiveness and frustration after first church service since massacre
+>>>>>>> origin/master
 
 
 
  
 
 
+<<<<<<< HEAD
 
 
 
@@ -407,18 +595,40 @@ Quick-thinking NC woman helps police nab suspect in SC church shooting that kill
 
 
 News
+=======
+National & World News
+
+Dylann Roof’s family: We’ll answer questions later
+
+
+National & World News What's Trending
+
+Sister of alleged Charleston shooter starts GoFundMe campaign to pay for ‘dream honeymoon’
+
+
+National & World News
+
+Man arrested after dog found with muzzle taped shut
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 How to help support victims’ families in South Carolina church shooting that killed nine
 
 
+=======
+
+
+ 
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -438,11 +648,15 @@ Android Weather App
 Weather iPhone App
 
 
+=======
+Mobile AppsAndroid App
+>>>>>>> origin/master
 iPhone & iPad App
 
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -461,6 +675,10 @@ Instagram
 Pinterest
 
 
+=======
+Facebook
+Twitter
+>>>>>>> origin/master
 About & Contact
 
 
@@ -469,6 +687,7 @@ About & Contact
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -502,14 +721,24 @@ WordPress.com VIP
 
 
 
+=======
+Online Public File • 		EEO Report • 		Terms of Service •
+		Privacy Policy  •
+		6910 Network Place Indianapolis, IN 46278  •
+		Copyright © 2015, WXIN		 • A Tribune Broadcasting Station •
+		Powered by WordPress.com VIP 
+>>>>>>> origin/master
 
 
 
 
 
 ×
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> origin/master
 Email Alerts
 
 
@@ -541,6 +770,7 @@ Email Alerts
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -599,6 +829,15 @@ Join 54,924 other followers
 
 
 
+=======
+Follow
+
+Follow “Fox 59”
+
+Get every new post delivered to your Inbox.
+
+Join 2,646 other followers
+>>>>>>> origin/master
 
 
 
@@ -618,12 +857,20 @@ Build a website with WordPress.com
 
 
 
+<<<<<<< HEAD
 Add your thoughts here... (optional)
 
 
 Post to
 
 
+=======
+Send to Email Address
+
+Your Name
+
+Your Email Address
+>>>>>>> origin/master
 
 
 
@@ -632,6 +879,7 @@ Post to
 
 Cancel
 
+<<<<<<< HEAD
 
 
 
@@ -673,6 +921,13 @@ Cancel
 
 
 
+=======
+				Post was not sent - check your email addresses!			
+
+				Email check failed, please try again			
+
+				Sorry, your blog cannot share posts by email.			
+>>>>>>> origin/master
 
 
 

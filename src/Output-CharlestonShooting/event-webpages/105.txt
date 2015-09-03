@@ -1,7 +1,14 @@
+<<<<<<< HEAD
 Police shoot, kill NC man who allegedly charged at them with knife | myfox8.com 
 
 
 Police shoot, kill NC man who allegedly charged at them with knife | myfox8.com
+=======
+Charleston church remembers shooting victims with service of sadness and joy | US news | The Guardian
+
+Charleston church remembers shooting victims with service of sadness and joy | US news | The Guardian
+
+>>>>>>> origin/master
 
 
 
@@ -16,8 +23,12 @@ Police shoot, kill NC man who allegedly charged at them with knife | myfox8.com
 
 
 
+<<<<<<< HEAD
 Go
 Search
+=======
+Close
+>>>>>>> origin/master
 
 
 
@@ -26,6 +37,13 @@ Search
 
 
 
+<<<<<<< HEAD
+
+=======
+Skip to main content
+
+ 
+>>>>>>> origin/master
 
 
 
@@ -33,7 +51,7 @@ Search
 
 
 
-
+<<<<<<< HEAD
  Watch Now: 
 12 p.m. News 
 
@@ -41,16 +59,30 @@ Search
 
 FOX8 TV Schedule 
 
+=======
+
+
+
+
+sign in
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
  Search
 
 
  Contact Us
 
+=======
+
+
+
+subscribe
+>>>>>>> origin/master
 
 
 
@@ -58,23 +90,37 @@ FOX8 TV Schedule
 
 
 
+<<<<<<< HEAD
+=======
+search
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 myfox8.com
+=======
+jobs
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
  
 Menu
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 News
 
 
@@ -97,6 +143,32 @@ Contests
 
 
 Events
+=======
+more
+
+
+from the guardian:
+
+
+jobs
+
+
+
+change edition:
+
+
+
+switch to the  UK  edition
+
+
+switch to the  AU  edition
+
+
+switch to the 
+INT
+beta
+ edition
+>>>>>>> origin/master
 
 
 
@@ -105,6 +177,7 @@ Events
 
 
 
+<<<<<<< HEAD
 
 
 Weather 
@@ -115,6 +188,31 @@ Weather
 78°
 
 
+=======
+US edition
+
+
+
+
+switch to the 
+UK edition
+
+
+
+
+switch to the 
+Australia edition
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+switch to the 
+International
+beta
+>>>>>>> origin/master
 
 
 
@@ -125,23 +223,28 @@ Weather
 
 
 
-
-
-
-
+<<<<<<< HEAD
 78°
+=======
+The Guardian
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 Low 
 64°
 
 
 High 
 85°
+=======
+
+
+>>>>>>> origin/master
 
 
 
@@ -150,16 +253,27 @@ High
 
 
 
+<<<<<<< HEAD
 
 
 
 
 Sat
+=======
+home
+
+
+›
+US
+
+
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 					64° 
  87°
 					
@@ -171,17 +285,34 @@ Sat
 
 Sun
 
+=======
+
+
+
+home
 
 
 
 
+US
+selected
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 					66° 
  88°
 					
+=======
+world
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 Mon
@@ -194,18 +325,98 @@ Mon
  88°
 					
 
+=======
+opinion
 
 
 
 
+sports
+
+
+
+
+soccer
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 See complete forecast
 
 
 
+=======
+tech
 
 
 
+
+arts
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+
+
+
+ 
+=======
+lifestyle
+
+
+
+
+fashion
+
+
+
+
+business
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+travel
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+environment
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+science
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+browse all sections
+close
+
+
+
+
+>>>>>>> origin/master
 
 
 
@@ -222,48 +433,39 @@ See complete forecast
 
 
 
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 
 
 
 
 
 Police shoot, kill NC man who allegedly charged at them with knife
+=======
+Charleston shooting
+
+
+
+Charleston church remembers shooting victims with service of sadness and joy
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Posted 9:57 pm, August 22, 2015, by 
 Web Staff
 , 
 Updated at 09:59pm, August 22, 2015
  
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Facebook
 Twitter
 Google
@@ -273,6 +475,13 @@ Email
  
 
 
+=======
+Nine church members died in shooting at Bible study class on Wednesday
+Worshippers pack Emanuel AME church as armed officers look on
+
+
+FBI probes website and manifesto linked to suspect Dylann Roof
+>>>>>>> origin/master
 
 
 
@@ -281,35 +490,53 @@ Email
 
 
 
+<<<<<<< HEAD
  
 
 
 Alan Joseph Rushton
  
+=======
+
+
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 ×
 
 
 Police shoot, kill NC man who allegedly charged at them with knife
+=======
+
+
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
  
 Alan Joseph Rushton
 
+=======
+
+Sorry, your browser is unable to play this video.
+Please install Adobe Flash™ and try again.
+Alternatively upgrade to a modern browser.
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 WAKE FOREST, N.C. – A North Carolina man was shot and killed after charging at officers with a knife, according to authorities.
 
 
@@ -337,24 +564,58 @@ The State Bureau of Investigation has been called in to investigate. The officer
 
 
 It’s reportedly the second time in two months that police have responded to a call at the Rushton home.
+=======
+Mourners attend the first service at Emanuel AME Church in Charleston since the shooting dead there of nine people on Wednesday.
+
+
+
+Paul Lewis in Charleston, South Carolina
 
 
 
 
+
+@PaulLewis
+
+
+
+
+Sunday 21 June 2015 14.03 EDT
+
+
+Last modified on Sunday 21 June 2015 21.57 EDT
+
+
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 35.979873
 
 
 -78.509723
+=======
+
+Share on Facebook
+
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+Share on Twitter
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Filed in:
  
 News
@@ -366,6 +627,12 @@ shooting
 
 
 
+=======
+
+
+
+Share via Email
+>>>>>>> origin/master
 
 
 
@@ -373,10 +640,25 @@ shooting
 
 
 
+<<<<<<< HEAD
 ×
 
 
 Report a Typo
+=======
+Share on Pinterest
+
+
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
+=======
+Share on LinkedIn
+>>>>>>> origin/master
 
 
 
@@ -384,13 +666,12 @@ Report a Typo
 
 
 
-
-
-
-
-
+<<<<<<< HEAD
 Name
 (required)
+=======
+Share on Google+
+>>>>>>> origin/master
 
 
 
@@ -398,9 +679,14 @@ Name
 
 
 
+<<<<<<< HEAD
 
 Typo
 (required)
+=======
+Share on WhatsApp
+
+>>>>>>> origin/master
 
 
 
@@ -418,13 +704,34 @@ Typo
 
 
 
+<<<<<<< HEAD
 
  
+=======
+ Related: Leader of group cited in 'Dylann Roof manifesto' donated to top Republicans 
+
+When the names of the nine shooting victims were read out in the Emanuel African Methodist Episcopal church on Sunday, most people in the congregation were staring at the floor. Beneath their feet, directly under the pews, was the basement where just four days before a white supremacist spent an hour with a Bible study group and then stood up, removed a gun from his fanny pack and opened fire.
+“We’re reminded this morning about the freshness of death,” said Norvel Goff, the elder who led the service in place of pastor Clementa Pinckney, one of those killed on Wednesday. “It comes like a thief in the night.”
+Dylann Roof, the 21-year-old who has been charged over the massacre, is said to have told friends he wanted to start a race war. Instead, the shooting spree he is accused of perpetrating achieved the opposite, bringing together black and white churchgoers who so often worship apart in a state as racially segregated as South Carolina.
+A mixed crowd of worshippers walked up the church’s white steps, past a sign saying “Thou Shalt Not Kill”, after doors were opened for the first time since the shooting.
+The Emanuel church, founded in 1816, is the oldest black church south of Baltimore and has been at the forefront of America’s racial injustices through the years, hosting slave insurrectionists one century and civil rights leaders the next. Yet this week’s massacre was brutal even by historical standards, and resulted in a Sunday service like no other. 
+The church was filled to bursting, with hundreds lined up in pews and balconies. Many, many more were were gathered outside in 36C (96F) heat, wiping away sweat and tears as the sermon echoed out of the church through loudspeakers. Inside, for what must have been the first time in the church’s history, armed police lined the walls, creating silhouettes against the stained-glass windows.
+The congregation broke out in a hymn, spontaneously. It was the start of a service that was solemn at one turn and almost defiantly joyful the next, as congregants shouted approval when preachers suggested they should not be cowed in the face of the week’s atrocity.
+One moment, there would be euphemistic references to “that horrible situation” or “heinous act” that had taken the lives of nine dedicated members of the church who would otherwise have been sat beside their family. Some relatives of those killed had to be escorted from the hall, overcome by grief and unable to stand. The next moment, there were jokes about Father’s Day, and a routine message of support for a member of the church undergoing medical treatment.
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Cancel
+=======
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
@@ -443,36 +750,99 @@ Cancel
 
 
 
+=======
+    Sorry, your browser is unable to play this video. 
+
+
+
+ Facebook 
+ Twitter 
+ Pinterest 
+
+
+Protesters call for the removal of the Confederate flag from government buildings over the weekend
+
+
+
+ Related: The Charleston shooting victims: a poet, a politician, a librarian, women of faith 
+
+When a gospel choir, aided by trumpet and piano, began an upbeat rendition of Jesus Said You Can Lean on Me, people lifted their arms, swayed and danced. The response was so impassioned that the floorboards began to shake.
+One custodian said he and others had spent the night cleaning the basement, washing the floor and walls and covering the bullet-holes in anticipation of visits to the scene of death from relatives of the victims.
+When Goff read out the names of the victims, who were aged between 26 and 87, he gave only the briefest description of their deaths. “There they were in the house of the Lord,” he said, “studying your word, praying with one another, but the devil also entered and the devil was trying to take charge.”
+Relatives of the three survivors – two of whom escaped with their lives by playing dead – have provided reporters with harrowing accounts of events that unfolded around 9pm on Wednesday. Roof was welcomed by the Bible study group and according to one report, almost considered abandoning his alleged killing spree because the group treated him with such kindness. 
+He is believed to have shot the pastor first. When members of the Bible study group pleaded with the suspect to show them mercy, Roof is said to have replied: “I have to do it. You rape our women and you’re taking over our country. You have to go.” Another report said that after killing the nine worshippers, Roof turned the gun on himself and pulled the trigger, but discovered he had run out of ammunition. He was arrested the following day, 200 miles away in North Carolina.
+
+
+
+ Facebook 
+ Twitter 
+ Pinterest 
+
+
+People pray in front of the Emanuel African Methodist Episcopal Church. Photograph: Joe Raedle/Getty Images
+
+
+
+ Related: Dylann Roof: FBI probes website and manifesto linked to Charleston suspect 
+
+By Friday, Roof was in a Charleston courtroom, for a bond hearing at which he was forced to listen to relatives of his alleged victims express their suffering and, one by one, offer him forgiveness. 
+All the evidence suggests that was the last message Roof wanted to hear. A manifesto the FBI believes Roof may have written and posted online, beside photographs of him wielding guns and Confederate flags, suggests he believed he was some kind of martyr for his superior race. “I have no choice,” the apparent manifesto states, complaining that “there are no skinheads, no real KKK, no one doing anything but talking on the internet”. 
+“Someone has to have the bravery to take it to the real world,” it says, “and I guess that has to be me … I chose Charleston because it is most historic city in my state, and at one time had the highest ratio of blacks to whites in the country.”
+On Sunday, Goff urged the congregation to stand firm in the face of provocation from a man he referred to only as “the perpetrator”. “A lot of folk expected us to do something strange and break out in a riot. Well, they just don’t know us,” he said. “Because we are a people of faith and we believe that when we put our forces and heads together working for a common good, there is nothing that we can’t accomplish in the name of Jesus. It has been tough. It’s been rough. Some of us have been downright angry. But through it all, God has sustained us and has encouraged us. Let us not grow weary.”
+Roof, who spent Sunday in a jail less than seven miles from the church, has reportedly confessed to the massacre. 
+>>>>>>> origin/master
 
 
 
 
-
-
-
-
+<<<<<<< HEAD
 
 
  
 
+=======
+More news 
+Topics
+
+
+
+Charleston shooting
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+South Carolina
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+US crime
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 Women Making a Difference
 
 
 Know a woman in the community who is doing good? We want to share your story.
 
+=======
+Gun crime
+
+
+
+
+Race issues
+>>>>>>> origin/master
 
 
 
@@ -483,51 +853,92 @@ Know a woman in the community who is doing good? We want to share your story.
 
 
 
+<<<<<<< HEAD
+=======
+Share on Facebook
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
  
 
 
 
 
  
+=======
+
+
+Share on Twitter
+
+
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 
 Popular
+=======
+Share via Email
+
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 
 
 After shooting, Virginia gunman details grievances in ‘suicide note’ faxed to ABC News
+=======
+Share on Pinterest
+
+
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 
 
 
 Va. shooter posted tweets, video of shooting on social media
+=======
+Share on LinkedIn
+
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+Share on Google+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Va. reporter, photographer killed on-air during live news interview, shooter kills himself
+=======
+
+
+
+Share on WhatsApp
+>>>>>>> origin/master
 
 
 
@@ -536,7 +947,10 @@ Va. reporter, photographer killed on-air during live news interview, shooter kil
 
 
 
+<<<<<<< HEAD
 Iowa teachers sing ‘One Day More’ before students return to school — and it’s awesome
+=======
+>>>>>>> origin/master
 
 
 
@@ -553,24 +967,46 @@ Iowa teachers sing ‘One Day More’ before students return to school — and i
 
 
 
+<<<<<<< HEAD
  
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 Latest News
+=======
+View all comments >
+
+
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 
 
 
 Middle school teacher welcomes students back to magical Harry Potter-themed classroom
 
+=======
+comments 
+Sign in
+or create your Guardian account to join the discussion.
+
+This discussion is closed for comments.
+
+We’re doing some maintenance right now. You can still read comments, but please come back later to add your own.
+
+
+Commenting has been disabled for this account (why?)
+>>>>>>> origin/master
 
 
 
@@ -578,15 +1014,26 @@ Middle school teacher welcomes students back to magical Harry Potter-themed cla
 
 
 
+<<<<<<< HEAD
 Greesnsboro police searching for man who exposed himself in front of children at Lawndale Target
 
 
 
 
+=======
+Order by 
+
+
+newest
+
+
+oldest
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Father allegedly robs bank to pay for daughter’s chemotherapy
 
 
@@ -597,6 +1044,47 @@ Father allegedly robs bank to pay for daughter’s chemotherapy
 
 
 Calif. man bitten while taking selfie with rattlesnake
+=======
+Show 25
+
+
+25
+
+
+50
+
+
+100
+
+
+All
+
+
+
+
+Threads 
+
+
+collapsed
+
+
+expanded
+
+
+unthreaded
+
+
+
+
+
+Loading comments… Trouble loading?
+
+
+
+
+View more comments
+
+>>>>>>> origin/master
 
 
 
@@ -615,6 +1103,10 @@ Calif. man bitten while taking selfie with rattlesnake
 
 
 
+<<<<<<< HEAD
+=======
+popular
+>>>>>>> origin/master
 
 
 
@@ -627,6 +1119,10 @@ Calif. man bitten while taking selfie with rattlesnake
 
 
 
+<<<<<<< HEAD
+=======
+ 
+>>>>>>> origin/master
 
 
 
@@ -635,12 +1131,18 @@ Calif. man bitten while taking selfie with rattlesnake
 
 
 
+<<<<<<< HEAD
 
 News
+=======
+The Guardian
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Teen killed in Wake Forest officer-involved shooting
 
 
@@ -649,17 +1151,30 @@ Teen killed in Wake Forest officer-involved shooting
 
 
 News
+=======
+
+
+
+back to top
+
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Officer-involved shooting reported in Winston-Salem
+=======
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 News
 
 
@@ -667,10 +1182,21 @@ News
 
 Tennessee movie theater attack suspect killed by police identified
 
+=======
+
+home
 
 
 
 
+US
+selected
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 News
 
@@ -691,19 +1217,52 @@ News
 
 Suspect in Winston-Salem officer-involved shooting identified, in custody
 
+=======
+world
 
 
 
 
+opinion
+
+
+
+
+sports
+
+
+
+
+soccer
+
+
+
+
+tech
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
  
 
+=======
+arts
 
 
 
 
+lifestyle
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 News
 
@@ -724,22 +1283,55 @@ News
 
 Man accused of trying to pull gun on Greensboro officer
 
+=======
+fashion
+
+
+
+
+business
+
+
+
+
+travel
+
+
+
+
+environment
+
+
+
+
+science
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 News
 
 
 
 
 Man who shot deputy in Wilkes County dead after standoff, two others shot
+=======
+
+
+all sections
+close
+
+
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 
 News
 
@@ -760,19 +1352,53 @@ News
 
 Gunfire erupts in Ferguson on anniversary of Michael Brown’s killing
 
+=======
+home
 
 
 
 
+US
+selected
+
+
+
+
+world
+
+
+
+
+UK
+
+
+
+
+europe
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
  
 
+=======
+americas
 
 
 
 
+asia
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 News
 
@@ -793,11 +1419,35 @@ News
 
 Officer who stood on hood of car and shot, killed unarmed occupants found not guilty
 
+=======
+middle east
+
+
+
+
+africa
+
+
+
+
+australia
+
+
+
+
+cities
+
+
+
+
+development
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 News
 
 
@@ -805,31 +1455,62 @@ News
 
 Manhunt underway for suspect accused of shooting, killing New Orleans police officer
 
+=======
+
+opinion
 
 
 
 
+sports
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+soccer
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+MLS
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
  
 
 
 
+=======
+NFL
 
 
 
 
+MLB
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+NBA
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 Mobile Apps
 Android App
@@ -845,10 +1526,26 @@ iPhone & iPad App
 
 
 
+=======
+NHL
 
 
 
 
+
+
+soccer
+
+
+
+
+live scores
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
@@ -866,20 +1563,47 @@ Pinterest
 
 About & Contact
 
+=======
+tables
+
+
+
+
+competitions
+
+
+
+
+results
+
+
+
+
+fixtures
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+clubs
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+tech
+>>>>>>> origin/master
 
 
 
 
-
-
-
-
+<<<<<<< HEAD
 
 Online Public File
  • 				
@@ -901,80 +1625,154 @@ WordPress.com VIP
 
 
 
+=======
+arts
 
 
 
 
+movies
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+tv & radio
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 ×
 
 
 Email Alerts
 
+=======
+music
+
+
+
+
+games
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+books
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+art & design
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+stage
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+classical
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+lifestyle
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+food
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+health & fitness
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+love & sex
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+family
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+women
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+home & garden
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+fashion
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+business
+>>>>>>> origin/master
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 
 Follow
 
@@ -992,42 +1790,91 @@ Get every new post delivered to your Inbox.
 
 
 Join 54,924 other followers
+=======
+economics
+
+
+
+
+sustainable business
+
+
+
+
+diversity & equality in business
+
+
+
+
+small business
+
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
+=======
+travel
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+USA
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+europe
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 Build a website with WordPress.com
+=======
+UK
+
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
+=======
+environment
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+climate change
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+wildlife
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -1045,14 +1892,39 @@ Your Email Address
 
 
 
+=======
+energy
+
+
+
+
+pollution
 
 
 
 
 
 
+science
 
 
+
+
+media
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+crosswords
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
@@ -1072,6 +1944,71 @@ Cancel
 
 
 
+=======
+video
+
+
+
+
+
+
+
+
+
+
+
+US News
+
+
+
+
+›
+Charleston shooting
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+
+
+
+
+
+
+
+
+
+
+=======
+jobs
+
+subscribe
+all topics
+all contributors
+
+
+report technical issue
+
+
+
+about us
+
+contact us
+
+complaints & corrections
+terms & conditions
+privacy policy
+cookie policy
+securedrop
+
+
+© 2015 Guardian News and Media Limited or its affiliated companies. All rights reserved.
+>>>>>>> origin/master
 
 
 
@@ -1088,21 +2025,9 @@ Cancel
 
 
 
+<<<<<<< HEAD
+=======
 
+ 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+>>>>>>> origin/master

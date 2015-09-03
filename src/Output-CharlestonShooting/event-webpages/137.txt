@@ -1,6 +1,21 @@
+<<<<<<< HEAD
 Charleston Church Shooting: 'Mother Emanuel' at Center of Rights Struggle - NBC News
 
 Charleston Church Shooting: 'Mother Emanuel' at Center of Rights Struggle - NBC News
+=======
+Charleston shooting impacts Missouri governor’s race | FOX2now.com 
+Charleston shooting impacts Missouri governor’s race | FOX2now.com
+
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
+=======
+GoSearch
+>>>>>>> origin/master
 
 
 
@@ -8,6 +23,42 @@ Charleston Church Shooting: 'Mother Emanuel' at Center of Rights Struggle - NBC 
 
 
 
+<<<<<<< HEAD
+
+
+
+=======
+ Replay: FOX 2 News 
+
+FOX 2 TV Schedule 
+
+
+ Search
+ Contact Us
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
+
+
+=======
+FOX2now.com
+
+ Menu
+
+News
+Links
+AM Show
+Sports
+Traffic
+Contests
+STLMoms
+Events
+>>>>>>> origin/master
 
 
 
@@ -15,22 +66,7 @@ Charleston Church Shooting: 'Mother Emanuel' at Center of Rights Struggle - NBC 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 
 
 
@@ -686,6 +722,11 @@ Email
 
 Print
 
+=======
+Weather 
+
+82°
+>>>>>>> origin/master
 
 
 
@@ -693,14 +734,23 @@ Print
 
 
 
+<<<<<<< HEAD
 
 
 Comment
+=======
+82°
+
+
+Low 76°
+High 95°
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -715,6 +765,32 @@ advertisement
 
 
 
+=======
+Mon
+
+
+					76°  96°
+					
+
+
+Tue
+
+
+					77°  93°
+					
+
+
+Wed
+
+
+					75°  90°
+					
+
+
+See complete forecast
+
+ Severe weather alert
+>>>>>>> origin/master
 
 
 
@@ -730,6 +806,7 @@ advertisement
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -800,11 +877,17 @@ Copy this code to your website or blog
 
 
 
+=======
+ 
+
+
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
  Known as "Mother Emanuel" by those who love her, the Charleston church that was the site of 
 Wednesday's horrific shooting 
 holds a central place in African-American history. 
@@ -823,12 +906,22 @@ according its website
 
 
 advertisement
+=======
+Charleston shooting impacts Missouri governor’s race
+
+Posted 6:52 pm, June 18, 2015, by Gregg Palermo, Updated at 07:14pm, June 18, 2015 
+
+FacebookTwitterRedditPinterestLinkedInEmail 
+
+
+>>>>>>> origin/master
 
 
  
 
 
 
+<<<<<<< HEAD
 
  Under the leadership of Morris Brown, a free shoemaker, organizers established the church for people of color. 
 
@@ -865,12 +958,33 @@ DAVID GOLDMAN / AP
  "The black church experiment was not to be repeated in the southern city until after the Civil War," according to 
 educational website The Social Welfare History Project
 . 
+=======
+×
+Charleston shooting impacts Missouri governor’s race
+
+
+ 
+
+
+ST. LOUIS COUNTY, MO (KTVI) – The aftermath of Wednesday’s deadly church shooting in Charleston, South Carolina is having an affect on the 2016 race for governor here in the Show-Me State.
+South Carolina Governor Nikki Haley, a star in the Republican Party since her election there in 2011, was to be the headliner at a fundraiser for Catherine Hanaway, a GOP contender for Missouri governor, Thursday night in west St. Louis County. That event was postponed after Wednesday’s shooting.
+Haley was in Charleston Thursday to meet with local officials, all trying to help that community come to grips with the deaths of nine people at Emanuel A.M.E. Church. A suspect was apprehended in North Carolina Thursday morning.
+News of the impact on the Hanaway event was first reported by PoliticMO.
+A campaign spokesman tells FOX2 the event, with Governor Haley’s participation, will be rescheduled. Hanaway is in a crowded primary field that includes State Senator Mike Parson and former State Rep. Randy Asbury. St. Louis businessman John Brunner, former Navy SEAL Eric Greitens, and Lt. Governor Peter Kinder are all exploring entry into a race that has been of national interest since State Auditor Tom Schweich, an early front-runner, took his own life this spring.
+
+
+
+Filed in: News Topics: catherine hanaway, charleston, john brunner, mike parson, politics 
+
+
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 advertisement
 
 
@@ -909,12 +1023,32 @@ advertisement
 
 
  
+=======
+
 
 
 
 
  
 
+
+
+
+
+
+STL Moms!
+A place for St. Louis moms to chat share and save.
+
+
+
+>>>>>>> origin/master
+
+
+
+
+ 
+
+<<<<<<< HEAD
 
 Dr. King at 
 #EmanuelAME
@@ -981,10 +1115,36 @@ Topics
 U.S. news
 , 
 NBCBLK
+=======
+ 
+
+
+Popular
+
+
+
+Teen suspect shot three times by St. Louis police officer
+
+
+
+Michael Brown exhibit opened in Chicago
+
+
+
+Child abuse charges re-filed after disturbing photos go viral on Facebook
+
+
+
+Driver hits 4 women in dramatic East St. Louis hit-and-run caught on video
+
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 First Published
  
 Jun 18 2015, 6:50 am ET
@@ -1035,11 +1195,34 @@ Nashville Hotel Nixes Conference for Group Cited by Charleston Church Gunman
 advertisement
 
 
+=======
+ 
+
+
+Latest News
+
+
+
+PICTURES: Slide the City St Louis 2015 part2
+
+
+
+PICTURES: Slide the City St Louis 2015 part1
+
+
+
+Contestants cry foul, attendees go hungry at Budweiser burger fest
+
+
+
+Jefferson County resident apply for disaster assistance from recent flooding and storms
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -1071,6 +1254,8 @@ advertisement
 advertisement
 
 
+=======
+>>>>>>> origin/master
  
 
 
@@ -1084,6 +1269,7 @@ advertisement
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -1187,64 +1373,112 @@ AdChoices
 
 
 
+=======
+News
 
+Kinder to announce candidacy for Missouri governor in Dellwood
 
 
+News
 
+Republican Mike Parson confirms run for Missouri governor
 
 
+News
 
+DOJ launches hate crime investigation into Charleston church shooting
 
 
+News
 
+Clinton in Florissant: Removing Confederate flag important, but not solution
 
 
+News
 
+St. Louis faith leaders gather to mourn victims of Charleston shooting
 
 
 
+ 
 
 
+News
 
+Charleston church shooting: 9 killed in what officials call a hate crime
 
 
+News
 
+Hillary Clinton to make campaign stop near Ferguson Tuesday
 
 
+News
 
+Late Missouri auditor’s campaign returns $480,000 to donors
 
 
+News
 
+﻿Worshippers return to Charleston’s Emanuel AME on Sunday
 
 
+News
 
+Confederate flag removed from South Carolina statehouse grounds
 
 
 
+ 
 
 
+News
 
+Alabama governor orders Confederate flags taken down
 
 
+News
 
+Who is the Charleston church shooting suspect?
 
 
+News
 
+Who is the Charleston church shooting suspect?
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+ 
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
+=======
+Mobile AppsAndroid App
+Android Weather App
+iPhone & iPad App
+iPhone Weather App
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+Facebook
+Twitter
+Email Alerts
+About & Contact
+>>>>>>> origin/master
 
 
 
@@ -1252,16 +1486,90 @@ AdChoices
 
 
 
+<<<<<<< HEAD
+=======
+Online Public File • 				Terms of Service •
+		Privacy Policy  •
+		2250 Ball Drive St. Louis MO 63146  •
+		Copyright © 2015, KTVI		 • A Tribune Broadcasting Station •
+		Powered by WordPress.com VIP 
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
+=======
+×
+Email Alerts
+>>>>>>> origin/master
 
 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+
+
+=======
+Send to Email Address
+
+Your Name
+
+Your Email Address
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
+
+
+
+=======
+Cancel
+
+				Post was not sent - check your email addresses!			
+
+				Email check failed, please try again			
+
+				Sorry, your blog cannot share posts by email.			
+>>>>>>> origin/master
 
 
 

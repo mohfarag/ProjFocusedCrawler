@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Latest black church fire in South Carolina had 'natural' cause, authorities say | US news | The Guardian
 
 
@@ -12,6 +13,11 @@ Latest black church fire in South Carolina had 'natural' cause, authorities say 
 
 
 
+=======
+Charleston shooting: state senator Clementa Pinckney among victims | US news | The Guardian
+
+Charleston shooting: state senator Clementa Pinckney among victims | US news | The Guardian
+>>>>>>> origin/master
 
 
 
@@ -27,6 +33,10 @@ Latest black church fire in South Carolina had 'natural' cause, authorities say 
 
 
 
+<<<<<<< HEAD
+=======
+Close
+>>>>>>> origin/master
 
 
 
@@ -35,8 +45,14 @@ Latest black church fire in South Carolina had 'natural' cause, authorities say 
 
 
 
+<<<<<<< HEAD
 Close
 
+=======
+Skip to main content
+
+ 
+>>>>>>> origin/master
 
 
 
@@ -48,18 +64,47 @@ Close
 
 
 
+<<<<<<< HEAD
+=======
+sign in
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 Skip to main content
 
 
 
 
  
+=======
+
+
+subscribe
+
+
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
+=======
+search
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+jobs
+>>>>>>> origin/master
 
 
 
@@ -70,15 +115,7 @@ Skip to main content
 
 
 
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 
 
 
@@ -94,53 +131,74 @@ sign in
 
 
 
+=======
+more
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-subscribe
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-search
-
-
-
-
-
-
-
-
+from the guardian:
 
 
 jobs
 
 
 
+change edition:
+
+
+
+switch to the  UK  edition
+
+
+switch to the  AU  edition
+
+
+switch to the 
+INT
+beta
+ edition
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+US edition
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+
+
+
+subscribe
+
+=======
+switch to the 
+UK edition
+
+
+
+
+switch to the 
+Australia edition
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+switch to the 
+International
+beta
+>>>>>>> origin/master
 
 
 
@@ -151,6 +209,13 @@ jobs
 
 
 
+<<<<<<< HEAD
+
+search
+=======
+The Guardian
+
+>>>>>>> origin/master
 
 
 
@@ -159,6 +224,46 @@ jobs
 
 
 
+
+
+<<<<<<< HEAD
+jobs
+=======
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
+
+
+=======
+home
+
+
+›
+US
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+home
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 more
 
@@ -169,28 +274,61 @@ more
 
 from the guardian:
 
+=======
+US
+selected
 
 
 
 
+world
+
+
+
+
+opinion
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 jobs
 
 
 
+=======
+sports
 
 
 
 
+soccer
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 change edition:
 
 
 
+=======
+tech
 
 
 
 
+arts
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 switch to the 
  UK 
@@ -205,10 +343,24 @@ switch to the
  AU 
  edition
 
+=======
+lifestyle
 
 
 
 
+fashion
+
+
+
+
+business
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 switch to the 
 
@@ -221,6 +373,30 @@ beta
 
  edition
 
+=======
+travel
+
+
+
+
+environment
+
+
+
+
+science
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+browse all sections
+close
+>>>>>>> origin/master
 
 
 
@@ -229,15 +405,15 @@ beta
 
 
 
-
-
-
-
-
-
+<<<<<<< HEAD
 
 
 US edition
+=======
+ 
+
+
+>>>>>>> origin/master
 
 
 
@@ -247,11 +423,19 @@ US edition
 
 
 
+<<<<<<< HEAD
 switch to the 
 
 
 UK edition
 
+=======
+Charleston shooting
+
+
+
+Charleston shooting: state senator Clementa Pinckney among victims
+>>>>>>> origin/master
 
 
 
@@ -261,10 +445,16 @@ UK edition
 
 
 
+<<<<<<< HEAD
 switch to the 
 
 
 Australia edition
+=======
+41-year-old was a pastor of Emanuel African Methodist Episcopal church where a gunman opened fire
+
+
+>>>>>>> origin/master
 
 
 
@@ -275,6 +465,7 @@ Australia edition
 
 
 
+<<<<<<< HEAD
 switch to the 
 
 
@@ -284,6 +475,34 @@ International
 beta
 
 
+=======
+
+
+
+
+
+
+Clementa Pickney, right, talks to a supporter in November 2012.
+Photograph: Jeffrey Collins/AP
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+
+
+
+
+=======
+Matthew Weaver, Paul Bowers in Charleston and agencies
+
+
+Thursday 18 June 2015 03.50 EDT
+
+
+Last modified on Saturday 20 June 2015 12.23 EDT
+>>>>>>> origin/master
 
 
 
@@ -291,22 +510,24 @@ beta
 
 
 
+<<<<<<< HEAD
+=======
+Share on Facebook
+>>>>>>> origin/master
 
 
 
 
 
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 The Guardian
 
 
+=======
+
+
+Share on Twitter
+>>>>>>> origin/master
 
 
 
@@ -314,6 +535,10 @@ The Guardian
 
 
 
+<<<<<<< HEAD
+=======
+Share via Email
+>>>>>>> origin/master
 
 
 
@@ -321,6 +546,10 @@ The Guardian
 
 
 
+<<<<<<< HEAD
+=======
+Share on Pinterest
+>>>>>>> origin/master
 
 
 
@@ -328,6 +557,10 @@ The Guardian
 
 
 
+<<<<<<< HEAD
+=======
+Share on LinkedIn
+>>>>>>> origin/master
 
 
 
@@ -335,10 +568,15 @@ The Guardian
 
 
 
+<<<<<<< HEAD
+=======
+Share on Google+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 home
 
 
@@ -350,6 +588,17 @@ home
 
 
 US
+=======
+
+
+
+Share on WhatsApp
+
+
+
+
+
+>>>>>>> origin/master
 
 
 
@@ -363,6 +612,7 @@ US
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -384,31 +634,93 @@ selected
 
 
 
+=======
+ Related: Charleston church shooting: police hunt suspect in 'hate crime' – latest updates 
+
+Clementa Pinckney, a high-flying Democrat state senator who campaigned for police to wear body cameras, was one of those killed in the mass shooting at a historic black church in Charleston, South Carolina, on Wednesday.
+The 41-year-old was a pastor of the Emanuel African Methodist Episcopal church where a gunman, believed to be white, opened fire in what officials are treating as a hate crime.
+Pinckney won election to the South Carolina senate in 2000 at the age of 27, becoming the youngest African American to do so. He had previously been elected to the state’s House of Representatives at 23. Reports said he met Hillary Clinton earlier on Wednesday at a fundraising event in Charleston.
+
+
+
+Clementa Pinckney. Photograph: Emanuel African Methodist Episcopal Church
+
+
+In April Pinckney helped lead a prayer vigil for Walter Scott, a black South Carolina man who was shot dead by a police officer as he tried to run away. The veteran civil rights campaigner Al Sharpton, who was also involved in the vigil, tweeted on Wednesday night:
+
+
+— Reverend Al Sharpton (@TheRevAl)
+June 18, 2015
+Rev. Clements Pinckney, a SC legislator is among the 9 killed in SC church. I am reminded that he helped lead our prayer vigil for Scott.
+
+
+
+Pinckney campaigned for legislation to require police officers to wear body cameras while working. He said: “Body cameras help to record what happens. It may not be the golden ticket, the golden egg, the end-all-fix-all, but it helps to paint a picture of what happens during a police stop.”
+The Rev Joseph Darby, the presiding elder at Beaufort AME Church, described Pinckney as “an advocate for the people”. He told MSNBC: “He was a very caring and competent pastor, and he was a very brave man. Brave men sometimes die difficult deaths.”
+Pastor Thomas Dixon, who has been working with a local chapter of the Black Lives Matter movement, had met Pinckney in the wake of the April death of Walter Scott, the unarmed black man whose shooting by a white North Charleston police officer was caught on video. He said Pinckney was highly respected in the community as both a political and religious leader.
+In the wake of the latest shooting, Dixon said he was “disheartened but not surprised”.
+The Emanuel church website said Pinckney began preaching at 13 and was first appointed as a pastor at 18. He had a degree in business administration, and master’s degrees in public administration and divinity.
 
 
 
 
+
+Clementa Pickney at the Emanuel African Methodist Episcopal Church
+
+
+His profile on the church website included a quote from a Washington Post columnist, David Broder, who said Pinckney was a “political spirit lifter for surprisingly not becoming cynical about politics”.
+Pinckney is survived by his wife, Jennifer, and two children, Eliana and Malana.
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 world
 
+=======
+More news 
+Topics
+
+
+
+Charleston shooting
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 
 opinion
 
+=======
+South Carolina
 
 
 
 
+Gun crime
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
 sports
+=======
+US crime
+
+
+
+>>>>>>> origin/master
 
 
 
@@ -416,54 +728,94 @@ sports
 
 
 
+<<<<<<< HEAD
 
 soccer
+=======
+Share on Facebook
+
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 
 
 tech
+=======
+Share on Twitter
+
+
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 
 
 
 arts
+=======
+Share via Email
+
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+Share on Pinterest
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 lifestyle
 
 
 
+=======
+
+
+
+Share on LinkedIn
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 fashion
 
 
+=======
+
+
+Share on Google+
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 business
 
+=======
+
+Share on WhatsApp
+>>>>>>> origin/master
 
 
 
@@ -471,7 +823,10 @@ business
 
 
 
+<<<<<<< HEAD
 travel
+=======
+>>>>>>> origin/master
 
 
 
@@ -480,7 +835,10 @@ travel
 
 
 
+<<<<<<< HEAD
 environment
+=======
+>>>>>>> origin/master
 
 
 
@@ -488,8 +846,22 @@ environment
 
 
 
+<<<<<<< HEAD
 
 science
+=======
+ 
+
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
+=======
+more on this story
+>>>>>>> origin/master
 
 
 
@@ -498,17 +870,56 @@ science
 
 
 
-
-
-
-
-
+<<<<<<< HEAD
 browse 
 all
  sections
 
 
 close
+=======
+
+
+>>>>>>> origin/master
+
+
+
+
+
+
+
+<<<<<<< HEAD
+
+
+=======
+Charleston shootings: NRA blames victims as reactions echo Newtown
+
+
+An NRA board member suggested worshippers ‘might be alive’ if they had guns themselves, while Obama and gun control groups repeat calls for reform
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+Published: 20 Jun 2015
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+Charleston shootings: NRA blames victims as reactions echo Newtown
+>>>>>>> origin/master
 
 
 
@@ -531,31 +942,13 @@ close
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 South Carolina
+=======
+Sorry, your browser is unable to play this video.
+Please install Adobe Flash™ and try again.
+Alternatively upgrade to a modern browser.
+>>>>>>> origin/master
 
 
 
@@ -563,7 +956,10 @@ South Carolina
 
 
 
+<<<<<<< HEAD
 Latest black church fire in South Carolina had 'natural' cause, authorities say
+=======
+>>>>>>> origin/master
 
 
 
@@ -579,11 +975,41 @@ Latest black church fire in South Carolina had 'natural' cause, authorities say
 
 
 
+<<<<<<< HEAD
 
 
 
 
 Officers close investigation in Greeleyville after finding ‘no indicator of criminal intent’
+=======
+Michelle Obama on Charleston: 'Too many tragedies like this' - video
+
+
+Michelle Obama spoke about the deadly church shooting in Charleston, South Carolina.
+
+
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+Published: 19 Jun 2015
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+Michelle Obama on Charleston: 'Too many tragedies like this' - video
+>>>>>>> origin/master
 
 
 
@@ -599,6 +1025,15 @@ Officers close investigation in Greeleyville after finding ‘no indicator of cr
 
 
 
+<<<<<<< HEAD
+
+
+=======
+Rick Perry calls Charleston church shooting an 'accident'
+
+
+Republican presidential candidate says ‘real issue’ raised by case is drugs and accuses Obama of seeking to use shooting to take away Americans’ guns
+>>>>>>> origin/master
 
 
 
@@ -610,34 +1045,30 @@ Officers close investigation in Greeleyville after finding ‘no indicator of cr
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 Fire crews try to control a blaze at the Mount Zion African Methodist Episcopal Church in Greeleyville, South Carolina.
 Photograph: HANDOUT/Reuters
+=======
+Published: 19 Jun 2015
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+Rick Perry calls Charleston church shooting an 'accident'
+>>>>>>> origin/master
 
 
 
 
 
-
-
-
-
+<<<<<<< HEAD
 Amanda Holpuch
  in New York
+=======
+>>>>>>> origin/master
 
 
 
@@ -650,25 +1081,40 @@ Amanda Holpuch
 
 
 
+<<<<<<< HEAD
 @holpuch
+=======
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
+=======
+Sorry, your browser is unable to play this video.
+Please install Adobe Flash™ and try again.
+Alternatively upgrade to a modern browser.
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Thursday 2 July 2015 
 14.03 EDT
+=======
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 Last modified on Thursday 2 July 2015 
 18.28 EDT
+=======
+>>>>>>> origin/master
 
 
 
@@ -682,10 +1128,18 @@ Last modified on Thursday 2 July 2015
 
 
 
+<<<<<<< HEAD
 
 
 
 Share on Facebook
+=======
+No decision has been made on death penalty in Charleston church shooting, says prosecutor – video
+
+
+Prosecutor Scarlett Wilson says 'now is not the time' to discuss whether suspected gunman Dylann Roof will face the death penalty
+
+>>>>>>> origin/master
 
 
 
@@ -696,13 +1150,23 @@ Share on Facebook
 
 
 
+<<<<<<< HEAD
+=======
+Published: 19 Jun 2015
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 Share on Twitter
+=======
+No decision has been made on death penalty in Charleston church shooting, says prosecutor – video
+
+
+>>>>>>> origin/master
 
 
 
@@ -717,9 +1181,15 @@ Share on Twitter
 
 
 
+<<<<<<< HEAD
 
 
 Share via Email
+=======
+Representatives of Charleston shooting victims 'forgive' Dylann Roof
+
+
+>>>>>>> origin/master
 
 
 
@@ -731,12 +1201,35 @@ Share via Email
 
 
 
+<<<<<<< HEAD
+=======
+Published: 19 Jun 2015
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 Share on Pinterest
+=======
+Representatives of Charleston shooting victims 'forgive' Dylann Roof
+
+>>>>>>> origin/master
+
+
+
+
+
+
+
+<<<<<<< HEAD
+
+=======
+Analysis
+
+11 myths about the future of gun control, debunked after the Charleston shooting
+>>>>>>> origin/master
 
 
 
@@ -745,15 +1238,27 @@ Share on Pinterest
 
 
 
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 Share on LinkedIn
+=======
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
+=======
+Published: 20 Jun 2015
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+11 myths about the future of gun control, debunked after the Charleston shooting
+>>>>>>> origin/master
 
 
 
@@ -761,19 +1266,17 @@ Share on LinkedIn
 
 
 
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 Share on Google+
 
 
 
+=======
+
+
+
+Charleston killings leave US reckoning with race and guns amid 'broken peace'
+>>>>>>> origin/master
 
 
 
@@ -787,7 +1290,33 @@ Share on Google+
 
 
 
+<<<<<<< HEAD
 Share on WhatsApp
+=======
+Published: 18 Jun 2015
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+Charleston killings leave US reckoning with race and guns amid 'broken peace'
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+Charleston church shooting: suspect Dylann Roof in custody as community holds vigils
+>>>>>>> origin/master
 
 
 
@@ -801,29 +1330,24 @@ Share on WhatsApp
 
 
 
+<<<<<<< HEAD
+=======
+Published: 19 Jun 2015
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+Charleston church shooting: suspect Dylann Roof in custody as community holds vigils
+>>>>>>> origin/master
 
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 Investigators said on Thursday that the most recent of seven fires at predominantly black churches in the American south “was best classified as natural”, ending several days of speculation over whether it was intentionally set. 
 
 
@@ -833,10 +1357,17 @@ South Carolina
 
 
 “Investigators observed no indicator of criminal intent,” Sled spokesperson Kathryn Richardson said in a statement. “The investigation is complete.” 
+=======
 
 
 
 
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
  
 Related: 
 South Carolina blaze brings tally of recent black church fires to seven
@@ -913,6 +1444,10 @@ Data from the National Fire Protection Association
 
 The predominant cause of the fires was from cooking equipment, though arson accounted for 16% of the fires – about 280 churches per year.
 
+=======
+
+
+More more on this story
 
 
 
@@ -921,11 +1456,52 @@ The predominant cause of the fires was from cooking equipment, though arson acco
 
 
 
+
+
+popular
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+The Guardian
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
 
 More news 
 
 
 Topics
+=======
+back to top
+
+
+
+>>>>>>> origin/master
 
 
 
@@ -933,74 +1509,143 @@ Topics
 
 
 
+<<<<<<< HEAD
 South Carolina
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+home
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Charleston shooting
+=======
+US
+selected
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+world
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+opinion
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+sports
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+soccer
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 Share on Facebook
 
 
 
+=======
+tech
 
 
 
 
+arts
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+lifestyle
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+fashion
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 Share on Twitter
 
 
 
+=======
+business
+
+
+
+
+travel
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+environment
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+science
+>>>>>>> origin/master
 
 
 
 
 
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 Share via Email
 
 
+=======
+
+
+all sections
+close
+>>>>>>> origin/master
 
 
 
@@ -1008,137 +1653,265 @@ Share via Email
 
 
 
+<<<<<<< HEAD
+=======
+home
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 
 Share on Pinterest
 
+=======
+US
+selected
 
 
 
 
+world
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+UK
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+europe
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
 Share on LinkedIn
 
+=======
+americas
 
 
 
 
+asia
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+middle east
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+africa
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
 Share on Google+
 
+=======
+australia
+
+
+
+
+cities
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+development
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+opinion
+>>>>>>> origin/master
 
 
 
 
-
-
-
-
+<<<<<<< HEAD
 
 Share on WhatsApp
 
 
 
+=======
+sports
+
+
+
+
+soccer
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+MLS
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+NFL
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+MLB
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+NBA
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+NHL
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+soccer
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+live scores
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+tables
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+competitions
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+results
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+fixtures
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+clubs
+>>>>>>> origin/master
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 View all comments >
 
 
+=======
+
+
+tech
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+arts
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+movies
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 comments 
@@ -1165,136 +1938,286 @@ Commenting has been disabled for this account (
 why?
 )
 
+=======
+tv & radio
+
+
+
+
+music
+
+
+
+
+games
+
+
+
+
+books
+
+
+
+
+art & design
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+stage
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+classical
+>>>>>>> origin/master
 
 
 
 
 
 
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 Order by 
+=======
+lifestyle
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 newest
 
 
+=======
+food
 
 
 
 
+health & fitness
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 oldest
+=======
+love & sex
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+family
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 Show 
 25
 
 
+=======
+women
 
 
 
 
+home & garden
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 25
 
 
+=======
+
+
+fashion
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 50
+=======
+business
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 100
 
 
+=======
+economics
 
 
 
 
+sustainable business
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 All
+=======
+diversity & equality in business
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+small business
+>>>>>>> origin/master
 
 
 
 
 
 
-
-
-
-
+<<<<<<< HEAD
 Threads 
+=======
+travel
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 collapsed
 
 
+=======
+USA
 
 
 
 
+europe
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 expanded
+=======
+UK
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 unthreaded
+=======
+environment
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+climate change
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+wildlife
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Loading comments… 
 Trouble loading?
+=======
+energy
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+pollution
+>>>>>>> origin/master
 
 
 
 
 
 
-
-
-
-
+<<<<<<< HEAD
 
 
 
 View more comments
 
+=======
+science
+
+
+
+
+media
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+crosswords
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+video
+>>>>>>> origin/master
 
 
 
@@ -1303,18 +2226,26 @@ View more comments
 
 
 
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
  
 
 
 
+=======
+
+
+
+US News
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+›
+Charleston shooting
+>>>>>>> origin/master
 
 
 
@@ -1323,10 +2254,7 @@ View more comments
 
 
 
-
-
-
-
+<<<<<<< HEAD
 
 
 
@@ -1339,6 +2267,32 @@ View more comments
 
 
 popular
+=======
+jobs
+
+subscribe
+all topics
+all contributors
+
+
+report technical issue
+
+
+
+about us
+
+contact us
+
+complaints & corrections
+terms & conditions
+privacy policy
+cookie policy
+securedrop
+
+
+© 2015 Guardian News and Media Limited or its affiliated companies. All rights reserved.
+
+>>>>>>> origin/master
 
 
 
@@ -1357,6 +2311,7 @@ popular
 
  
 
+<<<<<<< HEAD
 
 
 
@@ -2420,3 +3375,5 @@ securedrop
 
 
 
+=======
+>>>>>>> origin/master

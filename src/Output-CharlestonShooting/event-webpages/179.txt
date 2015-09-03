@@ -1,6 +1,21 @@
+<<<<<<< HEAD
 Police Fatally Shoot Man In South Shore « CBS Chicago
 
 Police Fatally Shoot Man In South Shore « CBS Chicago
+=======
+church shooting | fox13now.com 
+church shooting | fox13now.com
+
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
+=======
+GoSearch
+>>>>>>> origin/master
 
 
 
@@ -8,11 +23,7 @@ Police Fatally Shoot Man In South Shore « CBS Chicago
 
 
 
-
-
-
-
-
+<<<<<<< HEAD
 
 
 
@@ -857,10 +868,39 @@ Search Listings
 
 
 
+=======
+ Watch Now: Sports Page 
+
+Fox 13 TV Schedule 
+
+
+ Search
+ Contact Us
 
 
 
 
+
+
+fox13now.com
+
+ Menu
+
+News
+On-Air
+Good Day Utah
+The Place
+Traffic
+Contests
+Contact
+Cars
+Events
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 By viewing our video content, you are accepting the terms of our 
 Video Services Policy
@@ -908,6 +948,52 @@ Deals
  
 Powered by 
 WordPress.com VIP
+=======
+Weather 
+
+81°
+
+
+
+
+
+
+
+81°
+
+
+Low 68°
+High 90°
+
+
+
+
+
+Mon
+
+
+					67°  91°
+					
+
+
+Tue
+
+
+					66°  90°
+					
+
+
+Wed
+
+
+					66°  87°
+					
+
+
+See complete forecast
+
+
+>>>>>>> origin/master
 
 
  
@@ -921,6 +1007,7 @@ WordPress.com VIP
 
 
 
+<<<<<<< HEAD
 Facebook
 
 
@@ -1072,11 +1159,57 @@ Daily Deals
 
 
 
+=======
+
+
+
+ 
+
+
+
+						church shooting					
+
+
+
+News
+
+Minister: “No evildoer, no demon” can close church targeted by shooter
+
+
+News
+
+Multiple fatalities reported after shooting at historic black church in Charleston, S.C.
+
+
+News
+
+Louisiana pastor shot and killed while preaching
+
+
+News
+
+Cleansing, healing after shooting at St. James
+
+
+News
+
+Victim in Ogden church shooting identified; suspect in custody
+
+
+
+ 
+
+
+News
+
+Suspect arrested in fatal shooting at GA megachurch
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 Log In
 Register
  
@@ -1189,6 +1322,46 @@ Radio.com
 
 Advertise On Our Streams
 
+=======
+
+
+Mobile AppsAndroid App
+Android Weatherwatch App
+iPhone & iPad App
+iPhone Weatherwatch App
+
+
+
+
+Facebook
+Twitter
+About & Contact
+>>>>>>> origin/master
+
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+Online Public File • 				Terms of Service •
+		Privacy Policy  •
+		5020 Amelia Earhart Drive, Salt Lake City, UT 84116  •
+		Copyright © 2015, KSTU		 • A Tribune Broadcasting Station •
+		Powered by WordPress.com VIP 
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
+=======
+×
+Email Alerts
+>>>>>>> origin/master
 
 
 
@@ -1206,24 +1379,18 @@ Advertise On Our Streams
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
  
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
  
+=======
+>>>>>>> origin/master
 
 
 
@@ -1232,6 +1399,19 @@ Advertise On Our Streams
 
 
 
+<<<<<<< HEAD
+
+
+
+=======
+Follow
+
+Follow “fox13now.com”
+
+Get every new post delivered to your Inbox.
+
+Join 3,102 other followers
+>>>>>>> origin/master
 
 
 
@@ -1240,9 +1420,10 @@ Advertise On Our Streams
 
 
 
-
-
-
+<<<<<<< HEAD
+=======
+Build a website with WordPress.com
+>>>>>>> origin/master
 
 
 

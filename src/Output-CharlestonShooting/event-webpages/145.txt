@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 Police on Church Shooting: 'Very, Very Pleased to Announce We Have Made Arrest' - NBC News
 
 Police on Church Shooting: 'Very, Very Pleased to Announce We Have Made Arrest' - NBC News
+=======
+Kanye West and Lupe Fiasco address the Charleston church shooting | Music | The Guardian
+
+Kanye West and Lupe Fiasco address the Charleston church shooting | Music | The Guardian
+>>>>>>> origin/master
 
 
 
@@ -16,6 +22,25 @@ Police on Church Shooting: 'Very, Very Pleased to Announce We Have Made Arrest' 
 
 
 
+<<<<<<< HEAD
+=======
+Close
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+
+=======
+Skip to main content
+
+ 
+>>>>>>> origin/master
 
 
 
@@ -26,15 +51,7 @@ Police on Church Shooting: 'Very, Very Pleased to Announce We Have Made Arrest' 
 
 
 
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 Watch Live: Scott Walker Delivers Foreign Policy Speech
 
 
@@ -318,6 +335,10 @@ Asian America
 
 NBCBLK
 
+=======
+
+sign in
+>>>>>>> origin/master
 
 
 
@@ -326,30 +347,50 @@ NBCBLK
 
 
 
+<<<<<<< HEAD
 
 
 
 Top Ongoing
+=======
+subscribe
+
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 Hurricane Katrina Anniversary
 
 
+=======
+search
 
 
 
 
+jobs
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Europe's Border Crisis
+=======
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 TV
 
 
@@ -370,10 +411,37 @@ Today
 
 
 Featured
+=======
+more
+
+
+from the guardian:
+
+
+jobs
+
+
+
+change edition:
+
+
+
+switch to the  UK  edition
+
+
+switch to the  AU  edition
+
+
+switch to the 
+INT
+beta
+ edition
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 The Freshman Year Experience
 
 
@@ -393,6 +461,35 @@ Flashback
 
 
 Debunker
+=======
+
+
+
+
+US edition
+
+
+
+
+switch to the 
+UK edition
+
+
+
+
+switch to the 
+Australia edition
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+switch to the 
+International
+beta
+>>>>>>> origin/master
 
 
 
@@ -401,10 +498,7 @@ Debunker
 
 
 
-
-
-
-
+<<<<<<< HEAD
 Multimedia
 
 
@@ -414,15 +508,28 @@ Video
 
 
 Photo
+=======
+
+
+The Guardian
 
 
 
 
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 More From NBC
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Sports
 
 
@@ -457,6 +564,44 @@ Parent Toolkit
 
 
 
+=======
+
+
+
+
+home
+
+
+›
+arts
+
+
+›
+music
+
+
+
+
+games
+
+
+books
+
+
+art & design
+
+
+stage
+
+
+classical
+
+
+movies
+
+
+tv & radio
+>>>>>>> origin/master
 
 
 
@@ -467,75 +612,140 @@ Parent Toolkit
 
 
 
+<<<<<<< HEAD
+=======
+home
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+US
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+world
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+opinion
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
  NBC News works best with JavaScript turned on
             
+=======
+sports
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+soccer
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+tech
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+arts
+selected
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
  Feedback
+=======
+lifestyle
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+fashion
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+business
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+travel
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 advertisement
+=======
+environment
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+science
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+browse all sections
+close
+>>>>>>> origin/master
 
 
 
 
 
 
-
-
-
-
+<<<<<<< HEAD
 advertisement
+=======
+>>>>>>> origin/master
 
 
  
@@ -550,6 +760,7 @@ advertisement
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -557,17 +768,31 @@ advertisement
 
 NBC News Video
 
+=======
+Music
+
+
+
+Kanye West and Lupe Fiasco address the Charleston church shooting
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
                   Sponsored By
                 
 
 
 
+=======
+
+
+
+West freestyles about race in America, while Lupe Fiasco writes an open letter to white supremacists
+>>>>>>> origin/master
 
 
 
@@ -586,33 +811,59 @@ NBC News Video
 
 
 
+<<<<<<< HEAD
 
 
 
 Follow 
 NBC News
 
+=======
+Lupe Fiasco … Writing to the racists.
+Photograph: James Knowler/Getty Images
+
+
+
+
+Guardian music
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 Facebook
+=======
+@guardianmusic
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 Twitter
+=======
+Monday 22 June 2015 05.05 EDT
+
+
+Last modified on Monday 22 June 2015 05.06 EDT
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 Google Plus
 
+=======
+
+Share on Facebook
+>>>>>>> origin/master
 
 
 
@@ -620,7 +871,11 @@ Google Plus
 
 
 
+<<<<<<< HEAD
 Newsletter
+=======
+Share on Twitter
+>>>>>>> origin/master
 
 
 
@@ -628,30 +883,51 @@ Newsletter
 
 
 
+<<<<<<< HEAD
 
 More
+=======
+Share via Email
+
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 
 
 RSS
+=======
+Share on Pinterest
+
+
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
+=======
+Share on LinkedIn
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 Youtube
 
 
+=======
+
+
+Share on Google+
+>>>>>>> origin/master
 
 
 
@@ -659,8 +935,13 @@ Youtube
 
 
 
+<<<<<<< HEAD
 
 Tumblr
+=======
+Share on WhatsApp
+
+>>>>>>> origin/master
 
 
 
@@ -669,7 +950,26 @@ Tumblr
 
 
 
+<<<<<<< HEAD
 Instagram
+=======
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+Kanye West and Lupe Fiasco both raised their voices on the subject of race in America this weekend, in the aftermath of the Charleston church murders.
+West, headlining Hot 107.9’s Birthday Bash in Atlanta on Saturday night, addressed the killings in a freestyle, whose lyrics were reprinted in full at missinfo.tv. “See that’s the magic of racism, it works on itself,” he rapped. “We hate each other, screw each other, kill each other / When we can’t kill nobody else / See that’s the magic of lackin’ resources, it works on itself / 500 niggas gettin’ pop-pop-pop-pop-pop-pop-popped / And North Carolina didn’t help.” While this is thought to refer to the Charleston murders, Charleston is actually in South Carolina.
+Lupe Fiasco, meanwhile, used Instagram to publish a three-part open letter, addressed “Dear White Supremacy”, with each of his three posts illustrated with a photo of Dylann Roof, who has been charged with nine counts of murder following the shooting spree at the Emanuel African Methodist Episcopal Church in Charleston. 
+The letter opened: “First of all you are not really that supreme. While throughout history White Supremacy it must be admitted you have achieved some very dominant positions. These positions have been gained mostly through force or some biological agent such as disease that did a lot of the dirty work for you in advance. I mean anybody can use force on an unarmed populous and anybody can have smallpox. Not judging, just wanted to point out that having a disease that native folks aren’t immune to because they’ve never seen it doesn’t make you strategically smart or tactically superior, just kind of sick.”
+He concluded: “If you wanted to get really ironic and meta about it, White Supremacy has to validate it’s own identity based solely on its relationship to other races! I mean now that’s what I would call joined at the hip. Without us there is no white supremacy because there would be nothing to be supreme over! That sounds so stupid but sometimes the truth is stupid.”
+>>>>>>> origin/master
 
 
 
@@ -683,33 +983,47 @@ Instagram
 
 
 
+<<<<<<< HEAD
+
+
+
+=======
+More news 
+Topics
+
+
+
+Kanye West
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+Rap
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+Hip-hop
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+Urban music
+>>>>>>> origin/master
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 
 
  Sorry, this video needs JavaScript turned on
@@ -718,6 +1032,25 @@ Instagram
 
 
 
+=======
+Race issues
+
+
+
+More…
+
+
+
+Charleston shooting
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+Gun crime
+>>>>>>> origin/master
 
 
 
@@ -728,18 +1061,25 @@ Instagram
 
 
 
+<<<<<<< HEAD
+=======
+Share on Facebook
+>>>>>>> origin/master
 
 
 
 
-
-
-
-
+<<<<<<< HEAD
 Play
 
 
 
+=======
+
+
+
+Share on Twitter
+>>>>>>> origin/master
 
 
 
@@ -747,6 +1087,10 @@ Play
 
 
 
+<<<<<<< HEAD
+=======
+Share via Email
+>>>>>>> origin/master
 
 
 
@@ -754,6 +1098,10 @@ Play
 
 
 
+<<<<<<< HEAD
+=======
+Share on Pinterest
+>>>>>>> origin/master
 
 
 
@@ -761,6 +1109,10 @@ Play
 
 
 
+<<<<<<< HEAD
+=======
+Share on LinkedIn
+>>>>>>> origin/master
 
 
 
@@ -768,6 +1120,10 @@ Play
 
 
 
+<<<<<<< HEAD
+=======
+Share on Google+
+>>>>>>> origin/master
 
 
 
@@ -775,6 +1131,7 @@ Play
 
 
 
+<<<<<<< HEAD
 Police on Church Shooting: 'Very, Very Pleased to Announce We Have Made Arrest'
 
 
@@ -784,6 +1141,14 @@ Police on Church Shooting: 'Very, Very Pleased to Announce We Have Made Arrest'
 
                   Charleston Police Chief Gregory Mullen announces that Dylann Roof was arrested about 245 miles north in Shelby, North Carolina.
                 
+=======
+Share on WhatsApp
+
+
+
+
+
+>>>>>>> origin/master
 
 
 
@@ -807,6 +1172,10 @@ Police on Church Shooting: 'Very, Very Pleased to Announce We Have Made Arrest'
 
 
 
+<<<<<<< HEAD
+=======
+View all comments >
+>>>>>>> origin/master
 
 
 
@@ -814,6 +1183,7 @@ Police on Church Shooting: 'Very, Very Pleased to Announce We Have Made Arrest'
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -821,20 +1191,45 @@ Police on Church Shooting: 'Very, Very Pleased to Announce We Have Made Arrest'
 
 
 Police on Church Shooting: 'Very, Very Pleased to Announce We Have Made Arrest'
+=======
+comments 
+Sign in
+or create your Guardian account to join the discussion.
+
+This discussion is closed for comments.
+
+We’re doing some maintenance right now. You can still read comments, but please come back later to add your own.
+
+
+Commenting has been disabled for this account (why?)
+
+
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 
 
 
 Gunman Called Himself a "Human Powder Keg" in Alleged Manifesto
 
+=======
+Order by 
+
+
+newest
+
+
+oldest
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -857,15 +1252,53 @@ Watch these adorable twins pretend to be sleeping
 
 
 Husband of WDBJ shooting survivor: 'She remembers everything that happened'
+=======
+Show 25
+
+
+25
+
+
+50
+
+
+100
+
+
+All
 
 
 
 
+Threads 
+
+
+collapsed
+
+
+expanded
+
+
+unthreaded
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+Loading comments… Trouble loading?
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Details emerge about gunman Vester Flanagan
+=======
+View more comments
+>>>>>>> origin/master
 
 
 
@@ -874,6 +1307,7 @@ Details emerge about gunman Vester Flanagan
 
 
 
+<<<<<<< HEAD
 Tamron Hall volleys with Serena Williams, Roger Federer
 
 
@@ -893,6 +1327,11 @@ Alison Parker's Dad Remembers Slain WDBJ Reporter
 
 
 Alison Parker and Adam Ward Remembered By Loved Ones and Coworkers
+=======
+
+ 
+
+>>>>>>> origin/master
 
 
 
@@ -901,10 +1340,15 @@ Alison Parker and Adam Ward Remembered By Loved Ones and Coworkers
 
 
 
+<<<<<<< HEAD
+=======
+popular
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Previous
 
 
@@ -919,6 +1363,41 @@ Expand
 
 Collapse
 
+=======
+
+
+
+
+
+
+
+
+ 
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+The Guardian
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+back to top
+>>>>>>> origin/master
 
 
 
@@ -930,323 +1409,584 @@ Collapse
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 advertisement
 
 
 
+=======
+
+
+
+home
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+US
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+world
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+opinion
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+sports
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
                                     Latest video
                                 
 
 
+=======
+soccer
 
 
 
 
+tech
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+arts
+selected
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+lifestyle
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+fashion
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+business
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+travel
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+environment
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 A Photojournalist Reflects on His Katrina Experience
+=======
+science
+
+
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 
 
 
 Remembering Emmett Till's Murder, 60 Years Later
+=======
+all sections
+close
+
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+home
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Mardi Gras Indians Museum Keeps Heritage Alive in the Ninth Ward
+=======
+US
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+world
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Rubio Delivers Tough Talk Toward China
+=======
+UK
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+europe
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 George W. Bush Reflects on Hurricane Katrina 10 Years Later
+=======
+americas
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+asia
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 It's time to Give It Away! See which viewers won
+=======
+middle east
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+africa
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Insuring Your Gadgets: Do The Math
+=======
+australia
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+cities
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Texas Lets You Literally Have a Shotgun Wedding
+=======
+development
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 
 
 TV Shooting Survivor Has 'Vivid Memory' of Ordeal, Spokesperson Says
 
 
+=======
+opinion
 
 
 
 
+sports
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 Why Joe Biden's Decision Comes Down to More Than Money or Polling
 
 
+=======
+soccer
 
 
 
 
+MLS
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 Felon Fights for Return His Firearms
 
 
+=======
+NFL
 
 
 
 
+MLB
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 Tick tock! Better not be late if you're meeting Kathie Lee…
 
 
+=======
+NBA
+
+
+
+
+NHL
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 KLG to Hoda: 'I don't like to bite things!'
+=======
+soccer
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+live scores
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Al Roker cooks shrimp with New Orleans chef Leah Chase
+=======
+tables
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+competitions
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Uzo Aduba: 'I could not believe' being cast in 'The Wiz'
+=======
+results
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+fixtures
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Facebook celebrates 1 billion logons in one day
+=======
+clubs
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 
 
 Study: Firstborn women likelier to be overweight
 
 
+=======
+tech
 
 
 
 
+arts
+selected
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 Day care accused of drugging babies
 
 
+=======
+movies
 
 
 
 
+tv & radio
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 FDA approves new cholesterol drugs
 
 
+=======
+music
+selected
 
 
 
 
+games
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 Justin Bieber teases new single 'What Do You Mean'
 
 
+=======
+books
 
 
 
 
+art & design
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 Darius Rucker to TODAY: 'Any time you call me I'm excited'
 
 
+=======
+stage
+
+
+
+
+classical
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 Transforming Transformers birthday cake dazzles TODAY anchors
+=======
+lifestyle
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+food
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Tian Tian, You Are the Pandas' Father
+=======
+health & fitness
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+love & sex
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 To Run or Not to Run Is Question for Biden
+=======
+family
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+women
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Rescuers Battle to Resuscitate Migrants off Libyan Coast
+=======
+home & garden
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 
 
 Savannah and Rafael Nadal face off on tennis court
 
 
+=======
+fashion
 
 
 
 
+business
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 Keith Morrison Previews 'Someone Was Out There'
 
 
+=======
+economics
 
 
 
 
+sustainable business
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 Back-to-school sanity savers: Hairstyles, nighttime prep, lunches
@@ -2013,68 +2753,127 @@ AdChoices
 © 2015 NBCnews.com
 
 
+=======
+diversity & equality in business
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+small business
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+travel
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+USA
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+europe
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+UK
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+environment
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+climate change
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+wildlife
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+energy
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+pollution
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+science
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+media
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+crosswords
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+video
+>>>>>>> origin/master
 
 
 
@@ -2086,14 +2885,28 @@ AdChoices
 
 
 
+<<<<<<< HEAD
+=======
+Arts
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+›
+Music
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+›
+Kanye West
+>>>>>>> origin/master
 
 
 
@@ -2102,6 +2915,7 @@ AdChoices
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -2112,16 +2926,31 @@ AdChoices
 
 
 
+=======
+jobs
 
+subscribe
+all topics
+all contributors
 
 
+report technical issue
 
 
 
+about us
 
+contact us
 
+complaints & corrections
+terms & conditions
+privacy policy
+cookie policy
+securedrop
 
 
+© 2015 Guardian News and Media Limited or its affiliated companies. All rights reserved.
+>>>>>>> origin/master
 
 
 
@@ -2129,4 +2958,18 @@ AdChoices
 
 
 
+
+
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+ 
+>>>>>>> origin/master
 

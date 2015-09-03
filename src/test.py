@@ -193,6 +193,7 @@ def getEM_Whole(wps):
 #seedURLs = eventUtils.readFileLines(seedsFile) 
 ##em = eventModel.EventModel(5,2)
 ##em.buildEventModel(20, seedURLs)
+<<<<<<< HEAD
 
 #wps = eventUtils.getWebpageText(seedURLs)
 
@@ -217,4 +218,16 @@ print text
 f = open('text_noURLs.txt','w')
 f.write(text['text'].encode('utf8'))
 f.close()
+=======
+
+#wps = eventUtils.getWebpageText(seedURLs)
+url = ''
+page = eventUtils.getWebpage(url)
+text = eventUtils.extractTextFromHTML(page)
+print text
+
+text = eventUtils.extractTextFromHTML_noURLs(page)
+print text
+
+>>>>>>> origin/master
 

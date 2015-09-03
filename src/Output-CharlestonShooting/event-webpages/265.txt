@@ -1,6 +1,21 @@
+<<<<<<< HEAD
 Don't Blame Us for Church Shootings, Council of Conservative Citizens Says - NBC News
 
 Don't Blame Us for Church Shootings, Council of Conservative Citizens Says - NBC News
+=======
+Third suspect arrested in O’Fallon MO shooting | FOX2now.com 
+Third suspect arrested in O’Fallon MO shooting | FOX2now.com
+
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
+=======
+GoSearch
+>>>>>>> origin/master
 
 
 
@@ -8,6 +23,42 @@ Don't Blame Us for Church Shootings, Council of Conservative Citizens Says - NBC
 
 
 
+<<<<<<< HEAD
+
+
+
+=======
+ Replay: FOX 2 News 
+
+FOX 2 TV Schedule 
+
+
+ Search
+ Contact Us
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
+
+
+=======
+FOX2now.com
+
+ Menu
+
+News
+Links
+AM Show
+Sports
+Traffic
+Contests
+STLMoms
+Events
+>>>>>>> origin/master
 
 
 
@@ -15,22 +66,7 @@ Don't Blame Us for Church Shootings, Council of Conservative Citizens Says - NBC
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 
 
 
@@ -852,6 +888,11 @@ advertisement
 
 
 
+=======
+Weather 
+
+82°
+>>>>>>> origin/master
 
 
 
@@ -859,13 +900,22 @@ advertisement
 
 
 
+<<<<<<< HEAD
 Facebook
 
 
+=======
+82°
+
+
+Low 76°
+High 95°
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Twitter
 
 
@@ -883,6 +933,33 @@ Google Plus
 Embed
 
 
+=======
+
+Mon
+
+
+					76°  96°
+					
+
+
+Tue
+
+
+					77°  93°
+					
+
+
+Wed
+
+
+					75°  90°
+					
+
+
+See complete forecast
+
+ Severe weather alert
+>>>>>>> origin/master
 
 
 
@@ -890,6 +967,7 @@ Embed
  
 
 
+<<<<<<< HEAD
 3:20
 
 
@@ -911,6 +989,8 @@ Copy this code to your website or blog
 
 
 
+=======
+>>>>>>> origin/master
 
 
 
@@ -919,6 +999,7 @@ Copy this code to your website or blog
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -960,19 +1041,69 @@ Related:
 
 
 advertisement
+=======
+ 
+
+
+
+
+
+
+
+Third suspect arrested in O’Fallon MO shooting
+
+Posted 6:03 pm, April 5, 2015, by Chris Smith, Updated at 06:02pm, April 5, 2015 
+
+FacebookTwitterRedditPinterestLinkedInEmail 
+
+
+>>>>>>> origin/master
 
 
  
 
 
 
+<<<<<<< HEAD
 
  The Southern Poverty Law Center's website describes the Council of Conservative Citizens as a "crudely white supremacist group." 
+=======
+×
+Third suspect arrested in O’Fallon MO shooting
+>>>>>>> origin/master
 
 
  
 
 
+<<<<<<< HEAD
+
+
+
+
+
+=======
+O’FALLON, MO (KTVI) – Police have arrested the third and final suspect from a Thursday afternoon shooting in O’Fallon, Missouri. Antonio Malik Whitaker was arrested Saturday for the shooting of a 15-year-old on McQuade Drive.
+O’Fallon police say the shooting was the result of a bad drug deal.
+Whitaker has been charged with first degree assault, armed criminal action, and attempted first degree robbery. His bond has been set at $250,000 cash only.
+
+38.810608
+-90.699848
+
+
+
+Related stories
+
+Two in custody for O’Fallon juvenile shooting
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+Filed in: News Topics: Arrested, o'fallon mo, shooting, suspect 
+>>>>>>> origin/master
 
 
 
@@ -984,15 +1115,7 @@ advertisement
 
 
 
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 Facebook
 
 
@@ -1019,11 +1142,14 @@ Embed
 
 
 
+=======
+>>>>>>> origin/master
 
 
  
 
 
+<<<<<<< HEAD
 2:53
 
 
@@ -1047,6 +1173,17 @@ Copy this code to your website or blog
 
 
 
+=======
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+Antenna TV
+KTVI’s digital channel 2.2 shows hit movies and classic TV.
+>>>>>>> origin/master
 
 
 
@@ -1054,10 +1191,7 @@ Copy this code to your website or blog
 
 
 
-
-
-
-
+<<<<<<< HEAD
 
 
 
@@ -1168,10 +1302,14 @@ advertisement
 
 advertisement
 
+=======
+ 
+>>>>>>> origin/master
 
  
 
 
+<<<<<<< HEAD
 
 
 
@@ -1184,6 +1322,25 @@ advertisement
 
 
 
+=======
+Popular
+
+
+
+Teen suspect shot three times by St. Louis police officer
+
+
+
+Michael Brown exhibit opened in Chicago
+
+
+
+Child abuse charges re-filed after disturbing photos go viral on Facebook
+
+
+
+Driver hits 4 women in dramatic East St. Louis hit-and-run caught on video
+>>>>>>> origin/master
 
 
 
@@ -1191,6 +1348,7 @@ advertisement
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -1220,24 +1378,55 @@ Privacy Policy
 New
 
 
+=======
+ 
+
+
+Latest News
+
+
+
+PICTURES: Slide the City St Louis 2015 part2
+
+
+
+PICTURES: Slide the City St Louis 2015 part1
+
+
+
+Contestants cry foul, attendees go hungry at Budweiser burger fest
+
+
+
+Jefferson County resident apply for disaster assistance from recent flooding and storms
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Terms of Service
 
+=======
+
+ 
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 nbcnews.com Site Map
+=======
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 Advertise
 
 
@@ -1285,65 +1474,113 @@ AdChoices
 
 
 
+=======
 
+News
 
+Suspect charged in Saturday’s deadly shooting in South St. Louis
 
 
+News
 
+Charges filed in fatal shooting of airman
 
 
+News
 
+Juvenile shooting in O’Fallon, Missouri
 
 
+News
 
+Two in custody for O’Fallon juvenile shooting
 
 
+News
 
+1 woman killed, another wounded in Joplin shooting
 
 
 
+ 
 
 
+News
 
+Police still searching for suspect in April murder
 
 
+News
 
+O’Fallon police-involved standoff near I-70 ends with suspect in custody
 
 
+News
 
+Viewer tips lead to accused taser wielding shoplifter’s arrest
 
 
+News
 
+Suspect wanted for robbery in Alabama arrested for St. Louis hold-up
 
 
+News
 
+Woman arrested on suspicion of shooting daughter-in-law
 
 
 
+ 
 
 
+News
 
+Columbia man accused of attacking girlfriend with banister
 
 
+News
 
+Pleasant Valley man arrest on drug trafficking charge
 
 
+News
 
+Man fatally shot during fight near St. Louis-area home
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+ 
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
+=======
+Mobile AppsAndroid App
+Android Weather App
+iPhone & iPad App
+iPhone Weather App
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+Facebook
+Twitter
+Email Alerts
+About & Contact
+>>>>>>> origin/master
 
 
 
@@ -1351,15 +1588,90 @@ AdChoices
 
 
 
+<<<<<<< HEAD
+=======
+Online Public File • 				Terms of Service •
+		Privacy Policy  •
+		2250 Ball Drive St. Louis MO 63146  •
+		Copyright © 2015, KTVI		 • A Tribune Broadcasting Station •
+		Powered by WordPress.com VIP 
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
+=======
+×
+Email Alerts
+>>>>>>> origin/master
 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+
+
+=======
+Send to Email Address
+
+Your Name
+
+Your Email Address
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
+
+
+
+=======
+Cancel
+
+				Post was not sent - check your email addresses!			
+
+				Email check failed, please try again			
+
+				Sorry, your blog cannot share posts by email.			
+>>>>>>> origin/master
 
 
 

@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 One Wounded In Police-Involved Shooting On South Side  « CBS Chicago
 
 One Wounded In Police-Involved Shooting On South Side  « CBS Chicago
+=======
+Charleston shooting | US news | The Guardian
+
+Charleston shooting | US news | The Guardian
+>>>>>>> origin/master
 
 
 
@@ -16,14 +22,22 @@ One Wounded In Police-Involved Shooting On South Side  « CBS Chicago
 
 
 
+<<<<<<< HEAD
 
 
 
 Chicago
+=======
+Close
+
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Radio.com
 
 
@@ -346,12 +360,21 @@ View Comments
 
 
 (CBS)
+=======
+
+Skip to main content
+
+ 
+
+
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 Related Tags:
 
 
@@ -361,6 +384,12 @@ Police-Involved Shooting
 , 
 Woodlawn
 
+=======
+
+
+
+sign in
+>>>>>>> origin/master
 
 
 
@@ -368,9 +397,13 @@ Woodlawn
 
 
 
+<<<<<<< HEAD
 Featured & Trending:
 
+=======
 
+subscribe
+>>>>>>> origin/master
 
 
 
@@ -378,10 +411,18 @@ Featured & Trending:
 
 
 
+<<<<<<< HEAD
+=======
+search
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+jobs
+>>>>>>> origin/master
 
 
 
@@ -392,6 +433,7 @@ Featured & Trending:
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -406,20 +448,32 @@ Featured & Trending:
 
 
 
+=======
+more
 
 
+from the guardian:
 
 
+jobs
 
 
 
+change edition:
 
 
 
+switch to the  UK  edition
 
 
+switch to the  AU  edition
 
 
+switch to the 
+INT
+beta
+ edition
+>>>>>>> origin/master
 
 
 
@@ -428,18 +482,38 @@ Featured & Trending:
 
 
 
+<<<<<<< HEAD
+=======
+US edition
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+switch to the 
+UK edition
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+switch to the 
+Australia edition
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+switch to the 
+International
+beta
+>>>>>>> origin/master
 
 
 
@@ -450,6 +524,10 @@ Featured & Trending:
 
 
 
+<<<<<<< HEAD
+=======
+The Guardian
+>>>>>>> origin/master
 
 
 
@@ -466,10 +544,16 @@ Featured & Trending:
 
 
 
+<<<<<<< HEAD
 
 
+=======
+home
 
 
+›
+US
+>>>>>>> origin/master
 
 
 
@@ -480,53 +564,133 @@ Featured & Trending:
 
 
 
+<<<<<<< HEAD
+=======
+home
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+US
+selected
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+world
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+opinion
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+sports
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+soccer
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+tech
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+arts
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+lifestyle
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+fashion
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+business
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+travel
+>>>>>>> origin/master
 
 
 
+
+<<<<<<< HEAD
+=======
+environment
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+science
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+browse all sections
+close
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
 Latest News Headlines:
 
 
@@ -538,10 +702,16 @@ Water Main Break Closes Streets In West Loop
 Man Shot, Seriously Wounded In Lawndale
  
 2 Killed, 7 Injured In High-Speed Crash In Robbins; Drag Racing Suspected
+=======
+
+
+ 
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 CHICAGO (STMW) —
  Police shot a person late Saturday in the South Side Woodlawn neighborhood.
 
@@ -562,6 +732,25 @@ The IPRA investigates all police-involved shootings.
 
 
 (Source: Sun-Times Media Wire © Chicago Sun-Times 2010. All Rights Reserved. This material may not be published, broadcast, rewritten, or redistributed.)
+=======
+
+
+
+
+
+Charleston shooting
+
+Monday
+
+29
+June
+2015
+
+
+
+
+
+>>>>>>> origin/master
 
 
 
@@ -576,6 +765,15 @@ The IPRA investigates all police-involved shootings.
 
 
 
+<<<<<<< HEAD
+
+
+=======
+South Carolina legislators easing to idea of removing Confederate flag – report
+
+
+A survey of state lawmakers shows there is enough support to remove the flag from statehouse grounds if all supporters cast a vote
+>>>>>>> origin/master
 
 
 
@@ -584,12 +782,16 @@ The IPRA investigates all police-involved shootings.
 
 
 
-
-
+<<<<<<< HEAD
 
 
 View Comments
  
+=======
+South Carolina legislators easing to idea of removing Confederate flag – report
+
+
+>>>>>>> origin/master
 
 
 
@@ -603,17 +805,31 @@ View Comments
 
 
 
+<<<<<<< HEAD
+
+
+=======
+Hundreds honour Charleston church shooting victim Myra Thompson
+
+
+Thompson qualified as a preacher the day of the attack. Governor Nikki Haley: ‘This is a woman who I want to strive to be’
+>>>>>>> origin/master
 
 
 
 
 
-
-
+<<<<<<< HEAD
 Listen Live
 
 
 
+=======
+
+
+
+Hundreds honour Charleston church shooting victim Myra Thompson
+>>>>>>> origin/master
 
 
 
@@ -621,6 +837,7 @@ Listen Live
 
 
 
+<<<<<<< HEAD
  
 
 
@@ -650,12 +867,46 @@ Eight Wounded In Thursday Shootings Across Chicago
 Most recently, two men were shot late Thursday in the West Side Austin neighborhood. The men, ages 19 and 20, were standing outside in the 1500 block of North Linder about 10:25 p.m. when shots were fired in their direction from a group of males standing on the corner across the street, according to Chicago Police.
  
 80
+=======
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Follow 
 CBS Chicago
+=======
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
+
+
+=======
+To replace the Confederate flag with a Pride flag won't fix American racism
+
+Linda Chavers
+
+It disrespects the impact of the Confederate flag’s display on black Americans and misunderstands the oppression still faced by LGBT people
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+To replace the Confederate flag with a Pride flag won't fix American racism
+>>>>>>> origin/master
 
 
 
@@ -665,22 +916,10 @@ CBS Chicago
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 Follow @CBSChicago
+=======
+>>>>>>> origin/master
 
 
 
@@ -690,10 +929,19 @@ Follow @CBSChicago
 
 
 
+<<<<<<< HEAD
 
 
 
 Like us on foursquare
+=======
+White supremacists want a race war. They must not fight America's wars
+
+Matt Kennard
+
+If the US government wants to get serious about taking on white supremacist terrorism it must commit to kicking them out of the military
+
+>>>>>>> origin/master
 
 
 
@@ -701,33 +949,59 @@ Like us on foursquare
 
 
 
+<<<<<<< HEAD
+=======
+White supremacists want a race war. They must not fight America's wars
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+Older
+Newer
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+
+
+
+=======
+Topics
+
+
+
+South Carolina
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+Gun crime
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+Race issues
+>>>>>>> origin/master
 
 
 
 
-
-
-
+<<<<<<< HEAD
 
 
 Follow More Stations and Personalities
@@ -776,23 +1050,55 @@ dodgerman
  cbsloc.al/1LGzANK
  
 24 minutes ago
+=======
+LGBT rights
+
+
+
+
+US military
+
+
+
+More…
+
+
+
+US crime
+
+
+
+
+Ferguson
+
+
+
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 				NOW: Live streaming of CBS2’s newscast. One click and you’re in the loop. Starts now: 
  CBSChicago.com/watch
  
 #LIVE
  
 33 minutes ago
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
  
 
+=======
+
+The Guardian
+>>>>>>> origin/master
 
 
 
@@ -801,6 +1107,10 @@ dodgerman
 
 
 
+<<<<<<< HEAD
+=======
+back to top
+>>>>>>> origin/master
 
 
 
@@ -808,12 +1118,16 @@ dodgerman
 
 
 
+<<<<<<< HEAD
 News Via Email
  
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Download The Free App
  
 
@@ -850,10 +1164,23 @@ Download Our New Weather App!
 
 
 News
+=======
+
+
+
+home
 
 
 
 
+US
+selected
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Local
 
 
@@ -873,10 +1200,29 @@ Weather
 
 
 Traffic
+=======
+world
 
 
 
 
+opinion
+
+
+
+
+sports
+
+
+
+
+soccer
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 Sports
@@ -905,15 +1251,48 @@ Podcasts
 Blogs
 
 
+=======
+tech
 
 
 
 
+arts
+
+
+
+
+lifestyle
+
+
+
+
+fashion
+
+
+
+
+business
+
+
+
+
+travel
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Scores & Stats
+=======
+environment
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 NFL Football
 
 
@@ -925,11 +1304,24 @@ NBA Basketball
 
 NHL Hockey
 
+=======
+science
 
 
 
 
 
+
+
+all sections
+close
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
 Contact Us
 
 
@@ -950,15 +1342,41 @@ Connect
 Mobile
 
 
+=======
+
+
+home
 
 
 
 
+US
+selected
+
+
+
+
+world
+
+
+
+
+UK
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Corporate
+=======
+europe
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 About Us
 
 
@@ -977,19 +1395,46 @@ Mobile
 Connect
 
 
+=======
+americas
 
 
 
 
+asia
 
 
 
 
+middle east
+
+
+
+
+africa
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+australia
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Chicago Business Listings
+=======
+cities
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Restaurants
 
 
@@ -1005,10 +1450,26 @@ Professional Services
 Search Listings
 
 
+=======
+development
 
 
 
 
+
+
+opinion
+
+
+
+
+sports
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 By viewing our video content, you are accepting the terms of our 
@@ -1062,14 +1523,59 @@ WordPress.com VIP
  
 
 
+=======
+soccer
+
+
+
+
+MLS
+
+
+
+
+NFL
+
+
+
+
+MLB
+
+
+
+
+NBA
+
+
+
+
+NHL
 
 
 
 
 
 
+soccer
 
 
+
+
+live scores
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+tables
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Facebook
 
 
@@ -1077,10 +1583,19 @@ Twitter
 
 
 RSS
+=======
+competitions
 
 
 
 
+results
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 Other CBS Local Cities 
@@ -1163,28 +1678,113 @@ CBS Tampa
 CBS Washington
 
 
+=======
+fixtures
+
+
+
+
+clubs
 
 
 
 
 
 
+tech
 
 
+
+
+arts
+
+
+
+
+movies
+
+
+
+
+tv & radio
+
+
+
+
+music
+
+
+
+
+games
+
+
+
+
+books
+
+
+
+
+art & design
+
+
+
+
+stage
+
+
+
+
+classical
+
+
+
+
+
+
+lifestyle
+
+
+
+
+food
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+health & fitness
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 ©2015 CBS Local Media,
  
 a division of CBS Radio Inc.
  
 All rights reserved.
 
+=======
+love & sex
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+family
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -1206,26 +1806,53 @@ Email Alerts
 Daily Deals
 50% Off From ATE Accessories
  
+=======
+women
 
 
 
 
+home & garden
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+fashion
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+business
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+economics
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+sustainable business
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Log In
 Register
  
@@ -1243,47 +1870,84 @@ Twitter
 
 
 Youtube
+=======
+diversity & equality in business
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+small business
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+travel
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+USA
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+europe
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+UK
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+environment
+>>>>>>> origin/master
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 
 
 Listen Live
 
 
+=======
+climate change
 
 
 
 
+wildlife
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 AM/FM Stations
@@ -1309,15 +1973,45 @@ B96
 WBBM NewsRadio
 
 
+=======
+energy
 
 
 
 
+pollution
+
+
+
+
+
+
+science
+
+
+
+
+media
+
+
+
+
+crosswords
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Featured Shows & Multimedia
+=======
+video
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Play.It
 
 
@@ -1350,6 +2044,40 @@ Advertise On Our Streams
 
 
 
+=======
+
+
+
+
+
+
+
+
+
+jobs
+
+subscribe
+all topics
+all contributors
+
+
+report technical issue
+
+
+
+about us
+
+contact us
+
+complaints & corrections
+terms & conditions
+privacy policy
+cookie policy
+securedrop
+
+
+© 2015 Guardian News and Media Limited or its affiliated companies. All rights reserved.
+>>>>>>> origin/master
 
 
 
@@ -1369,6 +2097,7 @@ Advertise On Our Streams
 
  
 
+<<<<<<< HEAD
 
 
 
@@ -1406,3 +2135,5 @@ Advertise On Our Streams
 
 
 
+=======
+>>>>>>> origin/master

@@ -1,7 +1,22 @@
+<<<<<<< HEAD
 9 dead in mass shooting at Charleston, South Carolina church, police say | Q13 FOX News 
 
 
 9 dead in mass shooting at Charleston, South Carolina church, police say | Q13 FOX News
+=======
+DOJ launches hate crime investigation into Charleston church shooting | FOX2now.com 
+DOJ launches hate crime investigation into Charleston church shooting | FOX2now.com
+
+
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+GoSearch
+>>>>>>> origin/master
 
 
 
@@ -9,10 +24,7 @@
 
 
 
-
-
-
-
+<<<<<<< HEAD
 
 
 
@@ -1043,15 +1055,39 @@ Q13 FOX News at 11
 
 Popular
 
+=======
+ Replay: FOX 2 News 
+
+FOX 2 TV Schedule 
+
+
+ Search
+ Contact Us
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 
 Violent convicted rapist allowed to attend funeral, doesn’t return
 
+=======
+FOX2now.com
+
+ Menu
+
+News
+Links
+AM Show
+Sports
+Traffic
+Contests
+STLMoms
+Events
+>>>>>>> origin/master
 
 
 
@@ -1059,8 +1095,14 @@ Violent convicted rapist allowed to attend funeral, doesn’t return
 
 
 
+<<<<<<< HEAD
 Josh Duggar checks into rehab amid new cheating scandal
 
+=======
+Weather 
+
+82°
+>>>>>>> origin/master
 
 
 
@@ -1068,14 +1110,23 @@ Josh Duggar checks into rehab amid new cheating scandal
 
 
 
+<<<<<<< HEAD
 Reporter, photographer killed by shooter on-air during live news interview
 
 
+=======
+82°
+
+
+Low 76°
+High 95°
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 
 Iowa teachers sing ‘One Day More’ before students return to school — and it’s awesome
 
@@ -1090,6 +1141,32 @@ Iowa teachers sing ‘One Day More’ before students return to school — and i
 
 
 
+=======
+Mon
+
+
+					76°  96°
+					
+
+
+Tue
+
+
+					77°  93°
+					
+
+
+Wed
+
+
+					75°  90°
+					
+
+
+See complete forecast
+
+ Severe weather alert
+>>>>>>> origin/master
 
 
 
@@ -1101,6 +1178,7 @@ Iowa teachers sing ‘One Day More’ before students return to school — and i
 
 
 
+<<<<<<< HEAD
 Latest News
 
 
@@ -1146,6 +1224,8 @@ Calif. man bitten while taking selfie with rattlesnake
 
 
 
+=======
+>>>>>>> origin/master
 
 
 
@@ -1158,12 +1238,21 @@ Calif. man bitten while taking selfie with rattlesnake
 
 
 
+<<<<<<< HEAD
+
+
+=======
+DOJ launches hate crime investigation into Charleston church shooting
+
+Posted 7:51 am, June 18, 2015, by CNN Wires 
+
+FacebookTwitterRedditPinterestLinkedInEmail 
+>>>>>>> origin/master
 
 
 
 
-
-
+<<<<<<< HEAD
 
 
 
@@ -1178,22 +1267,64 @@ Calif. man bitten while taking selfie with rattlesnake
 
 
 National & World News
+=======
+ 
+The Emanuel African Methodist Episcopal Church is the oldest AME church in the South. Nine people died in a hate crime shooting on June 17, 2015. 
+
+
+×
+DOJ launches hate crime investigation into Charleston church shooting
+
+
+ The Emanuel African Methodist Episcopal Church is the oldest AME church in the South. Nine people died in a hate crime shooting on June 17, 2015.
+
+
+CHARLESTON, SC — The Department of Justice is opening a hate crime investigation into the shooting that took place at Emanuel AME Church in Charleston, South Carolina, a DOJ spokesperson said Thursday.
+The investigation will run parallel to the state investigation and will coordinate with the FBI.
+
+
+Charleston gunman told survivor he was letting her live so she could tell people what happened, NAACP official says. http://t.co/4Z8oXzQP3K
+— CNN Breaking News (@cnnbrk) June 18, 2015
+
+*****
+The Charleston County Coroner’s Office identified all nine victims of shooting. We have posted them below.
+Cynthia Hurd, 54
+Suzy Jackson, 87
+Ethel Lance, 70
+Rev. Depayne Middleton-Doctor, 49
+Hon. Rev. Clementa Pinckney, 41
+Tywanza Sanders, 26
+Rev. Daniel Simmons Sr., 74
+Rev. Sharonda Singleton, 45
+Myra Thompson, 59
+
+32.776475
+-79.931051
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 9 dead in black church shooting that police call a hate crime; shooter at large
+=======
+Filed in: News 
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 National & World News
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Dylann Storm Roof, suspect in church shooting, arrested in North Carolina
 
 
@@ -1207,12 +1338,28 @@ National & World News
 
 
 9 killed in what officials call a hate crime at historic church; shooter at large
+=======
+
+
+
+ 
 
 
 
 
 
 
+Events Calendar
+See what’s happening  in your neighborhood.
+
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
 National & World News
 
 
@@ -1232,6 +1379,30 @@ National & World News
 
 Dylann Storm Roof: Police name suspect in Charleston church shooting
 
+=======
+ 
+
+ 
+
+
+Popular
+
+
+
+Teen suspect shot three times by St. Louis police officer
+
+
+
+Michael Brown exhibit opened in Chicago
+
+
+
+Child abuse charges re-filed after disturbing photos go viral on Facebook
+
+
+
+Driver hits 4 women in dramatic East St. Louis hit-and-run caught on video
+>>>>>>> origin/master
 
 
 
@@ -1242,6 +1413,7 @@ Dylann Storm Roof: Police name suspect in Charleston church shooting
  
 
 
+<<<<<<< HEAD
 
 
 
@@ -1271,22 +1443,50 @@ Details emerge about Charleston church shooting suspect Dylan Storm Roof
 
 
 National & World News
+=======
+Latest News
+
+
+
+PICTURES: Slide the City St Louis 2015 part2
+
+
+
+PICTURES: Slide the City St Louis 2015 part1
+
+
+
+Contestants cry foul, attendees go hungry at Budweiser burger fest
+
+
+
+Jefferson County resident apply for disaster assistance from recent flooding and storms
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Dylann Roof allegedly confesses to killing 9 people in Charleston church, wanting to start ‘race war’
+=======
+ 
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 National & World News
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Dylann Roof and Michael Slager are jail neighbors, police confirm
 
 
@@ -1305,12 +1505,40 @@ Lightning may have caused South Carolina church fire, FBI says
 
 
 
+=======
+
+
+News
+
+Woman says Charleston shooter spared her to ‘tell everyone’ what happened
+
+
+News
+
+St. Louis faith leaders gather to mourn victims of Charleston shooting
+
+
+News
+
+Charleston shooting suspect charged with 9 counts of murder
+
+
+News
+
+Charleston church shooting: 9 killed in what officials call a hate crime
+
+
+News
+
+﻿Worshippers return to Charleston’s Emanuel AME on Sunday
+>>>>>>> origin/master
 
 
 
  
 
 
+<<<<<<< HEAD
 
 
 
@@ -1356,12 +1584,38 @@ Victims’ families confront accused church shooter: ‘May God have mercy on y
 
 
 
+=======
+News
+
+Dylann Storm Roof arrested in North Carolina, according to report
+
+
+News
+
+Charleston church shooting: Suspect confesses, says he sought race war
+
+
+News
+
+Shooting suspect in custody after Charleston church massacre
+
+
+News
+
+South Carolina church fire: Mt. Zion AME burns in Greeleyville
+
+
+News
+
+Who is the Charleston church shooting suspect?
+>>>>>>> origin/master
 
 
 
  
 
 
+<<<<<<< HEAD
 
 
 
@@ -1384,16 +1638,46 @@ Weather App (iOS)
 
 Weather App (Android)
 
+=======
+News
+
+Who is the Charleston church shooting suspect?
+
+
+Trending
+
+Shooting reported at Emanuel African Methodist Episcopal Church in downtown Charleston
+
+
+News
+
+Charleston: Forgiveness and frustration after first church service since massacre
 
 
 
 
 
+
+ 
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
+=======
+Mobile AppsAndroid App
+Android Weather App
+iPhone & iPad App
+iPhone Weather App
+>>>>>>> origin/master
 
 
 
 
 Facebook
+<<<<<<< HEAD
 
 
 Twitter
@@ -1405,6 +1689,10 @@ Instagram
 Pinterest
 
 
+=======
+Twitter
+Email Alerts
+>>>>>>> origin/master
 About & Contact
 
 
@@ -1413,6 +1701,7 @@ About & Contact
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -1446,14 +1735,24 @@ WordPress.com VIP
 
 
 
+=======
+Online Public File • 				Terms of Service •
+		Privacy Policy  •
+		2250 Ball Drive St. Louis MO 63146  •
+		Copyright © 2015, KTVI		 • A Tribune Broadcasting Station •
+		Powered by WordPress.com VIP 
+>>>>>>> origin/master
 
 
 
 
 
 ×
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> origin/master
 Email Alerts
 
 
@@ -1492,6 +1791,7 @@ Email Alerts
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -1559,6 +1859,12 @@ Your Name
 
 
 
+=======
+Send to Email Address
+
+Your Name
+
+>>>>>>> origin/master
 Your Email Address
 
 
@@ -1566,6 +1872,7 @@ Your Email Address
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -1586,6 +1893,14 @@ Cancel
 
 
 
+=======
+Cancel
+
+				Post was not sent - check your email addresses!			
+
+				Email check failed, please try again			
+
+>>>>>>> origin/master
 				Sorry, your blog cannot share posts by email.			
 
 
@@ -1603,6 +1918,7 @@ Cancel
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -1626,3 +1942,5 @@ Cancel
 
 
 
+=======
+>>>>>>> origin/master

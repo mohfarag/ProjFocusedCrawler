@@ -1,9 +1,28 @@
+<<<<<<< HEAD
 Nine Killed at Historic Emanuel Church in Charleston, South Carolina - NBC News
 
 Nine Killed at Historic Emanuel Church in Charleston, South Carolina - NBC News
 
 
 
+=======
+
+	Florida Today
+
+
+	Florida Today
+
+
+
+Already a subscriber, but don't have a login?Activate your digital accessChoose the subscription that’s best for you.
+Digital OnlyConnect with Floridatoday.com and get the in-depth coverage that only we can deliver.
+Get 24/7 access to FloridaToday.com, all tablet and smartphone apps, the e-Newspaper edition and a 30-day article archive.
+Now only $29/yr 
+(for the first year*)
+ A $115 Savings off the Full Rate.
+Subscribe NowFull Access including Home Delivery of the Print Edition
+Interested in Home Delivery? All subscription options include 24/7 access to floridatoday.com, all tablet and smartphone apps, the e-Newspaper edition and a 30-day article archive.
+>>>>>>> origin/master
 
 
 
@@ -11,30 +30,62 @@ Nine Killed at Historic Emanuel Church in Charleston, South Carolina - NBC News
 
 
 
+<<<<<<< HEAD
+=======
+Sunday Only
+See details
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
+
+=======
+$0.99/wk (billled at $4.30 monthly)For the first 3 months*
+then just $14/month
+
+Sunday Only
+See details
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
+
+
+
+=======
+$0.99/wk (billled at $4.30 monthly)For the first 3 months*
+then just $14/month
+
+
+
+Sunday & Wednesday
+See details
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
+
+=======
+$1.99/wk (billed at $8.62 monthly)For the first 3 months*
+then just $14/month
+
+Sunday & Wednesday
+See details
+>>>>>>> origin/master
 
 
 
 
-
-
-
-
-
+<<<<<<< HEAD
 Watch Live: Scott Walker Delivers Foreign Policy Speech
 
 
@@ -48,6 +99,56 @@ Get Alerts
 
 
 
+=======
+
+$1.99/wk (billed at $8.62 monthly)For the first 3 months*
+then just $14/month
+
+
+
+Monday - Sunday
+See details
+
+
+
+
+
+$2.99/wk (billed at $12.65 monthly)For the first 3 months*
+then just $25.50/month
+
+Monday - Sunday
+See details
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
+=======
+$2.99/wk (billed at $12.65 monthly)For the first 3 months*
+then just $25.50/month
+>>>>>>> origin/master
+
+
+
+
+
+
+
+<<<<<<< HEAD
+
+
+
+=======
+Get Started
+
+
+
+*Regular annual rate will be charged after the promotional period ends.   Offer available to new customers only.
+**Regular monthly rate will be charged after the promotional period ends.   Offer available to new customers only.  
+Need help or have a question about your account? Email customer service at floridatoday@gannett.com or call 1-877-424-0156
+>>>>>>> origin/master
 
 
 
@@ -61,22 +162,10 @@ Get Alerts
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 NBC News
+=======
+>>>>>>> origin/master
 
 
 
@@ -91,6 +180,7 @@ NBC News
 
 
 
+<<<<<<< HEAD
 Home
 
 
@@ -98,6 +188,12 @@ Top Videos
 
 
 More 
+=======
+
+
+
+
+>>>>>>> origin/master
 
 
 
@@ -108,6 +204,7 @@ More
 
 
 
+<<<<<<< HEAD
 Ongoing:
 
 
@@ -1483,11 +1580,14 @@ New
 
 
 
+=======
+>>>>>>> origin/master
 
 
 Terms of Service
 
 
+<<<<<<< HEAD
 
 
 
@@ -1632,6 +1732,12 @@ AdChoices
 
 
 
+=======
+Privacy Notice / Your California Privacy Rights
+
+
+Ad Choices
+>>>>>>> origin/master
 
 
 

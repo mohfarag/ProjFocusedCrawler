@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Dylann Roof: the cold stare of a killer with a history of drug abuse and racism | US news | The Guardian
 
 
@@ -20,6 +21,11 @@ Dylann Roof: the cold stare of a killer with a history of drug abuse and racism 
 
 
 
+=======
+Charleston shooting | US news | The Guardian
+
+Charleston shooting | US news | The Guardian
+>>>>>>> origin/master
 
 
 
@@ -44,6 +50,7 @@ Close
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -59,6 +66,10 @@ Skip to main content
 
 
 
+=======
+Skip to main content
+
+>>>>>>> origin/master
  
 
 
@@ -71,26 +82,42 @@ Skip to main content
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
+=======
 sign in
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+subscribe
+>>>>>>> origin/master
+
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+search
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+sign in
+=======
+jobs
+>>>>>>> origin/master
 
 
 
@@ -101,6 +128,7 @@ sign in
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -116,70 +144,14 @@ subscribe
 
 
 
-
-
-
-
-
-
-
-
-
-
-search
-
-
-
-
-
-
-
-
-
-
-jobs
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+=======
 more
-
-
-
-
 
 
 from the guardian:
 
 
-
-
-
-
 jobs
-
-
-
-
-
 
 
 
@@ -187,18 +159,157 @@ change edition:
 
 
 
+switch to the  UK  edition
 
+
+switch to the  AU  edition
+
+
+switch to the 
+INT
+beta
+ edition
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+
+
+search
+
+
+=======
+US edition
 
 
 
 
 switch to the 
+UK edition
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+switch to the 
+Australia edition
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+jobs
+=======
+switch to the 
+International
+beta
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+The Guardian
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+more
+=======
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+
+
+from the guardian:
+=======
+home
+
+
+›
+US
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
+jobs
+=======
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+home
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+change edition:
+=======
+US
+selected
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+world
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+switch to the 
  UK 
  edition
+=======
+opinion
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 switch to the 
@@ -206,10 +317,19 @@ switch to the
  edition
 
 
+=======
+sports
 
 
 
 
+soccer
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 switch to the 
 
 
@@ -222,35 +342,76 @@ beta
  edition
 
 
+=======
+tech
 
 
 
 
+arts
 
 
 
 
+lifestyle
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+fashion
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+business
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
 US edition
 
+=======
+travel
 
 
 
 
+environment
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+science
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 switch to the 
 
 
 UK edition
+=======
+
+
+browse all sections
+close
+>>>>>>> origin/master
 
 
 
@@ -259,17 +420,26 @@ UK edition
 
 
 
+<<<<<<< HEAD
 
 
 switch to the 
 
 
 Australia edition
+=======
+ 
+
+
+
+
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -282,6 +452,22 @@ International
 
 
 beta
+=======
+Charleston shooting
+
+Friday
+
+3
+July
+2015
+
+
+
+
+
+
+
+>>>>>>> origin/master
 
 
 
@@ -297,60 +483,122 @@ beta
 
 
 
+<<<<<<< HEAD
+
+
+=======
+A view from the south: let the Confederate flag go
+
+Barbara Kingsolver
+
+The Confederate emblem was about pride as well as hatred, but racists have twisted its meaning
+>>>>>>> origin/master
 
 
 
 
 
-
-
+<<<<<<< HEAD
 The Guardian
 
 
 
+=======
+
+
+
+A view from the south: let the Confederate flag go
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+Older
+Newer
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+
+
+
+=======
+Topics
+
+
+
+American civil war
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+US crime
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+Gun crime
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+Race issues
+>>>>>>> origin/master
 
 
 
 
-
-
-
+<<<<<<< HEAD
 home
+=======
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 ›
 
 
 US
 
+=======
+
+
+
+The Guardian
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+back to top
+>>>>>>> origin/master
 
 
 
@@ -360,135 +608,173 @@ US
 
 
 
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 home
+=======
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
+=======
+home
+>>>>>>> origin/master
 
 
 
 
 US
+<<<<<<< HEAD
 
+=======
+>>>>>>> origin/master
 selected
 
 
 
 
+<<<<<<< HEAD
 
 
 
 
 
+=======
+>>>>>>> origin/master
 world
 
 
 
 
+<<<<<<< HEAD
 
 
 
 
+=======
+>>>>>>> origin/master
 opinion
 
 
 
 
+<<<<<<< HEAD
 
 
 
 
+=======
+>>>>>>> origin/master
 sports
 
 
 
 
+<<<<<<< HEAD
 
 
 
 
+=======
+>>>>>>> origin/master
 soccer
 
 
 
 
+<<<<<<< HEAD
 
 
 
 
+=======
+>>>>>>> origin/master
 tech
 
 
 
 
+<<<<<<< HEAD
 
 
 
 
+=======
+>>>>>>> origin/master
 arts
 
 
 
 
+<<<<<<< HEAD
 
 
 
 
+=======
+>>>>>>> origin/master
 lifestyle
 
 
 
 
+<<<<<<< HEAD
 
 
 
 
+=======
+>>>>>>> origin/master
 fashion
 
 
 
 
+<<<<<<< HEAD
 
 
 
 
+=======
+>>>>>>> origin/master
 business
 
 
 
 
+<<<<<<< HEAD
 
 
 
 
+=======
+>>>>>>> origin/master
 travel
 
 
 
 
+<<<<<<< HEAD
 
 
 
 
+=======
+>>>>>>> origin/master
 environment
 
 
 
 
+<<<<<<< HEAD
 
 
 
 
+=======
+>>>>>>> origin/master
 science
 
 
@@ -497,6 +783,7 @@ science
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -508,6 +795,9 @@ all
  sections
 
 
+=======
+all sections
+>>>>>>> origin/master
 close
 
 
@@ -516,42 +806,80 @@ close
 
 
 
+<<<<<<< HEAD
+=======
+home
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+US
+selected
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+world
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+UK
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+europe
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+americas
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+asia
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+middle east
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+africa
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -566,97 +894,186 @@ Charleston shooting
 Dylann Roof: the cold stare of a killer with a history of drug abuse and racism
 
 
+=======
+australia
+
+
+
+
+cities
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+development
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+opinion
+>>>>>>> origin/master
 
 
 
 
-
-
-
-
+<<<<<<< HEAD
 
 
 
 A picture has emerged of the 21-year-old man captured after allegedly killing nine black churchgoers: withdrawn to the woods – and potentially racist
 
+=======
+sports
+
+
+
+
+soccer
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+MLS
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+NFL
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+MLB
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+NBA
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+NHL
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+soccer
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+live scores
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+tables
+>>>>>>> origin/master
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 
 
 Dylann Storm Roof being escorted from the Shelby police department.
 Photograph: Chuck Burton/AP
 
 
+=======
+competitions
 
 
 
 
+results
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
 Jessica Glenza
 
+=======
+fixtures
+
+
+
+
+clubs
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+tech
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 @JessicaGlenza
 
 
 
+=======
+arts
 
 
 
 
+movies
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 Thursday 18 June 2015 
@@ -669,125 +1086,283 @@ Thursday 18 June 2015
 Last modified on Saturday 20 June 2015 
 12.23 EDT
 
+=======
+tv & radio
 
 
 
 
+music
 
 
 
 
+games
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+books
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+art & design
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
 Share on Facebook
 
+=======
+stage
+
+
+
+
+classical
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+lifestyle
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+food
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 Share on Twitter
 
 
 
+=======
+health & fitness
 
 
 
 
+love & sex
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+family
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+women
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 Share via Email
+=======
+home & garden
+
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
+=======
+fashion
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+business
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 
 Share on Pinterest
 
+=======
+economics
+
+
+
+
+sustainable business
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+diversity & equality in business
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+small business
+>>>>>>> origin/master
 
 
 
 
 
 
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 
 Share on LinkedIn
 
 
 
+=======
+travel
+
+
+
+
+USA
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+europe
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+UK
+>>>>>>> origin/master
 
 
 
 
 
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 Share on Google+
 
+=======
+
+environment
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+climate change
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+wildlife
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 
 Share on WhatsApp
 
+=======
+energy
+
+
+
+
+pollution
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+science
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+media
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+crosswords
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+video
+>>>>>>> origin/master
 
 
 
@@ -801,24 +1376,7 @@ Share on WhatsApp
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 
 
 
@@ -2345,6 +2903,31 @@ securedrop
 
 
 
+=======
+jobs
+
+subscribe
+all topics
+all contributors
+
+
+report technical issue
+
+
+
+about us
+
+contact us
+
+complaints & corrections
+terms & conditions
+privacy policy
+cookie policy
+securedrop
+
+
+© 2015 Guardian News and Media Limited or its affiliated companies. All rights reserved.
+>>>>>>> origin/master
 
 
 
@@ -2364,5 +2947,8 @@ securedrop
 
  
 
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> origin/master

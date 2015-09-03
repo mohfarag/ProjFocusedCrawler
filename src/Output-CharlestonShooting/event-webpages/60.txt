@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Affidavits: Church shooting suspect's father, uncle identified s - Live5News.com | Charleston, SC | News, Weather, SportsAffidavits: Church shooting suspect's father, uncle identified s - Live5News.com | Charleston, SC | News, Weather, Sports
 Affidavits: Church shooting suspect's father, uncle identified s - Live5News.com | Charleston, SC | News, Weather, Sports
 Member Center:
@@ -402,10 +403,55 @@ More >>
 The NAACP has released a statement citing their "outrage" over Wednesday night's shooting at Emanuel AME Church in downtown Charleston that left nine people dead. 
 More >>
 
+=======
+south carolina church shooting | fox13now.com 
+south carolina church shooting | fox13now.com
 
 
 
 
+
+
+GoSearch
+
+
+
+
+
+
+
+ Watch Now: Sports Page 
+
+Fox 13 TV Schedule 
+
+
+ Search
+ Contact Us
+
+
+
+
+
+
+fox13now.com
+
+ Menu
+
+News
+On-Air
+Good Day Utah
+The Place
+Traffic
+Contests
+Contact
+Cars
+Events
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 CHARLESTON, SC (WCSC) -
             
@@ -482,6 +528,11 @@ Officials located the Charleston church shooting suspect, 21-year-old Dylann Roo
 More >>
 Officials located the Charleston church shooting suspect, 21-year-old Dylann Roof, in Shelby Thursday morning.
 More >>
+=======
+Weather 
+
+81°
+>>>>>>> origin/master
 
 
 
@@ -489,13 +540,22 @@ More >>
 
 
 
+<<<<<<< HEAD
+
+
+=======
+81°
+
+
+Low 68°
+High 90°
+>>>>>>> origin/master
 
 
 
 
 
-
-
+<<<<<<< HEAD
 
 
 
@@ -570,6 +630,38 @@ More >>
  
 
 
+=======
+Mon
+
+
+					67°  91°
+					
+
+
+Tue
+
+
+					66°  90°
+					
+
+
+Wed
+
+
+					66°  87°
+					
+
+
+See complete forecast
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+ 
+>>>>>>> origin/master
 
 
 
@@ -583,10 +675,7 @@ More >>
 
 
 
-
-
-
-
+<<<<<<< HEAD
 
 
 
@@ -597,25 +686,57 @@ More >>
 
 
 Can't Find Something? 
+=======
+ 
+
+
+
+						south carolina church shooting					
+
+
+
+News
+
+Local faith leaders express grief, disappointment over fatal South Carolina church shooting
+
+
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
+=======
+Mobile AppsAndroid App
+Android Weatherwatch App
+iPhone & iPad App
+iPhone Weatherwatch App
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 2126 Charlie Hall Boulevard
 Charleston SC 29407
 
 
 (843) 402-5555
+=======
+Facebook
+Twitter
+About & Contact
+
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 FCC Public File
@@ -631,6 +752,25 @@ EEO Report
 
 
 Closed Captioning
+=======
+Online Public File • 				Terms of Service •
+		Privacy Policy  •
+		5020 Amelia Earhart Drive, Salt Lake City, UT 84116  •
+		Copyright © 2015, KSTU		 • A Tribune Broadcasting Station •
+		Powered by WordPress.com VIP 
+
+
+
+
+
+×
+Email Alerts
+
+
+
+
+
+>>>>>>> origin/master
 
 
 
@@ -653,12 +793,24 @@ Closed Captioning
 
 
 
+<<<<<<< HEAD
 Texas News Now
 
 
 
 
 
+=======
+
+
+Follow
+
+Follow “fox13now.com”
+
+Get every new post delivered to your Inbox.
+
+Join 3,102 other followers
+>>>>>>> origin/master
 
 
 
@@ -666,6 +818,7 @@ Texas News Now
 
 
 
+<<<<<<< HEAD
 
 				All content © Copyright 2000 - 2015 WorldNow and WCSC. All Rights Reserved. For more information on this site, please read our 
 Privacy Policy
@@ -674,6 +827,10 @@ Terms of Service
 .
         	
 
+=======
+
+Build a website with WordPress.com
+>>>>>>> origin/master
 
 
 

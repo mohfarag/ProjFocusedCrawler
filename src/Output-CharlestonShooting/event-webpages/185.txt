@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 Police-Involved Shooting « CBS Chicago
 
 Police-Involved Shooting « CBS Chicago
+=======
+Charleston shooting | US news | The Guardian
+
+Charleston shooting | US news | The Guardian
+>>>>>>> origin/master
 
 
 
@@ -16,14 +22,22 @@ Police-Involved Shooting « CBS Chicago
 
 
 
+<<<<<<< HEAD
 
 
 
 Chicago
+=======
+Close
+
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Radio.com
 
 
@@ -262,6 +276,10 @@ Autos
 
 
 
+=======
+
+Skip to main content
+>>>>>>> origin/master
 
  
 
@@ -270,6 +288,7 @@ Autos
 
 
 
+<<<<<<< HEAD
 Police-Involved Shooting
 
 
@@ -359,6 +378,14 @@ The shooting occurred just after 6 p.m. in the 2500 block of West 50th Street.
 04/07/2014
 
 
+=======
+
+
+
+
+
+sign in
+>>>>>>> origin/master
 
 
 
@@ -367,10 +394,15 @@ The shooting occurred just after 6 p.m. in the 2500 block of West 50th Street.
 
 
 
+<<<<<<< HEAD
+=======
+subscribe
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Cops Fatally Shoot Teen Who Allegedly Pointed Gun At Them
 
 
@@ -381,6 +413,17 @@ Chicago Police fatally shot a 19-year-old man after he pointed a gun at them, ac
 
 
 
+=======
+
+
+
+search
+
+
+
+
+jobs
+>>>>>>> origin/master
 
 
 
@@ -391,6 +434,7 @@ Chicago Police fatally shot a 19-year-old man after he pointed a gun at them, ac
 
 
 
+<<<<<<< HEAD
 
 Off-Duty Officer Shoots Home Invasion Suspect
 
@@ -590,6 +634,31 @@ About 10:30 a.m., the man entered the Walgreens in the 5200 block of North Milwa
 02/03/2014
 
 
+=======
+more
+
+
+from the guardian:
+
+
+jobs
+
+
+
+change edition:
+
+
+
+switch to the  UK  edition
+
+
+switch to the  AU  edition
+
+
+switch to the 
+INT
+beta
+ edition
 
 
 
@@ -598,10 +667,31 @@ About 10:30 a.m., the man entered the Walgreens in the 5200 block of North Milwa
 
 
 
+US edition
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+switch to the 
+UK edition
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+switch to the 
+Australia edition
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Two Men Charged In New Year’s Day Police-Involved Shooting
 
 
@@ -609,6 +699,25 @@ Two men have been charged in connection with a New Year’s Day shooting in whic
 
 
 01/05/2014
+=======
+switch to the 
+International
+beta
+
+
+
+
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+The Guardian
+>>>>>>> origin/master
 
 
 
@@ -617,12 +726,7 @@ Two men have been charged in connection with a New Year’s Day shooting in whic
 
 
 
-
-
-
-
-
-
+<<<<<<< HEAD
 Man Charged With Pointing Gun At Cops On New Year’s
 
 
@@ -630,6 +734,26 @@ A man shot by a Chicago Police officer after allegedly raising a gun toward offi
 
 
 01/02/2014
+=======
+
+
+
+
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+
+
+=======
+home
+
+
+›
+US
+>>>>>>> origin/master
 
 
 
@@ -638,12 +762,7 @@ A man shot by a Chicago Police officer after allegedly raising a gun toward offi
 
 
 
-
-
-
-
-
-
+<<<<<<< HEAD
 Three In Critical Condition After Police-Involved Shooting
 
 
@@ -653,18 +772,38 @@ Three In Critical Condition After Police-Involved Shooting
 01/01/2014
 
 
+=======
+
+
+home
 
 
 
 
+US
+selected
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+world
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+opinion
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 2 Teens Shot By Police In Roseland
 
 
@@ -672,18 +811,35 @@ Two teenage boys were shot Sunday evening in the Roseland neighborhood when Chic
 
 
 12/22/2013
+=======
+sports
 
 
 
 
+soccer
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+tech
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+arts
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 Suspect Killed By Evanston Cops Suspected Of Another Bank Heist
@@ -695,35 +851,68 @@ A suspected bank robber shot and killed by police outside a north suburban baker
 12/17/2013
 
 
+=======
+lifestyle
 
 
 
 
+fashion
 
 
 
 
+business
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+travel
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 more
  
+=======
+environment
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 previous
  
+=======
+science
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 
 
 Listen Live
+=======
+browse all sections
+close
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
  
 
 
@@ -788,6 +977,11 @@ Follow @CBSChicago
 
 
 
+=======
+
+
+ 
+>>>>>>> origin/master
 
 
 
@@ -796,10 +990,21 @@ Follow @CBSChicago
 
 
 
+<<<<<<< HEAD
 Like us on foursquare
 
 
 
+=======
+
+Charleston shooting
+
+Sunday
+
+5
+July
+2015
+>>>>>>> origin/master
 
 
 
@@ -819,6 +1024,15 @@ Like us on foursquare
 
 
 
+<<<<<<< HEAD
+
+
+=======
+Defiant Nascar fans pledge allegiance to their Confederate flags
+
+
+Dozens of the civil war-era flags were scattered throughout the vast infield in Daytona despite the series urging fans to no longer wave the banner
+>>>>>>> origin/master
 
 
 
@@ -827,19 +1041,25 @@ Like us on foursquare
 
 
 
+<<<<<<< HEAD
+=======
+Defiant Nascar fans pledge allegiance to their Confederate flags
+>>>>>>> origin/master
 
 
 
 
-
-
+<<<<<<< HEAD
 Follow More Stations and Personalities
+=======
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
  
 Contests & Promotions
 Blue Collar Bears Fan Of The Week
@@ -890,25 +1110,50 @@ dodgerman
 #LIVE
  
 32 minutes ago
+=======
 
 
 
 
+
+Nikki Haley: 'I could not look my kids in the face and justify that flag'
+
+
+South Carolina governor reflects on call for Confederate flag’s removal, saying Charleston shooting victims are ‘forever ingrained in my soul’
+
+
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
  
 
 
+=======
+
+
+Nikki Haley: 'I could not look my kids in the face and justify that flag'
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+Older
+Newer
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 News Via Email
  
 
@@ -932,15 +1177,46 @@ Download Our New Weather App!
 
 
 
+=======
+Topics
+
+
+
+South Carolina
 
 
 
 
+Motor sport
+
+
+
+
+Nascar
+
+
+
+
+American civil war
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
  
 
+=======
+Florida
+
+
+
+
+Race issues
+>>>>>>> origin/master
 
 
 
@@ -950,11 +1226,15 @@ Download Our New Weather App!
 
 
 
+<<<<<<< HEAD
 News
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Local
 
 
@@ -974,17 +1254,37 @@ Weather
 
 
 Traffic
+=======
+The Guardian
 
 
 
 
 
 
+
+
+back to top
+
+
+
+
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
 Sports
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Bears
 
 
@@ -1004,10 +1304,30 @@ Podcasts
 
 
 Blogs
+=======
+home
 
 
 
 
+US
+selected
+
+
+
+
+world
+
+
+
+
+opinion
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 Scores & Stats
@@ -1025,10 +1345,29 @@ NBA Basketball
 
 
 NHL Hockey
+=======
+sports
 
 
 
 
+soccer
+
+
+
+
+tech
+
+
+
+
+arts
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 Contact Us
@@ -1051,15 +1390,43 @@ Connect
 Mobile
 
 
+=======
+lifestyle
 
 
 
 
+fashion
+
+
+
+
+business
+
+
+
+
+travel
+
+
+
+
+environment
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Corporate
+=======
+science
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 About Us
 
 
@@ -1076,6 +1443,12 @@ Mobile
 
 
 Connect
+=======
+
+
+
+all sections
+close
 
 
 
@@ -1083,7 +1456,22 @@ Connect
 
 
 
+home
+>>>>>>> origin/master
 
+
+
+
+<<<<<<< HEAD
+=======
+US
+selected
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 Chicago Business Listings
@@ -1106,10 +1494,34 @@ Professional Services
 Search Listings
 
 
+=======
+world
 
 
 
 
+UK
+
+
+
+
+europe
+
+
+
+
+americas
+
+
+
+
+asia
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 By viewing our video content, you are accepting the terms of our 
@@ -1163,14 +1575,64 @@ WordPress.com VIP
  
 
 
+=======
+middle east
+
+
+
+
+africa
+
+
+
+
+australia
+
+
+
+
+cities
+
+
+
+
+development
 
 
 
 
 
 
+opinion
 
 
+
+
+sports
+
+
+
+
+soccer
+
+
+
+
+MLS
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+NFL
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Facebook
 
 
@@ -1178,17 +1640,32 @@ Twitter
 
 
 RSS
+=======
+MLB
 
 
 
 
+NBA
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 Other CBS Local Cities 
+=======
+NHL
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 CBS Atlanta
 
 
@@ -1264,31 +1741,113 @@ CBS Tampa
 CBS Washington
 
 
+=======
+soccer
+
+
+
+
+live scores
+
+
+
+
+tables
+
+
+
+
+competitions
+
+
+
+
+results
+
+
+
+
+fixtures
+
+
+
+
+clubs
 
 
 
 
 
 
+tech
 
 
+
+
+arts
+
+
+
+
+movies
+
+
+
+
+tv & radio
+
+
+
+
+music
+
+
+
+
+games
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+books
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 ©2015 CBS Local Media,
  
 a division of CBS Radio Inc.
  
 All rights reserved.
+=======
+art & design
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+stage
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+classical
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Buy Tickets
 Order Food
  
@@ -1309,22 +1868,45 @@ Daily Deals
  
 
 
+=======
+
+
+lifestyle
 
 
 
 
+food
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+health & fitness
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+love & sex
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+family
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 Log In
@@ -1346,48 +1928,102 @@ Twitter
 Youtube
 
 
+=======
+women
+
+
+
+
+home & garden
 
 
 
 
 
 
+fashion
 
 
+
+
+business
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+economics
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
  
 
 
+=======
+sustainable business
+
+
+
+
+diversity & equality in business
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+small business
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+travel
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+USA
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+europe
+>>>>>>> origin/master
 
 
 
 
-
-
-
-
+<<<<<<< HEAD
 Listen Live
+=======
+UK
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 
 
 AM/FM Stations
@@ -1411,17 +2047,45 @@ B96
 
 
 WBBM NewsRadio
+=======
+environment
+
+
+
+
+climate change
+
+
+
+
+wildlife
+
+
+
+
+energy
+
+
+
+
+pollution
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 Featured Shows & Multimedia
+=======
+science
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Play.It
 
 
@@ -1434,13 +2098,72 @@ CBS Sports Radio
 Radio.com
 
 
+=======
+media
+
+
+
+
+crosswords
+
+
+
+
+video
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 Advertise On Our Streams
+=======
+>>>>>>> origin/master
+
+
+
+
+
+
+
+<<<<<<< HEAD
+
+
+
+
+
+
+
+
+
+
+=======
+jobs
+
+subscribe
+all topics
+all contributors
+
+
+report technical issue
+
+
+
+about us
+
+contact us
+
+complaints & corrections
+terms & conditions
+privacy policy
+cookie policy
+securedrop
+
+
+© 2015 Guardian News and Media Limited or its affiliated companies. All rights reserved.
+>>>>>>> origin/master
 
 
 
@@ -1454,30 +2177,17 @@ Advertise On Our Streams
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
+ 
+=======
+>>>>>>> origin/master
 
 
 
 
  
 
-
-
-
- 
-
+<<<<<<< HEAD
 
 
 
@@ -1510,3 +2220,5 @@ Advertise On Our Streams
 
 
 
+=======
+>>>>>>> origin/master

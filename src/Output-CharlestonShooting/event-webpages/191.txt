@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 Police-Involved Shooting « CBS Chicago
 
 Police-Involved Shooting « CBS Chicago
+=======
+Charleston shooting | US news | The Guardian
+
+Charleston shooting | US news | The Guardian
+>>>>>>> origin/master
 
 
 
@@ -16,6 +22,7 @@ Police-Involved Shooting « CBS Chicago
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -249,6 +256,9 @@ Circulars
 
 Autos
 
+=======
+Close
+>>>>>>> origin/master
 
 
 
@@ -257,12 +267,17 @@ Autos
 
 
 
+<<<<<<< HEAD
+=======
+Skip to main content
+>>>>>>> origin/master
 
  
 
 
 
 
+<<<<<<< HEAD
  
 
 
@@ -324,11 +339,14 @@ Witnesses described hearing more than two dozen gunshots, and seeing people runn
 
 
 
+=======
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 $500K Bond For Teen Shot By Cops After Allegedly Pointing Gun At Officers
 
 
@@ -336,6 +354,23 @@ Marvin Thompson, 17, is accused of pointing a blue steel Colt Cobra .38 caliber 
 
 
 04/01/2013
+=======
+
+
+sign in
+
+
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+subscribe
+>>>>>>> origin/master
 
 
 
@@ -343,12 +378,7 @@ Marvin Thompson, 17, is accused of pointing a blue steel Colt Cobra .38 caliber 
 
 
 
-
-
-
-
-
-
+<<<<<<< HEAD
 
 Police Shoot Teen Boy On South Side
 
@@ -357,6 +387,15 @@ A Chicago police officer shot the teen about 3:15 p.m. Friday near East 93rd Str
 
 
 03/29/2013
+=======
+search
+
+
+
+
+jobs
+
+>>>>>>> origin/master
 
 
 
@@ -366,6 +405,7 @@ A Chicago police officer shot the teen about 3:15 p.m. Friday near East 93rd Str
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -567,19 +607,58 @@ Police officers fired shots while chasing a gunman Monday afternoon in the Bronz
 
 
 12/10/2012
+=======
+more
+
+
+from the guardian:
+
+
+jobs
+
+
+
+change edition:
+
+
+
+switch to the  UK  edition
+
+
+switch to the  AU  edition
+
+
+switch to the 
+INT
+beta
+ edition
+
+
+
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
+=======
+US edition
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+switch to the 
+UK edition
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 Bond Set At $150K For Man Shot By Cop After Attack On CTA Bus
 
@@ -588,6 +667,18 @@ A 28-year-old southwest side man was still in the hospital Saturday — as a jud
 
 
 11/24/2012
+=======
+switch to the 
+Australia edition
+
+
+
+
+switch to the 
+International
+beta
+
+>>>>>>> origin/master
 
 
 
@@ -597,11 +688,16 @@ A 28-year-old southwest side man was still in the hospital Saturday — as a jud
 
 
 
+<<<<<<< HEAD
+=======
+The Guardian
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 Cop Shoots Man Who Attacked CTA Passenger
 
 
@@ -609,6 +705,12 @@ A CTA passenger and bus driver were hospitalized Thursday evening after being at
 
 
 11/22/2012
+=======
+
+
+
+
+>>>>>>> origin/master
 
 
 
@@ -616,13 +718,22 @@ A CTA passenger and bus driver were hospitalized Thursday evening after being at
 
 
 
+<<<<<<< HEAD
+
+
+=======
+home
+
+
+›
+US
+>>>>>>> origin/master
 
 
 
 
 
-
-
+<<<<<<< HEAD
 Cop Fires At Driver Who Tries To Run Him Down In Gold Coast
 
 
@@ -631,18 +742,36 @@ The officer wasn’t hurt — nor was the driver in the 6:10 p.m. incident in th
 
 11/18/2012
 
+=======
 
 
 
 
 
+home
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+US
+selected
+>>>>>>> origin/master
 
 
 
+
+<<<<<<< HEAD
+=======
+world
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 Gun-Wielding Suspect Killed By Maywood Cop
 
@@ -654,14 +783,32 @@ The 20-year-old Maywood man was pronounced dead at Loyola University Medical Cen
 
 
 
+=======
+opinion
 
 
 
 
+sports
 
 
 
 
+soccer
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+tech
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
@@ -673,18 +820,40 @@ A Chicago police officer shot and killed a man who allegedly pointed a gun at th
 
 11/08/2012
 
+=======
+arts
 
 
 
 
+lifestyle
 
 
 
 
+fashion
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+business
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+travel
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 Parolee Charged With Running Down Officer While Abducting Child
 
@@ -693,16 +862,31 @@ A Chicago police officer was recovering Monday morning, after a man suspected of
 
 
 11/04/2012
+=======
+environment
+
+
+
+
+science
+
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
+=======
+browse all sections
+close
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 more
  
 
@@ -710,6 +894,11 @@ more
 
 
 previous
+=======
+
+
+
+>>>>>>> origin/master
  
 
 
@@ -719,6 +908,7 @@ previous
 
 
 
+<<<<<<< HEAD
 Listen Live
 
 
@@ -760,6 +950,16 @@ Most recently, two men were shot late Thursday in the West Side Austin neighborh
 Follow 
 CBS Chicago
 
+=======
+
+Charleston shooting
+
+Friday
+
+10
+July
+2015
+>>>>>>> origin/master
 
 
 
@@ -779,24 +979,70 @@ CBS Chicago
 
 
 
+<<<<<<< HEAD
 
 
 
 
 Follow @CBSChicago
+=======
+South Carolina's Confederate flag comes down as history of hate meets modernity
+
+
+In a cathartic moment, the controversial standard was consigned to a museum. But taking down a symbol is easier than dealing with what it represents
+
+
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+South Carolina's Confederate flag comes down as history of hate meets modernity
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 Like us on foursquare
+=======
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+
+
+=======
+FBI chief admits gun background check system failure over Dylann Roof
+
+
+James Comey said information on Roof, who was arrested on a felony charge in February, was either improperly entered into the database or used incorrectly
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+FBI chief admits gun background check system failure over Dylann Roof
+>>>>>>> origin/master
 
 
 
@@ -812,34 +1058,23 @@ Like us on foursquare
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 
 
 Follow More Stations and Personalities
+=======
+Muslim and Jewish groups at forefront of efforts to rebuild black churches
+
+
+Groups seek to raise hundreds of thousands for southern churches that burned after Charleston shooting: ‘If we don’t stand up … we’re all going to suffer’
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
  
 Contests & Promotions
 Blue Collar Bears Fan Of The Week
@@ -879,11 +1114,26 @@ dodgerman
  cbsloc.al/1LGzANK
  
 24 minutes ago
+=======
+
+
+Muslim and Jewish groups at forefront of efforts to rebuild black churches
 
 
 
 
 
+
+Older
+Newer
+
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
 				NOW: Live streaming of CBS2’s newscast. One click and you’re in the loop. Starts now: 
  CBSChicago.com/watch
  
@@ -898,14 +1148,31 @@ dodgerman
 
 
 
+=======
+Topics
+
+
+
+South Carolina
 
 
 
 
+Race issues
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+Judaism
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
@@ -932,15 +1199,50 @@ Download Our New Weather App!
 
 
 
+=======
+FBI
 
 
 
 
+US gun control
+
+
+
+More…
+
+
+
+Islam
+
+
+
+
+US crime
+
+
+
+
+Gun crime
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
  
 
+=======
+Christianity
+
+
+
+
+Religion
+>>>>>>> origin/master
 
 
 
@@ -950,11 +1252,15 @@ Download Our New Weather App!
 
 
 
+<<<<<<< HEAD
 News
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Local
 
 
@@ -974,17 +1280,37 @@ Weather
 
 
 Traffic
+=======
+The Guardian
 
 
 
 
 
 
+
+
+back to top
+
+
+
+
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
 Sports
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Bears
 
 
@@ -1004,10 +1330,30 @@ Podcasts
 
 
 Blogs
+=======
+home
 
 
 
 
+US
+selected
+
+
+
+
+world
+
+
+
+
+opinion
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 Scores & Stats
@@ -1025,10 +1371,29 @@ NBA Basketball
 
 
 NHL Hockey
+=======
+sports
 
 
 
 
+soccer
+
+
+
+
+tech
+
+
+
+
+arts
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 Contact Us
@@ -1051,15 +1416,43 @@ Connect
 Mobile
 
 
+=======
+lifestyle
 
 
 
 
+fashion
+
+
+
+
+business
+
+
+
+
+travel
+
+
+
+
+environment
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Corporate
+=======
+science
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 About Us
 
 
@@ -1076,6 +1469,12 @@ Mobile
 
 
 Connect
+=======
+
+
+
+all sections
+close
 
 
 
@@ -1083,7 +1482,22 @@ Connect
 
 
 
+home
+>>>>>>> origin/master
 
+
+
+
+<<<<<<< HEAD
+=======
+US
+selected
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 Chicago Business Listings
@@ -1106,10 +1520,34 @@ Professional Services
 Search Listings
 
 
+=======
+world
 
 
 
 
+UK
+
+
+
+
+europe
+
+
+
+
+americas
+
+
+
+
+asia
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 By viewing our video content, you are accepting the terms of our 
@@ -1163,14 +1601,64 @@ WordPress.com VIP
  
 
 
+=======
+middle east
+
+
+
+
+africa
+
+
+
+
+australia
+
+
+
+
+cities
+
+
+
+
+development
 
 
 
 
 
 
+opinion
 
 
+
+
+sports
+
+
+
+
+soccer
+
+
+
+
+MLS
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+NFL
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Facebook
 
 
@@ -1178,17 +1666,32 @@ Twitter
 
 
 RSS
+=======
+MLB
 
 
 
 
+NBA
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 Other CBS Local Cities 
+=======
+NHL
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 CBS Atlanta
 
 
@@ -1264,31 +1767,113 @@ CBS Tampa
 CBS Washington
 
 
+=======
+soccer
+
+
+
+
+live scores
+
+
+
+
+tables
+
+
+
+
+competitions
+
+
+
+
+results
+
+
+
+
+fixtures
+
+
+
+
+clubs
 
 
 
 
 
 
+tech
 
 
+
+
+arts
+
+
+
+
+movies
+
+
+
+
+tv & radio
+
+
+
+
+music
+
+
+
+
+games
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+books
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 ©2015 CBS Local Media,
  
 a division of CBS Radio Inc.
  
 All rights reserved.
+=======
+art & design
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+stage
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+classical
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Buy Tickets
 Order Food
  
@@ -1309,22 +1894,45 @@ Daily Deals
  
 
 
+=======
+
+
+lifestyle
 
 
 
 
+food
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+health & fitness
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+love & sex
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+family
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 Log In
@@ -1346,48 +1954,102 @@ Twitter
 Youtube
 
 
+=======
+women
+
+
+
+
+home & garden
 
 
 
 
 
 
+fashion
 
 
+
+
+business
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+economics
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
  
 
 
+=======
+sustainable business
+
+
+
+
+diversity & equality in business
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+small business
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+travel
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+USA
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+europe
+>>>>>>> origin/master
 
 
 
 
-
-
-
-
+<<<<<<< HEAD
 Listen Live
+=======
+UK
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 
 
 AM/FM Stations
@@ -1411,17 +2073,45 @@ B96
 
 
 WBBM NewsRadio
+=======
+environment
+
+
+
+
+climate change
+
+
+
+
+wildlife
+
+
+
+
+energy
+
+
+
+
+pollution
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 Featured Shows & Multimedia
+=======
+science
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Play.It
 
 
@@ -1434,13 +2124,72 @@ CBS Sports Radio
 Radio.com
 
 
+=======
+media
+
+
+
+
+crosswords
+
+
+
+
+video
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 Advertise On Our Streams
+=======
+>>>>>>> origin/master
+
+
+
+
+
+
+
+<<<<<<< HEAD
+
+
+
+
+
+
+
+
+
+
+=======
+jobs
+
+subscribe
+all topics
+all contributors
+
+
+report technical issue
+
+
+
+about us
+
+contact us
+
+complaints & corrections
+terms & conditions
+privacy policy
+cookie policy
+securedrop
+
+
+© 2015 Guardian News and Media Limited or its affiliated companies. All rights reserved.
+>>>>>>> origin/master
 
 
 
@@ -1454,30 +2203,17 @@ Advertise On Our Streams
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
+ 
+=======
+>>>>>>> origin/master
 
 
 
 
  
 
-
-
-
- 
-
+<<<<<<< HEAD
 
 
 
@@ -1510,3 +2246,5 @@ Advertise On Our Streams
 
 
 
+=======
+>>>>>>> origin/master

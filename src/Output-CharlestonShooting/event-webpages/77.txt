@@ -1,7 +1,14 @@
+<<<<<<< HEAD
 DOJ launches hate crime investigation into Charleston church shooting | FOX2now.com 
 
 
 DOJ launches hate crime investigation into Charleston church shooting | FOX2now.com
+=======
+Charleston shooting: Mother Emanuel church holds funerals for victims | US news | The Guardian
+
+Charleston shooting: Mother Emanuel church holds funerals for victims | US news | The Guardian
+
+>>>>>>> origin/master
 
 
 
@@ -16,8 +23,12 @@ DOJ launches hate crime investigation into Charleston church shooting | FOX2now.
 
 
 
+<<<<<<< HEAD
 Go
 Search
+=======
+Close
+>>>>>>> origin/master
 
 
 
@@ -26,6 +37,13 @@ Search
 
 
 
+<<<<<<< HEAD
+
+=======
+Skip to main content
+
+ 
+>>>>>>> origin/master
 
 
 
@@ -33,7 +51,7 @@ Search
 
 
 
-
+<<<<<<< HEAD
  Watch Now: 
 FOX 2 News  
 
@@ -41,16 +59,30 @@ FOX 2 News
 
 FOX 2 TV Schedule 
 
+=======
+
+
+
+
+sign in
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
  Search
 
 
  Contact Us
 
+=======
+
+
+
+subscribe
+>>>>>>> origin/master
 
 
 
@@ -58,23 +90,37 @@ FOX 2 TV Schedule
 
 
 
+<<<<<<< HEAD
+=======
+search
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 FOX2now.com
+=======
+jobs
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
  
 Menu
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 News
 
 
@@ -97,6 +143,32 @@ STLMoms
 
 
 Events
+=======
+more
+
+
+from the guardian:
+
+
+jobs
+
+
+
+change edition:
+
+
+
+switch to the  UK  edition
+
+
+switch to the  AU  edition
+
+
+switch to the 
+INT
+beta
+ edition
+>>>>>>> origin/master
 
 
 
@@ -105,6 +177,7 @@ Events
 
 
 
+<<<<<<< HEAD
 
 
 Weather 
@@ -115,6 +188,31 @@ Weather
 77°
 
 
+=======
+US edition
+
+
+
+
+switch to the 
+UK edition
+
+
+
+
+switch to the 
+Australia edition
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+switch to the 
+International
+beta
+>>>>>>> origin/master
 
 
 
@@ -125,23 +223,28 @@ Weather
 
 
 
-
-
-
-
+<<<<<<< HEAD
 77°
+=======
+The Guardian
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 Low 
 66°
 
 
 High 
 84°
+=======
+
+
+>>>>>>> origin/master
 
 
 
@@ -150,16 +253,27 @@ High
 
 
 
+<<<<<<< HEAD
 
 
 
 
 Sat
+=======
+home
+
+
+›
+US
+
+
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 					65° 
  87°
 					
@@ -171,17 +285,34 @@ Sat
 
 Sun
 
+=======
+
+
+
+home
 
 
 
 
+US
+selected
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 					65° 
  88°
 					
+=======
+world
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 Mon
@@ -194,47 +325,100 @@ Mon
  91°
 					
 
+=======
+opinion
 
 
 
 
+sports
+
+
+
+
+soccer
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 See complete forecast
 
 
 
+=======
+tech
 
 
 
 
-
-
-
- 
-
-
+arts
+>>>>>>> origin/master
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 
 
 
  
 
+=======
+lifestyle
+
+
+
+
+fashion
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+business
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+travel
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+environment
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+science
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
+ 
+
+=======
+
+browse all sections
+close
+>>>>>>> origin/master
 
 
 
@@ -243,6 +427,10 @@ See complete forecast
 
 
 
+<<<<<<< HEAD
+=======
+ 
+>>>>>>> origin/master
 
 
 
@@ -250,11 +438,15 @@ See complete forecast
 
 
 
+<<<<<<< HEAD
 DOJ launches hate crime investigation into Charleston church shooting
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Posted 7:51 am, June 18, 2015, by 
 CNN Wires
  
@@ -269,6 +461,14 @@ Pinterest
 LinkedIn
 Email
  
+=======
+South Carolina
+
+
+
+Charleston shooting: Mother Emanuel church holds funerals for victims
+
+>>>>>>> origin/master
 
 
 
@@ -277,6 +477,7 @@ Email
 
 
 
+<<<<<<< HEAD
 
 
  
@@ -284,22 +485,35 @@ Email
 
 The Emanuel African Methodist Episcopal Church is the oldest AME church in the South. Nine people died in a hate crime shooting on June 17, 2015.
  
+=======
+South Carolina governor Nikki Haley and the Reverend Jesse Jackson in attendance as several memorial services planned at site of tragedy
+
+
+
+
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 ×
 
 
 DOJ launches hate crime investigation into Charleston church shooting
+=======
+
+
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
  
 The Emanuel African Methodist Episcopal Church is the oldest AME church in the South. Nine people died in a hate crime shooting on June 17, 2015.
 
@@ -312,22 +526,44 @@ CHARLESTON, SC — The Department of Justice is opening a hate crime investigati
 
 
 The investigation will run parallel to the state investigation and will coordinate with the FBI.
+=======
+Mourners wait in line to attend the funeral of Cynthia Hurd, 54, at the Emanuel African Methodist Episcopal Church.
+Photograph: Joe Raedle/Getty Images
+
+
+
+Associated Press in Charleston, South Carolina
+
+
+Saturday 27 June 2015 13.32 EDT
+
+
+Last modified on Saturday 27 June 2015 13.46 EDT
+
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 Charleston gunman told survivor he was letting her live so she could tell people what happened, NAACP official says. 
 http://t.co/4Z8oXzQP3K
 
 
 — CNN Breaking News (@cnnbrk) 
 June 18, 2015
+=======
+Share on Facebook
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 *****
 
 
@@ -359,6 +595,9 @@ Myra Thompson, 59
 
 
 -79.931051
+=======
+
+Share on Twitter
 
 
 
@@ -366,14 +605,43 @@ Myra Thompson, 59
 
 
 
+Share via Email
 
 
 
+
+
+
+
+Share on Pinterest
+
+
+
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+Share on LinkedIn
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
 Filed in:
  
 News
  
 
+=======
+
+Share on Google+
+>>>>>>> origin/master
 
 
 
@@ -381,12 +649,20 @@ News
 
 
 
+<<<<<<< HEAD
 
 
 ×
 
 
 Report a Typo
+=======
+Share on WhatsApp
+
+
+
+
+>>>>>>> origin/master
 
 
 
@@ -399,16 +675,35 @@ Report a Typo
 
 
 
+<<<<<<< HEAD
 Name
 (required)
 
 
 
+=======
+
+
+ Related: Activist pulls down Confederate flag in front of South Carolina statehouse 
+
+Funerals for some of the victims of the Charleston church shooting were being held on Saturday at the church in which they were killed.
+Services were first held for 54-year-old Cynthia Hurd at the Emanuel African Methodist Episcopal Church, 10 days after a gunman allegedly entered the church and killed her and eight other people – all African-Americans – during a Bible-study session. Police say the attack was racially motivated.
+Hurd, a long-time Charleston librarian, will be remembered as a tireless public servant and loving family member, speakers at her funeral said. Attendees included South Carolina governor Nikki Haley, US senator Tim Scott and the Reverend Jesse Jackson.
+“Her death will lead to change and Cynthia Hurd will be helping millions,” said Charleston Mayor Joseph Riley, in a eulogy.
+Riley remembered Hurd as a young girl serving ice cream. She went from serving people ice cream, he said, “to leading them to knowledge” as a librarian for almost 30 years.
+The killings will go down in history with other episodes of church violence, Riley said, referencing the civil rights-era bombing of a Baptist church in Alabama that killed four girls.
+The tragedy “shook an America that didn’t want to believe this kind of hate could still exist”, Riley said.
+Funerals for Tywanza Sanders, 26, and his great aunt Susie Jackson, 87, were to take place at the church later in the day.
+The funerals followed one on Friday for another victim, the Reverend Clementa Pinckney, whose eulogy was delivered in person by President Barack Obama.
+Obama sang a hymn of hope and spoke with the fervour of a preacher as he eulogised Pinckney, and minced no words in calling for an end to racial injustice and gun violence in the US. Obama suddenly began singing Amazing Grace, and was quickly joined by ministers and some of the thousands who packed into the arena at the College of Charleston in South Carolina.
+The president called for gun control and efforts to eliminate poverty and job discrimination, and said the Confederate battle flag – long a symbol of Southern pride – must be removed from places of honour.
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 Typo
 (required)
 
@@ -419,10 +714,28 @@ Typo
 
 
 
+=======
+
+
+
+    Sorry, your browser is unable to play this video. 
+
+
+
+ Facebook 
+ Twitter 
+ Pinterest 
+
+
+“For many – black and white – that flag was a reminder of systemic oppression and racial subjugation. We see that now,” he said.
+Hours later, a woman was arrested early on Saturday on the grounds of the South Carolina Capitol in Columbia, after scaling a flagpole to rip down a Confederate flag that flew at a memorial in front of the statehouse. 
+Bree Newsome, 30, was arrested immediately. She and James Ian Tyson, 30, also of Charlotte, face misdemeanor charges in the incident.
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -436,6 +749,32 @@ Typo
 
 Cancel
 
+=======
+More news 
+Topics
+
+
+
+South Carolina
+
+
+
+
+Charleston shooting
+
+
+
+
+Gun crime
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+US crime
+>>>>>>> origin/master
 
 
 
@@ -446,6 +785,10 @@ Cancel
 
 
 
+<<<<<<< HEAD
+=======
+Share on Facebook
+>>>>>>> origin/master
 
 
 
@@ -453,18 +796,23 @@ Cancel
 
 
 
+<<<<<<< HEAD
+=======
+Share on Twitter
+>>>>>>> origin/master
 
 
 
 
 
 
-
-
-
-
+<<<<<<< HEAD
  
 
+=======
+
+Share via Email
+>>>>>>> origin/master
 
 
 
@@ -472,16 +820,36 @@ Cancel
 
 
 
+<<<<<<< HEAD
+=======
+Share on Pinterest
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 Watch FOX 2 Now!
 
 
 Watch our newscasts from the comfort of your phone or computer 24/7.
+=======
+
+Share on LinkedIn
+
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+Share on Google+
+>>>>>>> origin/master
 
 
 
@@ -489,28 +857,35 @@ Watch our newscasts from the comfort of your phone or computer 24/7.
 
 
 
-
-
-
-
-
-
+<<<<<<< HEAD
 
 
 
  
+=======
+Share on WhatsApp
+
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
  
+=======
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 Popular
+=======
+>>>>>>> origin/master
 
 
 
@@ -519,7 +894,10 @@ Popular
 
 
 
+<<<<<<< HEAD
 Suspect under arrest in Jamyla Bolden murder
+=======
+>>>>>>> origin/master
 
 
 
@@ -527,35 +905,65 @@ Suspect under arrest in Jamyla Bolden murder
 
 
 
+<<<<<<< HEAD
 
 3-year-old injured during shoot-out in north St. Louis
+=======
+View all comments >
+
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 
 
 Suspected gunman kills self after killing journalists on air, police say
 
 
+=======
+comments 
+Sign in
+or create your Guardian account to join the discussion.
+
+This discussion is closed for comments.
+
+We’re doing some maintenance right now. You can still read comments, but please come back later to add your own.
+
+
+Commenting has been disabled for this account (why?)
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 Reporter, photographer murdered after gunman opens fire during live shot
 
 
 
 
 
+=======
+
+Order by 
+
+
+newest
+
+
+oldest
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -565,10 +973,26 @@ Reporter, photographer murdered after gunman opens fire during live shot
 
  
 
+=======
+Show 25
+
+
+25
+
+
+50
+
+
+100
+
+
+All
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 Latest News
 
@@ -582,13 +1006,37 @@ Latest News
 One man’s poop is another’s medicine
 
 
+=======
+Threads 
+
+
+collapsed
+
+
+expanded
+
+
+unthreaded
 
 
 
 
+
+Loading comments… Trouble loading?
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 STLMoms: Shop for a Cause at Macy’s to benefit March of Dimes
+=======
+View more comments
+
+
+>>>>>>> origin/master
 
 
 
@@ -596,8 +1044,13 @@ STLMoms: Shop for a Cause at Macy’s to benefit March of Dimes
 
 
 
+<<<<<<< HEAD
 
 Zip Rzeppa visits FOX 2
+=======
+ 
+
+>>>>>>> origin/master
 
 
 
@@ -606,7 +1059,11 @@ Zip Rzeppa visits FOX 2
 
 
 
+<<<<<<< HEAD
 St. Louis Polo Charity Match to benefit the Endangered Wolf Center
+=======
+popular
+>>>>>>> origin/master
 
 
 
@@ -628,6 +1085,22 @@ St. Louis Polo Charity Match to benefit the Endangered Wolf Center
 
 
 
+<<<<<<< HEAD
+=======
+The Guardian
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+back to top
+>>>>>>> origin/master
 
 
 
@@ -638,24 +1111,24 @@ St. Louis Polo Charity Match to benefit the Endangered Wolf Center
 
 
 
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 News
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Dylann Roof to face hate crime charges in Charleston shooting
+=======
+home
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 News
@@ -666,20 +1139,43 @@ News
 Woman says Charleston shooter spared her to ‘tell everyone’ what happened
 
 
+=======
+US
+selected
 
 
 
 
+world
+
+
+
+
+opinion
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 News
+=======
+sports
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 St. Louis faith leaders gather to mourn victims of Charleston shooting
+=======
+soccer
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 News
@@ -690,43 +1186,85 @@ News
 Charleston shooting suspect charged with 9 counts of murder
 
 
+=======
+tech
 
 
 
 
+arts
+
+
+
+
+lifestyle
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 News
+=======
+fashion
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Dylann Roof pleads not guilty to federal charges in Charleston church attack
+=======
+business
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+travel
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
  
+=======
+environment
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 News
+=======
+science
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Charleston church shooting: 9 killed in what officials call a hate crime
 
+=======
+
+all sections
+close
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 News
 
 
@@ -735,20 +1273,40 @@ News
 ﻿Worshippers return to Charleston’s Emanuel AME on Sunday
 
 
+=======
+
+
+home
 
 
 
 
+US
+selected
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 News
+=======
+world
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Dylann Storm Roof arrested in North Carolina, according to report
+=======
+UK
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 News
@@ -759,53 +1317,81 @@ News
 Charleston church shooting: Suspect confesses, says he sought race war
 
 
+=======
+europe
 
 
 
 
+americas
+
+
+
+
+asia
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 News
+=======
+middle east
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Shooting suspect in custody after Charleston church massacre
+=======
+africa
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+australia
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
  
+=======
+cities
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 News
+=======
+development
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 South Carolina church fire: Mt. Zion AME burns in Greeleyville
+=======
+opinion
+>>>>>>> origin/master
 
 
 
 
-
-
-News
-
-
-
-
-Who is the Charleston church shooting suspect?
-
-
-
-
+<<<<<<< HEAD
 
 
 News
@@ -816,31 +1402,85 @@ News
 Who is the Charleston church shooting suspect?
 
 
+=======
+sports
+
+
+
+
+soccer
+
+
+
+
+MLS
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+News
+=======
+NFL
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+Who is the Charleston church shooting suspect?
+=======
+MLB
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+NBA
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+NHL
+>>>>>>> origin/master
 
 
 
 
 
 
-
-
-
-
-
-
+<<<<<<< HEAD
  
+=======
+soccer
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+live scores
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+tables
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Mobile Apps
 Android App
 
@@ -854,14 +1494,32 @@ iPhone & iPad App
 iPhone Weather App
 
 
+=======
+competitions
 
 
 
 
+results
 
 
 
 
+fixtures
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+clubs
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Facebook
 
 
@@ -872,22 +1530,45 @@ Email Alerts
 
 
 About & Contact
+=======
+
+
+tech
 
 
 
 
+arts
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+movies
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+tv & radio
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+music
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Online Public File
  • 				
 Terms of Service
@@ -908,100 +1589,191 @@ WordPress.com VIP
 
 
 
+=======
+games
 
 
 
 
+books
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+art & design
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 ×
 
 
 Email Alerts
 
+=======
+stage
 
 
 
 
+classical
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+lifestyle
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+food
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+health & fitness
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+love & sex
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+family
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+women
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+home & garden
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+fashion
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+business
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+economics
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+sustainable business
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+diversity & equality in business
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+small business
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+travel
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+USA
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+europe
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 Send to Email Address
+=======
+UK
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Your Name
 
 
@@ -1009,18 +1781,36 @@ Your Name
 
 Your Email Address
 
+=======
+
+environment
 
 
 
 
+climate change
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+wildlife
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+energy
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 Cancel
 
@@ -1035,6 +1825,100 @@ Cancel
 
 
 				Sorry, your blog cannot share posts by email.			
+=======
+pollution
+
+
+
+
+
+
+science
+
+
+
+
+media
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+crosswords
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+video
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+US News
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+›
+South Carolina
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+
+
+
+
+
+
+=======
+jobs
+
+subscribe
+all topics
+all contributors
+
+
+report technical issue
+
+
+
+about us
+
+contact us
+
+complaints & corrections
+terms & conditions
+privacy policy
+cookie policy
+securedrop
+
+
+© 2015 Guardian News and Media Limited or its affiliated companies. All rights reserved.
 
 
 
@@ -1052,23 +1936,6 @@ Cancel
 
 
 
+ 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+>>>>>>> origin/master

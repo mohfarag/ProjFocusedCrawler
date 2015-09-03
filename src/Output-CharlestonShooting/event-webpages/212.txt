@@ -1,8 +1,16 @@
+<<<<<<< HEAD
 Updated REPORTS: Mass Shooting In Charleston South Carolina  – *Updates* 9 Dead, Several Injured – Police Chief: “This is a hate crime” – Manhunt For Suspect Underway… | The Last Refuge
 
 
 
 Updated REPORTS: Mass Shooting In Charleston South Carolina  – *Updates* 9 Dead, Several Injured – Police Chief: “This is a hate crime” – Manhunt For Suspect Underway… | The Last Refuge
+=======
+Governor of South Carolina calls for death penalty for Dylann Roof | US news | The Guardian
+
+Governor of South Carolina calls for death penalty for Dylann Roof | US news | The Guardian
+
+
+>>>>>>> origin/master
 
 
 
@@ -16,6 +24,10 @@ Updated REPORTS: Mass Shooting In Charleston South Carolina  – *Updates* 9 Dea
 
 
 
+<<<<<<< HEAD
+=======
+Close
+>>>>>>> origin/master
 
 
 
@@ -23,6 +35,7 @@ Updated REPORTS: Mass Shooting In Charleston South Carolina  – *Updates* 9 Dea
 
 
 
+<<<<<<< HEAD
  
 
 
@@ -192,12 +205,24 @@ Livestream link HERE
 
 
 Prayers and Threats:
+=======
+
+Skip to main content
+
+ 
+
+
+
+
+
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 
 
 Statement on tonight's tragedy in Charleston 
@@ -206,14 +231,26 @@ https://t.co/ZOEKkLUg51
 
 — Nikki Haley (@nikkihaley) 
 June 18, 2015
+=======
+sign in
 
 
 
 
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+subscribe
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 A source tells 
 @drewtripp
 : Pastor Clementa Pinckney among those shot tonight at 
@@ -224,10 +261,17 @@ A source tells
 — Andy Paras (@AndyParas) 
 June 18, 2015
 
+=======
+
+
+
+search
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -237,11 +281,20 @@ Looking for white male suspect, slender, clean shaven, approx 21 yo, jeans, grey
 
 — Melissa Boughton (@mboughtonPC) 
 June 18, 2015
+=======
+jobs
 
 
 
 
 
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
 
 
 
@@ -273,12 +326,39 @@ pic.twitter.com/h7vFO5sVK3
 June 18, 2015
 
 
+=======
+more
+
+
+from the guardian:
+
+
+jobs
+
+
+
+change edition:
+
+
+
+switch to the  UK  edition
+
+
+switch to the  AU  edition
+
+
+switch to the 
+INT
+beta
+ edition
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 Video: Waiting for details on 
 @CharlestonPD
  scene in downtown 
@@ -295,10 +375,16 @@ pic.twitter.com/vDvlFlM29n
 June 18, 2015
 
 
+=======
+
+
+US edition
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 #BREAKING
@@ -310,14 +396,31 @@ pic.twitter.com/XWo5EbjbWw
 
 — Threat Suppression (@ThreatSuppress) 
 June 18, 2015
+=======
+switch to the 
+UK edition
 
 
 
 
+switch to the 
+Australia edition
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+switch to the 
+International
+beta
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Breaking: 
 @CharlestonPD
  confirm shooting unclear officially how many hurt. Saw 1 transported 
@@ -332,14 +435,23 @@ pic.twitter.com/Z445Jw6f6T
 
 — Jason Tighe (@jtighe08) 
 June 18, 2015
+=======
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+The Guardian
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Ambulances and police everywhere downtown 
 #chsnews
  
@@ -348,6 +460,10 @@ pic.twitter.com/5d2Srgigui
 
 — Melissa Boughton (@mboughtonPC) 
 June 18, 2015
+=======
+
+
+>>>>>>> origin/master
 
 
 
@@ -356,6 +472,7 @@ June 18, 2015
 
 
 
+<<<<<<< HEAD
 Ems worker just told people on the street to drive far away or to go indoors, wouldn't tell them more 
 #chsnews
 
@@ -364,12 +481,22 @@ Ems worker just told people on the street to drive far away or to go indoors, wo
 June 18, 2015
 
 
+=======
+
+
+home
+
+
+›
+US
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 Still no official word what's going on downtown, but a lot of people say shooting and a lot of people have been told to go indoors 
 #chsnews
 
@@ -378,10 +505,18 @@ Still no official word what's going on downtown, but a lot of people say shootin
 June 18, 2015
 
 
+=======
 
 
 
 
+home
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 Overhead helicopters are circling the area. EMS just went into the hotel behind the chaplain. 
@@ -392,14 +527,28 @@ pic.twitter.com/Xk0WXPdcG3
 
 — CS Tyson (@SamInteractive) 
 June 18, 2015
+=======
+US
+selected
 
 
 
 
+world
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+opinion
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Suspect is a white male maybe 21 years of age. 
 #Charleston
  shooting tonight 
@@ -410,10 +559,19 @@ pic.twitter.com/PK5h5fnKjb
 June 18, 2015
 
 
+=======
+sports
 
 
 
 
+soccer
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 No one has confirmed the number of victims in the shooting at Emanuel AME Church, gunman, white male, still on the loose 
@@ -422,14 +580,27 @@ No one has confirmed the number of victims in the shooting at Emanuel AME Church
 
 — Melissa Boughton (@mboughtonPC) 
 June 18, 2015
+=======
+tech
 
 
 
 
+arts
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+lifestyle
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Just heard gunfire
 
 
@@ -437,10 +608,19 @@ Just heard gunfire
 June 18, 2015
 
 
+=======
+fashion
 
 
 
 
+business
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 Man in custody now, don't know if gunman 
@@ -451,20 +631,39 @@ pic.twitter.com/YGx0OXcRVO
 
 — Melissa Boughton (@mboughtonPC) 
 June 18, 2015
+=======
+travel
 
 
 
 
+environment
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+science
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Witness says guy was walking into convenience store, had on gray shirt 
 #chsnews
 
 
 — Melissa Boughton (@mboughtonPC) 
 June 18, 2015
+=======
+
+
+browse all sections
+close
+>>>>>>> origin/master
 
 
 
@@ -473,6 +672,7 @@ June 18, 2015
 
 
 
+<<<<<<< HEAD
 More photos of the man in handcuffs. He’s soaked in sweat. Wearing clothes similar to what police described 
 #chsnews
  
@@ -481,6 +681,11 @@ pic.twitter.com/QX4cX7XjUz
 
 — CS Tyson (@SamInteractive) 
 June 18, 2015
+=======
+ 
+
+
+>>>>>>> origin/master
 
 
 
@@ -489,6 +694,7 @@ June 18, 2015
 
 
 
+<<<<<<< HEAD
 The person above is 
 NOT the suspect
 .  His name is Austin Rich, he was just wearing a similar looking outfit as the suspect.  He was questioned and released.  
@@ -504,11 +710,24 @@ So the guy that was taken in handcuffs was NOT the suspect. It was a local camer
 
 — Joe Wright (@Sctvman) 
 June 18, 2015
+=======
+
+Charleston shooting
+
+
+
+Governor of South Carolina calls for death penalty for Dylann Roof
+
+
+
+
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -522,12 +741,16 @@ pic.twitter.com/NCGfIWRNr8
 June 18, 2015
 
 
+=======
+Roof, who is charged with nine counts of murder and possessing a weapon during the commission of a violent crime, is to appear for a hearing Friday afternoon
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 Religious leaders, activists join in prayer near church. 
 #chsnews
  
@@ -537,6 +760,8 @@ pic.twitter.com/12t6x8WgXC
 — Andrew Knapp (@offlede) 
 June 18, 2015
 
+=======
+>>>>>>> origin/master
 
 
 
@@ -544,6 +769,7 @@ June 18, 2015
 
 
 
+<<<<<<< HEAD
 LIVE on 
 #Periscope
 : The scene currently 
@@ -555,10 +781,20 @@ June 18, 2015
 
 
 
+=======
 
 
 
 
+
+Dylann Roof’s last known address, in Eastover, South Carolina.
+Photograph: Sean Rayford/Getty Images
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 Another impromptu prayer vigil 
 #CharlestonChurchShooting
@@ -577,6 +813,16 @@ pic.twitter.com/Z8EqX4yGd5
 — Jason Tighe (@jtighe08) 
 June 18, 2015
 
+=======
+Amanda Holpuch in Columbia, North Carolina and 
+Jessica Glenza in New York
+
+
+Friday 19 June 2015 13.28 EDT
+
+
+Last modified on Saturday 20 June 2015 12.23 EDT
+>>>>>>> origin/master
 
 
 
@@ -584,11 +830,26 @@ June 18, 2015
 
 
 
+<<<<<<< HEAD
 BREAKING Gov Jeb Bush has cancelled his South Carolina presidential kickoff event Thursday because of the mass fatal shooting in Charleston
 
 
 — schuyler kropf (@skropf47) 
 June 18, 2015
+=======
+Share on Facebook
+
+
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
+=======
+Share on Twitter
+>>>>>>> origin/master
 
 
 
@@ -596,17 +857,17 @@ June 18, 2015
 
 
 
+<<<<<<< HEAD
+=======
+Share via Email
+>>>>>>> origin/master
 
 
 
 
 
 
-
-
-
-
-
+<<<<<<< HEAD
 Share this:
 Email
 Facebook
@@ -639,37 +900,67 @@ Uncategorized
 . Bookmark the 
 permalink
 .											
+=======
+
+Share on Pinterest
 
 
 
 
 
 
+
+Share on LinkedIn
+
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
 ←
  Wait, Whut? – Hillary Clinton Calls Ryan Julison To Coordinate Call To Walter Scott Family….
 
 
 Thursday Open Thread – June 18th 
 →
+=======
+Share on Google+
+
+
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 
 322 Responses to 
 Updated REPORTS: Mass Shooting In Charleston South Carolina  – *Updates* 9 Dead, Several Injured – Police Chief: “This is a hate crime” – Manhunt For Suspect Underway…
+=======
+Share on WhatsApp
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 ←
  Older Comments
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
  
+=======
+>>>>>>> origin/master
 
 
 
@@ -678,6 +969,7 @@ Updated REPORTS: Mass Shooting In Charleston South Carolina  – *Updates* 9 Dea
 
 
 
+<<<<<<< HEAD
 
 
  
@@ -707,14 +999,75 @@ Reply
  
 
 
+=======
+The governor of South Carolina called for the death penalty on Friday, for the 21-year-old man accused of shooting and killing nine black churchgoers on Wednesday in Charleston.
+“We will absolutely want him to have the death penalty,” Nikki Haley said of Dylann Roof, who has been charged with nine counts of murder and possessing a weapon during the commission of a violent crime. He was due to appear for a bond hearing in Charleston on Friday afternoon, probably by video link from the county jail where he is being held. 
+No one answered the door on Friday at the home in Eastover, North Carolina, where Roof lived as recently as March. Lush plants, a stately American flag and a private property warning sign stood outside the property, which stands about 100 miles away from the site of the mass killing at the historic Emanuel African Methodist Episcopal church. 
+
+ Related: Charleston shooting: florist Debbie Dills hailed a hero after tailing suspect's car 
+
+“He just seemed real quiet and kept to himself,” said Kim Fleming, manager of Mr Bunkys, the general store across the street on Garner’s Ferry Road, a two-lane highway that is a popular route to South Carolina’s coast. Fleming said she had met Roof several times. “I just couldn’t believe it was someone walking around here,” she said of the shooting. “This is not the norm.”
+Yet according to a roommate, Roof had been “planning something like that for six months”. Other friends recalled racist tirades against African Americans “taking over the world” and Roof’s desire to ignite “a civil war”.
+“He was big into segregation and other stuff,” Dalton Tyler told ABC News. “He said he wanted to start a civil war. He said he was going to do something like that and then kill himself.”
+Joseph Meek Jr, a childhood friend who saw Roof the morning before the shooting, said that, a few weeks ago, Roof told him that he had used birthday money from his parents to buy a .45-caliber Glock pistol and that he had “a plan”. He didn’t say what the plan was, but Meek said it scared him enough that he took the gun out of Roof’s car and hid it in his house until the next day.
+(Roof’s uncle Carson Cowles said this gun had been a 21st birthday gift from Roof’s parents.)
+Meek said he and Roof had never discussed race growing up. But when they recently reconnected and got drunk on vodka, Roof told him “blacks were taking over the world [and] someone needed to do something about it for the white race”, he told the Associated Press.
+
+ Related: Charleston shooting: vigils and prayers for the dead, and forgiveness for killer 
+
+“He said he wanted segregation between whites and blacks. I said, ‘That’s not the way it should be.’ But he kept talking about it,” Meek said.
+The comments resonate horribly with reported remarks Roof allegedly made to victims of the shooting. Sylvia Johnson, a cousin of Clementa Pinckney, a pastor killed in the attack, relayed a harrowing account she said was provided to her by a female survivor. The survivor’s son, who was also at the meeting, “was trying to talk him out of doing that act of killing people”, Johnson said. She added that Roof replied: “I have to do it. You rape our women and you’re taking over our country. And you have to go.”
+Meek said that when he woke up on the morning of the mass killing Roof was at his house, sleeping in his car outside – its license plate bearing the flag of the slave-owning Confederate South, which fought an unsuccessful civil war to secede from the United States in the 1860s.
+Later that day, Meek said he and some friends had gone to a nearby lake but Roof stayed behind, saying he would rather see a movie. The next time Meek saw Roof was in surveillance-camera photos distributed by police in the aftermath of the killing. “I knew it was him,” Meek said.
+A high school contemporary, John Mullins, told the Daily Beast: “He made a lot of racist jokes, but you don’t really take them seriously like that. You don’t really think of it like that.” 
+
+ Related: Charleston church massacre: 'What happened in there was brutal' 
+
+But now, he said, it seemed that “the things he said were kind of not joking”.
+Richard Cohen, the president of the Southern Poverty Law Center, said Roof was not known to his organization, which tracks hate crimes across the US, but based on his Facebook page he appeared to be a “disaffected white supremacist”.
+The Facebook page showed him wearing a black jacket adorned with two flags associated with white supremacy: that of apartheid-era South Africa, and that of Rhodesia, the white-ruled country that later became Zimbabwe.
+There was little personally identifying information on the page, which has not been independently verified by the Guardian, but it is notable that a number of his Facebook friends are black.
+“He had black friends,” a high school friend, Antonio Metze, told AP. “I never thought he’d do something like this.”
+Meek’s mother, Kimberly Konzny, described Roof as a “sweet kid”. “He was quiet. He only had a few friends,” she said.
+His uncle described him as introverted. Carson Cowles told his sister, Roof’s mother, that the young man was overly withdrawn, Reuters reported.
+“I said he was like 19 years old, he still didn’t have a job, a driver’s license or anything like that and he just stayed in his room a lot of the time,” Cowles said.
+But Mullins told the Daily Beast that the young Roof had been “kind of wild”. 
+“He used drugs heavily a lot,” Mullins said. “It was obviously harder than marijuana. He was like a pill popper, from what I understood. Like Xanax, and stuff like that.”
+Though police say Roof lived in Columbia, North Carolina, he apparently had ties to the nearby Lexington area. Roof had a mixed educational record in the Lexington school district, attending White Knoll high school in both the 2008-09 and 2009-10 school years.
+ He repeated ninth grade both years, but was pulled and re-enrolled more than once. He also attended White Knoll elementary school for fourth grade in 2003-04.
+The Lexington school district said it was unable to find annual photos of Roof, and that it has no records of other schools he might have attended.
+Roof previously had at least two run-ins with the law. The Lexington county district attorney’s office confirmed that Roof had been charged with possession of a controlled substance in March but the circumstances surrounding that arrest remain unclear.
+He was also arrested in April for misdemeanour trespassing in Lexington county.
+Additional reporting by Michael Safi
 
 
 
 
+More news 
+Topics
+
+
+
+Charleston shooting
 
 
 
 
+Race issues
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+South Carolina
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
  
@@ -734,14 +1087,42 @@ It is flags of the old South Africa/Rhodesia when there was still aparthied.
 
 Like
 Like
+=======
+Gun crime
+
+
+
+
+US crime
 
 
 
 
 
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
 
 Reply
  
+=======
+Share on Facebook
+
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+Share on Twitter
+>>>>>>> origin/master
 
 
 
@@ -749,12 +1130,7 @@ Reply
 
 
 
-
-
-
-
-
-
+<<<<<<< HEAD
 
 
 
@@ -775,14 +1151,43 @@ Why in the world would anyone give this trouble kid a gun for a birthday present
 
 Like
 Like
+=======
+Share via Email
 
 
 
 
+
+
+
+Share on Pinterest
+
+
+
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 Reply
  
+=======
+Share on LinkedIn
+
+
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
+=======
+Share on Google+
+>>>>>>> origin/master
 
 
 
@@ -790,11 +1195,7 @@ Reply
 
 
 
-
-
-
-
-
+<<<<<<< HEAD
  
 daneitreim
  
@@ -815,14 +1216,29 @@ http://theprosays.com/wp-content/plugins/clickpopengage/pop.php?id=2
 
 Like
 Like
+=======
+Share on WhatsApp
 
 
 
 
 
 
+
+
+
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
 Reply
  
+=======
+>>>>>>> origin/master
 
 
 
@@ -835,6 +1251,7 @@ Reply
 
 
 
+<<<<<<< HEAD
  
 Sassy
  
@@ -860,12 +1277,35 @@ Like
 
 Reply
  
+=======
+
+View all comments >
 
 
 
 
 
 
+
+comments 
+Sign in
+or create your Guardian account to join the discussion.
+
+This discussion is closed for comments.
+
+We’re doing some maintenance right now. You can still read comments, but please come back later to add your own.
+
+
+Commenting has been disabled for this account (why?)
+
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
 
 
 
@@ -904,11 +1344,52 @@ Reply
 
 
 
+=======
+Order by 
+
+
+newest
+
+
+oldest
+
+
+
+
+Show 25
+
+
+25
+
+
+50
+
+
+100
+
+
+All
+
+
+
+
+Threads 
+
+
+collapsed
+
+
+expanded
+
+
+unthreaded
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
  
 Sassy
  
@@ -926,13 +1407,27 @@ And “his” name has been spelled three different ways that I’ve seen so far
 
 Like
 Like
+=======
+Loading comments… Trouble loading?
+
+
+
+
+View more comments
+
+
+
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 Reply
+=======
+>>>>>>> origin/master
  
 
 
@@ -943,6 +1438,10 @@ Reply
 
 
 
+<<<<<<< HEAD
+=======
+popular
+>>>>>>> origin/master
 
 
 
@@ -954,6 +1453,7 @@ Reply
 
 
 
+<<<<<<< HEAD
  
 Galaxian
  
@@ -978,6 +1478,9 @@ Like
 
 
 Reply
+=======
+
+>>>>>>> origin/master
  
 
 
@@ -987,6 +1490,7 @@ Reply
 
 
 
+<<<<<<< HEAD
 
 
 ←
@@ -1017,15 +1521,25 @@ Enter your comment here...
 
 
 
+=======
+The Guardian
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 Fill in your details below or click an icon to log in:
 
 
 
+=======
+
+
+
+back to top
+>>>>>>> origin/master
 
 
 
@@ -1040,42 +1554,80 @@ Fill in your details below or click an icon to log in:
 
 
 
+<<<<<<< HEAD
+=======
+home
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+US
+selected
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+world
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+opinion
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+sports
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+soccer
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+tech
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+arts
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+lifestyle
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -1095,25 +1647,46 @@ Email
 (Address never made public)
 
 
+=======
+fashion
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 Name 
 (required)
 
 
+=======
+business
 
 
 
 
+travel
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 Website
 
 
+=======
+environment
+
+
+
+
+science
+>>>>>>> origin/master
 
 
 
@@ -1121,6 +1694,11 @@ Website
 
 
 
+<<<<<<< HEAD
+=======
+all sections
+close
+>>>>>>> origin/master
 
 
 
@@ -1128,18 +1706,32 @@ Website
 
 
 
+<<<<<<< HEAD
+=======
+home
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+US
+selected
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+world
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
  You are commenting using your WordPress.com account. 
@@ -1150,124 +1742,222 @@ Change
  )
 
 
+=======
+UK
 
 
 
 
+europe
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+americas
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+asia
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+middle east
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+africa
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+australia
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
  You are commenting using your Twitter account. 
 ( 
 Log Out
  / 
 Change
  )
+=======
+cities
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+development
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+opinion
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+sports
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+soccer
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+MLS
+>>>>>>> origin/master
 
 
 
 
-
-
-
-
+<<<<<<< HEAD
  You are commenting using your Facebook account. 
 ( 
 Log Out
  / 
 Change
  )
+=======
+NFL
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+MLB
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+NBA
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+NHL
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+soccer
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+live scores
+>>>>>>> origin/master
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
  You are commenting using your Google+ account. 
 ( 
 Log Out
  / 
 Change
  )
+=======
+tables
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+competitions
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 Cancel
 
 
 Connecting to %s
+=======
+results
+
+
+
+
+fixtures
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+clubs
+>>>>>>> origin/master
 
 
 
 
 
 
-
-
-
-
+<<<<<<< HEAD
  
 Notify me of new comments via email.
  
@@ -1278,38 +1968,66 @@ Notify me of new posts via email.
 
 
 
+=======
+tech
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
  
 
 
+=======
+arts
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+movies
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+tv & radio
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+music
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+games
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+books
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
  
@@ -1329,17 +2047,36 @@ Follow the Last Refuge Blog
  
 RSS - Posts
 
+=======
+art & design
+
+
+
+
+stage
+
+
+
+
+classical
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 Search for:
 
+=======
+
+lifestyle
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -2939,3 +3676,202 @@ Cancel
 
 
 
+=======
+food
+
+
+
+
+health & fitness
+
+
+
+
+love & sex
+
+
+
+
+family
+
+
+
+
+women
+
+
+
+
+home & garden
+
+
+
+
+
+
+fashion
+
+
+
+
+business
+
+
+
+
+economics
+
+
+
+
+sustainable business
+
+
+
+
+diversity & equality in business
+
+
+
+
+small business
+
+
+
+
+
+
+travel
+
+
+
+
+USA
+
+
+
+
+europe
+
+
+
+
+UK
+
+
+
+
+
+
+environment
+
+
+
+
+climate change
+
+
+
+
+wildlife
+
+
+
+
+energy
+
+
+
+
+pollution
+
+
+
+
+
+
+science
+
+
+
+
+media
+
+
+
+
+crosswords
+
+
+
+
+video
+
+
+
+
+
+
+
+
+
+
+
+US News
+
+
+
+
+›
+Charleston shooting
+
+
+
+
+
+
+
+
+jobs
+
+subscribe
+all topics
+all contributors
+
+
+report technical issue
+
+
+
+about us
+
+contact us
+
+complaints & corrections
+terms & conditions
+privacy policy
+cookie policy
+securedrop
+
+
+© 2015 Guardian News and Media Limited or its affiliated companies. All rights reserved.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+>>>>>>> origin/master

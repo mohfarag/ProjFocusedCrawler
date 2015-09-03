@@ -1,7 +1,14 @@
+<<<<<<< HEAD
 Quick-thinking woman helps cops capture Charleston church shooting suspect | Q13 FOX News 
 
 
 Quick-thinking woman helps cops capture Charleston church shooting suspect | Q13 FOX News
+=======
+Charleston killings leave US reckoning with race and guns amid 'broken peace' | US news | The Guardian
+
+Charleston killings leave US reckoning with race and guns amid 'broken peace' | US news | The Guardian
+
+>>>>>>> origin/master
 
 
 
@@ -16,8 +23,12 @@ Quick-thinking woman helps cops capture Charleston church shooting suspect | Q13
 
 
 
+<<<<<<< HEAD
 Go
 Search
+=======
+Close
+>>>>>>> origin/master
 
 
 
@@ -26,6 +37,7 @@ Search
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -71,10 +83,16 @@ Q13 FOX News
 
  
 Menu
+=======
+Skip to main content
+
+ 
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 News
 
 
@@ -98,6 +116,15 @@ On-Air
 
 Events
 
+=======
+
+
+
+
+
+
+
+sign in
 
 
 
@@ -106,6 +133,8 @@ Events
 
 
 
+subscribe
+>>>>>>> origin/master
 
 
 
@@ -113,11 +142,31 @@ Events
 
 
 
+<<<<<<< HEAD
+=======
+search
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+jobs
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Weather 
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 67°
 
 
@@ -136,99 +185,194 @@ Weather
 
 
 67°
+=======
+
+
+more
+
+
+from the guardian:
+
+
+jobs
+
+
+
+change edition:
+
+
+
+switch to the  UK  edition
+
+
+switch to the  AU  edition
+
+
+switch to the 
+INT
+beta
+ edition
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 Low 
 62°
 
 
 High 
 72°
+=======
+
+
+US edition
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+switch to the 
+UK edition
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+switch to the 
+Australia edition
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Sat
+=======
+switch to the 
+International
+beta
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 					57° 
  68°
 					
+=======
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 
 Sun
+=======
+The Guardian
+
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 					60° 
  68°
 					
+=======
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 Mon
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 					59° 
  66°
 					
 
+=======
+home
+
+
+›
+US
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 See complete forecast
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
  Severe weather alert
 
+=======
+
+home
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+US
+selected
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
  
 
 
 
+=======
+world
 
 
 
 
+opinion
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
  
 
@@ -239,40 +383,82 @@ See complete forecast
 
  Q13 Cares has set up a fund with 100% of donations going directly to those affected by WA wildfires						
 
+=======
+sports
 
 
 
 
+soccer
 
 
 
 
+tech
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+arts
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+lifestyle
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+fashion
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
  
+=======
+business
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+travel
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+environment
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+science
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Quick-thinking woman helps cops capture Charleston church shooting suspect
 
 
@@ -299,6 +485,11 @@ Email
 
 
 
+=======
+
+
+browse all sections
+close
 
 
 
@@ -306,6 +497,17 @@ Email
 
 
 
+
+ 
+>>>>>>> origin/master
+
+
+
+
+
+
+
+<<<<<<< HEAD
 KING’S MOUNTAIN, N.C. — Police credit a quick-thinking North Carolina woman  for helping officers arrest a man accused of killing nine people Wednesday at a church in Charleston, South Carolina.
 
 
@@ -384,17 +586,88 @@ It was not clear if the gunman targeted any individual.
 
 
 
+=======
+
+
+
+
+Charleston shooting
+
+
+
+Charleston killings leave US reckoning with race and guns amid 'broken peace'
 
 
 
 
 
 
+
+
+
+Shooting deaths of nine people at historic black church by white man have Obama calling for gun control and many worrying ‘there are no more safe havens’
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sorry, your browser is unable to play this video.
+Please install Adobe Flash™ and try again.
+Alternatively upgrade to a modern browser.
+
+
+
+
+
+Charleston’s police chief, Gregory Mullen, and mayor, Joseph Riley, make statements to the press.
+
+
+
+Oliver Laughland and Paul Bowers in Charleston, 
+Lauren Gambino in New York and 
+Dan Roberts in Washington
+
+
+Thursday 18 June 2015 16.08 EDT
+
+
+Last modified on Saturday 20 June 2015 12.23 EDT
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
 Filed in:
  
 National & World News
  
 
+=======
+
+Share on Facebook
+>>>>>>> origin/master
 
 
 
@@ -402,6 +675,7 @@ National & World News
 
 
 
+<<<<<<< HEAD
 
 
 ×
@@ -411,6 +685,8 @@ Report a Typo
 
 
 
+=======
+Share on Twitter
 
 
 
@@ -418,20 +694,50 @@ Report a Typo
 
 
 
+Share via Email
+>>>>>>> origin/master
+
+
+
+
+
+
+
+<<<<<<< HEAD
 
 
 Name
 (required)
+=======
+Share on Pinterest
+
+
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 
 
 
 Typo
 (required)
+=======
+Share on LinkedIn
+
+
+
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+Share on Google+
+>>>>>>> origin/master
 
 
 
@@ -439,6 +745,10 @@ Typo
 
 
 
+<<<<<<< HEAD
+=======
+Share on WhatsApp
+>>>>>>> origin/master
 
 
 
@@ -446,16 +756,18 @@ Typo
 
 
 
-
-
-
-
+<<<<<<< HEAD
  
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Cancel
+=======
+>>>>>>> origin/master
 
 
 
@@ -463,6 +775,7 @@ Cancel
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -479,6 +792,47 @@ Cancel reply
 
 
 
+=======
+ Related: Charleston church shooting suspect Dylann Roof in custody – latest updates 
+
+The killing of nine people by a young white man at a historic black church in Charleston, South Carolina, has sent shockwaves across the United States, as the nation confronts a breaking point over race and gun violence following yet another mass shooting.
+Investigators described a suspected hate crime at the hands of Dylann Roof, whom they apprehended as reports emerged that he had been given a handgun by his father for his 21st birthday. Pictures also surfaced from a Facebook page depicting him with the flags of apartheid South Africa and white government-era Rhodesia emblazoned on his jacket.
+Six women and three men were killed during the stealth attack – including a pastor and local politician who had been a vocal advocate for gun control and police reform, as well as more clergy and a librarian – inside a prayer group meeting at the Emanuel African Methodist Episcopal church on Wednesday evening in this metropolis known as the “holy city” of the American south.
+The suspect is said to have walked into the church – a symbol of the American civil rights movement, having given birth to slave revolts and survived burnings by white supremacists – and sat with the congregation for an hour before opening fire.
+President Barack Obama addressed the nation from the White House, expressing heartache at the killings and saying American communities have had to endure such tragedies too many times.
+
+ Related: What happened at the Charleston, South Carolina, church shooting? 
+
+“At some point, we as a country will have to reckon with the fact that this type of mass violence does not happen in other advanced countries,” Obama said. “It doesn’t happen in other places with this kind of frequency – and it is in our power to do something about it.”
+The African American community in Charleston and indeed throughout the United States is still reeling from the murder just 10 weeks earlier of Walter Scott, an unarmed black man shot dead by a North Charleston police officer just miles away from the site of Wednesday’s shooting.
+
+charleston south carolina map
+
+‘I have to do it’
+
+
+
+ Facebook 
+ Twitter 
+ Pinterest 
+
+
+Dylann Roof is escorted by police in North Carolina after a 15-hour manhunt. Photograph: Chuck Burton/AP
+
+
+Further chilling details of the shooting began to emerge on Thursday, as TV news quoted the relative of one of three survivors who claimed the gunman reloaded his weapon five times and stated: “I have to do it … You rape our women and you’re taking over our country and you have to go.”
+A sweeping, multi-agency manhunt for the shooter culminated in police arresting Roof in Shelby, North Carolina, nearly 15 hours after the attack. Police said a citizen reported the vehicle to law enforcement, citing “suspicious activity”. An officer with the Shelby police department pulled Roof over and arrested him during the traffic stop. Roof made a brief court appearance before being returned to Charleston. 
+
+ Related: Dylann Roof: the cold stare of a killer with a history of drug abuse and racism 
+
+Police say they believe Roof acted alone in the attack, and any motive remained unclear.
+Carson Cowles, who identified himself as Roof’s uncle, told Reuters that Roof’s father had recently given him a .45-caliber handgun as a birthday present and that Roof had seemed adrift.
+“I don’t have any words for it,” the 56-year-old was reported to have said in a telephone interview. “Nobody in my family had seen anything like this coming.”
+Joey Meek, one of Roof’s childhood friends, said he alerted the FBI after recognising him in a surveillance camera image that was widely circulated by law enforcement agencies early on Thursday, Meek’s mother, Kimberly Konzny, told the Associated Press. Roof had worn the same sweatshirt while playing Xbox videogames in their home recently, she said.
+“I don’t know what was going through his head,” Konzny said. “He was a really sweet kid. He was quiet. He only had a few friends.”
+Police also released a mug shot of Roof, who had previously been arrested on drug and trespassing charges.
+‘A sign of the times’
+>>>>>>> origin/master
 
 
 
@@ -486,6 +840,7 @@ Cancel reply
 
 
 
+<<<<<<< HEAD
 Enter your comment here...
 
 
@@ -502,6 +857,108 @@ Fill in your details below or click an icon to log in:
 
 
 
+=======
+
+    Sorry, your browser is unable to play this video. 
+
+
+
+ Facebook 
+ Twitter 
+ Pinterest 
+
+
+The US attorney general, Loretta Lynch, described the atrocity as a “barbaric crime” as the federal Department of Justice launched its own hate crime investigation into the mass killing, alongside local and state police. 
+“Acts like this have no place in our country and in a civilized society,” Lynch said in Washington on Thursday. 
+
+ Related: The Charleston church victims: a poet, a politician, a librarian, women of faith 
+
+The youngest victim of the shooting was 26-year-old Tywanza Sanders, a 2014 graduate of Allen University. The school described him as a “quiet, well-known student who was committed to his education”. 
+Cynthia Hurd, 54, was a manager at the St Andrews regional library in Charleston, which will renamed for one if its hardest working librarians. Sharonda Coleman-Singleton, 45, was a speech therapist and high-school track coach.
+The Charleston County coroner, Rae Wooten, identified the other victims of the attack, as Reverend DePayne Middleton-Doctor, 49; Myra Thompson, 59; Ethel Lance, 70, and her cousin Susie Jackson, 87, both longtime members of Emanuel African Methodist Episcopal (AME) church.
+Daniel Simmons, a 75-year-old pastor, was the only victim who died at the hospital. All the other victims were pronounced dead at the scene. 
+The Rev Clementa Pinckney, the pastor and state senator, was the first victim of the shootings to be identified. He had introduced legislation – later failed – to require background checks for gun purchases in South Carolina. 
+He also campaigned for police to be equipped with body cameras, which he said “may not be the golden ticket, the golden egg, the end-all-fix-all, but [would help] to paint a picture of what happens during a police stop”. Mandatory body cameras became law in the state one week ago.
+
+ Related: Terrorism in Charleston demands the government act like black lives matter | The Rev Broderick Greer 
+
+Thomas Dixon, a pastor who has been working with a local chapter of the Black Lives Matter movement, told the Guardian in Charleston that he had met Pinckney when the senator led prayer vigils in the aftermath of Scott’s death.
+Dixon said that in the wake of the latest shooting, he was “disheartened but not surprised”.
+“It is a sign of the times,” he said. “Whereas in the past we were able to say there were safe havens for people where they could be treated well and respected, unfortunately in today’s world we have no more safe havens.”
+Brokenhearted in the ‘holy city’
+Politicians and religious leaders in this tight-knit community – known as the “holy city” for its deep Christian history – responded to the shooting with overwhelming grief and increased security.
+“We woke up today and the heart and soul of South Carolina was broken,” said the state’s governor, Nikki Haley, as she fought back tears during a press conference on Thursday. “We allow ourselves to grieve, we allow ourselves to pray, we allow ourselves to question, and then we allow ourselves to heal.”
+One of several planned vigils on Thursday was evacuated following a bomb threat, as community leaders from Charleston to Washington came to grips with larger implications for race and violence.
+“Events like this are further evidence that we need to be fighting for racial equality in our daily lives,” said Victoria Middleton, executive director of the American Civil Liberties Union of South Carolina.
+
+ Related: Charleston shooting church has rich history from slave revolts to civil rights 
+
+The Emanuel African Methodist Episcopal church traces its roots to 1816 and is one of the largest black congregations south of Baltimore. The Reverend Martin Luther King Jr addressed the church in 1962.
+Muhiyidin d’Baha, an organizer with the Charleston chapter of Black Lives Matter Charleston, said the mass shooting echoed church bombings from the civil rights era and followed a string of police shootings that has captivated the nation since the killing of an unarmed 18-year-old last summer in Ferguson, Missouri.
+“There is a story being replayed, and it needs to be changed,” d’Baha said at a Thursday meeting held next to a statue of Denmark Vesey, an accused slave insurrectionist from Charleston who was a member of the AME church.
+A crowd of more than a dozen gathered near the statue, including 75-year-old Paul Mack.
+He was there with his daughter and her family, and Mack said it was important for his grandchildren to learn the history of racism in the American south.
+“These kids know nothing about their history, nothing,” Mack said.
+‘A broken peace’: from religion to race and guns
+Jerod Frazier, minister of social justice at the predominately black Charity Missionary Baptist church in neighboring North Charleston, said he worried about the future of race relations in the region.
+“The thing I hate about it is Sunday morning is the most segregated hour across America, but especially in the south – you can clearly tell who’s a visitor and who’s not if someone of another race comes in,” Frazier says. “We consider that to be a sacred time, and this threatens that peace.
+“If someone black goes into a white church or someone white goes to a traditionally black church, heads are going to turn around and say, ‘What’s going on now?’ It’s kind of a broken peace, if you will – a disturbance of peace.”
+
+ Related: Charleston church shooting: Obama calls for gun control in wake of tragedy 
+
+Obama is estimated to have made 14 statements in response to mass shootings during his six years as president. He failed in his attempt to pass national gun control legislation after a 20-year-old shot and killed 20 children and six educators at a school in Newtown, Connecticut, in 2012.
+He has also been criticised by some for failing to make a strong enough response to police shootings of unarmed black men, which have led to international protests.
+On Wednesday, Obama expressed hope that the latest American shooting might “shift how we think about the issue of gun violence”.
+“I have had to make statements like this too many times,” the president said.
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+
+
+
+=======
+More news 
+Topics
+
+
+
+Charleston shooting
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+South Carolina
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+Gun crime
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+Race issues
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+US crime
+>>>>>>> origin/master
 
 
 
@@ -512,6 +969,10 @@ Fill in your details below or click an icon to log in:
 
 
 
+<<<<<<< HEAD
+=======
+Share on Facebook
+>>>>>>> origin/master
 
 
 
@@ -519,6 +980,10 @@ Fill in your details below or click an icon to log in:
 
 
 
+<<<<<<< HEAD
+=======
+Share on Twitter
+>>>>>>> origin/master
 
 
 
@@ -526,59 +991,57 @@ Fill in your details below or click an icon to log in:
 
 
 
+<<<<<<< HEAD
+=======
+Share via Email
+>>>>>>> origin/master
 
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
  
 
 
  
 
+=======
+
+
+Share on Pinterest
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 Email 
 (required)
  
 (Address never made public)
 
 
+=======
+
+
+Share on LinkedIn
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 Name 
 (required)
 
+=======
+
+Share on Google+
+>>>>>>> origin/master
 
 
 
@@ -586,7 +1049,11 @@ Name
 
 
 
+<<<<<<< HEAD
 Website
+=======
+Share on WhatsApp
+>>>>>>> origin/master
 
 
 
@@ -609,12 +1076,17 @@ Website
 
 
 
+<<<<<<< HEAD
+=======
+ 
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 
 
  You are commenting using your WordPress.com account. 
@@ -623,6 +1095,11 @@ Log Out
  / 
 Change
  )
+=======
+more on this story
+
+
+>>>>>>> origin/master
 
 
 
@@ -638,6 +1115,15 @@ Change
 
 
 
+<<<<<<< HEAD
+
+
+=======
+Charleston shootings: NRA blames victims as reactions echo Newtown
+
+
+An NRA board member suggested worshippers ‘might be alive’ if they had guns themselves, while Obama and gun control groups repeat calls for reform
+>>>>>>> origin/master
 
 
 
@@ -647,8 +1133,7 @@ Change
 
 
 
-
-
+<<<<<<< HEAD
  You are commenting using your Twitter account. 
 ( 
 Log Out
@@ -657,6 +1142,19 @@ Change
  )
 
 
+=======
+
+
+Published: 20 Jun 2015
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+Charleston shootings: NRA blames victims as reactions echo Newtown
+>>>>>>> origin/master
 
 
 
@@ -677,10 +1175,7 @@ Change
 
 
 
-
-
-
-
+<<<<<<< HEAD
  You are commenting using your Facebook account. 
 ( 
 Log Out
@@ -689,6 +1184,13 @@ Change
  )
 
 
+=======
+
+
+Sorry, your browser is unable to play this video.
+Please install Adobe Flash™ and try again.
+Alternatively upgrade to a modern browser.
+>>>>>>> origin/master
 
 
 
@@ -711,6 +1213,7 @@ Change
 
 
 
+<<<<<<< HEAD
 
 
  You are commenting using your Google+ account. 
@@ -719,6 +1222,12 @@ Log Out
  / 
 Change
  )
+=======
+Michelle Obama on Charleston: 'Too many tragedies like this' - video
+
+
+Michelle Obama spoke about the deadly church shooting in Charleston, South Carolina.
+>>>>>>> origin/master
 
 
 
@@ -729,6 +1238,7 @@ Change
 
 
 
+<<<<<<< HEAD
 Cancel
 
 
@@ -736,6 +1246,15 @@ Connecting to %s
 
 
 
+=======
+
+Published: 19 Jun 2015
+
+
+
+
+Michelle Obama on Charleston: 'Too many tragedies like this' - video
+>>>>>>> origin/master
 
 
 
@@ -743,6 +1262,7 @@ Connecting to %s
 
 
 
+<<<<<<< HEAD
  
 Notify me of new comments via email.
  
@@ -750,15 +1270,26 @@ Notify me of new posts via email.
 
 
  
+=======
+
+
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 
 
  
+=======
+Rick Perry calls Charleston church shooting an 'accident'
+
+
+Republican presidential candidate says ‘real issue’ raised by case is drugs and accuses Obama of seeking to use shooting to take away Americans’ guns
+>>>>>>> origin/master
 
 
 
@@ -766,28 +1297,47 @@ Notify me of new posts via email.
 
 
 
+<<<<<<< HEAD
 			3 comments		
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+Published: 19 Jun 2015
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
  
+=======
+Rick Perry calls Charleston church shooting an 'accident'
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Wallus
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Just by the looks of this kid something is screwy with him,. Why the crap would his father buy him a gun? What a moron.
+=======
+>>>>>>> origin/master
 
 
 
@@ -797,12 +1347,22 @@ Just by the looks of this kid something is screwy with him,. Why the crap would 
 
 
 
+<<<<<<< HEAD
 							June 18, 2015 at 10:37 PM						
 
 
 
 
 Reply
+=======
+
+
+
+Sorry, your browser is unable to play this video.
+Please install Adobe Flash™ and try again.
+Alternatively upgrade to a modern browser.
+
+>>>>>>> origin/master
 
 
 
@@ -819,11 +1379,15 @@ Reply
 
 
 
+<<<<<<< HEAD
  
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 AbigailDBerg
 
 
@@ -831,6 +1395,14 @@ AbigailDBerg
 
 >>my roomate’s mom makes $78 /hour on the internet . She has been fired for eight months but last month her payment was $14878 just working on the internet for a few hours. visit this page>>> 
  Read More 
+=======
+
+No decision has been made on death penalty in Charleston church shooting, says prosecutor – video
+
+
+Prosecutor Scarlett Wilson says 'now is not the time' to discuss whether suspected gunman Dylann Roof will face the death penalty
+
+>>>>>>> origin/master
 
 
 
@@ -840,6 +1412,7 @@ AbigailDBerg
 
 
 
+<<<<<<< HEAD
 							July 11, 2015 at 1:02 AM						
 
 
@@ -847,6 +1420,15 @@ AbigailDBerg
 
 Reply
 
+=======
+
+Published: 19 Jun 2015
+
+
+
+
+No decision has been made on death penalty in Charleston church shooting, says prosecutor – video
+>>>>>>> origin/master
 
 
 
@@ -862,23 +1444,35 @@ Reply
 
 
 
+<<<<<<< HEAD
  
 
 
 
 
 Katerina Anne
+=======
+
+Representatives of Charleston shooting victims 'forgive' Dylann Roof
+
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Who is this woman? How did she know or THINK she knew that was him? Was she at the church that day? Was she outside the church that day?  There is absolutely no information telling us how or why she thought this was the guy or how it’s possible she knew what he looked like.
+=======
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -888,6 +1482,29 @@ Who is this woman? How did she know or THINK she knew that was him? Was she at t
 
 
 Reply
+=======
+Published: 19 Jun 2015
+
+
+
+
+Representatives of Charleston shooting victims 'forgive' Dylann Roof
+
+
+
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
+
+=======
+Analysis
+
+11 myths about the future of gun control, debunked after the Charleston shooting
+>>>>>>> origin/master
 
 
 
@@ -901,18 +1518,21 @@ Reply
 
 
 
+<<<<<<< HEAD
+=======
+Published: 20 Jun 2015
+>>>>>>> origin/master
 
 
 
 
-
-
-
-
-
-
+<<<<<<< HEAD
 
  
+=======
+11 myths about the future of gun control, debunked after the Charleston shooting
+
+>>>>>>> origin/master
 
 
 
@@ -922,45 +1542,72 @@ Reply
 
 
 
+<<<<<<< HEAD
+=======
+Charleston church shooting: suspect Dylann Roof in custody as community holds vigils
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
  
 Weather Team
 
 
 Watch the Q13 FOX News weather team for the most useful and accurate forecasts and get weather ready.
+=======
+
+
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+Published: 19 Jun 2015
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+Charleston church shooting: suspect Dylann Roof in custody as community holds vigils
+>>>>>>> origin/master
 
 
 
 
 
 
-
-
-
-
+<<<<<<< HEAD
  
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
  
+=======
+The Charleston shooting victims: a poet, a politician, a librarian, women of faith
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 Popular
+=======
+>>>>>>> origin/master
 
 
 
@@ -968,17 +1615,29 @@ Popular
 
 
 
+<<<<<<< HEAD
 
 Violent convicted rapist allowed to attend funeral, doesn’t return
 
 
 
+=======
+Published: 18 Jun 2015
+
+
+
+
+The Charleston shooting victims: a poet, a politician, a librarian, women of faith
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 Josh Duggar checks into rehab amid new cheating scandal
+=======
+>>>>>>> origin/master
 
 
 
@@ -987,20 +1646,33 @@ Josh Duggar checks into rehab amid new cheating scandal
 
 
 
+<<<<<<< HEAD
 Reporter, photographer killed by shooter on-air during live news interview
 
 
+=======
+
+
+More more on this story
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 Iowa teachers sing ‘One Day More’ before students return to school — and it’s awesome
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+popular
+>>>>>>> origin/master
 
 
 
@@ -1020,6 +1692,7 @@ Iowa teachers sing ‘One Day More’ before students return to school — and i
 
 
 
+<<<<<<< HEAD
 Latest News
 
 
@@ -1033,21 +1706,36 @@ Man with almost-perfect poop donates it to help patients with C-diff infection
 
 
 
+=======
+
+
+The Guardian
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 Mariners fire general manager Jack Zduriencik
 
 
 
+=======
+
+
+
+back to top
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 Officials breach levee to open wetlands to salmon recovery
+=======
+>>>>>>> origin/master
 
 
 
@@ -1056,44 +1744,79 @@ Officials breach levee to open wetlands to salmon recovery
 
 
 
+<<<<<<< HEAD
 Calif. man bitten while taking selfie with rattlesnake
 
+=======
+
+home
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+US
+selected
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 
  
+=======
+world
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+opinion
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+sports
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+soccer
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+tech
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+arts
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 National & World News
@@ -1104,34 +1827,68 @@ National & World News
 Dylann Roof allegedly confesses to killing 9 people in Charleston church, wanting to start ‘race war’
 
 
+=======
+lifestyle
 
 
 
 
+fashion
+
+
+
+
+business
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 National & World News
+=======
+travel
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Details emerge about Charleston church shooting suspect Dylan Storm Roof
+=======
+environment
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 National & World News
+=======
+science
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Dylann Storm Roof, suspect in church shooting, arrested in North Carolina
 
+=======
+
+all sections
+close
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 National & World News
 
 
@@ -1140,29 +1897,57 @@ National & World News
 Dylann Roof says he almost backed out because everyone at church was ‘so nice’
 
 
+=======
+
+
+home
 
 
 
 
+US
+selected
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 National & World News
+=======
+world
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Charleston minister: ‘No evildoer, no demon’ can close church
+=======
+UK
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+europe
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
  
+=======
+americas
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 National & World News
@@ -1173,32 +1958,64 @@ National & World News
 Dylann Roof and Michael Slager are jail neighbors, police confirm
 
 
+=======
+asia
 
 
 
 
+middle east
+
+
+
+
+africa
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 National & World News
+=======
+australia
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 9 killed in what officials call a hate crime at historic church; shooter at large
+=======
+cities
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 National & World News
+=======
+development
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Dylann Storm Roof: Police name suspect in Charleston church shooting
+=======
+opinion
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 National & World News
@@ -1209,41 +2026,79 @@ National & World News
 Victims’ families confront accused church shooter: ‘May God have mercy on you’
 
 
+=======
+sports
 
 
 
 
+soccer
+
+
+
+
+MLS
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 National & World News
+=======
+NFL
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Woman says Charleston shooter spared her to ‘tell everyone’ what happened
+=======
+MLB
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+NBA
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
  
+=======
+NHL
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 National & World News
+=======
+soccer
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 9 dead in black church shooting that police call a hate crime; shooter at large
+=======
+live scores
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 National & World News
@@ -1254,45 +2109,87 @@ National & World News
 9 dead in mass shooting at Charleston, South Carolina church, police say
 
 
+=======
+tables
 
 
 
 
+competitions
+
+
+
+
+results
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 National & World News
  
 Politics
+=======
+fixtures
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 South Carolina bill to remove Confederate flag moves to House
+=======
+clubs
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+tech
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+arts
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
  
+=======
+movies
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+tv & radio
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+music
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Mobile Apps
 News App (iOS)
 
@@ -1306,14 +2203,32 @@ Weather App (iOS)
 Weather App (Android)
 
 
+=======
+games
 
 
 
 
+books
 
 
 
 
+art & design
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+stage
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Facebook
 
 
@@ -1329,18 +2244,42 @@ Pinterest
 About & Contact
 
 
+=======
+classical
 
 
 
 
 
 
+lifestyle
 
 
 
 
+food
+>>>>>>> origin/master
 
 
+
+
+<<<<<<< HEAD
+=======
+health & fitness
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+love & sex
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 Online Public File
@@ -1363,14 +2302,22 @@ WordPress.com VIP
 
 
 
+=======
+family
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+women
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 ×
 
@@ -1379,93 +2326,176 @@ Email Alerts
 
 
 
+=======
+home & garden
 
 
 
 
 
 
+fashion
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+business
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+economics
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+sustainable business
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+diversity & equality in business
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+small business
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+travel
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+USA
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+europe
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+UK
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+environment
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+climate change
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+wildlife
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+energy
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+pollution
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+science
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+media
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+crosswords
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+video
+>>>>>>> origin/master
 
 
 
+
+
+
+
+
+
+<<<<<<< HEAD
 Send to Email Address
 
 
@@ -1507,6 +2537,61 @@ Cancel
 
 
 
+=======
+
+
+US News
+
+
+
+
+›
+Charleston shooting
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+
+
+
+
+
+
+
+
+
+
+=======
+jobs
+
+subscribe
+all topics
+all contributors
+
+
+report technical issue
+
+
+
+about us
+
+contact us
+
+complaints & corrections
+terms & conditions
+privacy policy
+cookie policy
+securedrop
+
+
+© 2015 Guardian News and Media Limited or its affiliated companies. All rights reserved.
+>>>>>>> origin/master
 
 
 
@@ -1524,22 +2609,8 @@ Cancel
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
+=======
+ 
+>>>>>>> origin/master
 

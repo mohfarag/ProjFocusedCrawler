@@ -1,7 +1,22 @@
+<<<<<<< HEAD
 New Orleans Cop Killer Travis Boys Captured | New York's PIX11 / WPIX-TV 
 
 
 New Orleans Cop Killer Travis Boys Captured | New York's PIX11 / WPIX-TV
+=======
+charleston shooting | FOX2now.com 
+charleston shooting | FOX2now.com
+
+
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+GoSearch
+>>>>>>> origin/master
 
 
 
@@ -9,10 +24,7 @@ New Orleans Cop Killer Travis Boys Captured | New York's PIX11 / WPIX-TV
 
 
 
-
-
-
-
+<<<<<<< HEAD
 
 
 
@@ -49,6 +61,14 @@ PIX11 TV Schedule
  Search
 
 
+=======
+ Replay: FOX 2 News 
+
+FOX 2 TV Schedule 
+
+
+ Search
+>>>>>>> origin/master
  Contact Us
 
 
@@ -56,6 +76,7 @@ PIX11 TV Schedule
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -96,6 +117,19 @@ Contests
 Traffic
 
 
+=======
+FOX2now.com
+
+ Menu
+
+News
+Links
+AM Show
+Sports
+Traffic
+Contests
+STLMoms
+>>>>>>> origin/master
 Events
 
 
@@ -104,6 +138,7 @@ Events
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -115,17 +150,34 @@ Weather
 77°
 
 
+=======
+Weather 
+
+82°
+
+
+
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+
+
+=======
+82°
+
+
+Low 76°
+High 95°
+>>>>>>> origin/master
 
 
 
 
 
-
-
-
-
-
-
+<<<<<<< HEAD
 
 
 
@@ -206,6 +258,32 @@ See complete forecast
 
 
 
+=======
+Mon
+
+
+					76°  96°
+					
+
+
+Tue
+
+
+					77°  93°
+					
+
+
+Wed
+
+
+					75°  90°
+					
+
+
+See complete forecast
+
+ Severe weather alert
+>>>>>>> origin/master
 
 
 
@@ -224,6 +302,7 @@ See complete forecast
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -233,10 +312,13 @@ See complete forecast
 
 
 
+=======
+>>>>>>> origin/master
  
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -244,12 +326,27 @@ See complete forecast
 
 
 
+=======
+						charleston shooting					
+
+
+
+News
+
+Charleston: Forgiveness and frustration after first church service since massacre
+
+
+News
+
+St. Louis faith leaders gather to mourn victims of Charleston shooting
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 Suspect arrested after shooting, killing officer in New Orleans
 
 
@@ -260,12 +357,20 @@ CNN
 , 
 Updated at 12:15pm, June 21, 2015
  
+=======
+
+Mobile AppsAndroid App
+Android Weather App
+iPhone & iPad App
+iPhone Weather App
+>>>>>>> origin/master
 
 
 
 
 Facebook
 Twitter
+<<<<<<< HEAD
 Reddit
 Pinterest
 Email
@@ -327,17 +432,32 @@ New Orleans Police Department
 , 
 Travis Boys
  
+=======
+Email Alerts
+About & Contact
+
+
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
+=======
+Online Public File • 				Terms of Service •
+		Privacy Policy  •
+		2250 Ball Drive St. Louis MO 63146  •
+		Copyright © 2015, KTVI		 • A Tribune Broadcasting Station •
+		Powered by WordPress.com VIP 
+>>>>>>> origin/master
 
 
 
 
 
 ×
+<<<<<<< HEAD
 
 
 Report a Typo
@@ -870,6 +990,8 @@ WordPress.com VIP
 ×
 
 
+=======
+>>>>>>> origin/master
 Email Alerts
 
 
@@ -912,6 +1034,7 @@ Email Alerts
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -1063,3 +1186,5 @@ Cancel
 
 
 
+=======
+>>>>>>> origin/master

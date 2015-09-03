@@ -1,10 +1,17 @@
+<<<<<<< HEAD
 $225K raised in wake of Charleston church shooting - FOX Carolina 21$225K raised in wake of Charleston church shooting - FOX Carolina 21
 
+=======
+Charleston shooting | US news | The Guardian
+
+Charleston shooting | US news | The Guardian
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 $225K raised in wake of Charleston church shooting - FOX Carolina 21
 Member Center:
 Create Account
@@ -13,17 +20,23 @@ Log In
 Manage Account
 |
 Log Out
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 SITE SEARCH
+=======
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 
 
 Home
@@ -88,6 +101,257 @@ Social Tools
 Jobs
 Mobile
 FCC Public File
+=======
+Close
+
+
+
+
+
+
+
+
+Skip to main content
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+sign in
+
+
+
+
+
+
+
+
+subscribe
+
+
+
+
+
+
+
+search
+
+
+
+
+jobs
+
+
+
+
+
+
+
+
+
+
+more
+
+
+from the guardian:
+
+
+jobs
+
+
+
+change edition:
+
+
+
+switch to the  UK  edition
+
+
+switch to the  AU  edition
+
+
+switch to the 
+INT
+beta
+ edition
+
+
+
+
+
+
+
+
+US edition
+
+
+
+
+switch to the 
+UK edition
+
+
+
+
+switch to the 
+Australia edition
+
+
+
+
+switch to the 
+International
+beta
+
+
+
+
+
+
+
+
+
+
+The Guardian
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+home
+
+
+›
+US
+
+
+
+
+
+
+
+
+
+
+home
+
+
+
+
+US
+selected
+
+
+
+
+world
+
+
+
+
+opinion
+
+
+
+
+sports
+
+
+
+
+soccer
+
+
+
+
+tech
+
+
+
+
+arts
+
+
+
+
+lifestyle
+
+
+
+
+fashion
+
+
+
+
+business
+
+
+
+
+travel
+
+
+
+
+environment
+
+
+
+
+science
+
+
+
+
+
+
+browse all sections
+close
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Charleston shooting
+
+Sunday
+
+12
+July
+2015
 
 
 
@@ -107,9 +371,347 @@ FCC Public File
 
 
 
+New Orleans mayor lays out broad plan to rid city of Confederate relics
+
+
+Mitch Landrieu aims to rid city of statues of Jefferson Davis, Robert E Lee, and other Confederate leaders while he calls for the renaming of a major parkway
 
 
 
+
+
+
+
+
+New Orleans mayor lays out broad plan to rid city of Confederate relics
+
+
+
+
+
+
+Older
+Newer
+
+
+
+
+
+
+Topics
+
+
+
+US politics
+
+
+
+
+Protest
+
+
+
+
+Louisiana
+
+
+
+
+New Orleans
+
+
+
+
+American civil war
+
+
+
+More…
+
+
+
+US crime
+
+
+
+
+Race issues
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Guardian
+
+
+
+
+
+
+
+
+back to top
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+home
+
+
+
+
+US
+selected
+
+
+
+
+world
+
+
+
+
+opinion
+
+
+
+
+sports
+
+
+
+
+soccer
+
+
+
+
+tech
+
+
+
+
+arts
+
+
+
+
+lifestyle
+
+
+
+
+fashion
+
+
+
+
+business
+
+
+
+
+travel
+
+
+
+
+environment
+
+
+
+
+science
+
+
+
+
+
+
+
+all sections
+close
+
+
+
+
+
+
+
+home
+
+
+
+
+US
+selected
+
+
+
+
+world
+
+
+
+
+UK
+
+
+
+
+europe
+
+
+
+
+americas
+
+
+
+
+asia
+
+
+
+
+middle east
+
+
+
+
+africa
+
+
+
+
+australia
+
+
+
+
+cities
+
+
+
+
+development
+
+
+
+
+
+
+opinion
+
+
+
+
+sports
+
+
+
+
+soccer
+
+
+
+
+MLS
+
+
+
+
+NFL
+
+
+
+
+MLB
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+
+
+=======
+NBA
+
+
+
+
+NHL
+
+
+
+
+
+
+soccer
+
+
+
+
+live scores
+
+
+
+
+tables
+
+
+
+
+competitions
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+results
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+fixtures
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+clubs
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 $225K raised in wake of Charleston church shooting
 
 
@@ -125,19 +727,44 @@ Updated:
 
 
 Monday, July 20, 2015 2:53 PM EDT
+=======
+
+
+tech
 
 
 
 
+arts
+
+
+
+
+movies
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 (File: FOX Carolina)
 
 
+=======
+tv & radio
 
 
 
 
+music
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 CHARLESTON, SC (FOX Carolina) -
             
  More than $225,000 has been donated to the funds created in the wake of the Charleston church shooting, city officials announced on Monday. 
@@ -161,30 +788,52 @@ c/o The Palmetto Project
 6296 Rivers Avenue #100
 North Charleston, SC 29406
 Copyright 2015 FOX Carolina (Meredith Corporation). All rights reserved.
+=======
+games
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+books
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+art & design
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+stage
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 Web Poll
 Should the Confederate flag be removed from the SC Statehouse grounds?
+=======
+classical
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 Yes
@@ -192,10 +841,19 @@ No
 I'm not sure
 
 
+=======
+lifestyle
 
 
 
 
+food
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Thank you for participating in our poll. Here are the results so far:
 Yes
 26%
@@ -211,40 +869,77 @@ I'm not sure
 SC leaders call for Confederate flag removal from Statehouse grounds
 
 
+=======
+health & fitness
+
+
+
+
+love & sex
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+family
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+women
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+home & garden
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+fashion
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+business
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+economics
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+sustainable business
+>>>>>>> origin/master
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 Most Popular Stories
 Most Popular Stories
 More>>
@@ -415,53 +1110,99 @@ SLIDESHOW: 2015 Back to school pics
  
 
 
+=======
+diversity & equality in business
+
+
+
+
+small business
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+travel
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+USA
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+europe
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+UK
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+environment
+>>>>>>> origin/master
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 
 
 News
 
 
 Weather
+=======
+climate change
 
 
 
 
+wildlife
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Weather Blog
+=======
+energy
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+pollution
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Video
 
 
@@ -471,15 +1212,30 @@ Sports
 Entertainment
 
 
+=======
+
+
+science
 
 
 
 
+media
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Station
+=======
+crosswords
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 News Team
 
 
@@ -487,6 +1243,13 @@ Program Schedule
 
 
 Job Openings
+=======
+video
+
+
+
+
+>>>>>>> origin/master
 
 
 
@@ -495,6 +1258,7 @@ Job Openings
 
 
 
+<<<<<<< HEAD
 Online Public File
 
 
@@ -511,6 +1275,32 @@ FCC EEO Public File Report
 
 Public File Contact
 
+=======
+
+jobs
+
+subscribe
+all topics
+all contributors
+
+
+report technical issue
+
+
+
+about us
+
+contact us
+
+complaints & corrections
+terms & conditions
+privacy policy
+cookie policy
+securedrop
+
+
+© 2015 Guardian News and Media Limited or its affiliated companies. All rights reserved.
+>>>>>>> origin/master
 
 
 
@@ -522,6 +1312,7 @@ Public File Contact
 
 
 
+<<<<<<< HEAD
 
       All content © 2015, 
 WHNS; Greenville, SC. (A Meredith Corporation Station)
@@ -533,10 +1324,16 @@ Privacy Policy
 Terms of Service
 .
     
+=======
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+ 
+>>>>>>> origin/master
 

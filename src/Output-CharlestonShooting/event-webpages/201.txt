@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 Police-Involved Shooting « CBS Chicago
 
 Police-Involved Shooting « CBS Chicago
+=======
+Charleston shooting | US news | The Guardian
+
+Charleston shooting | US news | The Guardian
+>>>>>>> origin/master
 
 
 
@@ -16,14 +22,22 @@ Police-Involved Shooting « CBS Chicago
 
 
 
+<<<<<<< HEAD
 
 
 
 Chicago
+=======
+Close
+
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Radio.com
 
 
@@ -262,6 +276,10 @@ Autos
 
 
 
+=======
+
+Skip to main content
+>>>>>>> origin/master
 
  
 
@@ -270,8 +288,20 @@ Autos
 
 
 
+<<<<<<< HEAD
 Police-Involved Shooting
 
+=======
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
+=======
+sign in
+>>>>>>> origin/master
 
 
 
@@ -280,11 +310,7 @@ Police-Involved Shooting
 
 
 
-
-
-
-
-
+<<<<<<< HEAD
 
 
 Suspect Wounded In Police-Involved Shooting On South Side
@@ -295,6 +321,25 @@ A suspect was wounded during a police-involved shooting early Saturday in the So
 
 03/24/2012
 
+=======
+subscribe
+
+
+
+
+
+
+
+search
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+jobs
+>>>>>>> origin/master
 
 
 
@@ -304,10 +349,7 @@ A suspect was wounded during a police-involved shooting early Saturday in the So
 
 
 
-
-
-
-
+<<<<<<< HEAD
 3 Robbers, Clerk Shot In Robbery, Police Shootout On West Side
 
 
@@ -338,6 +380,32 @@ Police fatally shot a 49-year-old woman in her apartment building after an armed
 CBS Chicago–03/11/2012
 
 
+=======
+
+more
+
+
+from the guardian:
+
+
+jobs
+
+
+
+change edition:
+
+
+
+switch to the  UK  edition
+
+
+switch to the  AU  edition
+
+
+switch to the 
+INT
+beta
+ edition
 
 
 
@@ -346,10 +414,31 @@ CBS Chicago–03/11/2012
 
 
 
+US edition
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+switch to the 
+UK edition
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+switch to the 
+Australia edition
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Cops Fire At Teen Who Pointed Fake Gun At Them
 
 
@@ -357,6 +446,25 @@ Police opened fire on but did not strike a 17-year-old who pointed a fake gun at
 
 
 02/26/2012
+=======
+switch to the 
+International
+beta
+
+
+
+
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+The Guardian
+>>>>>>> origin/master
 
 
 
@@ -365,12 +473,7 @@ Police opened fire on but did not strike a 17-year-old who pointed a fake gun at
 
 
 
-
-
-
-
-
-
+<<<<<<< HEAD
 Family Seeks Federal Probe Of Fatal Shooting By Calumet City Cops
 
 
@@ -378,6 +481,26 @@ About 10 people marched with the family of 15-year-old Stephon Watts Saturday, d
 
 
 WBBM Newsradio–02/26/2012
+=======
+
+
+
+
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+
+
+=======
+home
+
+
+›
+US
+>>>>>>> origin/master
 
 
 
@@ -386,12 +509,7 @@ WBBM Newsradio–02/26/2012
 
 
 
-
-
-
-
-
-
+<<<<<<< HEAD
 Funeral Held For Autistic Teen Shot & Killed By Calumet City Cops
 
 
@@ -401,18 +519,38 @@ More than 700 people attended a funeral service in Dolton for the 15-year-old bo
 CBS Chicago–02/19/2012
 
 
+=======
+
+
+home
 
 
 
 
+US
+selected
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+world
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+opinion
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Person Shot By Off-Duty Cop At Fermilab
 
 
@@ -420,18 +558,35 @@ A traffic chase between an off-duty police officer and a car involved in a hit-a
 
 
 02/19/2012
+=======
+sports
 
 
 
 
+soccer
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+tech
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+arts
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 Man Shot Dead While Trying To Run Over Off-Duty Officer
@@ -443,18 +598,40 @@ A man was shot dead by an off-duty Chicago police officer outside the officer’
 02/11/2012
 
 
+=======
+lifestyle
 
 
 
 
+fashion
 
 
 
 
+business
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+travel
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+environment
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Harvey Cops Nab Robbers Who Targeted Tow Truck Drivers
 
 
@@ -464,6 +641,17 @@ In south suburban Harvey, a sting by police has ended with a robbery suspect cri
 CBS 2–01/11/2012
 
 
+=======
+science
+
+
+
+
+
+
+browse all sections
+close
+>>>>>>> origin/master
 
 
 
@@ -472,10 +660,15 @@ CBS 2–01/11/2012
 
 
 
+<<<<<<< HEAD
+=======
+ 
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Man Shot By Police On Northwest Side
 
 
@@ -486,6 +679,20 @@ CBS Chicago–01/08/2012
 
 
 
+=======
+
+
+
+
+
+Charleston shooting
+
+Friday
+
+26
+June
+2015
+>>>>>>> origin/master
 
 
 
@@ -497,6 +704,7 @@ CBS Chicago–01/08/2012
 
 
 
+<<<<<<< HEAD
 Gunman Shot And Killed By Police In Marquette Park
 
 
@@ -504,6 +712,25 @@ Police shot and killed man in the Southwest Side Marquette Park neighborhood jus
 
 
 01/01/2012
+=======
+
+
+
+
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+
+
+=======
+Obama speaks at Clementa Pinckney funeral – read the eulogy in full
+
+
+The president makes a case for the tearing down of the Confederate flag and addresses ‘mayhem’ of gun violence in eulogy for pastor killed in Charleston
+>>>>>>> origin/master
 
 
 
@@ -512,12 +739,7 @@ Police shot and killed man in the Southwest Side Marquette Park neighborhood jus
 
 
 
-
-
-
-
-
-
+<<<<<<< HEAD
 Man Charged With Pointing Gun At Cops In Woodlawn
 
 
@@ -525,6 +747,13 @@ A 23-year-old man has been charged with pointing a gun at Chicago police officer
 
 
 12/05/2011
+=======
+Obama speaks at Clementa Pinckney funeral – read the eulogy in full
+
+
+
+
+>>>>>>> origin/master
 
 
 
@@ -539,6 +768,7 @@ A 23-year-old man has been charged with pointing a gun at Chicago police officer
 
 
 
+<<<<<<< HEAD
 Man Charged After Off-Duty Officer Shoots Suspect
 
 
@@ -546,6 +776,15 @@ A man was charged with aggravated assault after an off-duty Chicago Police offic
 
 
 11/27/2011
+=======
+
+
+
+
+Sorry, your browser is unable to play this video.
+Please install Adobe Flash™ and try again.
+Alternatively upgrade to a modern browser.
+>>>>>>> origin/master
 
 
 
@@ -560,6 +799,7 @@ A man was charged with aggravated assault after an off-duty Chicago Police offic
 
 
 
+<<<<<<< HEAD
 Police Officer Hurt In Fatal Shooting On South Side
 
 
@@ -567,6 +807,25 @@ A Chicago Police officer shot a man dead after he began punching her in the face
 
 
 11/24/2011
+=======
+
+
+
+
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+
+
+=======
+Obama says Americans have been 'blind' to gun violence – video
+
+
+US president Barack Obama said that for too long Americans have been 'blind' to the 'unique mayhem' caused by gun violence across the country
+>>>>>>> origin/master
 
 
 
@@ -575,12 +834,7 @@ A Chicago Police officer shot a man dead after he began punching her in the face
 
 
 
-
-
-
-
-
-
+<<<<<<< HEAD
 Burglary Suspect Arrested After Pointing Gun At Cops
 
 
@@ -588,6 +842,13 @@ A burglary suspect was charged Wednesday with aggravated assault of a police off
 
 
 11/23/2011
+=======
+Obama says Americans have been 'blind' to gun violence – video
+
+
+
+
+>>>>>>> origin/master
 
 
 
@@ -602,6 +863,7 @@ A burglary suspect was charged Wednesday with aggravated assault of a police off
 
 
 
+<<<<<<< HEAD
 One Wounded In Police-Involved Shooting On South Side
 
 
@@ -609,6 +871,15 @@ Police shot a person late Saturday in the South Side Woodlawn neighborhood.
 
 
 10/02/2011
+=======
+
+
+
+
+Sorry, your browser is unable to play this video.
+Please install Adobe Flash™ and try again.
+Alternatively upgrade to a modern browser.
+>>>>>>> origin/master
 
 
 
@@ -623,6 +894,7 @@ Police shot a person late Saturday in the South Side Woodlawn neighborhood.
 
 
 
+<<<<<<< HEAD
 Suspect Escapes After Cops Fire Shots During Traffic Stop
 
 
@@ -630,6 +902,25 @@ An armed robbery suspect escaped after Police officers fired shots at him on Mon
 
 
 09/26/2011
+=======
+
+
+
+
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+
+
+=======
+Obama sings Amazing Grace during eulogy for Charleston pastor – video
+
+
+The president led a congregation of 5,500 mostly African American mourners in a rendition of Amazing Grace on Friday
+>>>>>>> origin/master
 
 
 
@@ -638,12 +929,7 @@ An armed robbery suspect escaped after Police officers fired shots at him on Mon
 
 
 
-
-
-
-
-
-
+<<<<<<< HEAD
 Suspect Charged In Connection With Fatal Police-Involved Shooting
 
 
@@ -651,6 +937,13 @@ A 20-year-old man was charged Friday in connection with the police-involved shoo
 
 
 09/16/2011
+=======
+Obama sings Amazing Grace during eulogy for Charleston pastor – video
+
+
+
+
+>>>>>>> origin/master
 
 
 
@@ -662,6 +955,7 @@ A 20-year-old man was charged Friday in connection with the police-involved shoo
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -675,6 +969,21 @@ CBS Chicago–09/13/2011
 
 
 
+=======
+Obama sings Amazing Grace at funeral of Charleston victim Clementa Pinckney – as it happened
+
+
+Thousands gather to pay respects to pastor killed in church shooting as president delivers eulogy, joined by vice-president
+
+
+
+
+
+
+
+
+Obama sings Amazing Grace at funeral of Charleston victim Clementa Pinckney – as it happened
+>>>>>>> origin/master
 
 
 
@@ -686,6 +995,7 @@ CBS Chicago–09/13/2011
 
 
 
+<<<<<<< HEAD
 Hanover Park Murder Suspect Dies After Police Shot Him
 
 
@@ -694,6 +1004,14 @@ A northwest suburban man called a person of interest in his wife’s murder died
 
 09/04/2011
 
+=======
+
+
+
+
+
+Obama gives searing speech on race in eulogy for Charleston pastor
+>>>>>>> origin/master
 
 
 
@@ -703,6 +1021,7 @@ A northwest suburban man called a person of interest in his wife’s murder died
 
 
 
+<<<<<<< HEAD
 more
  
 
@@ -711,6 +1030,13 @@ more
 
 previous
  
+=======
+
+Obama gives searing speech on race in eulogy for Charleston pastor
+
+
+
+>>>>>>> origin/master
 
 
 
@@ -718,12 +1044,18 @@ previous
 
 
 
+<<<<<<< HEAD
 
 Listen Live
+=======
+'We need co-conspirators, not allies': how white Americans can fight racism
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
  
 
 
@@ -759,6 +1091,28 @@ Most recently, two men were shot late Thursday in the West Side Austin neighborh
 
 Follow 
 CBS Chicago
+=======
+
+
+
+
+
+'We need co-conspirators, not allies': how white Americans can fight racism
+
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+Dylann Roof had gun magazines in car months before Charleston shooting
+>>>>>>> origin/master
 
 
 
@@ -769,21 +1123,19 @@ CBS Chicago
 
 
 
+<<<<<<< HEAD
+=======
+Dylann Roof had gun magazines in car months before Charleston shooting
+>>>>>>> origin/master
 
 
 
 
 
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 Follow @CBSChicago
+=======
+>>>>>>> origin/master
 
 
 
@@ -792,11 +1144,28 @@ Follow @CBSChicago
 
 
 
+<<<<<<< HEAD
+=======
+ 90-year-old Charleston-born civil rights activist: 'We’re still working on those revolutions’ - video
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Like us on foursquare
+=======
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+ 90-year-old Charleston-born civil rights activist: 'We’re still working on those revolutions’ - video
+>>>>>>> origin/master
 
 
 
@@ -807,6 +1176,10 @@ Like us on foursquare
 
 
 
+<<<<<<< HEAD
+=======
+Cloud of racism hangs heavy over Obama eulogy for South Carolina pastor
+>>>>>>> origin/master
 
 
 
@@ -817,6 +1190,10 @@ Like us on foursquare
 
 
 
+<<<<<<< HEAD
+=======
+Cloud of racism hangs heavy over Obama eulogy for South Carolina pastor
+>>>>>>> origin/master
 
 
 
@@ -827,19 +1204,18 @@ Like us on foursquare
 
 
 
-
-
-
-
-
-
+<<<<<<< HEAD
 Follow More Stations and Personalities
+=======
+Charleston library renamed in honour of church shootings victim
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
  
 Contests & Promotions
 Blue Collar Bears Fan Of The Week
@@ -890,22 +1266,54 @@ dodgerman
 #LIVE
  
 33 minutes ago
+=======
 
 
 
 
+Charleston library renamed in honour of church shootings victim
+
+
+
+
+
+
+
+
+Older
+Newer
+
+
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
  
 
 
 
+=======
+Topics
+
+
+
+South Carolina
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+Barack Obama
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -932,15 +1340,50 @@ Download Our New Weather App!
 
 
 
+=======
+Gun crime
 
 
 
 
+Race issues
+
+
+
+
+US politics
+
+
+
+More…
+
+
+
+Protest
+
+
+
+
+US gun control
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
  
 
+=======
+Libraries
+
+
+
+
+Civil rights movement
+>>>>>>> origin/master
 
 
 
@@ -950,11 +1393,15 @@ Download Our New Weather App!
 
 
 
+<<<<<<< HEAD
 News
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Local
 
 
@@ -974,17 +1421,37 @@ Weather
 
 
 Traffic
+=======
+The Guardian
 
 
 
 
 
 
+
+
+back to top
+
+
+
+
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
 Sports
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Bears
 
 
@@ -1004,10 +1471,30 @@ Podcasts
 
 
 Blogs
+=======
+home
 
 
 
 
+US
+selected
+
+
+
+
+world
+
+
+
+
+opinion
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 Scores & Stats
@@ -1025,10 +1512,29 @@ NBA Basketball
 
 
 NHL Hockey
+=======
+sports
 
 
 
 
+soccer
+
+
+
+
+tech
+
+
+
+
+arts
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 Contact Us
@@ -1051,15 +1557,43 @@ Connect
 Mobile
 
 
+=======
+lifestyle
 
 
 
 
+fashion
+
+
+
+
+business
+
+
+
+
+travel
+
+
+
+
+environment
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Corporate
+=======
+science
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 About Us
 
 
@@ -1076,6 +1610,12 @@ Mobile
 
 
 Connect
+=======
+
+
+
+all sections
+close
 
 
 
@@ -1083,7 +1623,22 @@ Connect
 
 
 
+home
+>>>>>>> origin/master
 
+
+
+
+<<<<<<< HEAD
+=======
+US
+selected
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 Chicago Business Listings
@@ -1106,10 +1661,34 @@ Professional Services
 Search Listings
 
 
+=======
+world
 
 
 
 
+UK
+
+
+
+
+europe
+
+
+
+
+americas
+
+
+
+
+asia
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 By viewing our video content, you are accepting the terms of our 
@@ -1163,14 +1742,64 @@ WordPress.com VIP
  
 
 
+=======
+middle east
+
+
+
+
+africa
+
+
+
+
+australia
+
+
+
+
+cities
+
+
+
+
+development
 
 
 
 
 
 
+opinion
 
 
+
+
+sports
+
+
+
+
+soccer
+
+
+
+
+MLS
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+NFL
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Facebook
 
 
@@ -1178,17 +1807,32 @@ Twitter
 
 
 RSS
+=======
+MLB
 
 
 
 
+NBA
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 Other CBS Local Cities 
+=======
+NHL
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 CBS Atlanta
 
 
@@ -1264,31 +1908,113 @@ CBS Tampa
 CBS Washington
 
 
+=======
+soccer
+
+
+
+
+live scores
+
+
+
+
+tables
+
+
+
+
+competitions
+
+
+
+
+results
+
+
+
+
+fixtures
+
+
+
+
+clubs
 
 
 
 
 
 
+tech
 
 
+
+
+arts
+
+
+
+
+movies
+
+
+
+
+tv & radio
+
+
+
+
+music
+
+
+
+
+games
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+books
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 ©2015 CBS Local Media,
  
 a division of CBS Radio Inc.
  
 All rights reserved.
+=======
+art & design
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+stage
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+classical
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Buy Tickets
 Order Food
  
@@ -1309,22 +2035,45 @@ Daily Deals
  
 
 
+=======
+
+
+lifestyle
 
 
 
 
+food
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+health & fitness
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+love & sex
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+family
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 Log In
@@ -1346,48 +2095,102 @@ Twitter
 Youtube
 
 
+=======
+women
+
+
+
+
+home & garden
 
 
 
 
 
 
+fashion
 
 
+
+
+business
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+economics
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
  
 
 
+=======
+sustainable business
+
+
+
+
+diversity & equality in business
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+small business
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+travel
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+USA
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+europe
+>>>>>>> origin/master
 
 
 
 
-
-
-
-
+<<<<<<< HEAD
 Listen Live
+=======
+UK
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 
 
 AM/FM Stations
@@ -1411,17 +2214,45 @@ B96
 
 
 WBBM NewsRadio
+=======
+environment
+
+
+
+
+climate change
+
+
+
+
+wildlife
+
+
+
+
+energy
+
+
+
+
+pollution
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 Featured Shows & Multimedia
+=======
+science
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Play.It
 
 
@@ -1434,13 +2265,72 @@ CBS Sports Radio
 Radio.com
 
 
+=======
+media
+
+
+
+
+crosswords
+
+
+
+
+video
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 Advertise On Our Streams
+=======
+>>>>>>> origin/master
+
+
+
+
+
+
+
+<<<<<<< HEAD
+
+
+
+
+
+
+
+
+
+
+=======
+jobs
+
+subscribe
+all topics
+all contributors
+
+
+report technical issue
+
+
+
+about us
+
+contact us
+
+complaints & corrections
+terms & conditions
+privacy policy
+cookie policy
+securedrop
+
+
+© 2015 Guardian News and Media Limited or its affiliated companies. All rights reserved.
+>>>>>>> origin/master
 
 
 
@@ -1454,30 +2344,17 @@ Advertise On Our Streams
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
+ 
+=======
+>>>>>>> origin/master
 
 
 
 
  
 
-
-
-
- 
-
+<<<<<<< HEAD
 
 
 
@@ -1510,3 +2387,5 @@ Advertise On Our Streams
 
 
 
+=======
+>>>>>>> origin/master

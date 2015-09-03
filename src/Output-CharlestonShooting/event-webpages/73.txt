@@ -1,7 +1,14 @@
+<<<<<<< HEAD
 How to help support victims’ families in South Carolina church shooting that killed nine | myfox8.com 
 
 
 How to help support victims’ families in South Carolina church shooting that killed nine | myfox8.com
+=======
+Charleston shooting church has rich history from slave revolts to civil rights | US news | The Guardian
+
+Charleston shooting church has rich history from slave revolts to civil rights | US news | The Guardian
+
+>>>>>>> origin/master
 
 
 
@@ -16,8 +23,12 @@ How to help support victims’ families in South Carolina church shooting that k
 
 
 
+<<<<<<< HEAD
 Go
 Search
+=======
+Close
+>>>>>>> origin/master
 
 
 
@@ -26,6 +37,13 @@ Search
 
 
 
+<<<<<<< HEAD
+
+=======
+Skip to main content
+
+ 
+>>>>>>> origin/master
 
 
 
@@ -33,7 +51,7 @@ Search
 
 
 
-
+<<<<<<< HEAD
  Watch Now: 
 12 p.m. News 
 
@@ -41,16 +59,30 @@ Search
 
 FOX8 TV Schedule 
 
+=======
+
+
+
+
+sign in
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
  Search
 
 
  Contact Us
 
+=======
+
+
+
+subscribe
+>>>>>>> origin/master
 
 
 
@@ -58,23 +90,37 @@ FOX8 TV Schedule
 
 
 
+<<<<<<< HEAD
+=======
+search
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 myfox8.com
+=======
+jobs
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
  
 Menu
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 News
 
 
@@ -97,6 +143,32 @@ Contests
 
 
 Events
+=======
+more
+
+
+from the guardian:
+
+
+jobs
+
+
+
+change edition:
+
+
+
+switch to the  UK  edition
+
+
+switch to the  AU  edition
+
+
+switch to the 
+INT
+beta
+ edition
+>>>>>>> origin/master
 
 
 
@@ -105,6 +177,7 @@ Events
 
 
 
+<<<<<<< HEAD
 
 
 Weather 
@@ -115,6 +188,31 @@ Weather
 78°
 
 
+=======
+US edition
+
+
+
+
+switch to the 
+UK edition
+
+
+
+
+switch to the 
+Australia edition
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+switch to the 
+International
+beta
+>>>>>>> origin/master
 
 
 
@@ -125,23 +223,28 @@ Weather
 
 
 
-
-
-
-
+<<<<<<< HEAD
 78°
+=======
+The Guardian
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 Low 
 64°
 
 
 High 
 85°
+=======
+
+
+>>>>>>> origin/master
 
 
 
@@ -150,16 +253,27 @@ High
 
 
 
+<<<<<<< HEAD
 
 
 
 
 Sat
+=======
+home
+
+
+›
+US
+
+
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 					64° 
  87°
 					
@@ -171,17 +285,34 @@ Sat
 
 Sun
 
+=======
+
+
+
+home
 
 
 
 
+US
+selected
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 					66° 
  88°
 					
+=======
+world
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 Mon
@@ -194,47 +325,100 @@ Mon
  88°
 					
 
+=======
+opinion
 
 
 
 
+sports
+
+
+
+
+soccer
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 See complete forecast
 
 
 
+=======
+tech
 
 
 
 
-
-
-
- 
-
-
+arts
+>>>>>>> origin/master
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 
 
 
  
 
+=======
+lifestyle
+
+
+
+
+fashion
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+business
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+travel
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+environment
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+science
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
+ 
+
+=======
+
+browse all sections
+close
+>>>>>>> origin/master
 
 
 
@@ -243,6 +427,10 @@ See complete forecast
 
 
 
+<<<<<<< HEAD
+=======
+ 
+>>>>>>> origin/master
 
 
 
@@ -250,11 +438,15 @@ See complete forecast
 
 
 
+<<<<<<< HEAD
 How to help support victims’ families in South Carolina church shooting that killed nine
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Posted 4:43 pm, June 18, 2015, by 
 CNN Wire
 , 
@@ -271,6 +463,14 @@ Pinterest
 Reddit
 Email
  
+=======
+Charleston shooting
+
+
+
+Charleston shooting church has rich history from slave revolts to civil rights
+
+>>>>>>> origin/master
 
 
 
@@ -279,6 +479,7 @@ Email
 
 
 
+<<<<<<< HEAD
 
 
  
@@ -286,28 +487,49 @@ Email
 
 Cynthia Hurd.
  
+=======
+The Emanuel African Methodist Episcopal church in Charleston has been central to African American life and struggles in the south for nearly two centuries
+
+
+
+
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 ×
 
 
 How to help support victims’ families in South Carolina church shooting that killed nine
 
+=======
+
+
+
+Martin Luther King, seated third from left, waits to speak at the Emanuel AME church in Charleston.
+Photograph: The King Center
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
  
 Cynthia Hurd.
+=======
+Nicky Woolf
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 CHARLESTON, S.C. — Charleston’s Mayor Joseph P. Riley, Jr. has set up “Mother Emanuel Hope” fund at Wells Fargo bank.
@@ -359,15 +581,65 @@ The Rev. Sharonda Singleton, a speech therapist and track coach at Goose Creek H
 
 
 Cynthia Hurd, an employee of Charleston County Public Library for 31 years was also killed in the shooting. In a post made by the library on Facebook, a two day closure was announced in her memory.
+=======
+@nickywoolf
 
 
 
 
+Thursday 18 June 2015 12.44 EDT
+
+
+Last modified on Saturday 20 June 2015 12.23 EDT
+
+
+
+
+
+
+
+Share on Facebook
+
+
+
+
+
+
+
+Share on Twitter
+
+
+
+
+
+
+
+Share via Email
+
+
+
+
+
+
+
+Share on Pinterest
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 32.776475
 
 
 -79.931051
 
+=======
+
+
+
+Share on LinkedIn
+>>>>>>> origin/master
 
 
 
@@ -375,6 +647,7 @@ Cynthia Hurd, an employee of Charleston County Public Library for 31 years was a
 
 
 
+<<<<<<< HEAD
 
 
 Trademark and Copyright 2015 
@@ -393,6 +666,8 @@ South Carolina church shooting
 
 
 
+=======
+Share on Google+
 
 
 
@@ -400,10 +675,24 @@ South Carolina church shooting
 
 
 
+Share on WhatsApp
+>>>>>>> origin/master
+
+
+
+
+
+
+
+<<<<<<< HEAD
 ×
 
 
 Report a Typo
+=======
+
+
+>>>>>>> origin/master
 
 
 
@@ -412,6 +701,7 @@ Report a Typo
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -432,17 +722,67 @@ Typo
 
 
 
+=======
+They call it Mother Emanuel. Home to the oldest black congregation south of Baltimore, the Emanuel African Methodist Episcopal church in Charleston, South Carolina, has been a key part of the rich history of the American south, from slave revolts in the early 19th century to the civil rights movement.
+
+ Related: Charleston church shooting: Without gun control, racism will keep killing black people | Gary Younge 
+
+“Where you are is a very special place in Charleston,” the Reverend Clementa Pinckney, who was killed in the attack on the church on Wednesday, told a group of doctoral students in 2013. “This site, this area, has been tied to the history and life of African Americans since the early 1800s.”
+On Wednesday evening a new, bleak chapter in this rich history was written, when Pinckney and eight congregants were gunned down in cold blood at a basement Bible-study class.
+The attack, which police are calling a hate crime, carries troubling echoes of the past.
+“If [the shooter] was a white supremacist then he’s picked a target that’s incredibly symbolic in the black community. He’s hit at the very heart of it,” said Tim Lockley, a professor of American history at Warwick University who specialises in race relations.
+Mother Emanuel was born into an era of violence. In 1822, just four years after the first church was built, a freed slave and carpenter named Denmark Vesey, one of the founders of the Emanuel church, was the ringleader of a vast planned slave insurrection known as “the rising”.
+
+ Related: Charleston church shooting: 21-year-old suspect captured as 'holy city' mourns 
 
 
 
 
+The Emanuel church as a wooden structure was built between 1865 and 1872, and was demolished by an earthquake in 1886. Photograph: Emanuel Church
+
+
+Vesey and his alleged co-conspirators were betrayed and rounded up by Charleston authorities. The city convened a secret kangaroo court, and he and 34 others were swiftly hanged. Thirty more were deported, and white supremacists burned the old wooden church to the ground.
+In 1834, the city of Charleston banned all-black churches. The congregation of Emanuel, which had been rebuilt since the Vesey trials, were forced to meet in secret until the end of the civil war.
+After reconstruction, the congregation began to grow, and its importance for the black Christian community in Charleston grew along with it. 
+
+
+
+ Facebook 
+ Twitter 
+ Pinterest 
+
+
+The Rev Clementa Pinckney speaks at Emanuel African Methodist Episcopal church in 2012. Photograph: Randall Hill/Reuters
+
+
+Booker T Washington spoke there in 1909; Dr Martin Luther King’s gave a speech at Emanuel there urging congregants to vote in 1962. In 1969, almost exactly a year after King’s death, his widow Coretta Scott King led a protest to the church; 900 were arrested by the national guard.
+Barack Obama said on Thursdau that he and his wife Michelle knew members of the Emanuel congregation, and that they knew the Rev Pinckney.
+“Mother Emanuel is in fact more than a church,” the president said. “This is a place of worship that was founded by African-Americans seeking liberty. This is a church that was burned to the ground because its worshippers worked to end slavery.” 
+“This is a sacred place in the history of Charleston, and the history of America,” he said.
+Mother Emanuel has seen death, cruelty and despair. In his speech to the doctoral candidates, Pinckney said that the church was a “beacon, and a bearer of the culture, and a bearer of what makes us people”. Like America, he said, it was about freedom. “Freedom to worship … freedom to be all God intends you to be,” he said. “Sometimes you gotta make noise to do that.
+“Sometimes,” he said, “you maybe have to die, like Denmark Vesey, to do that.” 
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 
+=======
+More features 
+Topics
+
+
+
+Charleston shooting
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
@@ -453,6 +793,19 @@ Typo
 
 Cancel
 
+=======
+South Carolina
+
+
+
+
+Christianity
+
+
+
+
+Religion
+>>>>>>> origin/master
 
 
 
@@ -463,6 +816,10 @@ Cancel
 
 
 
+<<<<<<< HEAD
+=======
+Share on Facebook
+>>>>>>> origin/master
 
 
 
@@ -470,6 +827,10 @@ Cancel
 
 
 
+<<<<<<< HEAD
+=======
+Share on Twitter
+>>>>>>> origin/master
 
 
 
@@ -477,10 +838,25 @@ Cancel
 
 
 
+<<<<<<< HEAD
 
 
 
  
+=======
+Share via Email
+
+
+
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+Share on Pinterest
+>>>>>>> origin/master
 
 
 
@@ -488,10 +864,7 @@ Cancel
 
 
 
-
-
-
-
+<<<<<<< HEAD
 
 
 
@@ -501,6 +874,8 @@ Women Making a Difference
 Know a woman in the community who is doing good? We want to share your story.
 
 
+=======
+Share on LinkedIn
 
 
 
@@ -508,6 +883,8 @@ Know a woman in the community who is doing good? We want to share your story.
 
 
 
+Share on Google+
+>>>>>>> origin/master
 
 
 
@@ -515,19 +892,39 @@ Know a woman in the community who is doing good? We want to share your story.
 
 
 
+<<<<<<< HEAD
+=======
+Share on WhatsApp
+>>>>>>> origin/master
+
+
+
+
+
+
+
+<<<<<<< HEAD
  
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
  
+=======
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 Popular
+=======
+>>>>>>> origin/master
 
 
 
@@ -536,8 +933,13 @@ Popular
 
 
 
+<<<<<<< HEAD
 After shooting, Virginia gunman details grievances in ‘suicide note’ faxed to ABC News
 
+=======
+
+more on this story
+>>>>>>> origin/master
 
 
 
@@ -545,7 +947,10 @@ After shooting, Virginia gunman details grievances in ‘suicide note’ faxed t
 
 
 
+<<<<<<< HEAD
 Va. shooter posted tweets, video of shooting on social media
+=======
+>>>>>>> origin/master
 
 
 
@@ -554,16 +959,28 @@ Va. shooter posted tweets, video of shooting on social media
 
 
 
+<<<<<<< HEAD
 Va. reporter, photographer killed on-air during live news interview, shooter kills himself
 
 
 
 
+=======
+
+
+Charleston shootings: NRA blames victims as reactions echo Newtown
+
+
+An NRA board member suggested worshippers ‘might be alive’ if they had guns themselves, while Obama and gun control groups repeat calls for reform
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Iowa teachers sing ‘One Day More’ before students return to school — and it’s awesome
+=======
+>>>>>>> origin/master
 
 
 
@@ -571,23 +988,37 @@ Iowa teachers sing ‘One Day More’ before students return to school — and i
 
 
 
+<<<<<<< HEAD
+=======
+Published: 20 Jun 2015
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+Charleston shootings: NRA blames victims as reactions echo Newtown
+>>>>>>> origin/master
 
 
 
 
 
-
-
-
-
+<<<<<<< HEAD
  
+=======
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 Latest News
+=======
+>>>>>>> origin/master
 
 
 
@@ -596,16 +1027,28 @@ Latest News
 
 
 
+<<<<<<< HEAD
 Middle school teacher welcomes students back to magical Harry Potter-themed classroom
 
 
 
+=======
+
+
+
+Sorry, your browser is unable to play this video.
+Please install Adobe Flash™ and try again.
+Alternatively upgrade to a modern browser.
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 Greesnsboro police searching for man who exposed himself in front of children at Lawndale Target
+=======
+>>>>>>> origin/master
 
 
 
@@ -614,7 +1057,10 @@ Greesnsboro police searching for man who exposed himself in front of children at
 
 
 
+<<<<<<< HEAD
 Father allegedly robs bank to pay for daughter’s chemotherapy
+=======
+>>>>>>> origin/master
 
 
 
@@ -623,10 +1069,18 @@ Father allegedly robs bank to pay for daughter’s chemotherapy
 
 
 
+<<<<<<< HEAD
 Calif. man bitten while taking selfie with rattlesnake
 
 
 
+=======
+
+Michelle Obama on Charleston: 'Too many tragedies like this' - video
+
+
+Michelle Obama spoke about the deadly church shooting in Charleston, South Carolina.
+>>>>>>> origin/master
 
 
 
@@ -636,9 +1090,23 @@ Calif. man bitten while taking selfie with rattlesnake
 
 
 
+<<<<<<< HEAD
  
 
 
+=======
+
+
+Published: 19 Jun 2015
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+Michelle Obama on Charleston: 'Too many tragedies like this' - video
+>>>>>>> origin/master
 
 
 
@@ -654,25 +1122,35 @@ Calif. man bitten while taking selfie with rattlesnake
 
 
 
-
-
-
-
+<<<<<<< HEAD
 
 
 
 
 
 News
+=======
+Rick Perry calls Charleston church shooting an 'accident'
+
+
+Republican presidential candidate says ‘real issue’ raised by case is drugs and accuses Obama of seeking to use shooting to take away Americans’ guns
+
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Minister: ‘No evildoer, no demon’ can close church targeted by shooter
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 News
@@ -681,42 +1159,73 @@ News
 
 
 Former NC senator’s sister among 9 killed in Charleston church shooting
+=======
+Published: 19 Jun 2015
+
+
+
+
+Rick Perry calls Charleston church shooting an 'accident'
+
+
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 News
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Local AME church remembers South Carolina victims
+=======
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 News
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Worshippers return to South Carolina church after shooting that killed nine
+=======
+Sorry, your browser is unable to play this video.
+Please install Adobe Flash™ and try again.
+Alternatively upgrade to a modern browser.
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 News
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 High Point church taking up offering for Charleston
+=======
+>>>>>>> origin/master
 
 
 
@@ -725,25 +1234,39 @@ High Point church taking up offering for Charleston
 
 
 
+<<<<<<< HEAD
  
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 News
+=======
+No decision has been made on death penalty in Charleston church shooting, says prosecutor – video
+
+
+Prosecutor Scarlett Wilson says 'now is not the time' to discuss whether suspected gunman Dylann Roof will face the death penalty
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Police release photos of suspect in Charleston church shooting
+=======
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 News
 
 
@@ -751,68 +1274,116 @@ News
 
 Panthers donate $100k to families of victims in SC church shooting that killed nine
 
+=======
+
+Published: 19 Jun 2015
+
+
+
+
+No decision has been made on death penalty in Charleston church shooting, says prosecutor – video
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 News
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 SC Senator killed in Charleston church shooting
+=======
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 News
 
 
 
 
 Charleston remembers three more with services for victims of church massacre
+=======
+
+Representatives of Charleston shooting victims 'forgive' Dylann Roof
+
+
+
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 News
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 New details emerge about how the Charleston shooting unfolded
+=======
+Published: 19 Jun 2015
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+Representatives of Charleston shooting victims 'forgive' Dylann Roof
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
  
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 News
+=======
+Analysis
+
+11 myths about the future of gun control, debunked after the Charleston shooting
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Racist online manifesto mentions Charleston, includes images of suspect
+=======
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 News
 
 
@@ -821,18 +1392,37 @@ News
 Dylann Roof and Michael Slager are jail neighbors, police confirm
 
 
+=======
+
+
+Published: 20 Jun 2015
 
 
 
 
+11 myths about the future of gun control, debunked after the Charleston shooting
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 News
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Charleston victims: 9 lives lost to family and community
 
 
+=======
+
+
+Charleston killings leave US reckoning with race and guns amid 'broken peace'
+>>>>>>> origin/master
 
 
 
@@ -845,10 +1435,20 @@ Charleston victims: 9 lives lost to family and community
 
 
 
+<<<<<<< HEAD
  
 
 
 
+=======
+
+Published: 18 Jun 2015
+
+
+
+
+Charleston killings leave US reckoning with race and guns amid 'broken peace'
+>>>>>>> origin/master
 
 
 
@@ -858,6 +1458,7 @@ Charleston victims: 9 lives lost to family and community
 
 
 
+<<<<<<< HEAD
 Mobile Apps
 Android App
 
@@ -869,6 +1470,15 @@ Weather iPhone App
 
 
 iPhone & iPad App
+=======
+
+Charleston church shooting: suspect Dylann Roof in custody as community holds vigils
+
+
+
+
+
+>>>>>>> origin/master
 
 
 
@@ -877,6 +1487,7 @@ iPhone & iPad App
 
 
 
+<<<<<<< HEAD
 
 
 Facebook
@@ -892,6 +1503,20 @@ Pinterest
 
 
 About & Contact
+=======
+Published: 19 Jun 2015
+
+
+
+
+Charleston church shooting: suspect Dylann Roof in custody as community holds vigils
+
+
+
+
+
+
+>>>>>>> origin/master
 
 
 
@@ -901,6 +1526,15 @@ About & Contact
 
 
 
+<<<<<<< HEAD
+=======
+More more on this story
+
+
+
+
+
+>>>>>>> origin/master
 
 
 
@@ -908,6 +1542,7 @@ About & Contact
 
 
 
+<<<<<<< HEAD
 Online Public File
  • 				
 Terms of Service
@@ -924,6 +1559,22 @@ A Tribune Broadcasting Station
  •
 		Powered by 
 WordPress.com VIP
+=======
+ 
+
+
+
+
+
+popular
+
+
+
+
+
+
+
+>>>>>>> origin/master
  
 
 
@@ -933,74 +1584,248 @@ WordPress.com VIP
 
 
 
+<<<<<<< HEAD
+=======
+The Guardian
 
 
 
 
+
+
+
+
+back to top
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+home
+
+
+
+
+US
+selected
+
+
+
+
+world
+
+
+
+
+opinion
+
+
+
+
+sports
+
+
+
+
+soccer
+
+
+
+
+tech
+
+
+
+
+arts
+
+
+
+
+lifestyle
+
+
+
+
+fashion
+
+
+
+
+business
+
+
+
+
+travel
+
+
+
+
+environment
+
+
+
+
+science
+
+
+
+
+
+
+
+all sections
+close
+
+
+
+
+
+
+
+home
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 ×
 
 
 Email Alerts
 
 
+=======
+US
+selected
+
+
+
+
+world
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+UK
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+europe
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+americas
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+asia
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+middle east
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+africa
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+australia
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+cities
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+development
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+opinion
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+sports
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+soccer
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+MLS
+>>>>>>> origin/master
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 
 
 Follow
@@ -1019,68 +1844,142 @@ Get every new post delivered to your Inbox.
 
 
 Join 54,924 other followers
+=======
+NFL
 
 
 
 
+MLB
 
 
 
 
+NBA
 
 
 
 
+NHL
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+soccer
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+live scores
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+tables
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 Build a website with WordPress.com
 
 
+=======
+competitions
+
+
+
+
+results
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+fixtures
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+clubs
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+tech
+>>>>>>> origin/master
 
 
 
 
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 Send to Email Address
+=======
+arts
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Your Name
+=======
+movies
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Your Email Address
+=======
+tv & radio
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+music
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+games
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 Cancel
@@ -1097,6 +1996,236 @@ Cancel
 
 				Sorry, your blog cannot share posts by email.			
 
+=======
+books
+
+
+
+
+art & design
+
+
+
+
+stage
+
+
+
+
+classical
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+lifestyle
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+food
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+health & fitness
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+love & sex
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+family
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+women
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+home & garden
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+fashion
+
+
+
+
+business
+
+
+
+
+economics
+
+
+
+
+sustainable business
+
+
+
+
+diversity & equality in business
+
+
+
+
+small business
+
+
+
+
+
+
+travel
+
+
+
+
+USA
+
+
+
+
+europe
+
+
+
+
+UK
+
+
+
+
+
+
+environment
+
+
+
+
+climate change
+
+
+
+
+wildlife
+
+
+
+
+energy
+
+
+
+
+pollution
+
+
+
+
+
+
+science
+
+
+
+
+media
+
+
+
+
+crosswords
+
+
+
+
+video
+
+
+
+
+
+
+
+
+
+
+
+US News
+
+
+
+
+›
+Charleston shooting
+
+
+
+
+
+
+
+
+jobs
+
+subscribe
+all topics
+all contributors
+
+
+report technical issue
+
+
+
+about us
+
+contact us
+
+complaints & corrections
+terms & conditions
+privacy policy
+cookie policy
+securedrop
+
+
+© 2015 Guardian News and Media Limited or its affiliated companies. All rights reserved.
 
 
 
@@ -1114,22 +2243,6 @@ Cancel
 
 
 
+ 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+>>>>>>> origin/master

@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 Bank Robbery Suspect Shot In Evanston « CBS Chicago
 
 Bank Robbery Suspect Shot In Evanston « CBS Chicago
+=======
+Charleston shooting | US news | The Guardian
+
+Charleston shooting | US news | The Guardian
+>>>>>>> origin/master
 
 
 
@@ -16,6 +22,7 @@ Bank Robbery Suspect Shot In Evanston « CBS Chicago
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -114,6 +121,24 @@ SIGN UP FOR NEWSLETTERS
 
 
 
+=======
+Close
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+
+=======
+Skip to main content
+
+ 
+>>>>>>> origin/master
 
 
 
@@ -124,17 +149,44 @@ SIGN UP FOR NEWSLETTERS
 
 
 
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 Sponsored By
 
+=======
+
+sign in
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+subscribe
+>>>>>>> origin/master
+
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+search
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+jobs
+>>>>>>> origin/master
 
 
 
@@ -145,25 +197,7 @@ Sponsored By
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 CBS 2
 Welcome to CBS 2 on CBSChicago.com! CBS 2 is joining forces with the most trusted local CBS RADIO stations in Chicago to give you the best Chicago has to offer as CBS Local. CBS 2 […]
 WBBM Newsradio
@@ -188,6 +222,32 @@ YouTube
 
 
 
+=======
+more
+
+
+from the guardian:
+
+
+jobs
+
+
+
+change edition:
+
+
+
+switch to the  UK  edition
+
+
+switch to the  AU  edition
+
+
+switch to the 
+INT
+beta
+ edition
+>>>>>>> origin/master
 
 
 
@@ -196,10 +256,15 @@ YouTube
 
 
 
+<<<<<<< HEAD
+=======
+US edition
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 Home
@@ -252,34 +317,104 @@ Autos
 
 
 
+=======
+switch to the 
+UK edition
+
+
+
+
+switch to the 
+Australia edition
+
+
+
+
+switch to the 
+International
+beta
 
 
 
 
 
 
+
+
+
+
+The Guardian
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+home
+
+
+›
+US
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
  
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
  
+=======
+home
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+US
+selected
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+world
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+opinion
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 Bank Robbery Suspect Shot In Evanston
@@ -290,23 +425,100 @@ Bank Robbery Suspect Shot In Evanston
 December 16, 2013 4:32 PM
 
 
+=======
+sports
 
 
 
 
+soccer
 
 
 
 
+tech
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+arts
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+lifestyle
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+fashion
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 View Comments
+ 
+=======
+business
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+travel
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+environment
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+science
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+browse all sections
+close
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+View Comments
+=======
+>>>>>>> origin/master
  
 
 
@@ -317,6 +529,18 @@ View Comments
 
 
 
+<<<<<<< HEAD
+
+
+=======
+Charleston shooting
+
+Thursday
+
+9
+July
+2015
+>>>>>>> origin/master
 
 
 
@@ -334,38 +558,11 @@ View Comments
 
 
 
-View Comments
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 blog comments powered by 
 Disqus
+=======
+>>>>>>> origin/master
 
 
 
@@ -375,14 +572,24 @@ Disqus
 
 
 
+<<<<<<< HEAD
 
 
 
 Listen Live
+=======
+Sorry, your browser is unable to play this video.
+Please install Adobe Flash™ and try again.
+Alternatively upgrade to a modern browser.
+
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
  
 
 
@@ -412,12 +619,19 @@ Eight Wounded In Thursday Shootings Across Chicago
 Most recently, two men were shot late Thursday in the West Side Austin neighborhood. The men, ages 19 and 20, were standing outside in the 1500 block of North Linder about 10:25 p.m. when shots were fired in their direction from a group of males standing on the corner across the street, according to Chicago Police.
  
 80
+=======
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Follow 
 CBS Chicago
+=======
+>>>>>>> origin/master
 
 
 
@@ -427,6 +641,15 @@ CBS Chicago
 
 
 
+<<<<<<< HEAD
+
+
+=======
+South Carolina governor signs law to remove Confederate flag – video
+
+
+Governor Nikki Haley signs legislation on Thursday ordering the permanent removal of the Confederate battle flag from the state capitol grounds
+>>>>>>> origin/master
 
 
 
@@ -435,14 +658,19 @@ CBS Chicago
 
 
 
+<<<<<<< HEAD
+=======
+South Carolina governor signs law to remove Confederate flag – video
+>>>>>>> origin/master
 
 
 
 
 
-
-
+<<<<<<< HEAD
 Follow @CBSChicago
+=======
+>>>>>>> origin/master
 
 
 
@@ -453,9 +681,28 @@ Follow @CBSChicago
 
 
 
+<<<<<<< HEAD
 
 
 Like us on foursquare
+=======
+South Carolina governor signs law ordering removal of Confederate flag
+
+
+Governor Nikki Haley signs legislation regarding controversial emblem with nine pens she said would go to the families of Charleston victims
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+South Carolina governor signs law ordering removal of Confederate flag
+>>>>>>> origin/master
 
 
 
@@ -474,6 +721,16 @@ Like us on foursquare
 
 
 
+<<<<<<< HEAD
+
+
+=======
+My South Carolina university is whitewashing its complex racial history
+
+AD Carson
+
+While Clemson University supports removing the state’s Confederate flag, it is failing to address its own racist monuments
+>>>>>>> origin/master
 
 
 
@@ -482,23 +739,18 @@ Like us on foursquare
 
 
 
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 Follow More Stations and Personalities
+=======
+My South Carolina university is whitewashing its complex racial history
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
  
 Contests & Promotions
 Blue Collar Bears Fan Of The Week
@@ -555,6 +807,7 @@ dodgerman
 
  
 
+=======
 
 
 
@@ -564,18 +817,43 @@ dodgerman
 
 
 
+'A new day in South Carolina' as house votes to remove Confederate flag
+
+
+House of representatives vote means the banner could come down from statehouse grounds within days following a marathon debate by lawmakers
+>>>>>>> origin/master
 
 
 
 
 
+
+
+
+<<<<<<< HEAD
+=======
+'A new day in South Carolina' as house votes to remove Confederate flag
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
 
 News Via Email
  
+=======
+Older
+Newer
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Download The Free App
  
 
@@ -584,23 +862,45 @@ Download The Free App
 
 New Podcast Network
  
+=======
+
+Topics
+
+
+
+South Carolina
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Download Our New Weather App!
  
+=======
+Race issues
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+US politics
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
  
+=======
+Slavery
+
+
+>>>>>>> origin/master
 
 
 
@@ -611,6 +911,7 @@ Download Our New Weather App!
 
 
 
+<<<<<<< HEAD
 News
 
 
@@ -635,12 +936,33 @@ Weather
 
 
 Traffic
+=======
+
+The Guardian
 
 
 
 
 
 
+
+
+back to top
+
+
+
+
+
+
+
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
 Sports
 
 
@@ -666,10 +988,36 @@ Podcasts
 
 Blogs
 
+=======
+
+home
 
 
 
 
+US
+selected
+
+
+
+
+world
+
+
+
+
+opinion
+
+
+
+
+sports
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 Scores & Stats
 
@@ -687,10 +1035,29 @@ NBA Basketball
 
 NHL Hockey
 
+=======
+soccer
 
 
 
 
+tech
+
+
+
+
+arts
+
+
+
+
+lifestyle
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 Contact Us
 
@@ -717,10 +1084,37 @@ Mobile
 
 
 Corporate
+=======
+fashion
 
 
 
 
+business
+
+
+
+
+travel
+
+
+
+
+environment
+
+
+
+
+science
+
+
+
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 About Us
 
 
@@ -738,6 +1132,9 @@ Mobile
 
 Connect
 
+=======
+all sections
+close
 
 
 
@@ -745,7 +1142,27 @@ Connect
 
 
 
+home
 
+
+
+
+US
+selected
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+world
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 Chicago Business Listings
 
@@ -768,10 +1185,34 @@ Search Listings
 
 
 
+=======
+UK
 
 
 
 
+europe
+
+
+
+
+americas
+
+
+
+
+asia
+
+
+
+
+middle east
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 By viewing our video content, you are accepting the terms of our 
 Video Services Policy
@@ -822,14 +1263,59 @@ WordPress.com VIP
 
 
  
+=======
+africa
+
+
+
+
+australia
+
+
+
+
+cities
+
+
+
+
+development
 
 
 
 
 
 
+opinion
 
 
+
+
+sports
+
+
+
+
+soccer
+
+
+
+
+MLS
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+NFL
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 Facebook
@@ -841,10 +1327,24 @@ Twitter
 RSS
 
 
+=======
+MLB
 
 
 
 
+NBA
+
+
+
+
+NHL
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Other CBS Local Cities 
 
 
@@ -923,14 +1423,86 @@ CBS Tampa
 
 
 CBS Washington
+=======
+
+
+soccer
+
+
+
+
+live scores
+
+
+
+
+tables
+
+
+
+
+competitions
+
+
+
+
+results
+
+
+
+
+fixtures
+
+
+
+
+clubs
 
 
 
 
 
 
+tech
 
 
+
+
+arts
+
+
+
+
+movies
+
+
+
+
+tv & radio
+
+
+
+
+music
+
+
+
+
+games
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+books
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 ©2015 CBS Local Media,
@@ -940,16 +1512,29 @@ a division of CBS Radio Inc.
 All rights reserved.
 
 
+=======
+art & design
+
+
+
+
+stage
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+classical
+>>>>>>> origin/master
 
 
 
 
 
 
-
-
-
-
+<<<<<<< HEAD
 Buy Tickets
 Order Food
  
@@ -968,33 +1553,62 @@ Email Alerts
 Daily Deals
 50% Off From ATE Accessories
  
+=======
+lifestyle
 
 
 
 
+food
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+health & fitness
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+love & sex
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+family
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+women
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Log In
 Register
  
+=======
+home & garden
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Follow Us
 
 
@@ -1005,47 +1619,90 @@ Twitter
 
 
 Youtube
+=======
+
+
+fashion
+
+
+
+
+business
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+economics
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+sustainable business
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+diversity & equality in business
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+small business
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+travel
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+USA
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+europe
+>>>>>>> origin/master
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 Listen Live
+=======
+UK
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 
 
 AM/FM Stations
@@ -1069,17 +1726,45 @@ B96
 
 
 WBBM NewsRadio
+=======
+environment
+
+
+
+
+climate change
+
+
+
+
+wildlife
+
+
+
+
+energy
+
+
+
+
+pollution
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 Featured Shows & Multimedia
+=======
+science
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Play.It
 
 
@@ -1092,13 +1777,72 @@ CBS Sports Radio
 Radio.com
 
 
+=======
+media
+
+
+
+
+crosswords
+
+
+
+
+video
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 Advertise On Our Streams
+=======
+>>>>>>> origin/master
+
+
+
+
+
+
+
+<<<<<<< HEAD
+
+
+
+
+
+
+
+
+
+
+=======
+jobs
+
+subscribe
+all topics
+all contributors
+
+
+report technical issue
+
+
+
+about us
+
+contact us
+
+complaints & corrections
+terms & conditions
+privacy policy
+cookie policy
+securedrop
+
+
+© 2015 Guardian News and Media Limited or its affiliated companies. All rights reserved.
+>>>>>>> origin/master
 
 
 
@@ -1112,30 +1856,17 @@ Advertise On Our Streams
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
+ 
+=======
+>>>>>>> origin/master
 
 
 
 
  
 
-
-
-
- 
-
+<<<<<<< HEAD
 
 
 
@@ -1168,3 +1899,5 @@ Advertise On Our Streams
 
 
 
+=======
+>>>>>>> origin/master

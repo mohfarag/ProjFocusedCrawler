@@ -1,6 +1,21 @@
+<<<<<<< HEAD
 Charleston Church Shooting: KKK, White Supremacists Operate in South Carolina - NBC News
 
 Charleston Church Shooting: KKK, White Supremacists Operate in South Carolina - NBC News
+=======
+Suspect charged in Saturday’s deadly shooting in South St. Louis | FOX2now.com 
+Suspect charged in Saturday’s deadly shooting in South St. Louis | FOX2now.com
+
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
+=======
+GoSearch
+>>>>>>> origin/master
 
 
 
@@ -8,6 +23,42 @@ Charleston Church Shooting: KKK, White Supremacists Operate in South Carolina - 
 
 
 
+<<<<<<< HEAD
+
+
+
+=======
+ Replay: FOX 2 News 
+
+FOX 2 TV Schedule 
+
+
+ Search
+ Contact Us
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
+
+
+=======
+FOX2now.com
+
+ Menu
+
+News
+Links
+AM Show
+Sports
+Traffic
+Contests
+STLMoms
+Events
+>>>>>>> origin/master
 
 
 
@@ -15,22 +66,7 @@ Charleston Church Shooting: KKK, White Supremacists Operate in South Carolina - 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 
 
 
@@ -686,6 +722,11 @@ Email
 
 Print
 
+=======
+Weather 
+
+82°
+>>>>>>> origin/master
 
 
 
@@ -693,14 +734,23 @@ Print
 
 
 
+<<<<<<< HEAD
 
 
 Comment
+=======
+82°
+
+
+Low 76°
+High 95°
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -715,6 +765,32 @@ advertisement
 
 
 
+=======
+Mon
+
+
+					76°  96°
+					
+
+
+Tue
+
+
+					77°  93°
+					
+
+
+Wed
+
+
+					75°  90°
+					
+
+
+See complete forecast
+
+ Severe weather alert
+>>>>>>> origin/master
 
 
 
@@ -730,6 +806,7 @@ advertisement
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -796,11 +873,17 @@ Copy this code to your website or blog
 
 
 
+=======
+ 
+
+
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -856,13 +939,53 @@ All You Need to Know About Hate Crime in America
 
 
 
+=======
+Suspect charged in Saturday’s deadly shooting in South St. Louis
+
+Posted 6:13 pm, April 5, 2015, by Chris Smith, Updated at 06:12pm, April 5, 2015 
+
+FacebookTwitterRedditPinterestLinkedInEmail 
 
 
 
 
+ 
+
+
+
+×
+Suspect charged in Saturday’s deadly shooting in South St. Louis
+
+
+ 
+
+
+ST. LOUIS, MO (KTVI) – The St. Louis Circuit Attorney’s Office has issued warrants against Anthony Altick, 27, from Saturday’s deadly shooting in South St. Louis that left one man dead and two others in serious condition.
+The shooting occurred in the 5200 block on Jamieson, outside of a duplex.
+Altick has been charged with murder first degree, assault first degree, and armed criminal action. His bond has been set at $750,000 cash only.
+Police have not revealed whether there was a clear motive for the shooting.
+
+38.588068
+-90.308763
+
+
+
+Related stories
+
+One dead, two wounded in south St. Louis shooting
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 The Southern Poverty Law Center's map of hate groups in South Carolina.
  
+=======
+Filed in: News Topics: charged, Jamieson, murder, shooting, suspect 
+
+>>>>>>> origin/master
 
 
 
@@ -873,7 +996,10 @@ The Southern Poverty Law Center's map of hate groups in South Carolina.
 
 
 
+<<<<<<< HEAD
 advertisement
+=======
+>>>>>>> origin/master
 
 
  
@@ -881,6 +1007,7 @@ advertisement
 
 
 
+<<<<<<< HEAD
  Formed in response to the desegregation of schools in the 1950s and 1960s, its key figures include Kyle Rogers. He was quoted by 
 Charleston's Post and Courier newspaper
  in 2012 as saying that African Americans "are the most privileged members of their race." He reportedly told the newspaper: "I don't see a legacy of oppression. Blacks have always benefited from being in the United States." 
@@ -903,16 +1030,26 @@ June 18, 2015
 Seneca incident in July 2014
 , residents in Oconee County reportedly found bags in their street containing candy and a leaflet with the message "Save Our Land, Join the Klan." It had a phone number that led to an automated message discussing KKK efforts against illegal immigration. 
 
+=======
+
+
+Watch FOX 2 Now!
+Watch our newscasts from the comfort of your phone or computer 24/7.
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 advertisement
+=======
+>>>>>>> origin/master
 
 
  
 
+<<<<<<< HEAD
 
 
 
@@ -983,10 +1120,36 @@ Topics
 U.S. news
 , 
 NBCBLK
+=======
+ 
+
+
+Popular
+
+
+
+Teen suspect shot three times by St. Louis police officer
+
+
+
+Michael Brown exhibit opened in Chicago
+
+
+
+Child abuse charges re-filed after disturbing photos go viral on Facebook
+
+
+
+Driver hits 4 women in dramatic East St. Louis hit-and-run caught on video
+
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 First Published
  
 Jun 18 2015, 5:49 am ET
@@ -1037,11 +1200,34 @@ Nashville Hotel Nixes Conference for Group Cited by Charleston Church Gunman
 advertisement
 
 
+=======
+ 
+
+
+Latest News
+
+
+
+PICTURES: Slide the City St Louis 2015 part2
+
+
+
+PICTURES: Slide the City St Louis 2015 part1
+
+
+
+Contestants cry foul, attendees go hungry at Budweiser burger fest
+
+
+
+Jefferson County resident apply for disaster assistance from recent flooding and storms
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -1073,6 +1259,8 @@ advertisement
 advertisement
 
 
+=======
+>>>>>>> origin/master
  
 
 
@@ -1086,6 +1274,7 @@ advertisement
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -1189,64 +1378,112 @@ AdChoices
 
 
 
+=======
+News
 
+Murder charges filed in south city triple shooting
 
 
+News
 
+Juvenile charged with the murder of 16-year-old
 
 
+News
 
+Police still searching for suspect in April murder
 
 
+News
 
+One dead, two wounded in south St. Louis shooting
 
 
+News
 
+Southwestern Illinois man gets 26 years in fatal shooting
 
 
 
+ 
 
 
+News
 
+Police: Suspect charged in Job Corps murder
 
 
+News
 
+Man accused of shooting, killing St. Louis homeless man
 
 
+News
 
+Man charged in killing at apartment complex
 
 
+News
 
+St. Louis-area man charged in fatal shooting
 
 
+News
 
+Third suspect arrested in O’Fallon MO shooting
 
 
 
+ 
 
 
+News
 
+Charleston shooting impacts Missouri governor’s race
 
 
+News
 
+Man charged with North St. Louis murder
 
 
+News
 
+Suspects charged in Belleville shooting
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+ 
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
+=======
+Mobile AppsAndroid App
+Android Weather App
+iPhone & iPad App
+iPhone Weather App
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+Facebook
+Twitter
+Email Alerts
+About & Contact
+>>>>>>> origin/master
 
 
 
@@ -1254,16 +1491,90 @@ AdChoices
 
 
 
+<<<<<<< HEAD
+=======
+Online Public File • 				Terms of Service •
+		Privacy Policy  •
+		2250 Ball Drive St. Louis MO 63146  •
+		Copyright © 2015, KTVI		 • A Tribune Broadcasting Station •
+		Powered by WordPress.com VIP 
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
+=======
+×
+Email Alerts
+>>>>>>> origin/master
 
 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+
+
+=======
+Send to Email Address
+
+Your Name
+
+Your Email Address
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
+
+
+
+=======
+Cancel
+
+				Post was not sent - check your email addresses!			
+
+				Email check failed, please try again			
+
+				Sorry, your blog cannot share posts by email.			
+>>>>>>> origin/master
 
 
 

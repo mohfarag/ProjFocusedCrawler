@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 Knife-Wielding Woman, 60, Fatally Shot By Police  « CBS Chicago
 
 Knife-Wielding Woman, 60, Fatally Shot By Police  « CBS Chicago
+=======
+Charleston shooting | US news | The Guardian
+
+Charleston shooting | US news | The Guardian
+>>>>>>> origin/master
 
 
 
@@ -16,14 +22,22 @@ Knife-Wielding Woman, 60, Fatally Shot By Police  « CBS Chicago
 
 
 
+<<<<<<< HEAD
 
 
 
 Chicago
+=======
+Close
+
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Radio.com
 
 
@@ -249,6 +263,11 @@ Circulars
 
 Autos
 
+=======
+
+Skip to main content
+
+ 
 
 
 
@@ -256,6 +275,20 @@ Autos
 
 
 
+
+
+
+
+sign in
+>>>>>>> origin/master
+
+
+
+
+
+
+
+<<<<<<< HEAD
 Local
 
 
@@ -284,10 +317,34 @@ World
 
 
 Photos
+=======
+
+subscribe
 
 
 
 
+
+
+
+search
+
+
+
+
+jobs
+
+
+
+
+
+
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
@@ -304,25 +361,77 @@ Photos
 
 
 
+=======
+more
+
+
+from the guardian:
+
+
+jobs
+
+
+
+change edition:
+
+
+
+switch to the  UK  edition
+
+
+switch to the  AU  edition
+
+
+switch to the 
+INT
+beta
+ edition
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 Local
 
 
+=======
+
+
+US edition
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Knife-Wielding Woman, 60, Fatally Shot By Police
+=======
+switch to the 
+UK edition
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 October 24, 2013 8:32 PM
+=======
+switch to the 
+Australia edition
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+switch to the 
+International
+beta
+>>>>>>> origin/master
 
 
 
@@ -333,31 +442,40 @@ October 24, 2013 8:32 PM
 
 
 
+<<<<<<< HEAD
+=======
+The Guardian
+>>>>>>> origin/master
 
 
 
 
-
-
-
-
+<<<<<<< HEAD
  
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Related Tags:
 
 
 Police-Involved Shooting
 , 
 Roseland
+=======
+
+
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -393,6 +511,12 @@ Thursday’s shooting comes two days after an officer was stabbed in the face in
 
 
 
+=======
+home
+
+
+›
+US
 
 
 
@@ -403,51 +527,128 @@ Thursday’s shooting comes two days after an officer was stabbed in the face in
 
 
 
+home
 
 
 
 
+US
+selected
 
 
 
 
+world
 
 
+
+
+opinion
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+sports
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+soccer
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+tech
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+arts
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
  
 
 
+=======
+lifestyle
 
 
 
 
+fashion
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+business
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+travel
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+environment
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 Listen Live
+=======
+science
+
+
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+browse all sections
+close
+>>>>>>> origin/master
 
 
 
 
 
 
-
-
-
-
+<<<<<<< HEAD
  
 
 
@@ -488,6 +689,11 @@ CBS Chicago
 
 
 
+=======
+
+
+ 
+>>>>>>> origin/master
 
 
 
@@ -497,6 +703,18 @@ CBS Chicago
 
 
 
+<<<<<<< HEAD
+
+
+=======
+Charleston shooting
+
+Tuesday
+
+7
+July
+2015
+>>>>>>> origin/master
 
 
 
@@ -505,9 +723,10 @@ CBS Chicago
 
 
 
-
-
+<<<<<<< HEAD
 Follow @CBSChicago
+=======
+>>>>>>> origin/master
 
 
 
@@ -519,9 +738,28 @@ Follow @CBSChicago
 
 
 
+<<<<<<< HEAD
 
 Like us on foursquare
 
+=======
+South Carolina senate backs removal of Confederate flag from capitol
+
+
+Republicans in state house of representatives work to ensure a Confederate-linked symbol remains at the state house
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+South Carolina senate backs removal of Confederate flag from capitol
+>>>>>>> origin/master
 
 
 
@@ -537,6 +775,15 @@ Like us on foursquare
 
 
 
+<<<<<<< HEAD
+
+
+=======
+Alabama city votes to pull Confederate flag as Florida town flies it again
+
+
+Ocala, Florida government building removed flag following Charleston shooting, but Marion county council unanimously votes to restore it
+>>>>>>> origin/master
 
 
 
@@ -545,25 +792,22 @@ Like us on foursquare
 
 
 
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 
 
 Follow More Stations and Personalities
+=======
+Alabama city votes to pull Confederate flag as Florida town flies it again
+
+
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
  
 Contests & Promotions
 Blue Collar Bears Fan Of The Week
@@ -604,35 +848,61 @@ dodgerman
  
 24 minutes ago
 
+=======
 
 
 
 
+
+
+
+Dylann Roof faces new charges over Charleston church shooting
+
+
+Suspect, 21, charged with three counts of attempted murder and is expected in court in October over deaths of nine during Bible study
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 				NOW: Live streaming of CBS2’s newscast. One click and you’re in the loop. Starts now: 
  CBSChicago.com/watch
  
 #LIVE
  
 33 minutes ago
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
  
 
 
+=======
+Dylann Roof faces new charges over Charleston church shooting
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+Older
+Newer
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 
 
 News Via Email
@@ -656,16 +926,47 @@ New Podcast Network
 Download Our New Weather App!
  
 
+=======
+Topics
+
+
+
+South Carolina
 
 
 
 
+American civil war
 
 
 
 
+Alabama
+
+
+
+
+US crime
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+Florida
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
  
+=======
+Gun crime
+
+>>>>>>> origin/master
 
 
 
@@ -676,6 +977,7 @@ Download Our New Weather App!
 
 
 
+<<<<<<< HEAD
 News
 
 
@@ -700,12 +1002,33 @@ Weather
 
 
 Traffic
+=======
+
+
+The Guardian
 
 
 
 
 
 
+
+
+back to top
+
+
+
+
+
+
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
 Sports
 
 
@@ -732,15 +1055,46 @@ Podcasts
 Blogs
 
 
+=======
+
+
+home
 
 
 
 
+US
+selected
+
+
+
+
+world
+
+
+
+
+opinion
+
+
+
+
+sports
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Scores & Stats
+=======
+soccer
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 NFL Football
 
 
@@ -753,15 +1107,33 @@ NBA Basketball
 NHL Hockey
 
 
+=======
+tech
 
 
 
 
+arts
+
+
+
+
+lifestyle
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Contact Us
+=======
+fashion
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 CBS 2
 
 
@@ -775,17 +1147,37 @@ Connect
 
 
 Mobile
+=======
+business
 
 
 
 
+travel
+
+
+
+
+environment
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 Corporate
+=======
+science
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 About Us
 
 
@@ -804,6 +1196,10 @@ Mobile
 Connect
 
 
+=======
+
+all sections
+close
 
 
 
@@ -811,12 +1207,36 @@ Connect
 
 
 
+home
 
+
+
+
+US
+selected
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+world
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Chicago Business Listings
+=======
+UK
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Restaurants
 
 
@@ -830,14 +1250,32 @@ Professional Services
 
 
 Search Listings
+=======
+europe
 
 
 
 
+americas
 
 
 
 
+asia
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+middle east
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 By viewing our video content, you are accepting the terms of our 
 Video Services Policy
 
@@ -887,14 +1325,59 @@ WordPress.com VIP
 
 
  
+=======
+africa
+
+
+
+
+australia
+
+
+
+
+cities
+
+
+
+
+development
 
 
 
 
 
 
+opinion
 
 
+
+
+sports
+
+
+
+
+soccer
+
+
+
+
+MLS
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+NFL
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 Facebook
@@ -906,10 +1389,24 @@ Twitter
 RSS
 
 
+=======
+MLB
 
 
 
 
+NBA
+
+
+
+
+NHL
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Other CBS Local Cities 
 
 
@@ -988,14 +1485,86 @@ CBS Tampa
 
 
 CBS Washington
+=======
+
+
+soccer
+
+
+
+
+live scores
+
+
+
+
+tables
+
+
+
+
+competitions
+
+
+
+
+results
+
+
+
+
+fixtures
+
+
+
+
+clubs
 
 
 
 
 
 
+tech
 
 
+
+
+arts
+
+
+
+
+movies
+
+
+
+
+tv & radio
+
+
+
+
+music
+
+
+
+
+games
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+books
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 ©2015 CBS Local Media,
@@ -1005,16 +1574,29 @@ a division of CBS Radio Inc.
 All rights reserved.
 
 
+=======
+art & design
+
+
+
+
+stage
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+classical
+>>>>>>> origin/master
 
 
 
 
 
 
-
-
-
-
+<<<<<<< HEAD
 Buy Tickets
 Order Food
  
@@ -1033,33 +1615,62 @@ Email Alerts
 Daily Deals
 50% Off From ATE Accessories
  
+=======
+lifestyle
 
 
 
 
+food
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+health & fitness
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+love & sex
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+family
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+women
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Log In
 Register
  
+=======
+home & garden
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Follow Us
 
 
@@ -1070,47 +1681,90 @@ Twitter
 
 
 Youtube
+=======
+
+
+fashion
+
+
+
+
+business
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+economics
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+sustainable business
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+diversity & equality in business
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+small business
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+travel
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+USA
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+europe
+>>>>>>> origin/master
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 Listen Live
+=======
+UK
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 
 
 AM/FM Stations
@@ -1134,17 +1788,45 @@ B96
 
 
 WBBM NewsRadio
+=======
+environment
+
+
+
+
+climate change
+
+
+
+
+wildlife
+
+
+
+
+energy
+
+
+
+
+pollution
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 Featured Shows & Multimedia
+=======
+science
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Play.It
 
 
@@ -1157,13 +1839,72 @@ CBS Sports Radio
 Radio.com
 
 
+=======
+media
+
+
+
+
+crosswords
+
+
+
+
+video
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 Advertise On Our Streams
+=======
+>>>>>>> origin/master
+
+
+
+
+
+
+
+<<<<<<< HEAD
+
+
+
+
+
+
+
+
+
+
+=======
+jobs
+
+subscribe
+all topics
+all contributors
+
+
+report technical issue
+
+
+
+about us
+
+contact us
+
+complaints & corrections
+terms & conditions
+privacy policy
+cookie policy
+securedrop
+
+
+© 2015 Guardian News and Media Limited or its affiliated companies. All rights reserved.
+>>>>>>> origin/master
 
 
 
@@ -1177,30 +1918,17 @@ Advertise On Our Streams
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
+ 
+=======
+>>>>>>> origin/master
 
 
 
 
  
 
-
-
-
- 
-
+<<<<<<< HEAD
 
 
 
@@ -1233,3 +1961,5 @@ Advertise On Our Streams
 
 
 
+=======
+>>>>>>> origin/master

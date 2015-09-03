@@ -1,7 +1,22 @@
+<<<<<<< HEAD
 police involved shooting | New York's PIX11 / WPIX-TV 
 
 
 police involved shooting | New York's PIX11 / WPIX-TV
+=======
+St. Louis faith leaders gather to mourn victims of Charleston shooting | FOX2now.com 
+St. Louis faith leaders gather to mourn victims of Charleston shooting | FOX2now.com
+
+
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+GoSearch
+>>>>>>> origin/master
 
 
 
@@ -9,10 +24,7 @@ police involved shooting | New York's PIX11 / WPIX-TV
 
 
 
-
-
-
-
+<<<<<<< HEAD
 
 
 
@@ -49,6 +61,14 @@ PIX11 TV Schedule
  Search
 
 
+=======
+ Replay: FOX 2 News 
+
+FOX 2 TV Schedule 
+
+
+ Search
+>>>>>>> origin/master
  Contact Us
 
 
@@ -56,6 +76,7 @@ PIX11 TV Schedule
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -96,6 +117,19 @@ Contests
 Traffic
 
 
+=======
+FOX2now.com
+
+ Menu
+
+News
+Links
+AM Show
+Sports
+Traffic
+Contests
+STLMoms
+>>>>>>> origin/master
 Events
 
 
@@ -104,6 +138,7 @@ Events
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -121,6 +156,11 @@ Weather
 
 
 
+=======
+Weather 
+
+82°
+>>>>>>> origin/master
 
 
 
@@ -128,14 +168,23 @@ Weather
 
 
 
+<<<<<<< HEAD
 
 77°
 
+=======
+82°
+
+
+Low 76°
+High 95°
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 Low 
 68°
 
@@ -206,6 +255,32 @@ See complete forecast
 
 
 
+=======
+Mon
+
+
+					76°  96°
+					
+
+
+Tue
+
+
+					77°  93°
+					
+
+
+Wed
+
+
+					75°  90°
+					
+
+
+See complete forecast
+
+ Severe weather alert
+>>>>>>> origin/master
 
 
 
@@ -221,6 +296,10 @@ See complete forecast
 
 
 
+<<<<<<< HEAD
+=======
+ 
+>>>>>>> origin/master
 
 
 
@@ -228,18 +307,38 @@ See complete forecast
 
 
 
+<<<<<<< HEAD
+
+
+=======
+St. Louis faith leaders gather to mourn victims of Charleston shooting
+
+Posted 5:51 pm, June 18, 2015, by Anthony Kiekow 
+
+FacebookTwitterRedditPinterestLinkedInEmail 
+>>>>>>> origin/master
 
 
 
 
 
-
-
+<<<<<<< HEAD
 
 
 
 
  
+=======
+ST. LOUIS (KTVI) – The sound of song filled the oldest AME church in St. Louis on Thursday, just one day after the sound of gunfire filled the oldest AME church in the south.
+A diverse group of people gathered to mourn the nine victims of last night’s mass shooting at Emanuel AME Church in Charleston South Carolina.
+The gathering at St. Paul AME Church was organized. It included singing and a message of hope for a world free of violence.
+“I think coming together in community always helps because you realize that you are not alone one who is suffering the only one who is hurting,” Rev, Karen Anderson said.
+The African Methodist Episcopal church was formed in response to racial discrimination. AME churches have long been a target of hate crimes. The faith leaders at the gathering said the shooting is a clear sign that more needs to be done to address mental health, gun violence and racism.
+
+
+
+Filed in: News Topics: charleston shooting, church, national news, prayer, religion 
+>>>>>>> origin/master
 
 
 
@@ -247,27 +346,42 @@ See complete forecast
 
 
 
+<<<<<<< HEAD
 						police involved shooting					
+=======
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 
 
 News
+=======
+ 
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Shooter in critical condition after being shot by police during protest in Ferguson
+=======
+STL Moms!
+A place for St. Louis moms to chat share and save.
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 News
 
 
@@ -290,10 +404,36 @@ News
 Knife-wielding man shot by police in Brooklyn still at large: NYPD
 
 
+=======
+
+ 
+
+ 
+
+
+Popular
+
+
+
+Teen suspect shot three times by St. Louis police officer
+
+
+
+Michael Brown exhibit opened in Chicago
+
+
+
+Child abuse charges re-filed after disturbing photos go viral on Facebook
+
+
+
+Driver hits 4 women in dramatic East St. Louis hit-and-run caught on video
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Bronx
 
 
@@ -315,6 +455,31 @@ Protests follow acquittal of Cleveland police officer
 
 
 
+=======
+
+
+
+ 
+
+
+Latest News
+
+
+
+PICTURES: Slide the City St Louis 2015 part2
+
+
+
+PICTURES: Slide the City St Louis 2015 part1
+
+
+
+Contestants cry foul, attendees go hungry at Budweiser burger fest
+
+
+
+Jefferson County resident apply for disaster assistance from recent flooding and storms
+>>>>>>> origin/master
 
 
 
@@ -327,11 +492,15 @@ Protests follow acquittal of Cleveland police officer
 
 
 
+<<<<<<< HEAD
 Northern Suburbs
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Knife-wielding suspect fatally shot by officers in Beacon
 
 
@@ -349,10 +518,28 @@ Armed man dies in police-involved shooting outside Jamaica bar
 
 
 
+=======
+
+
+Trending
+
+Shooting reported at Emanuel African Methodist Episcopal Church in downtown Charleston
 
 
 News
 
+Dylann Storm Roof arrested in North Carolina, according to report
+
+
+News
+
+﻿Worshippers return to Charleston’s Emanuel AME on Sunday
+>>>>>>> origin/master
+
+
+News
+
+<<<<<<< HEAD
 
 
 
@@ -361,10 +548,23 @@ VIDEO: St. Louis police shoot, kill knife-wielding man
 
 
 
+=======
+DOJ launches hate crime investigation into Charleston church shooting
 
 
 News
 
+Charleston victims: 9 lives lost to family and community
+
+
+
+ 
+>>>>>>> origin/master
+
+
+News
+
+<<<<<<< HEAD
 
 
 
@@ -373,10 +573,19 @@ Tulsa cop who fatally shot suspect meant to use stun gun: police
 
 
 
+=======
+Woman says Charleston shooter spared her to ‘tell everyone’ what happened
 
 
 News
 
+Charleston church shooting: 9 killed in what officials call a hate crime
+>>>>>>> origin/master
+
+
+News
+
+<<<<<<< HEAD
 
 
 
@@ -386,12 +595,26 @@ Disturbing dash cam video shows Miami officer fatally shooting Lavall Hall
 
 
 
+=======
+Charleston: Forgiveness and frustration after first church service since massacre
+
+
+News
+
+Charleston church shooting: Suspect confesses, says he sought race war
+
+
+News
+
+Who is the Charleston church shooting suspect?
+>>>>>>> origin/master
 
 
 
  
 
 
+<<<<<<< HEAD
 
 
 
@@ -399,12 +622,28 @@ Disturbing dash cam video shows Miami officer fatally shooting Lavall Hall
 
 
 
+=======
+News
+
+Who is the Charleston church shooting suspect?
+
+
+News
+
+Shooting suspect in custody after Charleston church massacre
+
+
+News
+
+Charleston shooting suspect charged with 9 counts of murder
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 
 Mobile Apps
 Android App
@@ -412,16 +651,27 @@ Android App
 
 iPhone & iPad App
 
+=======
+ 
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
+=======
+Mobile AppsAndroid App
+Android Weather App
+iPhone & iPad App
+iPhone Weather App
+>>>>>>> origin/master
 
 
 
 
 Facebook
+<<<<<<< HEAD
 
 
 Twitter
@@ -430,6 +680,10 @@ Twitter
 Instagram
 
 
+=======
+Twitter
+Email Alerts
+>>>>>>> origin/master
 About & Contact
 
 
@@ -438,6 +692,7 @@ About & Contact
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -471,14 +726,24 @@ WordPress.com VIP
 
 
 
+=======
+Online Public File • 				Terms of Service •
+		Privacy Policy  •
+		2250 Ball Drive St. Louis MO 63146  •
+		Copyright © 2015, KTVI		 • A Tribune Broadcasting Station •
+		Powered by WordPress.com VIP 
+>>>>>>> origin/master
 
 
 
 
 
 ×
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> origin/master
 Email Alerts
 
 
@@ -517,6 +782,7 @@ Email Alerts
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -593,6 +859,13 @@ Add your thoughts here... (optional)
 Post to
 
 
+=======
+Send to Email Address
+
+Your Name
+
+Your Email Address
+>>>>>>> origin/master
 
 
 
@@ -601,6 +874,7 @@ Post to
 
 Cancel
 
+<<<<<<< HEAD
 
 
 
@@ -642,6 +916,13 @@ Cancel
 
 
 
+=======
+				Post was not sent - check your email addresses!			
+
+				Email check failed, please try again			
+
+				Sorry, your blog cannot share posts by email.			
+>>>>>>> origin/master
 
 
 

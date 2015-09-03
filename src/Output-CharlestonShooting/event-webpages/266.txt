@@ -1,6 +1,21 @@
+<<<<<<< HEAD
 Racist Website Appears to Belong to Charleston Church Shooter Dylann Roof - NBC News
 
 Racist Website Appears to Belong to Charleston Church Shooter Dylann Roof - NBC News
+=======
+Mother killed during attempted robbery while unloading bags from car | Fox 59 
+Mother killed during attempted robbery while unloading bags from car | Fox 59
+
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
+=======
+GoSearch
+>>>>>>> origin/master
 
 
 
@@ -9,19 +24,23 @@ Racist Website Appears to Belong to Charleston Church Shooter Dylann Roof - NBC 
 
 
 
+<<<<<<< HEAD
+
+
+=======
+FOX59 TV Schedule 
+
+
+ Search
+ Contact Us
+>>>>>>> origin/master
 
 
 
 
 
 
-
-
-
-
-
-
-
+<<<<<<< HEAD
 
 
 
@@ -836,6 +855,25 @@ Charleston Church Shooting Renews Confederate Flag Debate
 
 
  While the FBI is not saying with "100 percent" certainty it belongs to Roof, they are operating under the assumption that he is responsible for all of the writings, photos and other material, sources said. 
+=======
+Fox 59
+
+ Menu
+
+News
+Morning
+Community
+Richmond Hill Trial
+Sports
+Traffic
+Weather
+On-Air
+HealthTrax
+
+
+ 
+
+>>>>>>> origin/master
 
 
 
@@ -845,6 +883,7 @@ Charleston Church Shooting Renews Confederate Flag Debate
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -853,6 +892,8 @@ Charleston Church Shooting Renews Confederate Flag Debate
 
 
 One of the 60 photos on the website that was registered under Dylann Roof's name.
+=======
+>>>>>>> origin/master
  
 
 
@@ -860,6 +901,7 @@ One of the 60 photos on the website that was registered under Dylann Roof's name
 
 
 
+<<<<<<< HEAD
  There are also photos on it of historic sites, such as a Confederate museum, and one picture of a beach's coastline with "1488" carved in the sand, a white supremacy encryption that stands for: "We must secure the existence of our people and a future for white children." It's unclear who took many of the photos. 
 
 
@@ -868,19 +910,61 @@ One of the 60 photos on the website that was registered under Dylann Roof's name
 
 
 advertisement
+=======
+
+Mother killed during attempted robbery while unloading bags from car
+
+Posted 1:33 AM, June 1, 2015, by Lindy Thackston and Zach Myers, Updated at 06:40pm, June 1, 2015 
+
+FacebookTwitterGoogleLinkedInPinterestEmail 
+
+
+>>>>>>> origin/master
 
 
  
 
 
 
+<<<<<<< HEAD
 
  In a drawn-out rant, the site's writer outlines becoming "racially aware," explaining that he wasn't raised in a racist environment, but was "awakened" by the case of Trayvon Martin, the unarmed black teenager shot to death in Florida. 
+=======
+×
+Mother killed during attempted robbery while unloading bags from car
+>>>>>>> origin/master
 
 
  
 
 
+<<<<<<< HEAD
+
+
+
+=======
+INDIANAPOLIS, Ind. (June 1, 2015) – A woman was fatally shot early Monday morning in the 1400 block of South East Street during an attempted robbery.
+Mark Williams says he and his girlfriend, 33-year old Hilary Acton of Clayton, were were unloading a carload of clothing from Goodwill in the 1400 block of South East Street around 1:15 Monday morning.  He told police two unidentified men approached them and demanded the items from their car.  One of the suspects was armed with a handgun.
+Williams says neither he nor Acton resisted the suspects, but one of them fired his weapon, hitting Hilary Acton multiple times.  He says he yelled to his brother for help and chased the robbers down the sidewalk.
+“I saw his eyes and he was scared when he shot her,” said Williams. “Then they ran and they turned left, then turned around and started shooting at me again.”
+Witnesses told police the two suspect ran south down East Street before cutting through a yard and escaping the area near Cottage Avenue.
+Williams was not hit, but Acton died from multiple gunshot wounds to the upper body, according to police.
+“From my understanding they did not get anything from our victims,” said IMPD Lt. Richard Riddle.  “So it was attempted robbery that unfortunately ended with someone’s life.”
+Joel Russell works at a nearby pizza place and called 911.
+“I was standing at the back door and heard about seven, eight gunshots go off and some ricochets and I went out and called the police,” said Russell. “Looked down the street, you heard a lady screaming to help the person and I stayed on the phone with 911 until the police came down the road.”
+The woman’s parents arrived on the scene around 4 a.m. They spoke about the mother of two.
+“She was caring, honest. She was really striving to be who she was supposed to be,” Williams said.  “She loved her kids. She just wanted a family and she just wanted a start at life that was meaningful.”
+He continued, “This isn’t right and it’s not over either, so I guess if anybody knows anything, I would just ask you to do the right thing. She was amazing and that should have been me, period. They’re cowards. They just started shooting. They didn’t even try to take the stuff. What was the point of that? I don’t even know them.”
+Police do not have any suspects in custody at this time.
+Unlike most homicides that involve people who know each other, investigators say this case may truly be a random act of deadly violence.
+“At this point in the investigation, we don’t have any information to believe that they were in fact targeted directly, or by any association or known association with our suspects,” Riddle said.
+Riddle said several witnesses who were in the area have given investigators helpful information about the suspects.  Detectives were also working to gather surveillance video from a Village Pantry convenience store directly across the street.
+Detectives urge anyone with information to call Crime Stoppers of Central Indiana at (317) 262-TIPS (8477). Callers may also text “INDYCS” plus tip information to 274637 (CRIMES).
+
+
+
+Filed in: Crimetracker, News 
+>>>>>>> origin/master
 
 
 
@@ -894,9 +978,7 @@ advertisement
 
 
 
-
-
-
+<<<<<<< HEAD
 
 
 
@@ -972,12 +1054,24 @@ RELATED:
  
 Dylann Roof Hinted of Attack, Friend Says
  
+=======
+ 
 
 
 
 
 
 
+ All Local. All Morning Long.
+Begin your mornings with FOX59 Morning News!
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
 advertisement
 
 
@@ -1028,10 +1122,36 @@ advertisement
 
 
 
+=======
+
+ 
+
+ 
+
+
+Popular
+
+
+
+PHOTOS: Areas of central Indiana flooded after overnight storms
+
+
+
+Heavy flooding and water rescues Sunday morning
+
+
+
+Police arrest driver in motorcycle crash that killed a passenger
+
+
+
+Woman reveals comment allegedly from ‘Subway Guy’ Jared Fogle that led to raid
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Elizabeth Chuck
 
 
@@ -1124,11 +1244,37 @@ advertisement
 
 
 
+=======
+
+
+
+ 
+
+
+Latest News
+
+
+
+Morgan County residents clean up after flash flooding overtakes homes and creates a muddy mess
+
+
+
+Closing arguments to begin Monday morning in Richmond Hill Trial
+
+
+
+New Mexico Amber Alert teen found safe in Indianapolis, suspect in custody
+
+
+
+Tornado rips through Johnson County; damage repairs underway
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -1149,6 +1295,8 @@ advertisement
 advertisement
 
 
+=======
+>>>>>>> origin/master
  
 
 
@@ -1162,6 +1310,7 @@ advertisement
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -1251,64 +1400,109 @@ AdChoices
 
 
 
+=======
+News
 
+Family says man feared arrest before fatal police shooting
 
 
+Crimetracker News
 
+CVS employees stop robbery suspect, pin him down until police arrive
 
 
+Crimetracker News
 
+Nine people shot in in two days as violent Memorial Day carries into Tuesday
 
 
+News
 
+Police: Robbery motive in northeast side shooting
 
 
+Crimetracker News
 
+Man, juvenile arrested after armed robbery near Purdue University
 
 
 
+ 
 
 
+Crimetracker News
 
+Two officers injured, suspect dead in shooting on east side of Indianapolis
 
 
+News
 
+Police searching for suspect who beat, robbed 86-year-old veteran
 
 
+Crimetracker News
 
+Suspect faces a dozen charges after police chase, fatal crash
 
 
+Crimetracker News
 
+Woman shoots, fends off three men in early morning attempted robbery
 
 
+News
 
+Police search for shooters in two morning shootings
 
 
 
+ 
 
 
+Crimetracker News
 
+Victim takes suspect’s gun in early morning shooting
 
 
+News
 
+Kokomo police officer fatally shoots female armed robbery suspect
 
 
+News
 
+FBI searching for suspect after near east side bank robbery
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+ 
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
+=======
+Mobile AppsAndroid App
+iPhone & iPad App
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+Facebook
+Twitter
+About & Contact
+>>>>>>> origin/master
 
 
 
@@ -1316,11 +1510,24 @@ AdChoices
 
 
 
+<<<<<<< HEAD
+=======
+Online Public File • 		EEO Report • 		Terms of Service •
+		Privacy Policy  •
+		6910 Network Place Indianapolis, IN 46278  •
+		Copyright © 2015, WXIN		 • A Tribune Broadcasting Station •
+		Powered by WordPress.com VIP 
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
+=======
+×
+Email Alerts
+>>>>>>> origin/master
 
 
 
@@ -1340,6 +1547,81 @@ AdChoices
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+
+
+
+=======
+Follow
+
+Follow “Fox 59”
+
+Get every new post delivered to your Inbox.
+
+Join 2,646 other followers
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+Build a website with WordPress.com
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+
+
+=======
+Send to Email Address
+
+Your Name
+
+Your Email Address
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
+
+
+
+=======
+Cancel
+
+				Post was not sent - check your email addresses!			
+
+				Email check failed, please try again			
+
+				Sorry, your blog cannot share posts by email.			
+>>>>>>> origin/master
 
 
 

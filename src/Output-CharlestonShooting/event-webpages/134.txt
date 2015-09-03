@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 Charleston Church Shooting: Suspect Dylann Roof Captured in North Carolina - NBC News
 
 Charleston Church Shooting: Suspect Dylann Roof Captured in North Carolina - NBC News
+=======
+Hundreds honour Charleston church shooting victim Myra Thompson | US news | The Guardian
+
+Hundreds honour Charleston church shooting victim Myra Thompson | US news | The Guardian
+>>>>>>> origin/master
 
 
 
@@ -16,6 +22,10 @@ Charleston Church Shooting: Suspect Dylann Roof Captured in North Carolina - NBC
 
 
 
+<<<<<<< HEAD
+=======
+Close
+>>>>>>> origin/master
 
 
 
@@ -24,6 +34,7 @@ Charleston Church Shooting: Suspect Dylann Roof Captured in North Carolina - NBC
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -854,6 +865,9 @@ Tributes Paid to 'Kind-Hearted' Victims
 
 advertisement
 
+=======
+Skip to main content
+>>>>>>> origin/master
 
  
 
@@ -867,6 +881,10 @@ advertisement
 
 
 
+<<<<<<< HEAD
+=======
+sign in
+>>>>>>> origin/master
 
 
 
@@ -875,11 +893,16 @@ advertisement
 
 
 
+<<<<<<< HEAD
+=======
+subscribe
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 Facebook
 
 
@@ -920,6 +943,19 @@ autoplay
 
 
 autoplay 
+=======
+
+
+search
+
+
+
+
+jobs
+
+
+
+>>>>>>> origin/master
 
 
 
@@ -927,6 +963,7 @@ autoplay
 
 
 
+<<<<<<< HEAD
 
 Copy this code to your website or blog
 
@@ -944,6 +981,33 @@ Copy this code to your website or blog
 
 
  South Carolina authorities went to North Carolina to bring Roof, who waived extradition in his initial court appearance, back to Charleston to face charges. By Thursday evening he was in transit and he was in the Charleston County Detention Center at 7:45 p.m., officials said. 
+=======
+more
+
+
+from the guardian:
+
+
+jobs
+
+
+
+change edition:
+
+
+
+switch to the  UK  edition
+
+
+switch to the  AU  edition
+
+
+switch to the 
+INT
+beta
+ edition
+
+>>>>>>> origin/master
 
 
 
@@ -951,22 +1015,37 @@ Copy this code to your website or blog
 
 
 
+<<<<<<< HEAD
+=======
+US edition
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+switch to the 
+UK edition
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 Dylann Roof in his booking photo Thursday.
  
 CHARLESTON COUNTY, SOUTH CAROLINA, SHERIFF
+=======
+switch to the 
+Australia edition
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
  Before Roof's capture, chilling details emerged about the attack. The gunman went to the church and asked for the pastor, the 
@@ -975,26 +1054,64 @@ Rev. Clementa C. Pinckney
 
 
  He then opened fire on the gathering. 
+=======
+switch to the 
+International
+beta
+
+
+
+
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 advertisement
 
 
  
+=======
+The Guardian
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
  "At the conclusion of the Bible study, from what I understand, they just start hearing loud noises ringing out," cousin Sylvia Johnson told 
 NBC station WIS of Columbia
 , "and he had already wounded — the suspect already wounded a couple of individuals." 
 
 
  
+=======
+
+
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+
+
+=======
+home
+
+
+›
+US
+>>>>>>> origin/master
 
 
 
@@ -1005,92 +1122,154 @@ NBC station WIS of Columbia
 
 
 
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 
 
 Facebook
 
 
+=======
+home
 
 
 
 
+US
+selected
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Twitter
+=======
+world
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 Google Plus
 
 
+=======
+opinion
 
 
 
 
+sports
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Embed
+=======
+soccer
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
  
 
 
 1:23
+=======
+tech
 
 
 
 
+arts
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 autoplay 
 
 
 autoplay 
 
 
+=======
+lifestyle
 
 
 
 
+fashion
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 Copy this code to your website or blog
 
 
+=======
+business
 
 
 
 
+travel
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+environment
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+science
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
  She said one of those people was Pinckney, a 41-year-old married father of two and Democratic member of the state Senate. 
 
 
  The female survivor told Johnson that the gunman reloaded five different times and that her son was trying to "talk him out of doing the act of killing people." 
+=======
+
+
+browse all sections
+close
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 advertisement
+=======
+>>>>>>> origin/master
 
 
  
@@ -1098,6 +1277,7 @@ advertisement
 
 
 
+<<<<<<< HEAD
  But he wouldn't listen, she said. 
 
 
@@ -1109,6 +1289,8 @@ advertisement
 
 
 
+=======
+>>>>>>> origin/master
 
 
 
@@ -1116,17 +1298,26 @@ advertisement
 
 
 
+<<<<<<< HEAD
 
 
 Dylann Roof, 21, of Columbia, South Carolina, in a photo from his Facebook page.
  
 Berkeley County Government via EPA
 
+=======
+Charleston shooting
+
+
+
+Hundreds honour Charleston church shooting victim Myra Thompson
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
  
 PHOTOS:
  
@@ -1174,6 +1365,14 @@ Roof also faces charges of narcotics possession
 
 
  
+=======
+
+
+
+
+
+Thompson qualified as a preacher the day of the attack
+Governor Nikki Haley: ‘This is a woman who I want to strive to be’
 
 
 
@@ -1187,6 +1386,30 @@ Roof also faces charges of narcotics possession
 
 
 
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
+
+
+
+
+
+=======
+Vice-President Joe Biden, centre, with son and daughter-in-law Hunter and Kathleen Biden, to his right, sing We Shall Overcome with Emanuel AME church members on Sunday.
+Photograph: Melissa Boughton/AP
+
+
+
+Associated Press in Charleston
+
+
+Monday 29 June 2015 17.20 EDT
+>>>>>>> origin/master
 
 
 
@@ -1194,8 +1417,15 @@ Roof also faces charges of narcotics possession
 
 
 
+<<<<<<< HEAD
+=======
+Share on Facebook
+>>>>>>> origin/master
 
 
+
+
+<<<<<<< HEAD
 Facebook
 
 
@@ -1204,47 +1434,85 @@ Facebook
 
 
 Twitter
+=======
+
+
+
+Share on Twitter
+
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 Google Plus
+=======
+Share via Email
+
+
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 
 Embed
+=======
+Share on Pinterest
+
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
  
 
 
 3:27
+=======
+Share on LinkedIn
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 autoplay 
 
 
 autoplay 
+=======
+
+Share on Google+
+
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 
 
 Copy this code to your website or blog
+=======
+Share on WhatsApp
+
+
+>>>>>>> origin/master
 
 
 
@@ -1259,6 +1527,7 @@ Copy this code to your website or blog
 
 
 
+<<<<<<< HEAD
  Charleston officials said the FBI and the federal Bureau of Alcohol, Tobacco, Firearms and Explosives were helping with the investigation, which is being categorized as a hate crime. The Justice Department is also opening a parallel hate crime review into the case. 
 
 
@@ -1284,6 +1553,57 @@ Obama: Church Shooting 'Raises Questions About a Dark Part of Our History'
  "In Charleston, to have a horrible, hateful person go into a church and kill people there to pray and worship with each other is something that is beyond incomprehensible and is not explained," Mayor Riley said. 
 
 
+=======
+
+
+ Related: Charleston shooting: Emanuel AME church reopens for first service 
+
+The day she was killed along with eight others during Bible study at a South Carolina church, Myra Thompson achieved her goal of becoming a minister.
+Hundreds honoured Thompson, 59, in a service on Monday at the site of the deadly shooting, Emanuel African Methodist Episcopal church in Charleston.
+“This is a woman who I want to strive to be,” South Carolina’s Governor Nikki Haley said of Thompson. “She wanted every person she came in touch with to make them better.”
+Haley broke down as she repeated a message from other victims’ funerals in recent days, apologising for attacks that “happened on my watch”.
+Thompson’s daughter, Denise Quarles, said the former public school teacher and middle school guidance counsellor loved to tell stories.
+“A quick phone call was never a quick phone call,” she said.
+Friends and family said Thompson was a studious hard worker who led the historic African American church’s property committee and served on its board of trustees. A programme for the service said Thompson began working to become an ordained AME minister in 2014 and received her licence to preach on 17 June, the day of the shooting.
+Thompson’s widower, the Rev Anthony Thompson, told the white male suspect in the shooting, Dylann Storm Roof, at a court appearance last week that the family forgives him.
+“We would like you to take this opportunity to repent,” Anthony Thompson said by video stream. “Do that, and you’ll be better off than you are right now.”
+All nine of the victims in the shooting were black, and police contend the attack was racially motivated.
+Thompson’s funeral followed services for four other victims at Emanuel AME this weekend that brought political and religious leaders from across the country.
+Those who spoke at the services echoed the similar theme that the lives lost would bring about positive social change.
+Haley and the Rev Jesse Jackson attended the funerals on Saturday and Sunday.
+During the funeral for Tywanza Sanders, 26, and his aunt, Susie Jackson, 87, on Saturday Haley promised “we will make this right.” The governor did not say what actions she planned to take.
+Haley has already joined a host of politicians in southern states who have spoken out in favour of removing symbols of the Confederacy from flags, monuments and licence plates after Roof was shown in photos posing with a Confederate battle flag and burning the US flag.
+Charleston’s Mayor Joseph Riley Jr said at Saturday’s service for Cynthia Hurd, 54, that the tragedy “shook an America that didn’t want to believe this kind of hatred could still exist”.
+Hours before the funeral for DePayne Middleton-Doctor, 49, began on Sunday, Vice-President Joe Biden made a surprise appearance at the church’s morning service to speak and worship.
+Biden gave his condolences to the families of the victims and received a standing ovation after reading a selection of scripture.
+The vice-president’s son, Beau, died late last month of brain cancer. Beau Biden narrowly avoided death as a young boy in a 1972 car crash that killed Joe Biden’s first wife and his daughter.
+“The reason I came was to draw strength from all of you,” Biden said. “I wish I could say something that would ease the pain.”
+The funeral for the Rev Clementa Pinckney, Emanuel AME’s pastor and a state senator, was held on Friday at a basketball arena in Charleston with President Barack Obama delivering a eulogy.
+The president spoke about the need to address issues such poverty, gun control and job discrimination before surprising many when he began singing Amazing Grace.
+
+
+
+
+More news 
+Topics
+
+
+
+Charleston shooting
+
+
+
+
+Gun crime
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+South Carolina
+>>>>>>> origin/master
 
 
 
@@ -1294,19 +1614,20 @@ Obama: Church Shooting 'Raises Questions About a Dark Part of Our History'
 
 
 
-
-
-
-
+<<<<<<< HEAD
 The Rev. Clementa C. Pinckney 
  
 South Carolina Senate Democratic Caucus
+=======
+Share on Facebook
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
  Anton Gunn, a former state representative who was friends with Pinckney, told NBC News on Thursday that was "afraid to go outside" while the gunman remained on the loose. 
 
 
@@ -1333,6 +1654,9 @@ Charleston Church Shooting: Social Media Reaction to Attack
 
 
 
+=======
+
+Share on Twitter
 
 
 
@@ -1340,6 +1664,7 @@ Charleston Church Shooting: Social Media Reaction to Attack
 
 
 
+Share via Email
 
 
 
@@ -1347,33 +1672,72 @@ Charleston Church Shooting: Social Media Reaction to Attack
 
 
 
+Share on Pinterest
+>>>>>>> origin/master
 
 
 
 
 
+
+
+<<<<<<< HEAD
+=======
+Share on LinkedIn
+>>>>>>> origin/master
+
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+Share on Google+
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
 Facebook
 
 
+=======
+
+
+Share on WhatsApp
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Twitter
+=======
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 Google Plus
+=======
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 Embed
+=======
+>>>>>>> origin/master
 
 
 
@@ -1383,6 +1747,7 @@ Embed
  
 
 
+<<<<<<< HEAD
 0:36
 
 
@@ -1401,6 +1766,18 @@ autoplay
 
 
 Copy this code to your website or blog
+=======
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+popular
+>>>>>>> origin/master
 
 
 
@@ -1409,12 +1786,7 @@ Copy this code to your website or blog
 
 
 
-
-
-
-
-
-
+<<<<<<< HEAD
  Tory Fields, an associate minister at the Charleston County Ministers Conference, said the community desperately wants to know why someone would use a gun on a group of people armed with nothing more than Bibles. 
 
 
@@ -1422,6 +1794,10 @@ Copy this code to your website or blog
 
 
  "We've been praying for a long time, we've been on our knees for a long time," Fields added. "But now it's time to stand up." 
+=======
+
+
+>>>>>>> origin/master
 
 
  
@@ -1433,6 +1809,10 @@ Copy this code to your website or blog
 
 
 
+<<<<<<< HEAD
+=======
+The Guardian
+>>>>>>> origin/master
 
 
 
@@ -1441,12 +1821,17 @@ Copy this code to your website or blog
 
 
 
+<<<<<<< HEAD
+=======
+back to top
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 Facebook
 
 
@@ -1455,24 +1840,38 @@ Facebook
 
 
 Twitter
+=======
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 Google Plus
 
 
+=======
+
+
+home
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Embed
+=======
+US
+selected
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
  
@@ -1490,44 +1889,96 @@ autoplay
 
 
 
+=======
+world
 
 
 
 
+opinion
+
+
+
+
+sports
+
+
+
+
+soccer
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 Copy this code to your website or blog
 
 
 
+=======
+tech
+
+
+
+
+arts
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+lifestyle
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+fashion
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+business
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+travel
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+environment
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+science
+>>>>>>> origin/master
 
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 Erik Ortiz
 
 
@@ -1541,6 +1992,11 @@ Google Plus
 
 Email
 
+=======
+
+
+all sections
+close
 
 
 
@@ -1548,15 +2004,38 @@ Email
 
 
 
+home
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+US
+selected
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+world
+>>>>>>> origin/master
 
+
+
+
+<<<<<<< HEAD
+=======
+UK
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 F. Brinley Bruton 
 
@@ -1573,10 +2052,29 @@ Email
 
 
 
+=======
+europe
 
 
 
 
+americas
+
+
+
+
+asia
+
+
+
+
+middle east
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 Contributors
 
@@ -1605,118 +2103,235 @@ First Published
 Jun 18 2015, 8:12 am ET
 
 
+=======
+africa
+
+
+
+
+australia
+
+
+
+
+cities
+
+
+
+
+development
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+opinion
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+sports
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
  Next Story
 
 
 Nashville Hotel Nixes Conference for Group Cited by Charleston Church Gunman
 
 
+=======
+soccer
+
+
+
+
+MLS
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+NFL
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+MLB
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+NBA
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+NHL
+>>>>>>> origin/master
 
 
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 advertisement
+=======
+soccer
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+live scores
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+tables
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+competitions
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+results
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+fixtures
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 advertisement
+=======
+clubs
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+tech
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 advertisement
 
 
  
 
 
+=======
+arts
 
 
 
 
+movies
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+tv & radio
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+music
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+games
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+books
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+art & design
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+stage
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 About Us
@@ -1726,10 +2341,21 @@ Careers
 
 
 Contact
+=======
+classical
 
 
 
 
+
+
+lifestyle
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 Privacy Policy
@@ -1737,111 +2363,212 @@ Privacy Policy
 New
 
 
+=======
+food
 
 
 
 
+health & fitness
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Terms of Service
+=======
+love & sex
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 nbcnews.com Site Map
 
 
+=======
+family
 
 
 
 
+women
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Advertise
+=======
+home & garden
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 AdChoices
+=======
+fashion
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 © 2015 NBCnews.com
+=======
+business
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+economics
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+sustainable business
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+diversity & equality in business
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+small business
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+travel
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+USA
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+europe
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+UK
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+environment
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+climate change
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+wildlife
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+energy
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+pollution
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+science
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+media
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+crosswords
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+video
+>>>>>>> origin/master
 
 
 
@@ -1853,10 +2580,19 @@ AdChoices
 
 
 
+<<<<<<< HEAD
+=======
+US News
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+›
+Charleston shooting
+>>>>>>> origin/master
 
 
 
@@ -1865,6 +2601,7 @@ AdChoices
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -1875,16 +2612,31 @@ AdChoices
 
 
 
+=======
+jobs
 
+subscribe
+all topics
+all contributors
 
 
+report technical issue
 
 
 
+about us
 
+contact us
 
+complaints & corrections
+terms & conditions
+privacy policy
+cookie policy
+securedrop
 
 
+© 2015 Guardian News and Media Limited or its affiliated companies. All rights reserved.
+>>>>>>> origin/master
 
 
 
@@ -1892,4 +2644,18 @@ AdChoices
 
 
 
+
+
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+ 
+>>>>>>> origin/master
 

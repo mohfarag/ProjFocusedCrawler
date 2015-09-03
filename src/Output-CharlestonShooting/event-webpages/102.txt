@@ -1,7 +1,14 @@
+<<<<<<< HEAD
 Police searching for 2 suspects in Greensboro shooting | myfox8.com 
 
 
 Police searching for 2 suspects in Greensboro shooting | myfox8.com
+=======
+Charleston shooting | US news | The Guardian
+
+Charleston shooting | US news | The Guardian
+
+>>>>>>> origin/master
 
 
 
@@ -16,8 +23,12 @@ Police searching for 2 suspects in Greensboro shooting | myfox8.com
 
 
 
+<<<<<<< HEAD
 Go
 Search
+=======
+Close
+>>>>>>> origin/master
 
 
 
@@ -26,6 +37,13 @@ Search
 
 
 
+<<<<<<< HEAD
+
+=======
+Skip to main content
+
+ 
+>>>>>>> origin/master
 
 
 
@@ -33,7 +51,7 @@ Search
 
 
 
-
+<<<<<<< HEAD
  Watch Now: 
 12 p.m. News 
 
@@ -41,16 +59,30 @@ Search
 
 FOX8 TV Schedule 
 
+=======
+
+
+
+
+sign in
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
  Search
 
 
  Contact Us
 
+=======
+
+
+
+subscribe
+>>>>>>> origin/master
 
 
 
@@ -58,23 +90,37 @@ FOX8 TV Schedule
 
 
 
+<<<<<<< HEAD
+=======
+search
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 myfox8.com
+=======
+jobs
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
  
 Menu
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 News
 
 
@@ -97,6 +143,32 @@ Contests
 
 
 Events
+=======
+more
+
+
+from the guardian:
+
+
+jobs
+
+
+
+change edition:
+
+
+
+switch to the  UK  edition
+
+
+switch to the  AU  edition
+
+
+switch to the 
+INT
+beta
+ edition
+>>>>>>> origin/master
 
 
 
@@ -105,6 +177,7 @@ Events
 
 
 
+<<<<<<< HEAD
 
 
 Weather 
@@ -115,6 +188,31 @@ Weather
 78°
 
 
+=======
+US edition
+
+
+
+
+switch to the 
+UK edition
+
+
+
+
+switch to the 
+Australia edition
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+switch to the 
+International
+beta
+>>>>>>> origin/master
 
 
 
@@ -125,23 +223,28 @@ Weather
 
 
 
-
-
-
-
+<<<<<<< HEAD
 78°
+=======
+The Guardian
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 Low 
 64°
 
 
 High 
 85°
+=======
+
+
+>>>>>>> origin/master
 
 
 
@@ -150,16 +253,27 @@ High
 
 
 
+<<<<<<< HEAD
 
 
 
 
 Sat
+=======
+home
+
+
+›
+US
+
+
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 					64° 
  87°
 					
@@ -171,17 +285,34 @@ Sat
 
 Sun
 
+=======
+
+
+
+home
 
 
 
 
+US
+selected
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 					66° 
  88°
 					
+=======
+world
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 Mon
@@ -194,15 +325,93 @@ Mon
  88°
 					
 
+=======
+opinion
 
 
 
 
+sports
+
+
+
+
+soccer
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 See complete forecast
 
 
 
+=======
+tech
+
+
+
+
+arts
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+
+
+
+ 
+
+=======
+lifestyle
+
+
+
+
+fashion
+
+
+
+
+business
+
+
+
+
+travel
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+environment
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+science
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+browse all sections
+close
+
+>>>>>>> origin/master
 
 
 
@@ -220,50 +429,44 @@ See complete forecast
 
 
 
+<<<<<<< HEAD
+
+
+=======
+Charleston shooting
+
+Monday
+
+22
+June
+2015
+>>>>>>> origin/master
 
 
 
 
 
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 Police searching for 2 suspects in Greensboro shooting
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Posted 5:38 am, July 27, 2015, by 
 Web Staff
 , 
 Updated at 05:55am, July 27, 2015
  
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Facebook
 Twitter
 Google
@@ -271,41 +474,64 @@ Pinterest
 Reddit
 Email
  
+=======
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 
 
 
 
  
+=======
+Four Republican hopefuls return money after 'Dylann Roof manifesto' revelation
+
+
+Scott Walker, Rand Paul, Ted Cruz and Rick Santorum and 18 others to give up cash from leader of group that may have influenced Charleston church gunman
+
+
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 
 
 ×
 
 
 Police searching for 2 suspects in Greensboro shooting
+=======
+Four Republican hopefuls return money after 'Dylann Roof manifesto' revelation
+
+
+
+
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
  
+=======
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 
 GREENSBORO, N.C. — Police are investigating a shooting that happened late Sunday night in Greensboro.
 
@@ -328,6 +554,26 @@ No arrests have been made.
 
 
 -79.793203
+=======
+Barack Obama to deliver eulogy for Charleston church victims
+
+
+President and first lady to attend funeral for Pastor Clementa Pinckney, who was early supporter of Obama in 2008
+
+
+
+
+
+
+
+
+Barack Obama to deliver eulogy for Charleston church victims
+
+
+
+
+
+>>>>>>> origin/master
 
 
 
@@ -338,6 +584,15 @@ No arrests have been made.
 
 
 
+<<<<<<< HEAD
+
+
+=======
+South Carolina governor calls for removal of Confederate flag from statehouse
+
+
+Governor Nikki Haley makes abrupt about-face in wake of Charleston killings to call for removal of flag that has flown on statehouse grounds for 50 years
+>>>>>>> origin/master
 
 
 
@@ -346,8 +601,7 @@ No arrests have been made.
 
 
 
-
-
+<<<<<<< HEAD
 Filed in:
  
 News
@@ -356,6 +610,9 @@ Topics:
  
 shooting victim
  
+=======
+South Carolina governor calls for removal of Confederate flag from statehouse
+>>>>>>> origin/master
 
 
 
@@ -366,6 +623,7 @@ shooting victim
 
 
 
+<<<<<<< HEAD
 ×
 
 
@@ -374,6 +632,17 @@ Report a Typo
 
 
 
+=======
+
+
+
+Analysis
+
+Is the Confederate flag a racist symbol? After Charleston, the debate rages on
+
+
+For most Americans, the answer is simple: yes. But the flag has its defenders who insist it expresses a rich southern heritage, not hatred associated with slavery
+>>>>>>> origin/master
 
 
 
@@ -382,8 +651,12 @@ Report a Typo
 
 
 
+<<<<<<< HEAD
 Name
 (required)
+=======
+Is the Confederate flag a racist symbol? After Charleston, the debate rages on
+>>>>>>> origin/master
 
 
 
@@ -392,8 +665,23 @@ Name
 
 
 
+<<<<<<< HEAD
 Typo
 (required)
+=======
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+Leader of group cited in 'Dylann Roof manifesto' donated to top Republicans
+>>>>>>> origin/master
 
 
 
@@ -404,20 +692,29 @@ Typo
 
 
 
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
  
+=======
+Leader of group cited in 'Dylann Roof manifesto' donated to top Republicans
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Cancel
+=======
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+The Guardian view on the Confederate flag: tear down this red rag
+>>>>>>> origin/master
 
 
 
@@ -428,6 +725,10 @@ Cancel
 
 
 
+<<<<<<< HEAD
+=======
+The Guardian view on the Confederate flag: tear down this red rag
+>>>>>>> origin/master
 
 
 
@@ -438,15 +739,15 @@ Cancel
 
 
 
-
-
-
-
-
-
+<<<<<<< HEAD
 
 
  
+=======
+Apple and Salesforce CEOs call on South Carolina to take down Confederate flag
+
+
+>>>>>>> origin/master
 
 
 
@@ -455,18 +756,30 @@ Cancel
 
 
 
+<<<<<<< HEAD
+=======
+Apple and Salesforce CEOs call on South Carolina to take down Confederate flag
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 You Decide 2016
 
 
 FOX8’s comprehensive election coverage
 
 
+=======
+
+
+
+
+Chuck Todd apologizes for gun violence video that ran day of Charleston services
+>>>>>>> origin/master
 
 
 
@@ -477,32 +790,54 @@ FOX8’s comprehensive election coverage
 
 
 
+<<<<<<< HEAD
+=======
+Chuck Todd apologizes for gun violence video that ran day of Charleston services
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+ 
+=======
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
  
 
 
+=======
 
 
- 
+The Confederate flag in pop culture: harmless Americana or racist symbol?
+>>>>>>> origin/master
 
 
 
 
-
-
+<<<<<<< HEAD
 Popular
+=======
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 
 
 After shooting, Virginia gunman details grievances in ‘suicide note’ faxed to ABC News
+=======
+The Confederate flag in pop culture: harmless Americana or racist symbol?
+
+
+>>>>>>> origin/master
 
 
 
@@ -511,7 +846,11 @@ After shooting, Virginia gunman details grievances in ‘suicide note’ faxed t
 
 
 
+<<<<<<< HEAD
 Va. shooter posted tweets, video of shooting on social media
+=======
+Barack Obama invokes N-word during interview on racism in America
+>>>>>>> origin/master
 
 
 
@@ -520,16 +859,25 @@ Va. shooter posted tweets, video of shooting on social media
 
 
 
+<<<<<<< HEAD
 Va. reporter, photographer killed on-air during live news interview, shooter kills himself
 
 
+=======
+
+
+Barack Obama invokes N-word during interview on racism in America
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 Iowa teachers sing ‘One Day More’ before students return to school — and it’s awesome
+=======
+>>>>>>> origin/master
 
 
 
@@ -545,33 +893,56 @@ Iowa teachers sing ‘One Day More’ before students return to school — and i
 
 
 
+<<<<<<< HEAD
 
  
+=======
+Dylann Roof is the product of a system that has bred racist hatred for centuries
+
+Joanne Braxton and Michael Sainato
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 Latest News
 
 
 
+=======
+
+
+
+Dylann Roof is the product of a system that has bred racist hatred for centuries
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 Middle school teacher welcomes students back to magical Harry Potter-themed classroom
+=======
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 
 
 
 Greesnsboro police searching for man who exposed himself in front of children at Lawndale Target
+=======
+Kanye West and Lupe Fiasco address the Charleston church shooting
+
+
+
+>>>>>>> origin/master
 
 
 
@@ -579,8 +950,13 @@ Greesnsboro police searching for man who exposed himself in front of children at
 
 
 
+<<<<<<< HEAD
 
 Father allegedly robs bank to pay for daughter’s chemotherapy
+=======
+Kanye West and Lupe Fiasco address the Charleston church shooting
+
+>>>>>>> origin/master
 
 
 
@@ -588,57 +964,108 @@ Father allegedly robs bank to pay for daughter’s chemotherapy
 
 
 
+<<<<<<< HEAD
 
 Calif. man bitten while taking selfie with rattlesnake
+=======
+Older
+Newer
+
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
+
+
+
+=======
+Topics
+
+
+
+Gun crime
+>>>>>>> origin/master
 
 
 
 
-
-
-
+<<<<<<< HEAD
  
+=======
+South Carolina
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+Race issues
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+US crime
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
 
 
 
+=======
+US politics
+
+
+
+More…
+
+
+
+American civil war
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+Republicans
+>>>>>>> origin/master
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 News
+=======
+Barack Obama
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Gunshot wound victim found lying in Greensboro intersection
+=======
+US gun control
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 News
@@ -649,20 +1076,42 @@ News
 Police in Greensboro investigate overnight shooting
 
 
+=======
+Mitt Romney
 
 
 
 
+Media business
+
+
+
+
+Tim Cook
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 News
+=======
+Obama administration
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Person shot, injured near Marion Street and Coliseum Blvd. in Greensboro
+=======
+Art
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 News
@@ -673,66 +1122,119 @@ News
 Two injured after shooting at Greensboro home
 
 
+=======
+NBC Universal
 
 
 
 
+Urban music
+
+
+
+
+Rap
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 News
+=======
+Apple
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 One person injured in shooting reported on South Holden Road in Greensboro
+=======
+Ted Cruz
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+Scott Walker
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
  
+=======
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 News
 
 
 
 
 One injured in shooting reported at Greensboro café
+=======
+
+
+
+The Guardian
+
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 News
 
 
 
 
 2 injured in shooting in Greensboro
+=======
+
+back to top
+
+
+
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 News
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Man arranges meeting to sell shoes in Greensboro, gets shot and injured
 
+=======
+
+home
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 News
 
@@ -753,19 +1255,53 @@ News
 
 Man shot by armed robber at Greensboro gas station
 
+=======
+US
+selected
 
 
 
 
+world
+
+
+
+
+opinion
+
+
+
+
+sports
+
+
+
+
+soccer
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
  
 
+=======
+tech
 
 
 
 
+arts
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 News
 
@@ -786,19 +1322,54 @@ News
 
 Police investigating early morning shooting in Greensboro
 
+=======
+lifestyle
 
 
 
 
+fashion
+
+
+
+
+business
+
+
+
+
+travel
+
+
+
+
+environment
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 News
+=======
+science
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Police searching for suspect in fatal Reidsville shooting
 
 
+=======
+
+
+all sections
+close
+>>>>>>> origin/master
 
 
 
@@ -806,23 +1377,42 @@ Police searching for suspect in fatal Reidsville shooting
 
 
 
+<<<<<<< HEAD
+=======
+home
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
  
 
 
 
+=======
+US
+selected
 
 
 
 
+world
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+UK
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 Mobile Apps
 Android App
@@ -836,14 +1426,32 @@ Weather iPhone App
 
 iPhone & iPad App
 
+=======
+europe
 
 
 
 
+americas
 
 
 
 
+asia
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+middle east
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 Facebook
 
@@ -861,16 +1469,39 @@ About & Contact
 
 
 
+=======
+africa
+
+
+
+
+australia
+
+
+
+
+cities
+
+
+
+
+development
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+opinion
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -892,14 +1523,42 @@ A Tribune Broadcasting Station
 WordPress.com VIP
  
 
+=======
+sports
 
 
 
 
+soccer
 
 
 
 
+MLS
+
+
+
+
+NFL
+
+
+
+
+MLB
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+NBA
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
@@ -908,64 +1567,127 @@ WordPress.com VIP
 
 Email Alerts
 
+=======
+NHL
 
 
 
 
 
 
+soccer
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+live scores
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+tables
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+competitions
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+results
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+fixtures
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+clubs
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+tech
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+arts
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+movies
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+tv & radio
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+music
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+games
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+books
+>>>>>>> origin/master
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 
 
 
@@ -988,41 +1710,96 @@ Join 54,924 other followers
 
 
 
+=======
+art & design
+
+
+
+
+stage
+
+
+
+
+classical
 
 
 
 
 
 
+lifestyle
 
 
 
 
+food
+>>>>>>> origin/master
 
 
+
+
+<<<<<<< HEAD
+=======
+health & fitness
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+love & sex
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
 Build a website with WordPress.com
 
+=======
+family
+
+
+
+
+women
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+home & garden
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+fashion
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+business
+>>>>>>> origin/master
 
 
 
 
-
-
-
-
+<<<<<<< HEAD
 
 Send to Email Address
 
@@ -1038,16 +1815,39 @@ Your Email Address
 
 
 
+=======
+economics
+
+
+
+
+sustainable business
+
+
+
+
+diversity & equality in business
+
+
+
+
+small business
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+travel
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 Cancel
 
@@ -1062,6 +1862,130 @@ Cancel
 
 
 				Sorry, your blog cannot share posts by email.			
+=======
+USA
+
+
+
+
+europe
+
+
+
+
+UK
+
+
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+environment
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+climate change
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+wildlife
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+energy
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+pollution
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+science
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+media
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+
+
+
+=======
+crosswords
+
+
+
+
+video
+
+
+
+
+
+
+
+
+
+
+
+
+
+jobs
+
+subscribe
+all topics
+all contributors
+
+
+report technical issue
+
+
+
+about us
+
+contact us
+
+complaints & corrections
+terms & conditions
+privacy policy
+cookie policy
+securedrop
+
+
+© 2015 Guardian News and Media Limited or its affiliated companies. All rights reserved.
 
 
 
@@ -1079,23 +2003,6 @@ Cancel
 
 
 
+ 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+>>>>>>> origin/master

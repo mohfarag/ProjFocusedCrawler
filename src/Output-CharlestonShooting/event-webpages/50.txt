@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 What happened at the Charleston, South Carolina, church shooting? | US news | The Guardian
 
 
@@ -6,6 +7,17 @@ What happened at the Charleston, South Carolina, church shooting? | US news | Th
 
 
 
+=======
+Indy church members pray for victims in Charleston church shooting | Fox 59 
+Indy church members pray for victims in Charleston church shooting | Fox 59
+
+
+
+
+
+
+GoSearch
+>>>>>>> origin/master
 
 
 
@@ -14,14 +26,23 @@ What happened at the Charleston, South Carolina, church shooting? | US news | Th
 
 
 
+<<<<<<< HEAD
+
+
+=======
+FOX59 TV Schedule 
+
+
+ Search
+ Contact Us
+>>>>>>> origin/master
 
 
 
 
 
 
-
-
+<<<<<<< HEAD
 
 
 
@@ -57,6 +78,21 @@ Close
 Skip to main content
 
 
+=======
+Fox 59
+
+ Menu
+
+News
+Morning
+Community
+Richmond Hill Trial
+Sports
+Traffic
+Weather
+On-Air
+HealthTrax
+>>>>>>> origin/master
 
 
  
@@ -70,6 +106,10 @@ Skip to main content
 
 
 
+<<<<<<< HEAD
+=======
+ 
+>>>>>>> origin/master
 
 
 
@@ -77,13 +117,22 @@ Skip to main content
 
 
 
+<<<<<<< HEAD
+
+
+=======
+Indy church members pray for victims in Charleston church shooting
+
+Posted 9:37 PM, June 18, 2015, by Nicole Pence, Updated at 11:49pm, June 18, 2015 
+
+FacebookTwitterGoogleLinkedInPinterestEmail 
+>>>>>>> origin/master
 
 
 
 
 
-
-
+<<<<<<< HEAD
 
 
 
@@ -282,6 +331,24 @@ International
 
 
 beta
+=======
+(June 18, 2015) — Thursday evening church members in Indianapolis gathered to show their support for the victims in the Charleston Church shooting rampage. 
+St. John African Methodist Episcopal Church is part of the same predominantly black religious organization as the historic church in Charleston that came under attack Wednesday night.
+“There is comfort in prayers. We hope to be strengthen in prayer,” explained Pastor Lenore Williams with St. John African Methodist Episcopal Church.
+Religious leaders from many backgrounds came to the prayer service.
+“When we read about passages in the scriptures. That say when one mourns the other weeps. We feel like we have lost family member,” said Williams.
+Church member Pearla Gholdston attended a service at the Charleston church and met Pastor Pinckney just last year.
+“I was saddened and deeply and almost went into shock. I could not believe it.  It was difficult for me to sleep last night because of my knowledge of him,” said Gholdston.
+Pastor Pinckney, who was also a state senator, was one of nine people killed.
+The FBI is investigating this shooting rampage as a hate crime.
+“For that violence to take place in the sanctuary directed at people for their color of skin. It is sad.  We are going to pray. All of us are God`s children,” said Pastor Lenore Williams with St. John African Methodist Episcopal Church.
+The shootings come as Indianapolis is preparing to host two prominent African Methodist Episcopal conferences next month.
+Organizers tell our partners at the Indy Star they are planning a prayer service for the shooting victims.
+
+
+
+Filed in: News, NewsPoint 
+>>>>>>> origin/master
 
 
 
@@ -295,20 +362,33 @@ beta
 
 
 
+<<<<<<< HEAD
+=======
+ 
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 
 
 
 The Guardian
+=======
+ All Local. All Morning Long.
+Begin your mornings with FOX59 Morning News!
+
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -329,12 +409,38 @@ all
 
 
 close
+=======
+ 
+
+ 
+
+
+Popular
+
+
+
+Widow shocked to see husband’s death featured on reality show
+
+
+
+Woman reveals comment allegedly from ‘Subway Guy’ Jared Fogle that led to raid
+
+
+
+Child abuse charges re-filed after disturbing photos go viral on Facebook
+
+
+
+Florida woman wore wire to aid investigation into Subway spokesman Jared Fogle
+
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -362,6 +468,39 @@ home
 
 
 US
+=======
+ 
+
+
+Latest News
+
+
+
+Morgan County residents clean up after flash flooding overtakes homes and creates a muddy mess
+
+
+
+Closing arguments to begin Monday morning in Richmond Hill Trial
+
+
+
+New Mexico Amber Alert teen found safe in Indianapolis, suspect in custody
+
+
+
+Tornado rips through Johnson County; damage repairs underway
+
+
+
+
+
+ 
+
+
+
+
+
+>>>>>>> origin/master
 
 
 
@@ -369,6 +508,7 @@ US
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -424,30 +564,137 @@ sports
 
 
 
+=======
+News NewsPoint
+
+Indianapolis church congregation says lowering of SC Confederate flag is historic for all Americans
+
+
+National & World News
+
+Nine people killed at South Carolina church; shooting investigated as hate crime
+
+
+News
+
+Charleston church shooting suspect, Dylann Storm Roof, arrested in North Carolina
+
+
+News
+
+Worshippers return to Charleston’s Emanuel AME on Sunday
+
+
+National & World News
+
+Charleston: Forgiveness and frustration after first church service since massacre
+
+
+
+ 
+
+
+National & World News
+
+WATCH: President Obama sings ‘Amazing Grace’ at eulogy for reverend killed in Charleston shooting
+
+
+National & World News
+
+Charleston church shooting suspect Dylann Roof charged with 9 counts of murder
+
+
+National & World News
+
+FBI names suspect in Charleston church shooting as 21-year-old Dylann Storm Roof
+
+
+News
+
+Dylann Roof says he almost backed out because everyone at church was ‘so nice,’ bond set at $1 million
+
+
+National & World News What's Trending
+
+Sister of alleged Charleston shooter starts GoFundMe campaign to pay for ‘dream honeymoon’
+
+
+
+ 
+
+
+Crimetracker News
+
+Family of Charleston church shooting suspect Dylann Roof speaks for the first time
+
+
+National & World News
+
+Confederate flag lowered from South Carolina Capitol
+
+
+News
+
+Pastors expect heightened security after shooting at South Carolina church
 
 
 
 
 
+
+ 
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
 soccer
+=======
+Mobile AppsAndroid App
+iPhone & iPad App
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+Facebook
+Twitter
+About & Contact
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 tech
 
 
 
+=======
+
+
+
+Online Public File • 		EEO Report • 		Terms of Service •
+		Privacy Policy  •
+		6910 Network Place Indianapolis, IN 46278  •
+		Copyright © 2015, WXIN		 • A Tribune Broadcasting Station •
+		Powered by WordPress.com VIP 
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 arts
+=======
+×
+Email Alerts
+>>>>>>> origin/master
 
 
 
@@ -456,7 +703,10 @@ arts
 
 
 
+<<<<<<< HEAD
 lifestyle
+=======
+>>>>>>> origin/master
 
 
 
@@ -465,7 +715,10 @@ lifestyle
 
 
 
+<<<<<<< HEAD
 fashion
+=======
+>>>>>>> origin/master
 
 
 
@@ -474,17 +727,30 @@ fashion
 
 
 
+<<<<<<< HEAD
 business
+=======
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 
 
 travel
 
+=======
+Follow
+
+Follow “Fox 59”
+
+Get every new post delivered to your Inbox.
+
+Join 2,646 other followers
+>>>>>>> origin/master
 
 
 
@@ -492,8 +758,13 @@ travel
 
 
 
+<<<<<<< HEAD
 environment
 
+=======
+
+Build a website with WordPress.com
+>>>>>>> origin/master
 
 
 
@@ -501,12 +772,42 @@ environment
 
 
 
+<<<<<<< HEAD
 science
 
 
 
 
 
+=======
+
+
+
+Send to Email Address
+
+Your Name
+
+Your Email Address
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
+
+
+
+=======
+Cancel
+
+				Post was not sent - check your email addresses!			
+
+				Email check failed, please try again			
+
+				Sorry, your blog cannot share posts by email.			
+>>>>>>> origin/master
 
 
 
@@ -520,15 +821,7 @@ science
 
 
 
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
  
  
 US newsWhat happened at the Charleston, South Carolina, church shooting?
@@ -1710,6 +2003,8 @@ securedrop
 
 
  
+=======
+>>>>>>> origin/master
 
 
 

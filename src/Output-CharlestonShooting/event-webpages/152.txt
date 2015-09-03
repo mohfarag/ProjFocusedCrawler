@@ -1,8 +1,16 @@
+<<<<<<< HEAD
 Representatives of Charleston shooting victims 'forgive' Dylann Roof | US news | The Guardian
 
 
 
 Representatives of Charleston shooting victims 'forgive' Dylann Roof | US news | The Guardian
+=======
+The Charleston shooting victims: a poet, a politician, a librarian, women of faith | US news | The Guardian
+
+The Charleston shooting victims: a poet, a politician, a librarian, women of faith | US news | The Guardian
+
+
+>>>>>>> origin/master
 
 
 
@@ -16,6 +24,25 @@ Representatives of Charleston shooting victims 'forgive' Dylann Roof | US news |
 
 
 
+<<<<<<< HEAD
+=======
+Close
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+
+=======
+Skip to main content
+
+ 
+>>>>>>> origin/master
 
 
 
@@ -26,17 +53,13 @@ Representatives of Charleston shooting victims 'forgive' Dylann Roof | US news |
 
 
 
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 Close
 
+=======
+
+sign in
+>>>>>>> origin/master
 
 
 
@@ -45,6 +68,10 @@ Close
 
 
 
+<<<<<<< HEAD
+=======
+subscribe
+>>>>>>> origin/master
 
 
 
@@ -52,6 +79,7 @@ Close
 
 
 
+<<<<<<< HEAD
 
 
 Skip to main content
@@ -60,86 +88,25 @@ Skip to main content
 
 
  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-sign in
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-subscribe
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+=======
 search
 
 
 
 
-
-
-
-
-
-
 jobs
 
 
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
 
 
 
@@ -154,32 +121,14 @@ jobs
 
 
 
-
-
-
-
-
-
+=======
 more
-
-
-
-
 
 
 from the guardian:
 
 
-
-
-
-
 jobs
-
-
-
-
-
 
 
 
@@ -187,18 +136,226 @@ change edition:
 
 
 
+switch to the  UK  edition
 
 
-
+switch to the  AU  edition
 
 
 switch to the 
+INT
+beta
+ edition
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+sign in
+=======
+US edition
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+switch to the 
+UK edition
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+switch to the 
+Australia edition
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+switch to the 
+International
+beta
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
+subscribe
+=======
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+The Guardian
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+search
+=======
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+
+
+=======
+home
+
+
+›
+US
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+jobs
+=======
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+home
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+US
+selected
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+world
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+opinion
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+more
+=======
+sports
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+
+
+from the guardian:
+
+
+=======
+soccer
+
+
+
+
+tech
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+jobs
+=======
+arts
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+lifestyle
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+change edition:
+=======
+fashion
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+business
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+switch to the 
  UK 
  edition
+=======
+travel
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 switch to the 
@@ -206,10 +363,19 @@ switch to the
  edition
 
 
+=======
+environment
 
 
 
 
+science
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 switch to the 
 
 
@@ -220,6 +386,24 @@ beta
 
 
  edition
+=======
+
+
+browse all sections
+close
+
+
+
+
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+ 
+>>>>>>> origin/master
 
 
 
@@ -231,14 +415,18 @@ beta
 
 
 
-
-
-
-
+<<<<<<< HEAD
 
 
 US edition
 
+=======
+Charleston shooting
+
+
+
+The Charleston shooting victims: a poet, a politician, a librarian, women of faith
+>>>>>>> origin/master
 
 
 
@@ -247,10 +435,16 @@ US edition
 
 
 
+<<<<<<< HEAD
 switch to the 
 
 
 UK edition
+=======
+
+Six women and three men were killed when a gunman attacked the Emanuel African Methodist Episcopal church. These are their stories
+
+>>>>>>> origin/master
 
 
 
@@ -261,19 +455,30 @@ UK edition
 
 
 
+<<<<<<< HEAD
 switch to the 
 
 
 Australia edition
+=======
+
+
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
+=======
+Clementa Pinckney was a pastor and state senator who proposed gun-control legislation and pushed South Carolina to pass a law requiring police to wear body cameras.
+Photograph: Randall Hill/Reuters
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 switch to the 
 
@@ -282,6 +487,27 @@ International
 
 
 beta
+=======
+Jessica Glenza and 
+Lauren Gambino
+
+
+Thursday 18 June 2015 17.05 EDT
+
+
+Last modified on Saturday 20 June 2015 12.23 EDT
+
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+Share on Facebook
+>>>>>>> origin/master
 
 
 
@@ -289,6 +515,10 @@ beta
 
 
 
+<<<<<<< HEAD
+=======
+Share on Twitter
+>>>>>>> origin/master
 
 
 
@@ -296,15 +526,57 @@ beta
 
 
 
-
-
-
-
-
-
+<<<<<<< HEAD
 
 
 The Guardian
+=======
+Share via Email
+
+
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
+=======
+Share on Pinterest
+>>>>>>> origin/master
+
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+Share on LinkedIn
+>>>>>>> origin/master
+
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+Share on Google+
+>>>>>>> origin/master
+
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+Share on WhatsApp
+>>>>>>> origin/master
 
 
 
@@ -313,39 +585,17 @@ The Guardian
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 home
+=======
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 ›
 
 
@@ -383,78 +633,229 @@ US
 selected
 
 
+=======
+
+
+
+They were at Bible study. Many of them were members of the clergy at Emanuel African Methodist Episcopal, a historic church that has been central to black life and the civil rights movement. Some were just stopping by to pray. They could have had no idea what might happen next.
+The victims of a mass shooting in Charleston, South Carolina, were named on Thursday, and will be remembered with ongoing vigils in the so-called Holy City and across the US.
+Below is information about each victim. 
+Clementa Pinckney
+
+ Related: Charleston shooting: state senator Clementa Pinckney among victims 
+
+Called “Clem” by his friends, 41-year-old Pinckney (pictured above) was a well-respected pastor and South Carolina state senator, the youngest black representative ever elected to the legislature.
+He graduated from Allen University with a degree in business administration, and was described by the university as “one [of] its most prominent alums”.
+“Senator Pinckney was a brilliant young pastor and leader who always possessed an empowering and healing message,” the university said in a press release. In his junior year of college, Pinckney was also selected as a fellow for Princeton University’s Woodrow Wilson summer research program. He received a graduate degree in public administration from the University of South Carolina. 
+Pinckney began preaching at 13 years old, according to his biography on the Mother Emanuel AME website. At 18, he had received his first pastor’s appointment.
+In the state legislature, he had proposed strict gun-control legislation – later failed – to require background checks for gun purchases in South Carolina.
+He also campaigned for police to be equipped with body cameras, which he said “may not be the golden ticket, the golden egg, the end-all-fix-all, but [would help] to paint a picture of what happens during a police stop”. 
+Mandatory body cameras became law in the state one week before Pinckney’s death.
+Tywanza Sanders
+
+
+
+ Facebook 
+ Twitter 
+ Pinterest 
+
+
+Tywanza Sanders. Photograph: Facebook
+
+
+A 2014 graduate of Allen University’s business administration program, Sanders, 26, was the youngest victim of the church shooting. 
+The school’s interim president, Lady June Cole, said that Sanders worked as a barber while attending the university, and that he was a Charleston native. Sanders also wrote poetry, and was attempting to have a series of poems published before his death. 
+“He was a quiet, well-known student who was committed to his education. He presented a warm and helpful spirit as he interacted with his colleagues,” Allen University said in a press release. 
+Sharonda Coleman-Singleton
+
+
+
+ Facebook 
+ Twitter 
+ Pinterest 
+
+
+The Rev Sharonda Singleton and her son. Photograph: Facebook
+
+
+Coleman-Singleton, 45, was identified by her son’s school, Charleston Southern University. Her son, Chris Singleton, was described as a “rising sophomore” baseball player at the university.
+“Chris’s mother was just that parent that as a coach you are proud to have as part of your program,” baseball head coach Stuart Lake said about Coleman-Singleton. “What she brought to our team is immeasurable.” 
+Coleman-Singleton was a speech therapist at Goose Creek high school in Berkeley County, South Carolina, and was also the head coach of the girls’ track team there, specifically handling hurdles and sprints. She ran track herself at South Carolina State University. 
+Goose Creek’s athletic director, Chuck Reedy, told the Post and Courier that Coleman-Singleton was “very professional in everything she did”.
+“She was an excellent role model for all of our students, in the way she carried herself. She was just first class,” Reedy said, according to the Post and Courier. 
+She was also listed as a reverend at Mother Emanuel AME, according to the church’s website. 
+Cynthia Hurd
+
+
+
+Cynthia Hurd, a victim of the shooting at Emanuel church, Charleston. Photograph: www.ccpl.org
+
+
+Hurd, 54, was the regional manager of the St Andrew’s library, part of the Charleston County library system, where she worked for 31 years. Hurd was also the sister of former North Carolina senator Malcolm Graham.
+The library has canceled events and closed the library following the massacre. Hurd, “dedicated her life to serving and improving the lives of others”, the library said in a statement on the system’s Facebook.
+“Cynthia was a tireless servant of the community who spent her life helping residents, making sure they had every opportunity for an education and personal growth,” the library said on its Facebook page.
+All 16 Charleston County libraries will close on Thursday in memory of the nine victims shot at the Mother Emanuel AME church, and the St Andrew’s location will be closed on Friday as well.
+She was a well-known woman in the community, and the Charleston county coroner Rae Wooten said that, “Obviously, we’re all shattered by that, she’ll be missed deeply.” 
+“It is unimaginable that she would walk into church and not return,” Graham said in a statement. “But that’s who she was – a woman of faith.”
+DePayne Middleton-Doctor
+
+
+
+The Rev DePayne Middleton, a victim of the shootings at the Emanuel church, Charleston. Photograph: Internet
+
+
+Middleton-Doctor, 49, worked in Charleston county as director of the federal community development block grants, work that helps residents install things such as septic tanks, the Charleston county council chairman said on Thursday.
+“In a very big way she was doing very human kinds of things in her role in government for others,” said J Elliott Summey, Charleston council chairman.
+Middleton-Doctor retired from her job in the county in 2005. 
+Rev Dr Daniel L Simmons Sr
+The 74-year-old was a reverend at the Mother Emanuel AME Church, in addition to being a retired pastor, ABC News reported.
+Ethel Lance
+
+ Related: The Charleston shooter killed mostly black women. This wasn't about 'rape' | Rebecca Carroll 
+
+Lance, 70, was a sexton who had worked at the church for more than 30 years, according to her family.
+“Granny was the heart of the family,” her grandson Jon Quil Lance told the local Post and Courier newspaper, as he waited outside the trauma center of Medical University hospital.
+“She’s a Christian, hardworking; I could call my granny for anything. I don’t have anyone else like that,” he added.
+Myra Thompson
+Thompson, 59, was the wife of Anthony Thompson, a vicar at the Holy Trinity REC Church in Charleston.
+The Anglican Church of North America asked for prayers on her husband’s behalf, in a Twitter post. 
+Susie Jackson
+
+At 87, Jackson was the oldest of the victims of the Wednesday shooting.
+A child of the civil-rights movement, she witnessed South Carolina’s historic role in American race relations, up to and including the day of her death at a church that was home to a slave revolt, before being burned down by white supremacists, visited by Martin Luther King Jr, and now baring witness to another massacre.
+If you have more information from South Carolina and beyond, please share it with Guardian Witness.
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 
 world
+=======
+More news 
+Topics
+
+
+
+Charleston shooting
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+Gun crime
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 opinion
+=======
+South Carolina
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+Religion
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 sports
+=======
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 
 
 soccer
+=======
+Share on Facebook
+
+
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 
 
 
 tech
+=======
+Share on Twitter
+
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+Share via Email
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 arts
 
 
 
+=======
+
+
+
+Share on Pinterest
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 lifestyle
 
 
+=======
+
+
+Share on LinkedIn
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 fashion
 
+=======
+
+Share on Google+
+>>>>>>> origin/master
 
 
 
@@ -462,7 +863,11 @@ fashion
 
 
 
+<<<<<<< HEAD
 business
+=======
+Share on WhatsApp
+>>>>>>> origin/master
 
 
 
@@ -471,7 +876,10 @@ business
 
 
 
+<<<<<<< HEAD
 travel
+=======
+>>>>>>> origin/master
 
 
 
@@ -480,7 +888,10 @@ travel
 
 
 
+<<<<<<< HEAD
 environment
+=======
+>>>>>>> origin/master
 
 
 
@@ -489,7 +900,18 @@ environment
 
 
 
+<<<<<<< HEAD
 science
+=======
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+View all comments >
+>>>>>>> origin/master
 
 
 
@@ -497,10 +919,7 @@ science
 
 
 
-
-
-
-
+<<<<<<< HEAD
 
 
 browse 
@@ -509,6 +928,44 @@ all
 
 
 close
+=======
+comments 
+Sign in
+or create your Guardian account to join the discussion.
+
+This discussion is closed for comments.
+
+We’re doing some maintenance right now. You can still read comments, but please come back later to add your own.
+
+
+Commenting has been disabled for this account (why?)
+>>>>>>> origin/master
+
+
+
+
+
+
+
+<<<<<<< HEAD
+
+
+
+
+=======
+Order by 
+
+
+newest
+
+
+oldest
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
@@ -517,53 +974,91 @@ close
 
 
 
+=======
+Show 25
+
+
+25
+
+
+50
+
+
+100
+
+
+All
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
 
 
 
+=======
+Threads 
+
+
+collapsed
+
+
+expanded
+
+
+unthreaded
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
+=======
+Loading comments… Trouble loading?
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+View more comments
+>>>>>>> origin/master
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 Charleston shooting
+=======
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 
 
 Representatives of Charleston shooting victims 'forgive' Dylann Roof
+=======
+ 
+
+
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+more on this story
+>>>>>>> origin/master
 
 
 
@@ -579,15 +1074,43 @@ Representatives of Charleston shooting victims 'forgive' Dylann Roof
 
 
 
-
-
-
-
+<<<<<<< HEAD
 Families spoke to expressionless suspect via video link at bond hearing, expressing anger and grief while urging Roof to repent for his actions
 
 
 
 
+=======
+
+
+Charleston shootings: NRA blames victims as reactions echo Newtown
+
+
+An NRA board member suggested worshippers ‘might be alive’ if they had guns themselves, while Obama and gun control groups repeat calls for reform
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+Published: 20 Jun 2015
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+Charleston shootings: NRA blames victims as reactions echo Newtown
+>>>>>>> origin/master
 
 
 
@@ -610,23 +1133,14 @@ Families spoke to expressionless suspect via video link at bond hearing, express
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 Nadine Collier, daughter of Charleston church shooting victim Ethel Lance, addressed suspect Dylann Roof at bond hearing: ‘God forgive you and I forgive you.’
 Photograph: David Goldman/AP
+=======
+Sorry, your browser is unable to play this video.
+Please install Adobe Flash™ and try again.
+Alternatively upgrade to a modern browser.
+>>>>>>> origin/master
 
 
 
@@ -634,21 +1148,44 @@ Photograph: David Goldman/AP
 
 
 
+<<<<<<< HEAD
 Associated Press in Charleston
+=======
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 Friday 19 June 2015 
 18.16 EDT
+=======
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 Last modified on Saturday 20 June 2015 
 12.23 EDT
+=======
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
+
+
+=======
+Michelle Obama on Charleston: 'Too many tragedies like this' - video
+
+
+Michelle Obama spoke about the deadly church shooting in Charleston, South Carolina.
+>>>>>>> origin/master
 
 
 
@@ -658,16 +1195,23 @@ Last modified on Saturday 20 June 2015
 
 
 
-
-
-
-
-
-
-
+<<<<<<< HEAD
 Share on Facebook
 
 
+=======
+
+
+Published: 19 Jun 2015
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+Michelle Obama on Charleston: 'Too many tragedies like this' - video
+>>>>>>> origin/master
 
 
 
@@ -678,11 +1222,24 @@ Share on Facebook
 
 
 
-
-
-
-
+<<<<<<< HEAD
 Share on Twitter
+=======
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
+
+
+=======
+Rick Perry calls Charleston church shooting an 'accident'
+
+
+Republican presidential candidate says ‘real issue’ raised by case is drugs and accuses Obama of seeking to use shooting to take away Americans’ guns
+>>>>>>> origin/master
 
 
 
@@ -692,16 +1249,23 @@ Share on Twitter
 
 
 
-
-
-
-
-
-
-
+<<<<<<< HEAD
 Share via Email
 
 
+=======
+
+
+Published: 19 Jun 2015
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+Rick Perry calls Charleston church shooting an 'accident'
+>>>>>>> origin/master
 
 
 
@@ -712,11 +1276,10 @@ Share via Email
 
 
 
-
-
-
-
+<<<<<<< HEAD
 Share on Pinterest
+=======
+>>>>>>> origin/master
 
 
 
@@ -729,11 +1292,20 @@ Share on Pinterest
 
 
 
+<<<<<<< HEAD
+=======
+Sorry, your browser is unable to play this video.
+Please install Adobe Flash™ and try again.
+Alternatively upgrade to a modern browser.
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Share on LinkedIn
+=======
+>>>>>>> origin/master
 
 
 
@@ -750,11 +1322,20 @@ Share on LinkedIn
 
 
 
+<<<<<<< HEAD
 Share on Google+
 
 
 
 
+=======
+
+
+No decision has been made on death penalty in Charleston church shooting, says prosecutor – video
+
+
+Prosecutor Scarlett Wilson says 'now is not the time' to discuss whether suspected gunman Dylann Roof will face the death penalty
+>>>>>>> origin/master
 
 
 
@@ -766,11 +1347,20 @@ Share on Google+
 
 
 
+<<<<<<< HEAD
 
 Share on WhatsApp
 
 
 
+=======
+Published: 19 Jun 2015
+
+
+
+
+No decision has been made on death penalty in Charleston church shooting, says prosecutor – video
+>>>>>>> origin/master
 
 
 
@@ -787,6 +1377,10 @@ Share on WhatsApp
 
 
 
+<<<<<<< HEAD
+=======
+Representatives of Charleston shooting victims 'forgive' Dylann Roof
+>>>>>>> origin/master
 
 
 
@@ -800,20 +1394,31 @@ Share on WhatsApp
 
 
 
+<<<<<<< HEAD
+=======
+Published: 19 Jun 2015
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
  
 Related: 
 Charleston shooting: 'May God forgive you', victims' families tell Dylann Roof – live updates
  
+=======
+Representatives of Charleston shooting victims 'forgive' Dylann Roof
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Representatives for the families of some of the nine victims of a fatal shooting at a black church in Charleston addressed shooting suspect Dylann Roof in court just ahead of a bond hearing Friday. Roof appeared via video link and seemed to show no emotion as family members spoke, showing anger, sadness and even forgiveness.
 
 
@@ -872,6 +1477,12 @@ Nadine Collier, daughter of Ethel Lance:
 
 
 For several of the victims, including state legislator Clementa Pinckney, no one in court opted to speak on behalf of the family. A representative for victim Sharonda Coleman-Singleton was in court but when called on by the judge, chose not to speak.
+=======
+
+
+Analysis
+
+11 myths about the future of gun control, debunked after the Charleston shooting
 
 
 
@@ -881,11 +1492,61 @@ For several of the victims, including state legislator Clementa Pinckney, no one
 
 
 
+
+
+
+
+Published: 20 Jun 2015
+
+
+
+
+11 myths about the future of gun control, debunked after the Charleston shooting
+
+
+
+
+
+
+
+
+
+
+Charleston killings leave US reckoning with race and guns amid 'broken peace'
+
+
+
+
+
+
+
+
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
+=======
+Published: 18 Jun 2015
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 More news 
 
 
 Topics
+=======
+Charleston killings leave US reckoning with race and guns amid 'broken peace'
+
+
+
+>>>>>>> origin/master
 
 
 
@@ -893,7 +1554,11 @@ Topics
 
 
 
+<<<<<<< HEAD
 Charleston shooting
+=======
+Charleston church shooting: suspect Dylann Roof in custody as community holds vigils
+>>>>>>> origin/master
 
 
 
@@ -902,7 +1567,27 @@ Charleston shooting
 
 
 
+<<<<<<< HEAD
 South Carolina
+=======
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
+=======
+Published: 19 Jun 2015
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+Charleston church shooting: suspect Dylann Roof in custody as community holds vigils
+>>>>>>> origin/master
 
 
 
@@ -915,19 +1600,17 @@ South Carolina
 
 
 
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 Share on Facebook
 
 
 
+=======
+
+
+
+More more on this story
+>>>>>>> origin/master
 
 
 
@@ -939,9 +1622,15 @@ Share on Facebook
 
 
 
+<<<<<<< HEAD
 
 
 Share on Twitter
+=======
+popular
+
+
+>>>>>>> origin/master
 
 
 
@@ -952,15 +1641,25 @@ Share on Twitter
 
 
 
+<<<<<<< HEAD
+=======
+ 
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 Share via Email
 
 
+=======
+
+
+The Guardian
+>>>>>>> origin/master
 
 
 
@@ -969,13 +1668,20 @@ Share via Email
 
 
 
+<<<<<<< HEAD
+=======
+back to top
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 Share on Pinterest
+=======
+>>>>>>> origin/master
 
 
 
@@ -984,49 +1690,118 @@ Share on Pinterest
 
 
 
+<<<<<<< HEAD
+=======
+home
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+US
+selected
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Share on LinkedIn
+=======
+world
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+opinion
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+sports
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+soccer
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Share on Google+
+=======
+tech
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+arts
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+lifestyle
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+fashion
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Share on WhatsApp
+=======
+business
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+travel
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+environment
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+science
+>>>>>>> origin/master
 
 
 
@@ -1034,6 +1809,11 @@ Share on WhatsApp
 
 
 
+<<<<<<< HEAD
+=======
+all sections
+close
+>>>>>>> origin/master
 
 
 
@@ -1041,63 +1821,98 @@ Share on WhatsApp
 
 
 
+<<<<<<< HEAD
+=======
+home
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+US
+selected
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+world
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+UK
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+europe
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+americas
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+asia
+>>>>>>> origin/master
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 
 
 
 View all comments >
 
+=======
+middle east
 
 
 
 
+africa
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+australia
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+cities
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
@@ -1126,18 +1941,52 @@ why?
 )
 
 
+=======
+development
 
 
 
 
 
 
+opinion
 
 
 
 
+sports
 
 
+
+
+soccer
+
+
+
+
+MLS
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+NFL
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+MLB
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 Order by 
 
@@ -1155,14 +2004,39 @@ newest
 
 oldest
 
+=======
+NBA
+
+
+
+
+NHL
 
 
 
 
 
 
+soccer
 
 
+
+
+live scores
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+tables
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 Show 
 25
@@ -1174,17 +2048,36 @@ Show
 
 25
 
+=======
+competitions
 
 
 
 
+results
+
+
+
+
+fixtures
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 50
+=======
+clubs
+
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 
 100
 
@@ -1195,14 +2088,32 @@ Show
 
 All
 
+=======
+tech
 
 
 
 
+arts
 
 
 
 
+movies
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+tv & radio
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 Threads 
 
@@ -1213,10 +2124,24 @@ Threads
 
 collapsed
 
+=======
+music
 
 
 
 
+games
+
+
+
+
+books
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 expanded
 
@@ -1227,30 +2152,61 @@ expanded
 
 unthreaded
 
+=======
+art & design
+
+
+
+
+stage
+
+
+
+
+classical
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+lifestyle
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 Loading comments… 
 Trouble loading?
 
 
 
+=======
+food
 
 
 
 
+health & fitness
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+love & sex
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 View more comments
@@ -2620,6 +3576,9 @@ family
 
 
 
+=======
+family
+>>>>>>> origin/master
 
 
 
@@ -2629,10 +3588,13 @@ women
 
 
 
+<<<<<<< HEAD
 
 
 
 
+=======
+>>>>>>> origin/master
 home & garden
 
 
@@ -2640,57 +3602,75 @@ home & garden
 
 
 
+<<<<<<< HEAD
 
 
 
 
 
 
+=======
+>>>>>>> origin/master
 fashion
 
 
 
 
+<<<<<<< HEAD
 
 
 
 
+=======
+>>>>>>> origin/master
 business
 
 
 
 
+<<<<<<< HEAD
 
 
 
 
+=======
+>>>>>>> origin/master
 economics
 
 
 
 
+<<<<<<< HEAD
 
 
 
 
+=======
+>>>>>>> origin/master
 sustainable business
 
 
 
 
+<<<<<<< HEAD
 
 
 
 
+=======
+>>>>>>> origin/master
 diversity & equality in business
 
 
 
 
+<<<<<<< HEAD
 
 
 
 
+=======
+>>>>>>> origin/master
 small business
 
 
@@ -2698,39 +3678,51 @@ small business
 
 
 
+<<<<<<< HEAD
 
 
 
 
 
 
+=======
+>>>>>>> origin/master
 travel
 
 
 
 
+<<<<<<< HEAD
 
 
 
 
+=======
+>>>>>>> origin/master
 USA
 
 
 
 
+<<<<<<< HEAD
 
 
 
 
+=======
+>>>>>>> origin/master
 europe
 
 
 
 
+<<<<<<< HEAD
 
 
 
 
+=======
+>>>>>>> origin/master
 UK
 
 
@@ -2738,48 +3730,63 @@ UK
 
 
 
+<<<<<<< HEAD
 
 
 
 
 
 
+=======
+>>>>>>> origin/master
 environment
 
 
 
 
+<<<<<<< HEAD
 
 
 
 
+=======
+>>>>>>> origin/master
 climate change
 
 
 
 
+<<<<<<< HEAD
 
 
 
 
+=======
+>>>>>>> origin/master
 wildlife
 
 
 
 
+<<<<<<< HEAD
 
 
 
 
+=======
+>>>>>>> origin/master
 energy
 
 
 
 
+<<<<<<< HEAD
 
 
 
 
+=======
+>>>>>>> origin/master
 pollution
 
 
@@ -2787,35 +3794,45 @@ pollution
 
 
 
+<<<<<<< HEAD
 
 
 
 
 
 
+=======
+>>>>>>> origin/master
 science
 
 
 
 
+<<<<<<< HEAD
 
 
 
 
+=======
+>>>>>>> origin/master
 media
 
 
 
 
+<<<<<<< HEAD
 
 
 
 
+=======
+>>>>>>> origin/master
 crosswords
 
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -2914,6 +3931,8 @@ azed
 
 
 
+=======
+>>>>>>> origin/master
 video
 
 
@@ -2926,6 +3945,7 @@ video
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -2938,11 +3958,14 @@ video
 
 
 
+=======
+>>>>>>> origin/master
 US News
 
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -2952,6 +3975,9 @@ US News
 ›
 
 
+=======
+›
+>>>>>>> origin/master
 Charleston shooting
 
 
@@ -2961,6 +3987,7 @@ Charleston shooting
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -2986,10 +4013,20 @@ all contributors
 
 
 
+=======
+jobs
+
+subscribe
+all topics
+all contributors
+
+
+>>>>>>> origin/master
 report technical issue
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -3020,6 +4057,19 @@ securedrop
 
 
 
+=======
+about us
+
+contact us
+
+complaints & corrections
+terms & conditions
+privacy policy
+cookie policy
+securedrop
+
+
+>>>>>>> origin/master
 © 2015 Guardian News and Media Limited or its affiliated companies. All rights reserved.
 
 
@@ -3038,6 +4088,7 @@ securedrop
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -3061,3 +4112,7 @@ securedrop
 
 
 
+=======
+ 
+
+>>>>>>> origin/master

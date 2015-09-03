@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Charleston shooting | US news | The Guardian
 
 
@@ -20,6 +21,11 @@ Charleston shooting | US news | The Guardian
 
 
 
+=======
+Charleston shooting echoes a painful history of attacks on black churches | World news | The Guardian
+
+Charleston shooting echoes a painful history of attacks on black churches | World news | The Guardian
+>>>>>>> origin/master
 
 
 
@@ -44,6 +50,7 @@ Close
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -59,6 +66,10 @@ Skip to main content
 
 
 
+=======
+Skip to main content
+
+>>>>>>> origin/master
  
 
 
@@ -71,6 +82,10 @@ Skip to main content
 
 
 
+<<<<<<< HEAD
+=======
+sign in
+>>>>>>> origin/master
 
 
 
@@ -79,6 +94,10 @@ Skip to main content
 
 
 
+<<<<<<< HEAD
+=======
+subscribe
+>>>>>>> origin/master
 
 
 
@@ -86,10 +105,15 @@ Skip to main content
 
 
 
+<<<<<<< HEAD
+=======
+search
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 sign in
 
 
@@ -98,6 +122,9 @@ sign in
 
 
 
+=======
+jobs
+>>>>>>> origin/master
 
 
 
@@ -108,6 +135,7 @@ sign in
 
 
 
+<<<<<<< HEAD
 
 subscribe
 
@@ -127,59 +155,128 @@ subscribe
 
 
 search
-
-
-
-
-
-
-
-
-
-
-jobs
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+=======
 more
-
-
-
-
 
 
 from the guardian:
 
 
+jobs
 
 
 
+change edition:
+
+
+
+switch to the  UK  edition
+
+
+switch to the  AU  edition
+
+
+switch to the 
+INT
+beta
+ edition
+
+
+
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
+=======
+US edition
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 jobs
 
 
 
+=======
+switch to the 
+UK edition
 
 
+
+
+switch to the 
+Australia edition
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+switch to the 
+International
+beta
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+The Guardian
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
+more
+=======
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
+from the guardian:
+=======
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
+
+jobs
+
+=======
+home
+
+
+›
+world
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
@@ -204,12 +301,41 @@ switch to the
 switch to the 
  AU 
  edition
+=======
+UK
+
+
+europe
+
+
+americas
+
+
+asia
+
+
+middle east
+
+
+africa
+
+
+australia
+
+
+cities
+
+
+development
+
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 switch to the 
 
 
@@ -221,59 +347,118 @@ beta
 
  edition
 
+=======
+
+
+
+home
 
 
 
 
+US
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+world
+selected
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+opinion
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+sports
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 US edition
+=======
+soccer
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+tech
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 switch to the 
 
 
 UK edition
 
+=======
+arts
 
 
 
 
+lifestyle
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+fashion
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 switch to the 
 
 
 Australia edition
 
+=======
+business
 
 
 
 
+travel
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+environment
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 switch to the 
 
@@ -283,6 +468,29 @@ International
 
 beta
 
+=======
+science
+
+
+
+
+
+
+browse all sections
+close
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+ 
+>>>>>>> origin/master
 
 
 
@@ -294,18 +502,31 @@ beta
 
 
 
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 
 
 The Guardian
 
+=======
+Race issues
+
+
+
+Charleston shooting echoes a painful history of attacks on black churches
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+‘The church, itself born out of a protest movement, is a symbol’ for many African Americans – and terrorizing houses of worship goes back centuries
+>>>>>>> origin/master
 
 
 
@@ -324,33 +545,46 @@ The Guardian
 
 
 
+<<<<<<< HEAD
+=======
+Arson investigators sort through the remains of a sanctuary on the grounds of Matthews Murkland Presbyterian church in Charlotte, North Carolina, on 7 June 1996.
+Photograph: Nell Redmond/Associated Press
+>>>>>>> origin/master
 
 
 
 
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 
 
 home
 
 
+=======
+Rose Hackman
+
+
+Saturday 20 June 2015 09.24 EDT
+
+
+Last modified on Saturday 20 June 2015 12.23 EDT
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 ›
 
 
 US
 
+=======
+
+
+
+Share on Facebook
+>>>>>>> origin/master
 
 
 
@@ -358,6 +592,10 @@ US
 
 
 
+<<<<<<< HEAD
+=======
+Share on Twitter
+>>>>>>> origin/master
 
 
 
@@ -365,23 +603,40 @@ US
 
 
 
+<<<<<<< HEAD
 
 
 
 home
+=======
+Share via Email
+
+
+
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+Share on Pinterest
+>>>>>>> origin/master
 
 
 
 
 
-
-
-
-
+<<<<<<< HEAD
 US
 
 selected
 
+=======
+
+
+Share on LinkedIn
+>>>>>>> origin/master
 
 
 
@@ -389,17 +644,28 @@ selected
 
 
 
+<<<<<<< HEAD
 
 world
+=======
+Share on Google+
+
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 
 
 opinion
+=======
+Share on WhatsApp
+
+
+>>>>>>> origin/master
 
 
 
@@ -408,7 +674,10 @@ opinion
 
 
 
+<<<<<<< HEAD
 sports
+=======
+>>>>>>> origin/master
 
 
 
@@ -416,6 +685,7 @@ sports
 
 
 
+<<<<<<< HEAD
 
 soccer
 
@@ -431,29 +701,112 @@ tech
 
 
 
+=======
+During a 1998 trial following the 1995 race-related burning of a black church in South Carolina, one witness on the stand recalled a casual conversation between two male members of a local white supremacist group: “hell, let’s burn a church”, one white supremacist said to the other, according to records by the Southern Poverty Law Center. “There’s one right down the road.”
+From 1822 when the historic Emanuel African Methodist Episcopal church in Charleston was attacked for the first time and burned to the ground, to 1963 when four school girls were killed in a church basement in Birmingham, Alabama, following a racially motivated bombing, and through the 1990s when dozens of churches were set on fire across the American south, ending this week in Charleston, South Carolina: the pattern is undeniably, disturbingly there.
+“The African American church, itself born out of a protest movement, is a symbol to African American community and culture,” says Yolanda Pierce, an associate professor of African American Religion at Princeton Theological Seminary, pointing out that the site of Wednesday’s killings, fondly referred to by some as “Mother Emanuel”, was a church that was founded because of black freemen and slaves’ very marginalization from white religious services in the first place.
+“Whether we are looking at the 16th street bombing in Alabama in 1963, or this recent massacre, these are targeted specific attacks on African American communities, against African American lives. It is quite clear that it is about race,” she said.
+Pierce said striking in a place of worship that has traditionally been a sanctuary and a refuge – where black people have been able to retreat away from racist practices and oppression – sends a message: “You are not safe in a place that you call home.”
+“The attack is actually on the African American community at large and the church acts as the symbol for this,” she closes.
+It is hard to grapple with the reality of Wednesday’s horrific church attack in Charleston, South Carolina, where a white 21-year-old man is charged with fatally gunning down nine African American women and men as they attended Bible study.
+And yet – as uniquely shocking as the incident is – from a historical standpoint, it is no isolated event. The attack somewhat disturbingly inscribes itself within a long American tradition of physical attacks on black churches – sometimes deadly, sometimes not – by white Americans.
+
+
+These are targeted specific attacks on African American communities. It is quite clear that it is about race
+
+Yolanda Pierce, associate professor at Princeton Theological Seminary
+
+
+
+The practice of terrorizing black churches goes back centuries, starting during slavery – when black churches were often forbidden, or dismantled, sometimes burned – and stretches over the few decades of American’s still young history into the 1990s, when more than 70 burnings of black churches, predominantly in the south, led to a congressional hearing on the subject.
+“People have been talking about this as a terrible mistake, or tragedy. But when you think about it historically, it is not a mistake. It is actually a part of a system and a process of terrorizing black people and black bodies, particularly in spaces that they have carved out as sanctuaries,” Pierce said.
+“Today has been a very difficult day,” the Rev Terrence Evans said on the phone.
+The weight of the church killings rested heavy on the shoulders of the pastor, who leads another predominantly African American AME congregation in Dallas, Georgia, an Atlanta suburb of 5,000 or so residents that lies 300 miles to the west of Charleston.
+He spoke to a few members of his own congregation following the news of the church attacks, he says, and they have been thinking of ways to help.
+People have been worried about his safety. He has brushed concerns off.
+“We are going to have to look into ways to be more vigilant with security,” he said. “But that does not mean we will carry guns, that does not mean we will have security outside the door.”
+Above everything, “the doors of the church will remain open to whomever,” he said.
+Perhaps one of the most painful details to emerge from Wednesday’s series of events was that the white accused perpetrator of the mass killing was welcomed into the black church in Charleston to join Bible study for an hour before turning on his hosts and shooting them dead.
+Four little girls and other senseless attacks
+Evans’s mind has been so preoccupied with senseless killings, racial injustices tied to Ferguson, police violence against black people, and addressing the issue of violence within the community, that it had not dawned on him to draw any parallels with the history of his own church, which was burned in 1995.
+On the surface, the 1995 episode is a curious blip, one that created no physical harm to anyone, but for the fact that the place of worship of a small community was burned down, and that the church took a short while (a year) to properly rebuild.
+“It was a child. A very young boy who was only maybe 11 or 12 years old that broke into the church.
+“For whatever reason, he decided that he wanted to burn the church. He set the church on fire in the choir area. Watched it burn for a little while and then he actually called the fire department himself. There wasn’t any major issue, other than the church burned.”
+Evans, whose almost entirely African American congregation practices within the majority white city of Dallas, Georgia, has tried to piece together the events of what happened one day in June 1995 – almost exactly 20 years ago – when a young white boy decided to set fire to the church he leads.
+But the details have proven murky. Evans, who has been the pastor at St Paul AME in Dallas for the last five years, wasn’t in the area at the time, and news clippings are few and far between. He has had to mostly rely on oral history from members of his congregation.
+It was probably race-motivated, he says. There were, after all, many other churches in the area – with much whiter congregations – that could have been targeted, and yet this is the one that was.
+Unlike the events in Charleston this week, which demand action and attention in and of themselves, it may be conceivable to push this two-decade-old episode away, and categorize it as negligible.
+But the 1995 burning happened at a time when black churches were being burned by the dozens in the south.
+That same month in Clarendon County, South Carolina, a century-old church was burned to the ground in an organized attack by members of the local branch of the Ku Klux Klan. A subsequent, successful court case brought by the Southern Poverty Law Center on behalf of the church, that fined the Klansmen millions of dollars for their role in the attack, effectively dismantled the South Carolina chapter by bankrupting it.
+But Richard Cohen, president of SPLC, says that while many of the 1990s attacks on black churches were certainly racially motivated, most of them were not organized responses against civil rights advances the way that black church attacks in the 1960s had been.
+In 1963, the 16th Street Baptist Church bombing in Birmingham, Alabama, undertaken by four Ku Klux Klan white, male members, killed four African American girls aged 11 to 14. The church in question had been the site of civil rights organizing in the months leading up to the deadly bombing.
+
+
+
+ Facebook 
+ Twitter 
+ Pinterest 
+
+
+Firefighters and ambulance attendants remove a covered body from 16th Street Baptist church, where an explosion ripped the structure during services, killing four black girls in 1963. Photograph: AP
+
+
+A lot of them could probably be put on the backs of kids doing “thrill crimes at rural black churches where they could get away with things”, he said.
+But Pierce, the professor at Princeton Theological Seminary, says one incident cannot be divorced from the other.
+“When we understand it as a pattern of behavior, when we understand it as a historical construct, then we have to sit with questions of: what causes this to happen? And what allows it to be? And how is it that we are having these conversations again and again?”
+The Charleston Emanuel AME church was burned to the ground in 1822 after white residents uncovered a meticulously planned slave revolt partially organized and conceived by one of the church’s founders, Denmark Vesey. Vesey, who was put to death 40 years before the Emancipation Proclamation that formally ended American slavery, was a black man who had bought his way out of slavery, but had been unable to secure the freedom of his wife and children.
+For Greg Carr, an associate professor at Howard University who chairs its Afro-American studies department, the reason for ongoing, historical attacks on black churches can be placed on a fear by white America of an armed, black populace – a fear that in turn has origins within the American revolution against the British.
+“One of the chief forces of colonial England unrest in terms of the American colony is the accusation – specifically in places like South Carolina and Virginia – was that the British were considering, and they were, abolishing slavery, and offering to the enslaved Africans a negotiated access to different forms of citizenship, which would have included the right to bear arms,” Carr says.
+Carr says he is fed up with talks of an American dream, and of black martyrs like those young girls in Birmingham, Alabama, of calls by a president for gun control, a culture of which was conceived precisely to keep black Americans down.
+“Those words ring hollow to African Americans who do not seem to enjoy protection from state violence, or from private paramilitary acts of violence,” he says.
+“This speaks to the structural failure of America to protect its black citizens.”
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 arts
 
 
 
+=======
+More features 
+Topics
+
+
+
+Race issues
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 lifestyle
 
 
 
+=======
+Charleston shooting
 
 
 
 
+North Carolina
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 fashion
+=======
+Alabama
+
+>>>>>>> origin/master
 
 
 
@@ -462,8 +815,13 @@ fashion
 
 
 
+<<<<<<< HEAD
 business
 
+=======
+
+Share on Facebook
+>>>>>>> origin/master
 
 
 
@@ -471,7 +829,11 @@ business
 
 
 
+<<<<<<< HEAD
 travel
+=======
+Share on Twitter
+>>>>>>> origin/master
 
 
 
@@ -479,17 +841,37 @@ travel
 
 
 
+<<<<<<< HEAD
 
 environment
+=======
+Share via Email
+
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 
 
 science
+=======
+Share on Pinterest
+
+
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
+=======
+Share on LinkedIn
+>>>>>>> origin/master
 
 
 
@@ -497,11 +879,7 @@ science
 
 
 
-
-
-
-
-
+<<<<<<< HEAD
 
 browse 
 all
@@ -509,6 +887,20 @@ all
 
 
 close
+=======
+Share on Google+
+
+
+
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+Share on WhatsApp
+>>>>>>> origin/master
 
 
 
@@ -537,15 +929,16 @@ close
 
 
 
-
-
-
-
+<<<<<<< HEAD
 Charleston shooting
+=======
+View all comments >
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Monday
 
 
@@ -558,6 +951,47 @@ June
 
 
 2015
+=======
+
+
+
+comments 
+Sign in
+or create your Guardian account to join the discussion.
+
+This discussion is closed for comments.
+
+We’re doing some maintenance right now. You can still read comments, but please come back later to add your own.
+
+
+Commenting has been disabled for this account (why?)
+
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
+
+
+
+
+=======
+Order by 
+
+
+newest
+
+
+oldest
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
@@ -566,55 +1000,97 @@ June
 
 
 
+=======
+Show 25
+
+
+25
+
+
+50
+
+
+100
+
+
+All
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
 
 
 
+=======
+Threads 
+
+
+collapsed
+
+
+expanded
+
+
+unthreaded
+>>>>>>> origin/master
 
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 
 
 
 South Carolina legislators easing to idea of removing Confederate flag – report
 
+=======
+Loading comments… Trouble loading?
+
+
+
+
+View more comments
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 A survey of state lawmakers shows there is enough support to remove the flag from statehouse grounds if all supporters cast a vote
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+ 
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 South Carolina legislators easing to idea of removing Confederate flag – report
+=======
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
+=======
+popular
+>>>>>>> origin/master
 
 
 
@@ -627,6 +1103,10 @@ South Carolina legislators easing to idea of removing Confederate flag – repor
 
 
 
+<<<<<<< HEAD
+=======
+ 
+>>>>>>> origin/master
 
 
 
@@ -635,6 +1115,10 @@ South Carolina legislators easing to idea of removing Confederate flag – repor
 
 
 
+<<<<<<< HEAD
+=======
+The Guardian
+>>>>>>> origin/master
 
 
 
@@ -642,19 +1126,22 @@ South Carolina legislators easing to idea of removing Confederate flag – repor
 
 
 
-
-
-
-
-
+<<<<<<< HEAD
 Hundreds honour Charleston church shooting victim Myra Thompson
 
+=======
+
+back to top
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 Thompson qualified as a preacher the day of the attack. Governor Nikki Haley: ‘This is a woman who I want to strive to be’
+=======
+>>>>>>> origin/master
 
 
 
@@ -663,44 +1150,83 @@ Thompson qualified as a preacher the day of the attack. Governor Nikki Haley: �
 
 
 
+<<<<<<< HEAD
 Hundreds honour Charleston church shooting victim Myra Thompson
 
+=======
+
+home
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+US
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+world
+selected
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+opinion
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+sports
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+soccer
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+tech
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+arts
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+lifestyle
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 To replace the Confederate flag with a Pride flag won't fix American racism
 
@@ -716,12 +1242,46 @@ It disrespects the impact of the Confederate flag’s display on black Americans
 
 
 
+=======
+fashion
 
 
 
 
+business
+
+
+
+
+travel
+
+
+
+
+environment
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 To replace the Confederate flag with a Pride flag won't fix American racism
+=======
+science
+
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+all sections
+close
+>>>>>>> origin/master
 
 
 
@@ -729,36 +1289,56 @@ To replace the Confederate flag with a Pride flag won't fix American racism
 
 
 
+<<<<<<< HEAD
+=======
+home
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+US
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+world
+selected
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+UK
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+europe
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+americas
+>>>>>>> origin/master
 
 
 
 
-
-
-
-
-
-
+<<<<<<< HEAD
 
 White supremacists want a race war. They must not fight America's wars
 
@@ -774,269 +1354,521 @@ If the US government wants to get serious about taking on white supremacist terr
 
 
 
+=======
+asia
 
 
 
 
+middle east
+
+
+
+
+africa
+
+
+
+
+australia
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 White supremacists want a race war. They must not fight America's wars
 
 
 
+=======
+cities
+
+
+
+
+development
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+opinion
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 Older
 
 
 Newer
 
+=======
+sports
 
 
 
 
+soccer
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+MLS
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+NFL
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 Topics
 
 
 
+=======
+MLB
 
 
 
 
+NBA
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 South Carolina
+=======
+NHL
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 
 
 Gun crime
 
 
+=======
+soccer
 
 
 
 
+live scores
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 Race issues
 
 
+=======
+tables
 
 
 
 
+competitions
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 LGBT rights
 
 
+=======
+results
 
 
 
 
+fixtures
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 US military
+=======
+clubs
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 
 More…
 
+=======
+tech
 
 
 
 
+arts
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 US crime
 
 
+=======
+movies
 
 
 
 
+tv & radio
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 Ferguson
 
 
+=======
+music
+
+
+
+
+games
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+books
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+art & design
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+stage
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+classical
+>>>>>>> origin/master
 
 
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 
 
 
 The Guardian
 
+=======
+lifestyle
 
 
 
 
+food
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+health & fitness
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+love & sex
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+family
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 back to top
 
 
 
+=======
+women
+
+
+
+
+home & garden
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+fashion
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+business
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+economics
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+sustainable business
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 home
 
 
 
+=======
+diversity & equality in business
+
+
+
+
+small business
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 US
 
 selected
 
 
 
+=======
+travel
 
 
 
 
+USA
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 world
 
 
+=======
+europe
+
+
+
+
+UK
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 opinion
+=======
+environment
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+climate change
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 sports
+=======
+wildlife
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+energy
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 soccer
+=======
+pollution
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 
 
 tech
 
 
+=======
+science
 
 
 
 
+media
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 arts
 
 
+=======
+crosswords
+
+
+
+
+video
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 lifestyle
+=======
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -1887,6 +2719,24 @@ securedrop
 
 © 2015 Guardian News and Media Limited or its affiliated companies. All rights reserved.
 
+=======
+World
+
+
+
+
+›
+Race issues
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
 
 
 
@@ -1897,14 +2747,31 @@ securedrop
 
 
 
+=======
+jobs
+
+subscribe
+all topics
+all contributors
+
+
+report technical issue
 
 
 
+about us
+
+contact us
+
+complaints & corrections
+terms & conditions
+privacy policy
+cookie policy
+securedrop
 
 
-
-
-
+© 2015 Guardian News and Media Limited or its affiliated companies. All rights reserved.
+>>>>>>> origin/master
 
 
 
@@ -1924,5 +2791,8 @@ securedrop
 
  
 
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> origin/master

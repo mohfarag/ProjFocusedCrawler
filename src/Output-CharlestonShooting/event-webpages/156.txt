@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 South Carolina church shooting: police hunt gunman after 'hate crime' attack | US news | The Guardian
 
 
@@ -6,6 +7,17 @@ South Carolina church shooting: police hunt gunman after 'hate crime' attack | U
 
 
 
+=======
+Charleston shooting: Reports of shooting at church, multiple injuries | myfox8.com 
+Charleston shooting: Reports of shooting at church, multiple injuries | myfox8.com
+
+
+
+
+
+
+GoSearch
+>>>>>>> origin/master
 
 
 
@@ -13,37 +25,78 @@ South Carolina church shooting: police hunt gunman after 'hate crime' attack | U
 
 
 
+<<<<<<< HEAD
+
+
+
+=======
+ Replay: FOX8 News Replay 
+
+FOX8 TV Schedule 
+
+
+ Search
+ Contact Us
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+
+
+=======
+myfox8.com
+
+ Menu
+
+News
+On-Air
+Morning News
+Sports
+You Decide 2016
+Lottery
+Contests
+Events
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+
+=======
+Weather 
+
+77°
+>>>>>>> origin/master
 
 
 
 
 
 
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 Close
 
 
 
+=======
+
+77°
+
+
+Low 68°
+High 88°
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -241,26 +294,63 @@ US edition
 
 
 
+=======
+Mon
+
+
+					69°  90°
+					
+
+
+Tue
+
+
+					70°  91°
+					
+
+
+Wed
+
+
+					72°  90°
+					
+
+
+See complete forecast
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 switch to the 
 
 
 UK edition
+=======
+ 
+
+
+
+
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+ 
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 switch to the 
 
 
@@ -271,10 +361,39 @@ Australia edition
 
 
 
+=======
+
+
+
+Charleston shooting: 9 killed in ‘hate crime’ shooting at church
+
+Posted 9:49 pm, June 17, 2015, by CNN Wire, Updated at 01:07am, June 18, 2015 
+
+FacebookTwitterGooglePinterestRedditEmail 
+
+
+(Photo credit: WCSC)
+CHARLESTON, S.C. — Nine people were killed in a shooting at a historic African-American church in Charleston, South Carolina, according to the Charleston police chief.
+The shooter was still at large as of 1 a.m. Thursday.
+The shooting took place Wednesday evening at the Emanuel African Methodist Episcopal (AME) Church. On its website, the church describes itself as the “oldest AME church in the south.”
+“I do believe this is a hate crime,” Police Chief Greg Mullen said at a press conference.
+“It’s really bad. It’s a very bad scene,” local pastor Thomas Dixon said.
+“Apparently the person just entered the church and opened fire. That part has not been fully articulated on what happened yet … they are still looking for the suspect.”
+Police said the suspect in the shooting is a clean-shaven white man in his 20s, with a slender build. He was wearing a grey sweatshirt, blue jeans and boots.
+Soon afterward, news cameras showed officers taking a man matching that description into custody — but police said they were still looking for the shooter.
+The department asked anyone with information about the shooting to call 911 dispatchers
+Every Wednesday evening, the church holds a Bible study in its basement.
+Corey Wessenger, who was standing across the street from the church, said the area was swarming with a heavy law enforcement presence.
+“I just saw a group of about 40 people escorted by cops,” Wessenger told CNN by phone.
+
+32.787557
+-79.933182
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 switch to the 
 
 
@@ -282,68 +401,136 @@ International
 
 
 beta
+=======
+Paul Choate
+June 18, 20151:02 am
+
+
+
+
+This is being investigated as a hate crime #chsnews #CharlestonShooting
+— Melissa Boughton (@mboughtonPC) June 18, 2015
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+Paul Choate
+June 18, 201512:51 am
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+9 dead, gunman still on loose police say, he is "extremely dangerous" #chsnews #CharlestonShooting
+— Melissa Boughton (@mboughtonPC) June 18, 2015
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+Paul Choate
+June 18, 201512:49 am
+>>>>>>> origin/master
 
 
 
 
-
-
-
-
+<<<<<<< HEAD
 
 
 The Guardian
+=======
+#Charleston Mayor Joe Riley tells us: "Evil and hateful person took the lives of citizens who had come to worship." #CharlestonShooting
+— The Post and Courier (@postandcourier) June 18, 2015
+
+
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+Paul Choate
+June 18, 201512:18 am
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+Midnight prayer circle led by Pastor Thomas Ravenel #chsnews pic.twitter.com/o8J2Hi08MF
+— Melissa Boughton (@mboughtonPC) June 18, 2015
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+Paul Choate
+June 18, 201512:03 am
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+@CharlestonPD chief and mayor being briefed now for press conference shortly #chsnews
+— Melissa Boughton (@mboughtonPC) June 18, 2015
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+Paul Choate
+June 17, 201511:51 pm
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+UPDATE: @CharlestonPD say they have not asked anyone to evacuate their homes in #CharlestonShooting area.
+— The Post and Courier (@postandcourier) June 18, 2015
+>>>>>>> origin/master
 
 
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 home
+=======
+Paul Choate
+June 17, 201511:37 pm
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 ›
@@ -352,77 +539,158 @@ home
 US
 
 
+=======
+Residents near the shooting at 110 Calhoun Street are being told by Police to evacuate. #chsnews
+— The Post and Courier (@postandcourier) June 18, 2015
 
 
 
 
 
 
+Paul Choate
+June 17, 201511:30 pm
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+Everyone moving from Courtyard Marriott, officials say there is a bomb threat #chsnews
+— Melissa Boughton (@mboughtonPC) June 18, 2015
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+Paul Choate
+June 17, 201511:29 pm
+>>>>>>> origin/master
 
 
+
+
+<<<<<<< HEAD
 
 
 home
+=======
+Police officer says there’s an “immediate threat” and we are being pushed back. #chsnews pic.twitter.com/ZenQWqY4HY
+— CS Tyson (@SamInteractive) June 18, 2015
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+Paul Choate
+June 17, 201511:26 pm
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 US
 
 selected
+=======
+#Charleston police confirm that suspect remains at large in #CharlestonShooting at Emanuel AME #church. http://t.co/uPj4AOavhn #chsnews
+— The Post and Courier (@postandcourier) June 18, 2015
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+Paul Choate
+June 17, 201511:26 pm
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 world
+=======
+Group prays outside the hotel. #chsnews pic.twitter.com/ioiF4nLZTO
+— CS Tyson (@SamInteractive) June 18, 2015
+
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 
 
 
 opinion
 
+=======
+Paul Choate
+June 17, 201511:23 pm
+
+
+
+
+Police are still looking for suspect in Calhoun Street shooting.
+— Charleston P.D. (@CharlestonPD) June 18, 2015
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 
 sports
 
 
 
+=======
+Paul Choate
+June 17, 201511:22 pm
+
+
+
+
+Official tells CNN there are multiple fatalities in shooting at AME church in #Charleston, South Carolina. http://t.co/gqu3BMLs4V
+— CNN Breaking News (@cnnbrk) June 18, 2015
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 soccer
 
+=======
+
+Paul Choate
+June 17, 201511:20 pm
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -430,44 +698,91 @@ tech
 
 
 
+=======
+CBS in Charleston: bible study with 11 people was going on at church when shooting happened. No official info on victims from police yet
+— Blair Miller (@BlairWSOC9) June 18, 2015
 
 
 
 
+
+
+Paul Choate
+June 17, 201511:17 pm
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 arts
+=======
+Reports: 8 may have been shot at church on #Calhoun in #CharlestonShooting. Number not confirmed by @CharlestonPD. http://t.co/uPj4AOavhn
+— The Post and Courier (@postandcourier) June 18, 2015
+
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 
 
 
 lifestyle
 
+=======
+Paul Choate
+June 17, 201511:09 pm
+
+
+
+
+Hearing 9 confirmed deceased from the #chschurchshooting. Absolutely horrific. Devastated for the victims & their families. #prayforchs
+— Peter M. McCoy, Jr. (@petermccoyforsc) June 18, 2015
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 
 fashion
 
 
 
+=======
+Paul Choate
+June 17, 201511:07 pm
+
+
+
+
+Rev. Joe Darby, elder of regional AME churches, says he hasn't heard who was shot, whether Clementa Pinckney is among them. @postandcourier
+— Jennifer Berry Hawes (@JenBerryHawes) June 18, 2015
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 business
 
+=======
+
+Paul Choate
+June 17, 201511:06 pm
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -475,32 +790,67 @@ travel
 
 
 
+=======
+On scene in Charleston, where mass shooting just took place at AME church. Local pastor at nearby church leaving scene says up to 8 victims
+— Benjy Sarlin (@BenjySarlin) June 18, 2015
 
 
 
 
+
+
+Paul Choate
+June 17, 201511:00 pm
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 environment
+=======
+More witnesses saying guy arrested might have just been in wrong place at the wrong time, nothing confirmed #chsnews #charlestonshooting
+— Melissa Boughton (@mboughtonPC) June 18, 2015
+
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 
 
 
 science
 
+=======
+Paul Choate
+June 17, 201510:59 pm
+
+
+
+
+Guy taken into custody appears to be photographer I did a story on this year. Police say still searching for suspect http://t.co/qpMpmjccjM
+— Andy Paras (@AndyParas) June 18, 2015
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+Scott Gustin
+June 17, 201510:58 pm
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 browse 
@@ -511,78 +861,157 @@ all
 close
 
 
+=======
+Police still searching for suspect in Shooting on Calhoun Street.
+— Charleston P.D. (@CharlestonPD) June 18, 2015
 
 
 
 
 
 
+Paul Choate
+June 17, 201510:56 pm
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+Police just took a man in a grey shirt and boots inside the Marriott. He was a young white male. Possible suspect. pic.twitter.com/p20Y9KGjoc
+— Matt Alba (@mattalbaWCBD) June 18, 2015
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+Paul Choate
+June 17, 201510:55 pm
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+Cops just grabbed a guy and hauled him into hotel. Witness said he was smiling. Not sure what his role is #chsnews
+— Glenn Smith (@glennsmith5) June 18, 2015
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+Paul Choate
+June 17, 201510:52 pm
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+More photos of the man in handcuffs. He’s soaked in sweat. Wearing clothes similar to what police described #chsnews pic.twitter.com/QX4cX7XjUz
+— CS Tyson (@SamInteractive) June 18, 2015
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+Paul Choate
+June 17, 201510:50 pm
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+Police just showed up with a man in handcuffs and took him inside the hotel. #chsnews pic.twitter.com/3Qi0YmSeGC
+— CS Tyson (@SamInteractive) June 18, 2015
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+Paul Choate
+June 17, 201510:50 pm
+>>>>>>> origin/master
 
 
 
 
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 Charleston shooting
+=======
+Man in custody now, don't know if gunman #chsnews pic.twitter.com/YGx0OXcRVO
+— Melissa Boughton (@mboughtonPC) June 18, 2015
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 
 South Carolina church shooting: police hunt gunman after 'hate crime' attack
 
 
 
+=======
+Paul Choate
+June 17, 201510:48 pm
+
+
+
+
+Just heard gunfire
+— Melissa Boughton (@mboughtonPC) June 18, 2015
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+Paul Choate
+June 17, 201510:48 pm
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+AGAIN: police Looking for white male suspect, slender, clean shaven, 21 yo, jeans, grey sweater, possible hoodie, timberland boots #chsnews
+— Melissa Boughton (@mboughtonPC) June 18, 2015
+>>>>>>> origin/master
 
 
 
 
 
 
-
-
-
-
+<<<<<<< HEAD
 Nine killed by white gunman who opened fire inside a historic black church in Charleston, South Carolina
 
 
@@ -591,52 +1020,103 @@ Nine killed by white gunman who opened fire inside a historic black church in Ch
 Charleston shooting: follow the latest updates
 
 
+=======
+Paul Choate
+June 17, 201510:44 pm
+
+
+
+
+Charleston UPDATE: Post and Courier reports shooting happened inside church while bible study was going on.  Search for shooter underway
+— Blair Miller (@BlairWSOC9) June 18, 2015
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+Paul Choate
+June 17, 201510:38 pm
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+UPDATE – Police searching for suspect following downtown Charleston shooting http://t.co/TlJTQHcRUD #chsnews pic.twitter.com/HZ0pHusc2r
+— Live5News (@Live5News) June 18, 2015
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+Paul Choate
+June 17, 201510:31 pm
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+On the scene at Emmanuel AME…. No word on number of victims or IDs. @ABCNews4 #chsnews pic.twitter.com/tG28FRmEBa
+— Valencia Wicker (@ValenciaWicker) June 18, 2015
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+Scott Gustin
+June 17, 201510:30 pm
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+Suspect is white. Slender. Gray sweatshirt. Jeans. Clean shaven. About 21yo. Wanted for shooting. #chsnews pic.twitter.com/s4LVJx3giu
+— CS Tyson (@SamInteractive) June 18, 2015
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+Paul Choate
+June 17, 201510:28 pm
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+Charleston city pd giving details right now about the shooting downtown
+— Victoria Hansen (@VHansenABCNews4) June 18, 2015
+>>>>>>> origin/master
 
 
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 
 
 Sorry, your browser is unable to play this video.
@@ -648,91 +1128,177 @@ Alternatively
 upgrade
  to a modern browser.
 
+=======
+Paul Choate
+June 17, 201510:28 pm
+
+
+
+
+Fire and police gathered at the gas station a half block from the scene. #chsnews pic.twitter.com/RaxFppxIqB
+— CS Tyson (@SamInteractive) June 18, 2015
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+Paul Choate
+June 17, 201510:27 pm
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 Charleston police chief Gregory Mullen holds a press conference on the church shooting on Thursday
+=======
+witnesses on the scene downtown say SWAT is there, coroner is on the scene and there is an active search
+— Victoria Hansen (@VHansenABCNews4) June 18, 2015
+
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 
 
 
 Michael Safi
  and agencies
 
+=======
+Scott Gustin
+June 17, 201510:27 pm
+
+
+
+
+Police say shooter white male wearing Timberland boots #chsnews https://t.co/k7bp91LuNw
+— Jenna-Ley Harrison (@jlharrison_news) June 18, 2015
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+Scott Gustin
+June 17, 201510:17 pm
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 @safimichael
+=======
+Chaplain service as well as FBI agent have arrived on scene. CSI is also taking photos of scene. #chsnews
+— JL (@SummersJournal) June 18, 2015
+
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
+=======
+Paul Choate
+June 17, 201510:17 pm
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Thursday 18 June 2015 
 06.08 EDT
+=======
+Sources: Multiple people shot inside church on Calhoun Street. Suspect not in custody. #chsnews http://t.co/4nqLnYfnXr
+— Andy Paras (@AndyParas) June 18, 2015
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 Last modified on Saturday 20 June 2015 
 12.23 EDT
 
+=======
+
+Paul Choate
+June 17, 201510:17 pm
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+The shooting occurred about 9 pm @ 110 Calhoun St. No info yet on victims.
+— Charleston P.D. (@CharlestonPD) June 18, 2015
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+Scott Gustin
+June 17, 201510:17 pm
+>>>>>>> origin/master
 
 
 
 
-
-
-
-
+<<<<<<< HEAD
 
 Share on Facebook
+=======
+Witness says he saw a man being taken away in ambulance when officers first arrived, officials distraught #chsnews
+— Melissa Boughton (@mboughtonPC) June 18, 2015
+
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
+=======
+Paul Choate
+June 17, 201510:17 pm
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+Police are responding to a shooting in Calhoun Street.
+— Charleston P.D. (@CharlestonPD) June 18, 2015
+>>>>>>> origin/master
 
 
 
 
 
 
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 
 Share on Twitter
 
@@ -741,6 +1307,21 @@ Share on Twitter
 
 
 
+=======
+Paul Choate
+June 17, 201510:16 pm
+
+
+
+
+Police are responding to a shooting in Calhoun Street.
+— Charleston P.D. (@CharlestonPD) June 18, 2015
+
+
+
+The shooting occurred about 9 pm @ 110 Calhoun St. No info yet on victims.
+— Charleston P.D. (@CharlestonPD) June 18, 2015
+>>>>>>> origin/master
 
 
 
@@ -751,7 +1332,22 @@ Share on Twitter
 
 
 
+<<<<<<< HEAD
 Share via Email
+=======
+>>>>>>> origin/master
+
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+Trademark and Copyright 2015 Cable News Network, Inc., a Time Warner Company. All rights reserved.
+Filed in: News Topics: Charleston, shooting 
+>>>>>>> origin/master
 
 
 
@@ -761,30 +1357,36 @@ Share via Email
 
 
 
-
-
-
-
-
-
-
+<<<<<<< HEAD
 Share on Pinterest
+=======
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+ 
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+You Decide 2016
+FOX8’s comprehensive election coverage
+>>>>>>> origin/master
 
 
 
 
 
 
-
-
-
-
+<<<<<<< HEAD
 Share on LinkedIn
 
 
@@ -803,6 +1405,31 @@ Share on LinkedIn
 
 
 Share on Google+
+=======
+
+ 
+
+ 
+
+
+Popular
+
+
+
+2 killed, 2 injured in wrong-way wreck in Winston-Salem; speed, alcohol suspected
+
+
+
+City in the Carolinas named second best city in the world
+
+
+
+What is this ‘mysterious sea creature’ that washed ashore?
+
+
+
+Dolphin bitten by shark washes ashore at North Carolina beach
+>>>>>>> origin/master
 
 
 
@@ -810,6 +1437,7 @@ Share on Google+
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -825,6 +1453,50 @@ Share on WhatsApp
 
 
 
+=======
+ 
+
+
+Latest News
+
+
+
+About 2,000 protesters expected for Moral Monday event in Winston-Salem
+
+
+
+Video shows shark at NC beach; woman says several were swimming under pier
+
+
+
+Winston-Salem State football player saves teen from burning vehicle
+
+
+
+Tyson investigating claims of animal abuse at chicken farms
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
+=======
+ 
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
 
 
 
@@ -838,27 +1510,36 @@ Share on WhatsApp
 
 
 
+=======
+News
+
+Police release photos of suspect in Charleston church shooting
 
 
+News
+
+Dylann Storm Roof: FBI names suspect in Charleston church shooting
 
 
+News
+
+Worshippers return to South Carolina church after shooting that killed nine
 
 
+News
+
+Former NC senator’s sister among 9 killed in Charleston church shooting
 
 
+News
 
-
-
-
-
-
-
-
-
+CAPTURED: Charleston church shooting suspect Dylann Roof has been caught in Shelby, NC
+>>>>>>> origin/master
 
 
 
  
+<<<<<<< HEAD
 Related: 
 Charleston church shooting: police hunt suspect in 'hate crime' – latest updates
  
@@ -907,6 +1588,52 @@ The gunman had yet to be caught hours after the attack and was considered extrem
 
 
 
+=======
+
+
+News
+
+Dylann Roof says he almost backed out because everyone at church was ‘so nice’
+
+
+News
+
+Local AME church remembers South Carolina victims
+
+
+News
+
+Woman says Charleston shooter spared her to ‘tell everyone’ what happened
+
+
+News
+
+Quick-thinking NC woman helps police nab suspect in SC church shooting that killed nine
+
+
+News
+
+Dylann Roof confesses to killing 9 people in Charleston church, wanting to start ‘race war’
+
+
+
+ 
+
+
+News
+
+Officials investigating second fire at black church in South Carolina
+
+
+News
+
+Minister: ‘No evildoer, no demon’ can close church targeted by shooter
+
+
+News
+
+SC Senator killed in Charleston church shooting
+>>>>>>> origin/master
 
 
 
@@ -919,13 +1646,21 @@ The gunman had yet to be caught hours after the attack and was considered extrem
 
 
 
+<<<<<<< HEAD
 
  
  
+=======
+Mobile AppsAndroid App
+Android Weather App
+Weather iPhone App
+iPhone & iPad App
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
  
 Facebook
  
@@ -1000,6 +1735,13 @@ South Carolina governor Nikki Haley said in a statement she and her family were 
 
 
 
+=======
+Facebook
+Twitter
+Instagram
+Pinterest
+About & Contact
+>>>>>>> origin/master
 
 
 
@@ -1007,6 +1749,7 @@ South Carolina governor Nikki Haley said in a statement she and her family were 
 
 
 
+<<<<<<< HEAD
  
 
 
@@ -1033,17 +1776,40 @@ Twitter
  
 Pinterest
  
+=======
+Online Public File • 				Terms of Service •
+		Privacy Policy  •
+		2005 Francis St. High Point, NC 27263  •
+		Copyright © 2015, WGHP		 • A Tribune Broadcasting Station •
+		Powered by WordPress.com VIP 
 
 
 
 
 
+×
+Email Alerts
+
+
+
+
+
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
 Police investigators are seen outside the Emanuel African Methodist Episcopal (AME) church. Photograph: Richard Ellis/EPA
+=======
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 “Please join us in lifting up the victims and their families with our love and prayers.” 
 
 
@@ -1060,6 +1826,7 @@ Even before Scott’s shooting in April, Cason said he had been part of a group 
 
 
 Presidential candidate Jeb Bush has cancelled a planned trip to the state, and the South Carolina legislature has suspended a sitting planned for Thursday.
+=======
 
 
 
@@ -1069,11 +1836,32 @@ Presidential candidate Jeb Bush has cancelled a planned trip to the state, and t
 
 
 
+
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
 
 More news 
 
 
 Topics
+=======
+Follow
+
+Follow “myfox8.com”
+
+Get every new post delivered to your Inbox.
+
+Join 51,550 other followers
+>>>>>>> origin/master
 
 
 
@@ -1081,8 +1869,13 @@ Topics
 
 
 
+<<<<<<< HEAD
 Charleston shooting
 
+=======
+
+Build a website with WordPress.com
+>>>>>>> origin/master
 
 
 
@@ -1090,11 +1883,40 @@ Charleston shooting
 
 
 
+<<<<<<< HEAD
 South Carolina
 
 
 
 
+=======
+
+
+Send to Email Address
+
+Your Name
+
+Your Email Address
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
+
+
+
+=======
+Cancel
+
+				Post was not sent - check your email addresses!			
+
+				Email check failed, please try again			
+
+				Sorry, your blog cannot share posts by email.			
+>>>>>>> origin/master
 
 
 
@@ -1103,16 +1925,10 @@ South Carolina
 
 
 
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 Share on Facebook
+=======
+>>>>>>> origin/master
 
 
 
@@ -1122,6 +1938,7 @@ Share on Facebook
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -2657,3 +3474,5 @@ securedrop
 
 
 
+=======
+>>>>>>> origin/master

@@ -1,7 +1,14 @@
+<<<<<<< HEAD
 NRA board member blames church shooting victim Clementa Pinckney for Charleston shooting | New York's PIX11 / WPIX-TV 
 
 
 NRA board member blames church shooting victim Clementa Pinckney for Charleston shooting | New York's PIX11 / WPIX-TV
+=======
+Charleston shooting | US news | The Guardian
+
+Charleston shooting | US news | The Guardian
+
+>>>>>>> origin/master
 
 
 
@@ -16,8 +23,12 @@ NRA board member blames church shooting victim Clementa Pinckney for Charleston 
 
 
 
+<<<<<<< HEAD
 Go
 Search
+=======
+Close
+>>>>>>> origin/master
 
 
 
@@ -26,6 +37,7 @@ Search
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -97,6 +109,10 @@ Traffic
 
 
 Events
+=======
+Skip to main content
+
+ 
 
 
 
@@ -107,6 +123,26 @@ Events
 
 
 
+
+sign in
+
+
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+subscribe
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Weather 
 
 
@@ -116,6 +152,17 @@ Weather
 
 
 
+=======
+
+
+
+search
+
+
+
+
+jobs
+>>>>>>> origin/master
 
 
 
@@ -126,6 +173,7 @@ Weather
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -145,6 +193,32 @@ High
 
 
 
+=======
+more
+
+
+from the guardian:
+
+
+jobs
+
+
+
+change edition:
+
+
+
+switch to the  UK  edition
+
+
+switch to the  AU  edition
+
+
+switch to the 
+INT
+beta
+ edition
+>>>>>>> origin/master
 
 
 
@@ -153,6 +227,7 @@ High
 
 
 
+<<<<<<< HEAD
 
 Sat
 
@@ -165,90 +240,167 @@ Sat
 					
 
 
+=======
+US edition
 
 
 
 
+switch to the 
+UK edition
+
+
+
+
+switch to the 
+Australia edition
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Sun
+=======
+switch to the 
+International
+beta
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 					74° 
  90°
 					
+=======
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 
 Mon
+=======
+The Guardian
+
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 					75° 
  92°
 					
+=======
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 See complete forecast
+=======
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+
+
+=======
+home
+
+
+›
+US
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+ 
+
+
+
+=======
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+home
+>>>>>>> origin/master
 
 
 
+
+<<<<<<< HEAD
+=======
+US
+selected
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+world
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
  
 
 
 
+=======
+opinion
 
 
 
 
+sports
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+soccer
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+tech
+>>>>>>> origin/master
 
 
 
 
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 
 NRA board member blames church shooting victim Clementa Pinckney for Charleston shooting
 
@@ -272,20 +424,48 @@ Google
 
 
 
+=======
+arts
 
 
 
 
+lifestyle
+
+
+
+
+fashion
+
+
+
+
+business
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
 HOUSTON — A Houston attorney on the National Rifle Association’s board of directors is blaming the deadly Charleston church shooting on the slain pastor’s opposition to concealed carry legislation as a state senator.
 
 Charles Cotton confirmed to The Associated Press that he wrote in an online post that “innocent people died” because of Clementa Pinckney’s opposition to the measure in the state Senate. A search of legislative archives could not immediately find any such measure.
+=======
+travel
 
 
 
 
+environment
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 NRA board member Charles L. Cotton blamed the dead Reverend Clementa Pinckney for the 
@@ -301,12 +481,26 @@ June 19, 2015
 
 
 The online post led to a firestorm of opposition, some asking for the removal of Cotton from his position.
+=======
+science
 
 
 
 
 
 
+browse all sections
+close
+
+
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
 #CharlestonShooting
  
 #charlescotton
@@ -315,6 +509,10 @@ The online post led to a firestorm of opposition, some asking for the removal of
 
 — Vox Clamantis I D (@VMilaccio) 
 June 19, 2015
+=======
+ 
+
+>>>>>>> origin/master
 
 
 
@@ -323,6 +521,7 @@ June 19, 2015
 
 
 
+<<<<<<< HEAD
 The 
 #NRA
  could actually be a force for good in this world. Instead they are just the most putrid example of a business lobby. 
@@ -331,10 +530,20 @@ The
 
 — Adam Vadnais… (@TheBlackLight77) 
 June 19, 2015
+=======
+Charleston shooting
+
+Monday
+
+6
+July
+2015
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Nine people were killed Wednesday night after a 21-year-old gunman opened fire during a Bible study at The Emanuel African Methodist Episcopal Church.
 
 
@@ -342,6 +551,12 @@ Cotton told the AP he was expressing a personal opinion not reflective of the NR
 
 
  
+=======
+
+
+
+
+>>>>>>> origin/master
 
 
 
@@ -350,6 +565,7 @@ Cotton told the AP he was expressing a personal opinion not reflective of the NR
 
 
 
+<<<<<<< HEAD
 Trademark and Copyright 2015 
 The Associated Press
 . All rights reserved.
@@ -367,32 +583,58 @@ Clementa Pinckney
 , 
 National Rifle Association
  
+=======
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+
+
+=======
+Gun-control supporters must use their opponents' own tactics against them
+
+Joshua Spivak
+
+Advocates know that the pro-gun lobby are more adept at using existing political weapons to get a reaction from politicians
+>>>>>>> origin/master
 
 
 
 
-
-
+<<<<<<< HEAD
 ×
 
 
 Report a Typo
 
 
+=======
+
+
+
+
+Gun-control supporters must use their opponents' own tactics against them
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+Older
+Newer
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Name
 (required)
 
@@ -406,6 +648,36 @@ Name
 Typo
 (required)
 
+=======
+
+
+Topics
+
+
+
+US gun control
+
+
+
+
+Newtown shooting
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+Aurora shooting
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+Gun crime
+>>>>>>> origin/master
 
 
 
@@ -415,14 +687,7 @@ Typo
 
 
 
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
  
 
 
@@ -430,6 +695,25 @@ Typo
 
 Cancel
 
+=======
+
+
+
+
+The Guardian
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+back to top
+>>>>>>> origin/master
 
 
 
@@ -444,224 +728,405 @@ Cancel
 
 
 
+<<<<<<< HEAD
+=======
+home
+>>>>>>> origin/master
 
 
 
 
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 
  
+=======
+US
+selected
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+world
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+opinion
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 Watch The CW Now!
 
 
 See last night’s episodes now on The CW
+=======
+sports
 
 
 
 
+soccer
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+tech
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+arts
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+lifestyle
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
  
+=======
+fashion
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
  
+=======
+business
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 Popular
 
 
+=======
+travel
 
 
 
 
+environment
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 NBA great Darryl Dawkins has died at 58 years old
+=======
+science
+
+
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 
 
 
 Video showing shootings of WDBJ crew posted under Bryce Williams Twitter, Facebook accounts
+=======
+all sections
+close
+
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+home
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Reporter, photographer shot to death on air in Virginia
+=======
+US
+selected
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+world
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 ‘Dead’ teen ‘wakes up’ screaming, banging inside coffin; family smashes tomb
+=======
+UK
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+europe
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+americas
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+asia
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
  
+=======
+middle east
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 Latest News
 
 
+=======
+africa
 
 
 
 
+australia
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 One man’s poop is another’s medicine
 
 
+=======
+cities
+
+
+
+
+development
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 Calif. man bitten while taking selfie with rattlesnake
+=======
+opinion
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+sports
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 CEO of Ashley Madison parent company steps down after hack
+=======
+soccer
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+MLS
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 WATCH IT: Sinkhole swallows 5 people in China is captured on video
+=======
+NFL
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+MLB
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+NBA
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
  
+=======
+NHL
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+soccer
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+live scores
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+tables
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+competitions
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+results
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 News
+=======
+fixtures
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 ‘Amazing Grace’: President Obama eulogizes Rev. Clementa Pinckney, slain in church massacre  
+=======
+clubs
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 News
+=======
+tech
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Tip from woman heading to work led police to suspected church shooter
+=======
+arts
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 News
@@ -672,20 +1137,42 @@ News
 Activist arrested after taking down Confederate Flag at S.C. Capitol grounds
 
 
+=======
+movies
 
 
 
 
+tv & radio
+
+
+
+
+music
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 News
+=======
+games
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Charleston church shooting investigated as a hate crime
+=======
+books
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 News
@@ -696,17 +1183,35 @@ News
 Who were the Charleston victims?: 9 lives lost to family and community
 
 
+=======
+art & design
+
+
+
+
+stage
+
+
+
+
+classical
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
  
+=======
+lifestyle
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 News
@@ -717,32 +1222,64 @@ News
 South Carolina lawmakers to debate Confederate flag on Monday
 
 
+=======
+food
 
 
 
 
+health & fitness
+
+
+
+
+love & sex
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 News
+=======
+family
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Woman says Charleston shooter spared her to ‘tell everyone’ what happened
+=======
+women
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 News
+=======
+home & garden
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Snapchat video allegedly shows Dylann Roof in prayer group just before massacre
+=======
+fashion
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 News
@@ -753,53 +1290,100 @@ News
 Dylann Storm Roof: FBI names suspect in Charleston church shooting
 
 
+=======
+business
 
 
 
 
+economics
+
+
+
+
+sustainable business
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 News
+=======
+diversity & equality in business
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Charleston minister: ‘No evildoer, no demon’ can close church
+=======
+small business
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 
 
  
 
 
+=======
+travel
 
 
 
 
+USA
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 News
+=======
+europe
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 President Obama’s approval rating grows to 50 percent after memorable week
+=======
+UK
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 News
+=======
+environment
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Dylann Roof and Michael Slager are jail neighbors, police confirm
+=======
+climate change
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 News
@@ -810,41 +1394,77 @@ News
 #100days100nights campaign frightens Los Angeles residents into staying home
 
 
+=======
+wildlife
+
+
+
+
+energy
+
+
+
+
+pollution
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+science
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
  
 
 
+=======
+media
+
+
+
+
+crosswords
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+video
+>>>>>>> origin/master
 
 
 
 
 
 
-
-
-
-
+<<<<<<< HEAD
 Mobile Apps
 Android App
 
 
 iPhone & iPad App
+=======
+
+
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -860,6 +1480,32 @@ Instagram
 
 
 About & Contact
+=======
+jobs
+
+subscribe
+all topics
+all contributors
+
+
+report technical issue
+
+
+
+about us
+
+contact us
+
+complaints & corrections
+terms & conditions
+privacy policy
+cookie policy
+securedrop
+
+
+© 2015 Guardian News and Media Limited or its affiliated companies. All rights reserved.
+
+>>>>>>> origin/master
 
 
 
@@ -876,6 +1522,7 @@ About & Contact
 
 
 
+<<<<<<< HEAD
 Online Public File
  • 				
 Terms of Service
@@ -1101,3 +1748,7 @@ Cancel
 
 
 
+=======
+ 
+
+>>>>>>> origin/master

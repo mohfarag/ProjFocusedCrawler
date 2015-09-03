@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Charleston shooting: Mother Emanuel church holds funerals for victims | US news | The Guardian
 
 
@@ -6,6 +7,17 @@ Charleston shooting: Mother Emanuel church holds funerals for victims | US news 
 
 
 
+=======
+Obama Set to Eulogize Pastor in Charleston Shooting | whotv.com 
+Obama Set to Eulogize Pastor in Charleston Shooting | whotv.com
+
+
+
+
+
+
+GoSearch
+>>>>>>> origin/master
 
 
 
@@ -13,6 +25,40 @@ Charleston shooting: Mother Emanuel church holds funerals for victims | US news 
 
 
 
+<<<<<<< HEAD
+
+
+
+=======
+ Watch Now: SoundOff 
+
+WHO-HD Channel 13 TV Schedule 
+
+
+ Search
+ Contact Us
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
+
+
+=======
+whotv.com
+
+ Menu
+
+News
+Mega Doppler-S
+Sports
+On 13
+Contests
+Events
+>>>>>>> origin/master
 
 
 
@@ -20,33 +66,40 @@ Charleston shooting: Mother Emanuel church holds funerals for victims | US news 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 
 
 
 
 Close
+=======
+Weather 
+
+84°
+
+
+
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+
+
+=======
+84°
+
+
+Low 75°
+High 93°
+>>>>>>> origin/master
 
 
 
 
 
-
-
-
-
-
-
+<<<<<<< HEAD
 
 
 
@@ -2146,16 +2199,53 @@ wildlife
 energy
 
 
+=======
+Mon
+
+
+					76°  97°
+					
+
+
+Tue
+
+
+					73°  94°
+					
+
+
+Wed
+
+
+					73°  90°
+					
+
+
+See complete forecast
+
+ Severe weather alert
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 pollution
 
 
 
+=======
+ 
+
+
+
+ 
+
+
+ Latest Severe Weather Watches and Warnings						
+>>>>>>> origin/master
 
 
 
@@ -2164,14 +2254,20 @@ pollution
 
 
 
+<<<<<<< HEAD
 
 science
+=======
+ 
+
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 
 
 media
@@ -2184,6 +2280,44 @@ media
 
 
 crosswords
+=======
+Obama Set to Eulogize Pastor in Charleston Shooting
+
+Posted 7:52 am, June 26, 2015, by CNN 
+
+FacebookTwitterGoogleEmailRedditTumblr 
+
+
+ 
+
+CHARLESTON, South Carolina — Friday’s funeral service for Rev. Clementa Pinckney won’t be the first time President Barack Obama delivers a high-profile eulogy; with a year-and-a-half remaining in office, it may not be the last.
+But when the President stands in historic downtown Charleston to remember the slain pastor and eight others shot down in their church last week, his speech will move beyond just grief for the victims — Obama will step directly into a national conversation about race in which he plays a central role.
+The President, first lady Michelle Obama, Vice President Joe Biden, a bipartisan host of high-level members of Congress and Hillary Clinton were all headed to TD Arena on Friday for the memorial service more than a week after a 21-year-old man opened fire at a Bible study inside Charleston’s Emanuel African Methodist Episcopal Church.
+The shooter declared he was there to “kill black people,” and an online manifesto attributed to him contained white supremacist screeds.
+Obama, responding to the shooting hours into its aftermath, said the attack “raises questions about a dark part of our history” and called racism “a particular threat to our democracy and our ideals.”
+Later, speaking during a podcast interview, he candidly addressed new questions about American racism prompted by the attack, using the N-word to explain that suggestions the country has been “cured” of racism are misguided.
+The topic of race — along with new calls for gun control — aren’t off the table for Friday’s eulogy, according to White House Press Secretary Josh Earnest, who said the President was still working through drafts of the speech with his chief speechwriter Cody Keenan.
+The focus, he said, would remain the nine victims of last Wednesday’s massacre, many of whom were leaders in the church.
+“The President will be mindful of not just how sad it is that those individuals were taken from us, but also use the occasion to celebrate their lives,” Earnest said. “It’s clear that we’re talking about some rather remarkable people who have led rather remarkable lives.”
+If Obama does make calls for more restrictive gun laws, he’ll follow a model he set in Newtown, Connecticut, when during remarks at a memorial service after the 2012 school massacre he made a direct call for tighter gun control laws.
+However, at other funerals and vigils following shootings, including in Tucson, Arizona, and Aurora, Colorado, he’s steered clear of the gun control issue.
+The shooting in Charleston left Obama “shaken,” according to Rep. James Clyburn, a South Carolina Democrat who spoke with Obama the morning after the incident.
+Unlike past times Obama has confronted an act of violence, he knew the highest profile victim of the Charleston shooting personally. Obama met Pinckney as an early supporter of his 2008 presidential bid. Biden met the pastor and state lawmaker less than a year ago at a prayer breakfast in the state capital.
+That personal connection will differentiate Friday’s eulogy from the funerals Obama keynoted after previous shootings. So, too, will the renewed questions on race spurred by the shooter’s apparent motivations.
+Around the country, traditional symbols of the Confederacy have come under renewed scrutiny, including the Confederate flag that flies at the South Carolina State House.
+Obama himself used some of his bluntest language to date on race during an interview with comedian Marc Maron on Friday, saying that just because the N-word is no longer used frequently in public, “that’s not the measure of whether racism still exists or not.”
+The moment was a distant cry from the earlier days of Obama’s presidency, when he studiously avoided discussing race or the implications of his election to office.
+“I think that the President has grown very weary of having to circumvent these issues, which a lot of people thought was the appropriate thing for him to do as president of the United States,” Clyburn said. “But I think he has reached a conclusion that he needs to meet this issue head on.”
+Ryan Julison, who is a spokesman for Walter Scott’s family, told CNN “The family of Walter Scott will attend today’s funeral for Reverend Pinckney. They want to show the same support to the community that the community showed to them.”
+CNN’s Carma Hassan contributed to this report.
+
+
+
+Trademark and Copyright 2015 Cable News Network, Inc., a Time Warner Company. All rights reserved.
+Filed in: News Topics: Barack Obama, Charleston Church Shooting, Clementa Pinckney, eulogy 
+
+
+>>>>>>> origin/master
 
 
 
@@ -2192,17 +2326,30 @@ crosswords
 
 
 
+<<<<<<< HEAD
 blog
 
 
 
+=======
+
+
+
+ 
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 editor
 
+=======
+
+ Follow Channel 13 News on Twitter
+ @WHOhd    Follow #13Now
+>>>>>>> origin/master
 
 
 
@@ -2210,6 +2357,7 @@ editor
 
 
 
+<<<<<<< HEAD
 quick
 
 
@@ -2224,10 +2372,31 @@ cryptic
 
 
 
+=======
+ 
+
+ 
+
+
+Popular
+
+
+
+Widow Shocked to See Husband’s Death Featured on Reality Show
+
+
+
+Woman Reveals Comment Allegedly from ‘Subway Guy’ Jared Fogle That Led to Raid
+
+
+
+Waukee Schools Superintendent Has Message for Governor, Legislature
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 prize
 
 
@@ -2248,14 +2417,45 @@ quiptic
 
 genius
 
+=======
+
+
+
+ 
+
+
+Latest News
+
+
+
+FaceOFF: Surprising to See Monte Morris Cut from U.S. Pan American Games Team
+
+
+
+What’s Bugging Andy: Online Petition to Keep Adventureland Log Ride
+
+
+
+I Think: Major League Baseball All-Star Game Needs Fixing
+
+
+
+Former SoundOFF “Intern” Harrison Barnes Asks for Higher Final Grade after Winning NBA Title
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 
 
 speedy
+=======
+ 
+
+
+>>>>>>> origin/master
 
 
 
@@ -2264,6 +2464,7 @@ speedy
 
 
 
+<<<<<<< HEAD
 everyman
 
 
@@ -2313,12 +2514,88 @@ video
 US News
 
 
+=======
+
+
+News
+
+Watch President Obama Sing ‘Amazing Grace’ at Eulogy for Reverend Killed in Charleston Shooting
+
+
+News
+
+Charleston Church Shooting Suspect Arrested in North Carolina
+
+
+News
+
+Charleston Shooting Victim Funerals Begin, As Confederate Flag Falls in Other States
+
+
+News
+
+Charleston Church Shooting: 9 Killed in What Officials Call a Hate Crime
+
+
+News
+
+‘A Man of Character': Obama Delivers Emotional Eulogy for Beau Biden
+
+
+
+ 
+
+
+News Politics
+
+Clinton Calls for More Gun Control in Wake of Charleston Church Shooting
+
+
+News
+
+Dylann Storm Roof: Police Name Suspect in Charleston Church Shooting
+
+
+News
+
+Charleston Church Shooting: Questions Swirl Around Suspect Dylann Roof
+
+
+News
+
+South Carolina Lawmakers to Debate Confederate Flag Monday
+
+
+News
+
+Confederate Flag’s Half-Century at South Carolina Capitol Ends Friday
+
+
+
+ 
+
+
+News
+
+Local Churches Holding Prayer Vigils Friday in Wake of S.C. Shooting
+
+
+News Politics
+
+Why Obama’s N-Word Was Shocking
+
+
+News
+
+Multiple Fatalities at Church Shooting in Downtown Charleston, S.C.
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 
 
 ›
@@ -2326,6 +2603,30 @@ US News
 
 South Carolina
 
+=======
+ 
+
+
+
+
+
+Mobile Apps13WarnMe Weather iPhone App
+Android App
+News iPhone & iPad App
+Severe Weather Android App
+Severe Weather iPhone App
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+Facebook
+Twitter
+Instagram
+About & Contact
+>>>>>>> origin/master
 
 
 
@@ -2333,15 +2634,20 @@ South Carolina
 
 
 
+<<<<<<< HEAD
+=======
+Online Public File • 				Terms of Service •
+		Privacy Policy  •
+		1801 Grand Ave. Des Moines, IA 50309  •
+		Copyright © 2015, WHO		 • A Tribune Broadcasting Station •
+		Powered by WordPress.com VIP 
+>>>>>>> origin/master
 
 
 
 
 
-
-
-
-
+<<<<<<< HEAD
 jobs
 
 
@@ -2353,18 +2659,33 @@ all topics
 
 
 all contributors
+=======
+×
+Email Alerts
 
 
 
 
 
+
+
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
 report technical issue
+=======
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 about us
 
 
@@ -2387,15 +2708,80 @@ cookie policy
 
 securedrop
 
+=======
 
 
 
 
 
+
+
+
+
+
+
+
+Follow
+
+Follow “whotv.com”
+
+Get every new post delivered to your Inbox.
+
+Join 2,326 other followers
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
 © 2015 Guardian News and Media Limited or its affiliated companies. All rights reserved.
 
 
 
+=======
+
+
+
+Build a website with WordPress.com
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+
+
+=======
+Send to Email Address
+
+Your Name
+
+Your Email Address
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
+
+
+
+=======
+Cancel
+
+				Post was not sent - check your email addresses!			
+
+				Email check failed, please try again			
+
+				Sorry, your blog cannot share posts by email.			
+>>>>>>> origin/master
 
 
 
@@ -2410,26 +2796,10 @@ securedrop
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
  
+=======
+>>>>>>> origin/master
 
 
 

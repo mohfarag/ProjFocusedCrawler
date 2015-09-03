@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Charleston shooting | US news | The Guardian
 
 
@@ -6,6 +7,17 @@ Charleston shooting | US news | The Guardian
 
 
 
+=======
+Ted Cruz Talks Charleston Shooting While in Johnston | whotv.com 
+Ted Cruz Talks Charleston Shooting While in Johnston | whotv.com
+
+
+
+
+
+
+GoSearch
+>>>>>>> origin/master
 
 
 
@@ -13,6 +25,40 @@ Charleston shooting | US news | The Guardian
 
 
 
+<<<<<<< HEAD
+
+
+
+=======
+ Watch Now: SoundOff 
+
+WHO-HD Channel 13 TV Schedule 
+
+
+ Search
+ Contact Us
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
+
+
+=======
+whotv.com
+
+ Menu
+
+News
+Mega Doppler-S
+Sports
+On 13
+Contests
+Events
+>>>>>>> origin/master
 
 
 
@@ -20,33 +66,40 @@ Charleston shooting | US news | The Guardian
 
 
 
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 
 
 
 
 Close
+=======
+Weather 
+
+84°
+
+
+
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+
+
+=======
+84°
+
+
+Low 75°
+High 93°
+>>>>>>> origin/master
 
 
 
 
 
-
-
-
-
-
-
+<<<<<<< HEAD
 
 
 
@@ -1760,6 +1813,45 @@ environment
 
 
 climate change
+=======
+Mon
+
+
+					76°  97°
+					
+
+
+Tue
+
+
+					73°  94°
+					
+
+
+Wed
+
+
+					73°  90°
+					
+
+
+See complete forecast
+
+ Severe weather alert
+
+
+
+
+ 
+
+
+
+ 
+
+
+ Latest Severe Weather Watches and Warnings						
+
+>>>>>>> origin/master
 
 
 
@@ -1767,26 +1859,50 @@ climate change
 
 
 
+<<<<<<< HEAD
 
 wildlife
+=======
+ 
+
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 
 
 energy
+=======
+Ted Cruz Talks Charleston Shooting While in Johnston
+
+Posted 6:24 pm, June 20, 2015, by Staff Writer, Updated at 06:28pm, June 20, 2015 
+
+FacebookTwitterGoogleEmailRedditTumblr 
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 
 
 
 pollution
+=======
+JOHNSTON, Iowa – At an event Saturday, Republican candidate Ted Cruz spoke about the shooting that occurred in Charleston, South Carolina.
+21-year-old Dylann Roof shot nine people to death at Charleston’s Emanuel African Methodist Episcopal Church on Wednesday in Charleston.
+While in Johnston, Cruz discussed the shooting and said it was horrifying and the face of evil.
+“We should be looking at this as an opportunity to bring people together and to pray for the families. One of the incredible things yesterday was to see the families of those who were murdered, calling for forgiveness for the murders. What a powerful demonstration of Christian love. I have to admit, if it were my family, I don’t think I could demonstrate that degree of forgiveness.”
+
+
+
+Filed in: News Topics: charleston, republican, South Carolina, Ted Cruz 
+>>>>>>> origin/master
 
 
 
@@ -1799,22 +1915,34 @@ pollution
 
 
 
+<<<<<<< HEAD
 science
 
+=======
+
+ 
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 
 media
+=======
+ Follow Channel 13 News on Twitter
+ @WHOhd    Follow #13Now
+
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 
 
 crosswords
@@ -1829,12 +1957,33 @@ crosswords
 blog
 
 
+=======
+ 
+
+ 
+
+
+Popular
+
+
+
+Widow Shocked to See Husband’s Death Featured on Reality Show
+
+
+
+Woman Reveals Comment Allegedly from ‘Subway Guy’ Jared Fogle That Led to Raid
+
+
+
+Waukee Schools Superintendent Has Message for Governor, Legislature
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 editor
 
 
@@ -1854,15 +2003,46 @@ quick
 
 
 cryptic
+=======
+
+ 
+
+
+Latest News
+
+
+
+FaceOFF: Surprising to See Monte Morris Cut from U.S. Pan American Games Team
+
+
+
+What’s Bugging Andy: Online Petition to Keep Adventureland Log Ride
+
+
+
+I Think: Major League Baseball All-Star Game Needs Fixing
+
+
+
+Former SoundOFF “Intern” Harrison Barnes Asks for Higher Final Grade after Winning NBA Title
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+ 
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 prize
+=======
+>>>>>>> origin/master
 
 
 
@@ -1871,6 +2051,7 @@ prize
 
 
 
+<<<<<<< HEAD
 quiptic
 
 
@@ -1921,6 +2102,113 @@ azed
 
 
 video
+=======
+News
+
+Charleston Church Shooting: 9 Killed in What Officials Call a Hate Crime
+
+
+News
+
+Confederate Flag’s Half-Century at South Carolina Capitol Ends Friday
+
+
+News
+
+Racist Online Manifesto Mentions Charleston, Includes Images of Roof
+
+
+News
+
+Multiple Fatalities at Church Shooting in Downtown Charleston, S.C.
+
+
+News
+
+Charleston Church Shooting Suspect Arrested in North Carolina
+
+
+
+ 
+
+
+News
+
+Obama Set to Eulogize Pastor in Charleston Shooting
+
+
+News
+
+Officer Charged with Murder After Video Shows him Shooting Man in Back
+
+
+News Politics
+
+Cruz Seeks to Harness Conservative Outrage after Supreme Court Decisions
+
+
+News Politics
+
+Clinton Calls for More Gun Control in Wake of Charleston Church Shooting
+
+
+News
+
+Charleston Church Shooting: Questions Swirl Around Suspect Dylann Roof
+
+
+
+ 
+
+
+News
+
+Dylann Storm Roof: Police Name Suspect in Charleston Church Shooting
+
+
+News
+
+South Carolina Lawmakers to Debate Confederate Flag Monday
+
+
+News
+
+Watch President Obama Sing ‘Amazing Grace’ at Eulogy for Reverend Killed in Charleston Shooting
+
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
+=======
+ 
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
+=======
+Mobile Apps13WarnMe Weather iPhone App
+Android App
+News iPhone & iPad App
+Severe Weather Android App
+Severe Weather iPhone App
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+Facebook
+Twitter
+Instagram
+About & Contact
+>>>>>>> origin/master
 
 
 
@@ -1928,25 +2216,20 @@ video
 
 
 
+<<<<<<< HEAD
+=======
+Online Public File • 				Terms of Service •
+		Privacy Policy  •
+		1801 Grand Ave. Des Moines, IA 50309  •
+		Copyright © 2015, WHO		 • A Tribune Broadcasting Station •
+		Powered by WordPress.com VIP 
+>>>>>>> origin/master
 
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 jobs
 
 
@@ -1958,18 +2241,33 @@ all topics
 
 
 all contributors
+=======
+×
+Email Alerts
 
 
 
 
 
+
+
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
 report technical issue
+=======
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 about us
 
 
@@ -1992,15 +2290,80 @@ cookie policy
 
 securedrop
 
+=======
 
 
 
 
 
+
+
+
+
+
+
+
+Follow
+
+Follow “whotv.com”
+
+Get every new post delivered to your Inbox.
+
+Join 2,326 other followers
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
 © 2015 Guardian News and Media Limited or its affiliated companies. All rights reserved.
 
 
 
+=======
+
+
+
+Build a website with WordPress.com
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+
+
+=======
+Send to Email Address
+
+Your Name
+
+Your Email Address
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
+
+
+
+=======
+Cancel
+
+				Post was not sent - check your email addresses!			
+
+				Email check failed, please try again			
+
+				Sorry, your blog cannot share posts by email.			
+>>>>>>> origin/master
 
 
 
@@ -2015,26 +2378,10 @@ securedrop
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
  
+=======
+>>>>>>> origin/master
 
 
 

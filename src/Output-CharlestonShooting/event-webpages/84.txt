@@ -1,7 +1,14 @@
+<<<<<<< HEAD
 Family of Charleston shooting suspect makes first statement on slayings | New York's PIX11 / WPIX-TV 
 
 
 Family of Charleston shooting suspect makes first statement on slayings | New York's PIX11 / WPIX-TV
+=======
+Charleston shooting | US news | The Guardian
+
+Charleston shooting | US news | The Guardian
+
+>>>>>>> origin/master
 
 
 
@@ -16,8 +23,12 @@ Family of Charleston shooting suspect makes first statement on slayings | New Yo
 
 
 
+<<<<<<< HEAD
 Go
 Search
+=======
+Close
+>>>>>>> origin/master
 
 
 
@@ -26,6 +37,7 @@ Search
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -272,6 +284,10 @@ Reddit
 Pinterest
 Email
 Google
+=======
+Skip to main content
+
+>>>>>>> origin/master
  
 
 
@@ -284,6 +300,7 @@ Google
 
 
 
+<<<<<<< HEAD
 
 CHARLESTON, S.C. — The family of the man accused of killing nine people at a Charleston church has issued their first statement on the slayings.
 
@@ -346,6 +363,8 @@ NRA board member blames church shooting victim Clementa Pinckney for Charleston�
 
 
 
+=======
+sign in
 
 
 
@@ -353,6 +372,64 @@ NRA board member blames church shooting victim Clementa Pinckney for Charleston�
 
 
 
+
+subscribe
+
+
+
+
+
+
+
+search
+
+
+
+
+jobs
+
+
+
+
+
+
+
+
+
+
+more
+
+
+from the guardian:
+
+
+jobs
+
+
+
+change edition:
+
+
+
+switch to the  UK  edition
+
+
+switch to the  AU  edition
+
+
+switch to the 
+INT
+beta
+ edition
+>>>>>>> origin/master
+
+
+
+
+
+
+
+<<<<<<< HEAD
 Filed in:
  
 News
@@ -369,20 +446,41 @@ roof family
  
 
 
+=======
+
+US edition
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+switch to the 
+UK edition
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 ×
 
 
 Report a Typo
 
 
+=======
+switch to the 
+Australia edition
+
+
+
+
+switch to the 
+International
+beta
+>>>>>>> origin/master
 
 
 
@@ -393,8 +491,12 @@ Report a Typo
 
 
 
+<<<<<<< HEAD
 Name
 (required)
+=======
+The Guardian
+>>>>>>> origin/master
 
 
 
@@ -403,8 +505,11 @@ Name
 
 
 
+<<<<<<< HEAD
 Typo
 (required)
+=======
+>>>>>>> origin/master
 
 
 
@@ -413,6 +518,16 @@ Typo
 
 
 
+<<<<<<< HEAD
+
+
+=======
+home
+
+
+›
+US
+>>>>>>> origin/master
 
 
 
@@ -421,8 +536,7 @@ Typo
 
 
 
-
-
+<<<<<<< HEAD
  
 
 
@@ -431,63 +545,137 @@ Typo
 Cancel
 
 
+=======
+
+
+home
 
 
 
 
+US
+selected
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+world
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+opinion
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+sports
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+soccer
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+tech
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
  
 
 
+=======
+arts
 
 
 
 
+lifestyle
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+fashion
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+business
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Watch The CW Now!
 
 
 See last night’s episodes now on The CW
 
 
+=======
+travel
+
+
+
+
+environment
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+science
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+browse all sections
+close
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+ 
+=======
+>>>>>>> origin/master
 
 
 
@@ -497,13 +685,9 @@ See last night’s episodes now on The CW
 
 
 
- 
 
 
-
-
-
-
+<<<<<<< HEAD
 Popular
 
 
@@ -514,6 +698,21 @@ Popular
 
 
 NBA great Darryl Dawkins has died at 58 years old
+=======
+
+
+
+Charleston shooting
+
+Sunday
+
+5
+July
+2015
+
+
+
+>>>>>>> origin/master
 
 
 
@@ -522,7 +721,10 @@ NBA great Darryl Dawkins has died at 58 years old
 
 
 
+<<<<<<< HEAD
 Video showing shootings of WDBJ crew posted under Bryce Williams Twitter, Facebook accounts
+=======
+>>>>>>> origin/master
 
 
 
@@ -531,18 +733,31 @@ Video showing shootings of WDBJ crew posted under Bryce Williams Twitter, Facebo
 
 
 
+<<<<<<< HEAD
 Reporter, photographer shot to death on air in Virginia
 
 
+=======
+Defiant Nascar fans pledge allegiance to their Confederate flags
+
+
+Dozens of the civil war-era flags were scattered throughout the vast infield in Daytona despite the series urging fans to no longer wave the banner
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 ‘Dead’ teen ‘wakes up’ screaming, banging inside coffin; family smashes tomb
 
 
+=======
+
+
+Defiant Nascar fans pledge allegiance to their Confederate flags
+>>>>>>> origin/master
 
 
 
@@ -557,6 +772,7 @@ Reporter, photographer shot to death on air in Virginia
 
 
 
+<<<<<<< HEAD
  
 
 
@@ -565,11 +781,22 @@ Reporter, photographer shot to death on air in Virginia
 
 
 Latest News
+=======
+
+Nikki Haley: 'I could not look my kids in the face and justify that flag'
+
+
+South Carolina governor reflects on call for Confederate flag’s removal, saying Charleston shooting victims are ‘forever ingrained in my soul’
+
+
+
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -577,43 +804,86 @@ One man’s poop is another’s medicine
 
 
 
+=======
+Nikki Haley: 'I could not look my kids in the face and justify that flag'
 
 
 
 
 
+
+Older
+Newer
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
 Calif. man bitten while taking selfie with rattlesnake
 
 
 
 
+=======
+
+Topics
+
+
+
+South Carolina
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 CEO of Ashley Madison parent company steps down after hack
+=======
+Motor sport
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+Nascar
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 WATCH IT: Sinkhole swallows 5 people in China is captured on video
+=======
+American civil war
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+Florida
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+Race issues
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
  
+=======
+>>>>>>> origin/master
 
 
 
@@ -623,6 +893,22 @@ WATCH IT: Sinkhole swallows 5 people in China is captured on video
 
 
 
+<<<<<<< HEAD
+=======
+The Guardian
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+back to top
+>>>>>>> origin/master
 
 
 
@@ -632,25 +918,26 @@ WATCH IT: Sinkhole swallows 5 people in China is captured on video
 
 
 
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 News
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Tip from woman heading to work led police to suspected church shooter
 
+=======
+
+home
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 News
 
@@ -671,10 +958,35 @@ News
 
 Vigils held in Harlem to remember victims of South Carolina church shooting
 
+=======
+US
+selected
 
 
 
 
+world
+
+
+
+
+opinion
+
+
+
+
+sports
+
+
+
+
+soccer
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 News
 
@@ -695,32 +1007,77 @@ News
 
 Snapchat video allegedly shows Dylann Roof in prayer group just before massacre
 
+=======
+tech
 
 
 
 
+arts
+
+
+
+
+lifestyle
+
+
+
+
+fashion
+
+
+
+
+business
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
  
 
+=======
+travel
 
 
 
 
+environment
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 News
+=======
+science
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Woman says Charleston shooter spared her to ‘tell everyone’ what happened
 
 
+=======
+
+
+all sections
+close
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 News
 
 
@@ -740,10 +1097,33 @@ News
 
 Dylann Roof says he almost backed out because everyone at church was ‘so nice’
 
+=======
+
+
+
+home
 
 
 
 
+US
+selected
+
+
+
+
+world
+
+
+
+
+UK
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 News
 
@@ -764,31 +1144,74 @@ News
 
 ‘Amazing Grace’: President Obama eulogizes Rev. Clementa Pinckney, slain in church massacre  
 
+=======
+europe
 
 
 
 
+americas
+
+
+
+
+asia
+
+
+
+
+middle east
+
+
+
+
+africa
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
  
 
+=======
+australia
 
 
 
 
+cities
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 News
+=======
+development
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Who is the Charleston church shooting suspect?
 
+=======
+
+opinion
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 News
 
@@ -809,29 +1232,70 @@ News
 
 Charleston church shooting investigated as a hate crime
 
+=======
+sports
+
+
+
+
+soccer
+
+
+
+
+MLS
+
+
+
+
+NFL
+
+
+
+
+MLB
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+NBA
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+NHL
+>>>>>>> origin/master
 
 
 
 
 
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
  
 
+=======
+
+soccer
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+live scores
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -843,10 +1307,24 @@ iPhone & iPad App
 
 
 
+=======
+tables
 
 
 
 
+competitions
+
+
+
+
+results
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
@@ -861,18 +1339,42 @@ Instagram
 
 About & Contact
 
+=======
+fixtures
+
+
+
+
+clubs
 
 
 
 
 
 
+tech
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+arts
+>>>>>>> origin/master
 
 
+
+
+<<<<<<< HEAD
+=======
+movies
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
@@ -895,80 +1397,149 @@ WordPress.com VIP
  
 
 
+=======
+tv & radio
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+music
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 ×
 
 
 Email Alerts
+=======
+games
+
+
+
+
+books
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+art & design
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+stage
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+classical
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+lifestyle
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+food
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+health & fitness
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+love & sex
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+family
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+women
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+home & garden
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+fashion
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+business
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+economics
+>>>>>>> origin/master
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 
 
 Follow
@@ -982,73 +1553,143 @@ Follow “New York's PIX11 / WPIX-TV”
 
 
 Get every new post delivered to your Inbox.
+=======
+sustainable business
 
 
 
 
+diversity & equality in business
+
+
+
+
+small business
+
+
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Join 5,004 other followers
+=======
+travel
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+USA
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+europe
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+UK
+>>>>>>> origin/master
 
 
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 Build a website with WordPress.com
+=======
+environment
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+climate change
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+wildlife
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+energy
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 Send to Email Address
+=======
+pollution
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Your Name
+=======
+science
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Your Email Address
+=======
+media
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+crosswords
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+video
+>>>>>>> origin/master
 
 
 
 
 
 
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 Cancel
 
 
@@ -1066,6 +1707,51 @@ Cancel
 
 
 
+=======
+>>>>>>> origin/master
+
+
+
+
+
+
+
+<<<<<<< HEAD
+
+
+
+
+
+
+
+
+
+
+=======
+jobs
+
+subscribe
+all topics
+all contributors
+
+
+report technical issue
+
+
+
+about us
+
+contact us
+
+complaints & corrections
+terms & conditions
+privacy policy
+cookie policy
+securedrop
+
+
+© 2015 Guardian News and Media Limited or its affiliated companies. All rights reserved.
+>>>>>>> origin/master
 
 
 
@@ -1083,21 +1769,8 @@ Cancel
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
+=======
+ 
+>>>>>>> origin/master
 

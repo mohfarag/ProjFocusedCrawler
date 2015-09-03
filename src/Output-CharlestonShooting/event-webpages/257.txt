@@ -1,7 +1,14 @@
+<<<<<<< HEAD
 How South Carolina church massacre spurred reaction in NYC | New York's PIX11 / WPIX-TV 
 
 
 How South Carolina church massacre spurred reaction in NYC | New York's PIX11 / WPIX-TV
+=======
+Confederate flag raises renewed ire following Charleston church killings | US news | The Guardian
+
+Confederate flag raises renewed ire following Charleston church killings | US news | The Guardian
+
+>>>>>>> origin/master
 
 
 
@@ -16,8 +23,12 @@ How South Carolina church massacre spurred reaction in NYC | New York's PIX11 / 
 
 
 
+<<<<<<< HEAD
 Go
 Search
+=======
+Close
+>>>>>>> origin/master
 
 
 
@@ -26,6 +37,7 @@ Search
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -71,10 +83,16 @@ New York's PIX11 / WPIX-TV
 
  
 Menu
+=======
+Skip to main content
+
+ 
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 NEWS
 
 
@@ -98,6 +116,7 @@ Traffic
 
 Events
 
+=======
 
 
 
@@ -105,6 +124,25 @@ Events
 
 
 
+sign in
+
+
+
+
+
+
+
+
+subscribe
+>>>>>>> origin/master
+
+
+
+
+
+
+
+<<<<<<< HEAD
 
 
 Weather 
@@ -113,6 +151,16 @@ Weather
 
 
 77°
+=======
+search
+
+
+
+
+jobs
+
+
+>>>>>>> origin/master
 
 
 
@@ -121,6 +169,7 @@ Weather
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -142,16 +191,49 @@ Low
 
 High 
 81°
+=======
+more
+
+
+from the guardian:
+
+
+jobs
+
+
+
+change edition:
+
+
+
+switch to the  UK  edition
+
+
+switch to the  AU  edition
+
+
+switch to the 
+INT
+beta
+ edition
+
+
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+US edition
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 Sat
@@ -164,43 +246,81 @@ Sat
  86°
 					
 
+=======
+switch to the 
+UK edition
+
+
+
+
+switch to the 
+Australia edition
+
+
+
+
+switch to the 
+International
+beta
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 Sun
+=======
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 					74° 
  90°
 					
+=======
+The Guardian
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 Mon
+=======
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 					75° 
  92°
 					
+=======
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 
 See complete forecast
 
+=======
+home
+
+
+›
+US
+>>>>>>> origin/master
 
 
 
@@ -210,6 +330,7 @@ See complete forecast
 
 
 
+<<<<<<< HEAD
  
 
 
@@ -220,33 +341,59 @@ See complete forecast
 
 
 
+=======
+
+home
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+US
+selected
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+world
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
  
 
+=======
+opinion
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+sports
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+soccer
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -272,14 +419,32 @@ Email
 Google
  
 
+=======
+tech
 
 
 
 
+arts
 
 
 
 
+lifestyle
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+fashion
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
@@ -298,15 +463,39 @@ It was the same car that Roof was seen on surveillance video driving away from t
 
 
 Photo Gallery
+=======
+business
+
+
+
+
+travel
+
+
+
+
+environment
+
+
+
+
+science
+
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 
  View Gallery (2 images)
 
 
+=======
+browse all sections
+close
+>>>>>>> origin/master
 
 
 
@@ -322,6 +511,7 @@ Photo Gallery
 
 
 
+<<<<<<< HEAD
 “He was stopped because a citizen alerted law enforcement to a suspicious activity,” said Charleston police chief Gregory Mullen at a news conference late Thursday morning, “and law enforcement went out and they knew that, once they arrived there, that it was the individual that we were looking for.”
 
 
@@ -334,12 +524,25 @@ People who know Roof said that he regularly told racist jokes, to which they pai
 He killed nine people, then fled. Because surveillance video from the scene captured images of Roof, a friend was able to identify him, and police were able to capture Roof.
 
 
+=======
+
+
+
+
+
+US news
+
+
+
+Confederate flag raises renewed ire following Charleston church killings
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 “How did this person go from being a beautiful infant to this?” asked Graham Witherspoon, a director of the Brooklyn based organization Black Law Enforcement Alliance. “What brought him to this point?”
 
 
@@ -350,19 +553,32 @@ At Abyssinian Baptist Church, perhaps the most the most prominent church in Harl
 
 
 “Sometimes it’s necessary to have security at churches,” said Witherspoon, “uniform or plainclothes.”
+=======
+
+
+
+Protesters call for symbol of racial division to be removed from the grounds of the South Carolina state building in Columbia
+
+
+
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 PHOTO GALLERY: Mermaid Parade 2015 [NSFW]
+=======
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 PHOTOS & VIDEO: ‘Seinfield’ fans can visit Jerry’s apartment in new exhibit
 
 
@@ -372,27 +588,57 @@ PHOTOS & VIDEO: ‘Seinfield’ fans can visit Jerry’s apartment in new exhib
 
 DNA test proves ‘fried rat’ was a chicken tender, KFC says
 
+=======
+
+
+
+Demonstrators carry Confederate flags during a July 2000 march to protest the removal of the flag from the South Carolina statehouse in Columbia.
+Photograph: Eric Draper/Associated Press
+
+
+
+
+Tom McCarthy in New York
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 New Yorkers strip down for No Pants Subway Ride [PHOTOS & VIDEO]
+=======
+@TeeMcSee
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 
 
 Related stories
+=======
+Thursday 18 June 2015 20.32 EDT
+
+
+Last modified on Thursday 18 June 2015 20.39 EDT
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Who were the Charleston victims?: 9 lives lost to family and community
 
+=======
+
+Share on Facebook
+>>>>>>> origin/master
 
 
 
@@ -400,26 +646,42 @@ Who were the Charleston victims?: 9 lives lost to family and community
 
 
 
+<<<<<<< HEAD
 
 
 Filed in:
  
 News
  
+=======
+Share on Twitter
+
+
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
+=======
+Share via Email
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 ×
 
 
 Report a Typo
+=======
+
+
+Share on Pinterest
+>>>>>>> origin/master
 
 
 
@@ -427,24 +689,39 @@ Report a Typo
 
 
 
+<<<<<<< HEAD
+=======
+Share on LinkedIn
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 Name
 (required)
 
 
+=======
+
+
+Share on Google+
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 Typo
 (required)
 
+=======
+
+Share on WhatsApp
+>>>>>>> origin/master
 
 
 
@@ -462,6 +739,7 @@ Typo
 
 
 
+<<<<<<< HEAD
  
 
 
@@ -472,6 +750,45 @@ Cancel
 
 
 
+=======
+Fifteen years ago, the Confederate flag was removed from the top of the state house building in Columbia, South Carolina. It was moved all of 200 feet, to be planted next to a Confederate memorial inside capitol grounds. Now there is a call for the flag to be moved again – to somewhere no one can see it.
+A day after nine African-American men and women were gunned down inside a historic black church in Charleston, allegedly by a white gunman with racist views, mourners and protesters renewed a call that never quite seems to go away in South Carolina: why is the people’s house draped with a symbol of racial division – or regional heritage, as its proponents hold? 
+Some in South Carolina contacted for this story said the blood of the victims is too fresh to resurrect the flag debate. Or that people rush to fight about the flag because they want to change the subject, to turn away from the latest proof that an old hatred is alive and well.
+“We have been able to change a lot of racism,” state senator John W Matthews, 75, a Democrat who has served two decades in the legislature, told the Guardian. “What I call it, racism that you can see. We’ve changed public accommodation, open houses, access to restaurants. And so those things that are visible, we have changed substantially. But racism of the heart is the most difficult to change. And that has not changed fully.”
+Before the killings on Wednesday night, the debate over the Confederate flag in South Carolina had not been as vital as it once was. Fifteen years ago, the flag was the subject of a gritty partisan struggle in the state house and an economic boycott by the NAACP. The fight even broke into the 2000 presidential campaign, with Republican candidate John McCain defending the flag’s placement, only to admit, after he had lost, that he had only taken his stance to win the state’s primary.
+The real friction was inside the South Carolina legislature, however, where a core group of Republican senators squared off to oppose African-American leaders such as state senators Kay Patterson and Matthews, who wanted the flag taken down. Flag opponents saw a special opportunity in support from of the freshly installed Democratic governor, Jim Hodges.
+The two sides eventually cut a deal to move the flag to the Confederate monument. Hodges signed the law to move the flag in May 2000 – the same month that he signed a law making South Carolina the last state to recognise Martin Luther King Jr day as a paid holiday. A rectangular version of the flag that had flown atop the capitol was replaced with a more historically accurate, square-shaped flag with a border.
+Matthews said the goal in 1999 was to remove not only the Confederate flag on top of the capitol building, but also the multiple flags inside it. “The removal of the flags, you’ve got to understand, the time in which the debate was taking place, we were still talking about the values of the old South and not necessarily the new South,” Matthews said in an phone interview from his home in Columbia. “And those values of the old South, the Caucasian community – not necessarily to all but to a lot of them – they thought [the flag] was important. But to African-Americans, we saw it as suppression.
+“There were flags in the chambers, and each one was hanging in the state house over the desks. And when you said the pledge of allegiance in the morning, you had to look at those flags. There were flags in the rotunda. There was a flag on top of the state house, which implies sovereignty.”
+The removal of the flag to the Confederate monument was the last of multiple compromises the two sides had considered, Matthews said. “There were several proposals on the table. It finally wound up, the compromise was, to put it out there by the Confederate monument. Everybody didn’t quite agree to that. That was the compromise. That took out about five flags. One atop the statehouse, and about three or four out of the statehouse. First we had a compromise to put it in the museum, which is where we thought it should be. That was a very close vote.”
+Matthews recalled serving in the legislature with Clementa Pinckney, the reverend who was among those shot dead inside Emanuel AME church Wednesday. Pinckney had been a state senator since 2001. “His passion was to serve people and to change this state,” Matthews said. “Senator Pinckney being elected to the senate will tell you how far we’ve come. How he died will tell you how far we have to go.”
+
+
+
+
+More news 
+Topics
+
+
+
+South Carolina
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+Race issues
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+American civil war
+>>>>>>> origin/master
 
 
 
@@ -482,23 +799,24 @@ Cancel
 
 
 
+<<<<<<< HEAD
+=======
+Share on Facebook
+>>>>>>> origin/master
 
 
 
 
 
 
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
  
 
 
+=======
+
+Share on Twitter
+>>>>>>> origin/master
 
 
 
@@ -506,15 +824,25 @@ Cancel
 
 
 
+<<<<<<< HEAD
+=======
+Share via Email
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 Watch NJ Lottery drawings live
 
 
 Winning numbers and daily results
+=======
+
+
+Share on Pinterest
+>>>>>>> origin/master
 
 
 
@@ -522,6 +850,10 @@ Winning numbers and daily results
 
 
 
+<<<<<<< HEAD
+=======
+Share on LinkedIn
+>>>>>>> origin/master
 
 
 
@@ -529,6 +861,7 @@ Winning numbers and daily results
 
 
 
+<<<<<<< HEAD
 
 
  
@@ -537,14 +870,22 @@ Winning numbers and daily results
 
 
  
+=======
+Share on Google+
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 Popular
 
+=======
+
+Share on WhatsApp
+>>>>>>> origin/master
 
 
 
@@ -552,6 +893,7 @@ Popular
 
 
 
+<<<<<<< HEAD
 NBA great Darryl Dawkins has died at 58 years old
 
 
@@ -581,6 +923,8 @@ Reporter, photographer shot to death on air in Virginia
 
 ‘Dead’ teen ‘wakes up’ screaming, banging inside coffin; family smashes tomb
 
+=======
+>>>>>>> origin/master
 
 
 
@@ -603,6 +947,7 @@ Reporter, photographer shot to death on air in Virginia
 
 
 
+<<<<<<< HEAD
 Latest News
 
 
@@ -640,6 +985,11 @@ CEO of Ashley Madison parent company steps down after hack
 
 
 WATCH IT: Sinkhole swallows 5 people in China is captured on video
+=======
+
+
+popular
+>>>>>>> origin/master
 
 
 
@@ -661,6 +1011,22 @@ WATCH IT: Sinkhole swallows 5 people in China is captured on video
 
 
 
+<<<<<<< HEAD
+=======
+The Guardian
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+back to top
+>>>>>>> origin/master
 
 
 
@@ -671,24 +1037,24 @@ WATCH IT: Sinkhole swallows 5 people in China is captured on video
 
 
 
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 News
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Dylann Roof says he almost backed out because everyone at church was ‘so nice’
+=======
+home
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 News
@@ -699,20 +1065,43 @@ News
 Officers bought Burger King for Dylann Roof after arrest
 
 
+=======
+US
+selected
 
 
 
 
+world
+
+
+
+
+opinion
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 News
+=======
+sports
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Suspected church shooter Dylann Roof confesses to massacre: source
+=======
+soccer
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 News
@@ -723,43 +1112,85 @@ News
 Dylann Storm Roof: FBI names suspect in Charleston church shooting
 
 
+=======
+tech
 
 
 
 
+arts
+
+
+
+
+lifestyle
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 News
+=======
+fashion
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Tip from woman heading to work led police to suspected church shooter
+=======
+business
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+travel
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
  
+=======
+environment
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 News
+=======
+science
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Family of Charleston shooting suspect makes first statement on slayings
 
+=======
+
+all sections
+close
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 News
 
 
@@ -768,20 +1199,40 @@ News
 Who is the Charleston church shooting suspect?
 
 
+=======
+
+
+home
 
 
 
 
+US
+selected
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 News
+=======
+world
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Dylann Roof and Michael Slager are jail neighbors, police confirm
+=======
+UK
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 News
@@ -792,41 +1243,81 @@ News
 Woman says Charleston shooter spared her to ‘tell everyone’ what happened
 
 
+=======
+europe
 
 
 
 
+americas
+
+
+
+
+asia
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 News
+=======
+middle east
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Snapchat video allegedly shows Dylann Roof in prayer group just before massacre
+=======
+africa
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+australia
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
  
+=======
+cities
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 News
+=======
+development
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 ‘Hate will not win’: Victims’ families tell suspected church shooter they forgive him
+=======
+opinion
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 News
@@ -837,43 +1328,85 @@ News
 South Carolina lawmakers to debate Confederate flag on Monday
 
 
+=======
+sports
 
 
 
 
+soccer
+
+
+
+
+MLS
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 News
+=======
+NFL
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Manifesto allegedly belonging to accused Charleston shooter found online
+=======
+MLB
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+NBA
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+NHL
+>>>>>>> origin/master
 
 
 
 
 
 
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
  
+=======
+soccer
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+live scores
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+tables
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Mobile Apps
 Android App
 
@@ -881,14 +1414,27 @@ Android App
 iPhone & iPad App
 
 
+=======
+competitions
 
 
 
 
+results
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+fixtures
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Facebook
 
 
@@ -899,22 +1445,45 @@ Instagram
 
 
 About & Contact
+=======
+clubs
 
 
 
 
 
 
+tech
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+arts
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+movies
+>>>>>>> origin/master
 
 
+
+
+<<<<<<< HEAD
+=======
+tv & radio
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Online Public File
  • 				
 Terms of Service
@@ -934,80 +1503,149 @@ WordPress.com VIP
  
 
 
+=======
+music
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+games
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 ×
 
 
 Email Alerts
+=======
+books
+
+
+
+
+art & design
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+stage
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+classical
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+lifestyle
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+food
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+health & fitness
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+love & sex
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+family
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+women
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+home & garden
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+fashion
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+business
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+economics
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+sustainable business
+>>>>>>> origin/master
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 
 
 Follow
@@ -1016,64 +1654,130 @@ Follow
 
 
 Follow “New York's PIX11 / WPIX-TV”
+=======
+diversity & equality in business
 
 
 
 
+small business
+
+
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Get every new post delivered to your Inbox.
+=======
+travel
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Join 5,004 other followers
+=======
+USA
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+europe
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+UK
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+environment
+>>>>>>> origin/master
 
 
 
 
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 Build a website with WordPress.com
+=======
+climate change
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+wildlife
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+energy
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+pollution
+>>>>>>> origin/master
 
 
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 Send to Email Address
+=======
+science
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Your Name
+=======
+media
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Your Email Address
+=======
+crosswords
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+video
+>>>>>>> origin/master
 
 
 
@@ -1084,10 +1788,7 @@ Your Email Address
 
 
 
-
-
-
-
+<<<<<<< HEAD
 Cancel
 
 
@@ -1104,6 +1805,60 @@ Cancel
 
 
 
+=======
+
+US News
+
+
+
+
+›
+South Carolina
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+
+
+
+
+
+
+
+
+
+
+=======
+jobs
+
+subscribe
+all topics
+all contributors
+
+
+report technical issue
+
+
+
+about us
+
+contact us
+
+complaints & corrections
+terms & conditions
+privacy policy
+cookie policy
+securedrop
+
+
+© 2015 Guardian News and Media Limited or its affiliated companies. All rights reserved.
+>>>>>>> origin/master
 
 
 
@@ -1121,22 +1876,8 @@ Cancel
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
+=======
+ 
+>>>>>>> origin/master
 

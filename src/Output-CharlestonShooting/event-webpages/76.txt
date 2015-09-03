@@ -1,7 +1,14 @@
+<<<<<<< HEAD
 Charleston church shooting: 9 killed in what officials call a hate crime | FOX2now.com 
 
 
 Charleston church shooting: 9 killed in what officials call a hate crime | FOX2now.com
+=======
+Charleston shooting | US news | The Guardian
+
+Charleston shooting | US news | The Guardian
+
+>>>>>>> origin/master
 
 
 
@@ -16,8 +23,12 @@ Charleston church shooting: 9 killed in what officials call a hate crime | FOX2n
 
 
 
+<<<<<<< HEAD
 Go
 Search
+=======
+Close
+>>>>>>> origin/master
 
 
 
@@ -26,6 +37,7 @@ Search
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -97,43 +109,78 @@ STLMoms
 
 
 Events
+=======
+Skip to main content
+
+ 
 
 
 
 
 
 
+>>>>>>> origin/master
 
 
 
 
+
+<<<<<<< HEAD
+=======
+sign in
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
 Weather 
 
 
 
 
 77°
+=======
+
+
+
+subscribe
+
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+search
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+jobs
+>>>>>>> origin/master
 
 
 
 
 
 
-
-
-
-
+<<<<<<< HEAD
 77°
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 Low 
@@ -155,19 +202,53 @@ High
 
 
 Sat
+=======
+more
+
+
+from the guardian:
+
+
+jobs
+
+
+
+change edition:
+
+
+
+switch to the  UK  edition
+
+
+switch to the  AU  edition
+
+
+switch to the 
+INT
+beta
+ edition
+
+
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 					65° 
  87°
 					
 
+=======
+
+US edition
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 Sun
 
@@ -180,26 +261,54 @@ Sun
 					
 
 
+=======
+switch to the 
+UK edition
 
 
 
 
+switch to the 
+Australia edition
+
+
+
+
+switch to the 
+International
+beta
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Mon
+=======
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 					68° 
  91°
 					
 
+=======
+
+The Guardian
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 See complete forecast
+=======
+>>>>>>> origin/master
 
 
 
@@ -210,6 +319,7 @@ See complete forecast
 
 
 
+<<<<<<< HEAD
  
 
 
@@ -221,6 +331,14 @@ See complete forecast
 
 
 
+=======
+
+home
+
+
+›
+US
+>>>>>>> origin/master
 
 
 
@@ -231,22 +349,36 @@ See complete forecast
 
 
 
+<<<<<<< HEAD
 
 
  
 
+=======
+home
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+US
+selected
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+world
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -272,10 +404,29 @@ Email
 
 
 
+=======
+opinion
 
 
 
 
+sports
+
+
+
+
+soccer
+
+
+
+
+tech
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
@@ -410,6 +561,46 @@ http://t.co/4Z8oXzQP3K
 
 — CNN Breaking News (@cnnbrk) 
 June 18, 2015
+=======
+arts
+
+
+
+
+lifestyle
+
+
+
+
+fashion
+
+
+
+
+business
+
+
+
+
+travel
+
+
+
+
+environment
+
+
+
+
+science
+
+
+
+
+
+
+browse all sections
+close
 
 
 
@@ -418,14 +609,42 @@ June 18, 2015
 
 
 
+ 
 
 
 
 
+
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+
+
+=======
+Charleston shooting
+
+Saturday
+
+27
+June
+2015
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
 Filed in:
  
 News
  
+=======
+>>>>>>> origin/master
 
 
 
@@ -436,34 +655,56 @@ News
 
 
 
+<<<<<<< HEAD
 ×
 
 
 Report a Typo
+=======
+
+
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+
+
+=======
+Ten days that turned America into a better place
+
+Michael Cohen
+
+Out of the horror of the Charleston shootings has come extraordinarily honest self-examination
+>>>>>>> origin/master
 
 
 
 
 
 
-
-
-
-
-
-
+<<<<<<< HEAD
 Name
 (required)
 
 
+=======
+
+
+Ten days that turned America into a better place
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 Typo
 (required)
+=======
+>>>>>>> origin/master
 
 
 
@@ -476,18 +717,33 @@ Typo
 
 
 
+<<<<<<< HEAD
+
+
+=======
+Taking down the Confederate flag is not enough to erase racism
+
+Michael Twitty
+
+Removing the southern symbol from the public square will not tackle systemic racism such as voter suppression and police brutality
+>>>>>>> origin/master
 
 
 
 
-
-
+<<<<<<< HEAD
  
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Cancel
+=======
+Taking down the Confederate flag is not enough to erase racism
+>>>>>>> origin/master
 
 
 
@@ -503,6 +759,15 @@ Cancel
 
 
 
+<<<<<<< HEAD
+
+
+=======
+PayPal appears to suspend donations to group in 'Dylann Roof manifesto'
+
+
+Attempts to donate to Council of Conservative Citizens, labeled hate group by activists, are rejected after organization allegedly gets nod from shooting suspect
+>>>>>>> origin/master
 
 
 
@@ -511,12 +776,17 @@ Cancel
 
 
 
-
-
+<<<<<<< HEAD
 
 
 
  
+=======
+PayPal appears to suspend donations to group in 'Dylann Roof manifesto'
+
+
+
+>>>>>>> origin/master
 
 
 
@@ -529,12 +799,31 @@ Cancel
 
 
 
+<<<<<<< HEAD
 
 
 Events Calendar
 
 
 See what’s happening  in your neighborhood.
+=======
+Charleston shooting: Mother Emanuel church holds funerals for victims
+
+
+South Carolina governor Nikki Haley and the Reverend Jesse Jackson in attendance as several memorial services planned at site of tragedy
+
+
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+Charleston shooting: Mother Emanuel church holds funerals for victims
+>>>>>>> origin/master
 
 
 
@@ -545,25 +834,30 @@ See what’s happening  in your neighborhood.
 
 
 
-
-
-
-
-
-
+<<<<<<< HEAD
  
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
  
+=======
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 
 Popular
+=======
+'Please God take down this flag': Charleston starts the healing process
+
+>>>>>>> origin/master
 
 
 
@@ -572,8 +866,13 @@ Popular
 
 
 
+<<<<<<< HEAD
 Suspect under arrest in Jamyla Bolden murder
 
+=======
+
+'Please God take down this flag': Charleston starts the healing process
+>>>>>>> origin/master
 
 
 
@@ -581,36 +880,59 @@ Suspect under arrest in Jamyla Bolden murder
 
 
 
+<<<<<<< HEAD
 3-year-old injured during shoot-out in north St. Louis
 
 
 
+=======
+
+
+
+Activist pulls down Confederate flag in front of South Carolina statehouse
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 Suspected gunman kills self after killing journalists on air, police say
+=======
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 
 
 
 Reporter, photographer murdered after gunman opens fire during live shot
+=======
+Activist pulls down Confederate flag in front of South Carolina statehouse
+
+
+
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
+=======
+Older
+Newer
+>>>>>>> origin/master
 
 
 
 
 
 
-
-
-
-
-
+<<<<<<< HEAD
 
 
 
@@ -619,19 +941,40 @@ Reporter, photographer murdered after gunman opens fire during live shot
  
 
 
+=======
+Topics
+
+
+
+South Carolina
 
 
 
 
+Gun crime
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Latest News
+=======
+US crime
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+Race issues
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 One man’s poop is another’s medicine
 
 
@@ -644,22 +987,50 @@ One man’s poop is another’s medicine
 STLMoms: Shop for a Cause at Macy’s to benefit March of Dimes
 
 
+=======
+US politics
+
+
+
+More…
+
+
+
+Barack Obama
 
 
 
 
+PayPal
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 Zip Rzeppa visits FOX 2
 
 
+=======
+US supreme court
+
+
+
+
+Same-sex marriage (US)
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 St. Louis Polo Charity Match to benefit the Endangered Wolf Center
+=======
+>>>>>>> origin/master
 
 
 
@@ -667,15 +1038,26 @@ St. Louis Polo Charity Match to benefit the Endangered Wolf Center
 
 
 
+<<<<<<< HEAD
+=======
+The Guardian
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
  
 
 
 
+=======
+
+
+
+back to top
+>>>>>>> origin/master
 
 
 
@@ -690,14 +1072,24 @@ St. Louis Polo Charity Match to benefit the Endangered Wolf Center
 
 
 
+<<<<<<< HEAD
+=======
+home
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+US
+selected
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 News
 
@@ -718,10 +1110,34 @@ News
 
 Charleston shooting suspect charged with 9 counts of murder
 
+=======
+world
 
 
 
 
+opinion
+
+
+
+
+sports
+
+
+
+
+soccer
+
+
+
+
+tech
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 Trending
 
@@ -742,10 +1158,34 @@ News
 
 ﻿Worshippers return to Charleston’s Emanuel AME on Sunday
 
+=======
+arts
 
 
 
 
+lifestyle
+
+
+
+
+fashion
+
+
+
+
+business
+
+
+
+
+travel
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 News
 
@@ -753,20 +1193,37 @@ News
 
 
 Dylann Storm Roof arrested in North Carolina, according to report
+=======
+environment
+
+
+
+
+science
+
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 
 
  
+=======
+all sections
+close
+
+
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 
 News
 
@@ -787,10 +1244,35 @@ News
 
 Dylann Roof pleads not guilty to federal charges in Charleston church attack
 
+=======
+home
 
 
 
 
+US
+selected
+
+
+
+
+world
+
+
+
+
+UK
+
+
+
+
+europe
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 News
 
@@ -811,10 +1293,34 @@ News
 
 Shooting suspect in custody after Charleston church massacre
 
+=======
+americas
 
 
 
 
+asia
+
+
+
+
+middle east
+
+
+
+
+africa
+
+
+
+
+australia
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 News
 
@@ -822,20 +1328,39 @@ News
 
 
 St. Louis faith leaders gather to mourn victims of Charleston shooting
+=======
+cities
+
+
+
+
+development
+
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 
 
 
  
 
+=======
+opinion
 
 
 
 
+sports
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 News
 
@@ -856,43 +1381,98 @@ News
 
 Dylann Roof says he almost backed out because everyone at church was ‘so nice’
 
+=======
+soccer
 
 
 
 
+MLS
+
+
+
+
+NFL
+
+
+
+
+MLB
+
+
+
+
+NBA
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 News
+=======
+NHL
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Who is the Charleston church shooting suspect?
 
+=======
+
+soccer
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+live scores
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+tables
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
  
 
 
 
+=======
+competitions
 
 
 
 
+results
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+fixtures
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 Mobile Apps
 Android App
@@ -908,10 +1488,26 @@ iPhone Weather App
 
 
 
+=======
+clubs
 
 
 
 
+
+
+tech
+
+
+
+
+arts
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
@@ -928,18 +1524,45 @@ About & Contact
 
 
 
+=======
+movies
 
 
 
 
+tv & radio
 
 
 
 
+music
 
 
 
 
+games
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+books
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+art & design
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 Online Public File
  • 				
@@ -961,12 +1584,21 @@ WordPress.com VIP
 
 
 
+=======
+stage
+
+
+
+
+classical
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -977,76 +1609,150 @@ Email Alerts
 
 
 
+=======
+lifestyle
 
 
 
 
+food
 
 
 
 
+health & fitness
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+love & sex
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+family
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+women
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+home & garden
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+fashion
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+business
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+economics
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+sustainable business
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+diversity & equality in business
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+small business
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+travel
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+USA
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+europe
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+UK
+>>>>>>> origin/master
 
 
+
+
+
+
+<<<<<<< HEAD
+=======
+environment
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
@@ -1062,16 +1768,39 @@ Your Name
 
 Your Email Address
 
+=======
+climate change
+
+
+
+
+wildlife
+
+
+
+
+energy
+
+
+
+
+pollution
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+science
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -1088,6 +1817,68 @@ Cancel
 
 
 				Sorry, your blog cannot share posts by email.			
+=======
+media
+
+
+
+
+crosswords
+
+
+
+
+video
+
+
+
+
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+
+
+
+
+
+
+
+
+
+
+=======
+jobs
+
+subscribe
+all topics
+all contributors
+
+
+report technical issue
+
+
+
+about us
+
+contact us
+
+complaints & corrections
+terms & conditions
+privacy policy
+cookie policy
+securedrop
+
+
+© 2015 Guardian News and Media Limited or its affiliated companies. All rights reserved.
+>>>>>>> origin/master
 
 
 
@@ -1105,23 +1896,8 @@ Cancel
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
+=======
+ 
+>>>>>>> origin/master
 

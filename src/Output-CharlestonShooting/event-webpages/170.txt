@@ -1,6 +1,21 @@
+<<<<<<< HEAD
 Cop Shoots Suspect In South Shore « CBS Chicago
 
 Cop Shoots Suspect In South Shore « CBS Chicago
+=======
+Dozens gather at Bethel A.M.E. in Greensboro to remember victims of Charleston shooting | myfox8.com 
+Dozens gather at Bethel A.M.E. in Greensboro to remember victims of Charleston shooting | myfox8.com
+
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
+=======
+GoSearch
+>>>>>>> origin/master
 
 
 
@@ -8,11 +23,7 @@ Cop Shoots Suspect In South Shore « CBS Chicago
 
 
 
-
-
-
-
-
+<<<<<<< HEAD
 
 
 
@@ -248,11 +259,48 @@ Circulars
 
 
 Autos
+=======
+ Replay: FOX8 News Replay 
+
+FOX8 TV Schedule 
+
+
+ Search
+ Contact Us
 
 
 
 
 
+
+myfox8.com
+
+ Menu
+
+News
+On-Air
+Morning News
+Sports
+You Decide 2016
+Lottery
+Contests
+Events
+
+
+
+
+Weather 
+
+77°
+
+
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
 
 
 
@@ -286,8 +334,55 @@ World
 Photos
 
 
+=======
+77°
 
 
+Low 68°
+High 88°
+
+
+
+
+
+Mon
+
+
+					69°  90°
+					
+
+
+Tue
+
+
+					70°  91°
+					
+
+
+Wed
+
+
+					72°  90°
+					
+
+
+See complete forecast
+
+
+
+
+ 
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
+ 
+=======
+>>>>>>> origin/master
 
 
 
@@ -297,14 +392,10 @@ Photos
 
 
 
- 
 
 
 
-
-
-
-
+<<<<<<< HEAD
 
 
 
@@ -324,10 +415,42 @@ Cop Shoots Suspect In South Shore
 
 June 20, 2015 7:53 AM
 
+=======
+Dozens gather at Bethel A.M.E. in Greensboro to remember victims of Charleston shooting
+
+Posted 6:17 am, June 19, 2015, by Chad Tucker 
+
+FacebookTwitterGooglePinterestRedditEmail 
 
 
 
 
+
+GREENSBORO, N.C. — Dozens of people filled Bethel A.M.E. Church including people with close ties to the historic Charleston church, for a community vigil to remember the victims of the shooting.   
+“We would walk to the church,” said Mozell Weston who grew up in Emanuel A.M.E and returned last summer for a family reunion.  “Going back home it reminds me of my foundation, where I sang in the choir, seeing my Sunday school teacher.”
+Weston knows the family of the victims and said the pain of Wednesday night is being comforted by the community. 
+ “Joy to know that you are not in this by yourself,” she said.  “It’s going to be a period time of healing for all of us and this is just the beginning of the journey.”
+Weston said she is searching for understanding; not just for the families who lost loved ones but also for the alleged shooter Dylann Roof, that maybe some sense will be made of the events so it won’t happen again. 
+
+36.072635
+-79.791975
+
+
+
+Related stories
+
+Charleston victims: 9 lives lost to family and community
+Church security a consideration after deadly South Carolina shooting
+Quick-thinking NC woman helps police nab suspect in SC church shooting that killed nine
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+Filed in: News Topics: Charleston 
+>>>>>>> origin/master
 
 
 
@@ -348,6 +471,7 @@ June 20, 2015 7:53 AM
 
 
 
+<<<<<<< HEAD
 Related Tags:
 
 
@@ -359,12 +483,19 @@ Police-Involved Shooting
 , 
 South Shore
 
+=======
+You Decide 2016
+FOX8’s comprehensive election coverage
+
+
+>>>>>>> origin/master
 
 
 
 
 
  
+<<<<<<< HEAD
 Mike Krauser
 
 
@@ -422,6 +553,29 @@ The man’s condition is not known.  Police recovered a gun at the scene.
 
 
 
+=======
+
+ 
+
+
+Popular
+
+
+
+2 killed, 2 injured in wrong-way wreck in Winston-Salem; speed, alcohol suspected
+
+
+
+City in the Carolinas named second best city in the world
+
+
+
+What is this ‘mysterious sea creature’ that washed ashore?
+
+
+
+Dolphin bitten by shark washes ashore at North Carolina beach
+>>>>>>> origin/master
 
 
 
@@ -432,6 +586,7 @@ The man’s condition is not known.  Police recovered a gun at the scene.
  
 
 
+<<<<<<< HEAD
 
 
 
@@ -444,11 +599,31 @@ The man’s condition is not known.  Police recovered a gun at the scene.
 
 
 
+=======
+Latest News
+
+
+
+About 2,000 protesters expected for Moral Monday event in Winston-Salem
+
+
+
+Video shows shark at NC beach; woman says several were swimming under pier
+
+
+
+Winston-Salem State football player saves teen from burning vehicle
+
+
+
+Tyson investigating claims of animal abuse at chicken farms
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 
 Listen Live
 
@@ -490,12 +665,18 @@ Eight Wounded In Thursday Shootings Across Chicago
 Most recently, two men were shot late Thursday in the West Side Austin neighborhood. The men, ages 19 and 20, were standing outside in the 1500 block of North Linder about 10:25 p.m. when shots were fired in their direction from a group of males standing on the corner across the street, according to Chicago Police.
  
 80
+=======
+ 
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Follow 
 CBS Chicago
+=======
+>>>>>>> origin/master
 
 
 
@@ -504,6 +685,7 @@ CBS Chicago
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -549,34 +731,136 @@ Like us on foursquare
 
 
 
+=======
+News
+
+Local AME church remembers South Carolina victims
+
+
+News
+
+Winston-Salem man’s cousin killed in Charleston church shooting
+
+
+News
+
+Woman says Charleston shooter spared her to ‘tell everyone’ what happened
+
+
+News
+
+Dylann Storm Roof: FBI names suspect in Charleston church shooting
+
+
+News
+
+New details emerge about how the Charleston shooting unfolded
+
+
+
+ 
+
+
+News
+
+Minister: ‘No evildoer, no demon’ can close church targeted by shooter
+
+
+News
+
+Charleston church shooting suspect hears victims’ kin say, ‘I forgive you’
+
+
+News
+
+Police release photos of suspect in Charleston church shooting
+
+
+News
+
+Charleston pastor and state senator, Clementa Pinckney, remembered for seeking justice
+
+
+News
+
+Dylann Roof and Michael Slager are jail neighbors, police confirm
+
+
+
+ 
+
+
+News
+
+Former NC senator’s sister among 9 killed in Charleston church shooting
+
+
+News
+
+Charleston remembers three more with services for victims of church massacre
+
+
+News
+
+Worshippers return to South Carolina church after shooting that killed nine
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+ 
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
+=======
+Mobile AppsAndroid App
+Android Weather App
+Weather iPhone App
+iPhone & iPad App
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+Facebook
+Twitter
+Instagram
+Pinterest
+About & Contact
+>>>>>>> origin/master
 
 
 
 
 
 
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 Follow More Stations and Personalities
 
+=======
+
+Online Public File • 				Terms of Service •
+		Privacy Policy  •
+		2005 Francis St. High Point, NC 27263  •
+		Copyright © 2015, WGHP		 • A Tribune Broadcasting Station •
+		Powered by WordPress.com VIP 
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
  
 Contests & Promotions
 Blue Collar Bears Fan Of The Week
@@ -616,22 +900,41 @@ dodgerman
  cbsloc.al/1LGzANK
  
 24 minutes ago
+=======
+×
+Email Alerts
 
 
 
 
 
+
+
+
+
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
 				NOW: Live streaming of CBS2’s newscast. One click and you’re in the loop. Starts now: 
  CBSChicago.com/watch
  
 #LIVE
  
 32 minutes ago
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
  
+=======
+>>>>>>> origin/master
 
 
 
@@ -644,16 +947,28 @@ dodgerman
 
 
 
+<<<<<<< HEAD
 
 
 
 
 News Via Email
  
+=======
+Follow
+
+Follow “myfox8.com”
+
+Get every new post delivered to your Inbox.
+
+Join 51,550 other followers
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Download The Free App
  
 
@@ -662,10 +977,18 @@ Download The Free App
 
 New Podcast Network
  
+=======
+
+
+
+Build a website with WordPress.com
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Download Our New Weather App!
  
 
@@ -1215,21 +1538,41 @@ Advertise On Our Streams
  
 
 
+=======
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+
+
+=======
+Send to Email Address
+
+Your Name
+
+Your Email Address
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 
 
 
+=======
+Cancel
 
+				Post was not sent - check your email addresses!			
 
+				Email check failed, please try again			
 
-
-
-
+				Sorry, your blog cannot share posts by email.			
+>>>>>>> origin/master
 
 
 

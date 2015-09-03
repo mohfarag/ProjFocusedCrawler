@@ -1,7 +1,22 @@
+<<<<<<< HEAD
 Police searching for 2 suspects involved in Bronx shooting | New York's PIX11 / WPIX-TV 
 
 
 Police searching for 2 suspects involved in Bronx shooting | New York's PIX11 / WPIX-TV
+=======
+Dashcam video shows arrest of Charleston church shooter in Shelby | myfox8.com 
+Dashcam video shows arrest of Charleston church shooter in Shelby | myfox8.com
+
+
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+GoSearch
+>>>>>>> origin/master
 
 
 
@@ -9,10 +24,7 @@ Police searching for 2 suspects involved in Bronx shooting | New York's PIX11 / 
 
 
 
-
-
-
-
+<<<<<<< HEAD
 
 
 
@@ -487,21 +499,65 @@ NBA great Darryl Dawkins has died at 58 years old
 Video showing shootings of WDBJ crew posted under Bryce Williams Twitter, Facebook accounts
 
 
+=======
+ Replay: FOX8 News Replay 
+
+FOX8 TV Schedule 
+
+
+ Search
+ Contact Us
 
 
 
 
 
 
+myfox8.com
+
+ Menu
+
+News
+On-Air
+Morning News
+Sports
+You Decide 2016
+Lottery
+Contests
+Events
+
+
+
+
+Weather 
+
+77°
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
 Reporter, photographer shot to death on air in Virginia
 
 
 
+=======
+
+77°
+
+
+Low 68°
+High 88°
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 ‘Dead’ teen ‘wakes up’ screaming, banging inside coffin; family smashes tomb
 
 
@@ -515,6 +571,30 @@ Reporter, photographer shot to death on air in Virginia
 
 
 
+=======
+Mon
+
+
+					69°  90°
+					
+
+
+Tue
+
+
+					70°  91°
+					
+
+
+Wed
+
+
+					72°  90°
+					
+
+
+See complete forecast
+>>>>>>> origin/master
 
 
 
@@ -526,6 +606,7 @@ Reporter, photographer shot to death on air in Virginia
 
 
 
+<<<<<<< HEAD
 Latest News
 
 
@@ -536,14 +617,21 @@ Latest News
 
 
 One man’s poop is another’s medicine
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+ 
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Calif. man bitten while taking selfie with rattlesnake
 
 
@@ -557,12 +645,41 @@ CEO of Ashley Madison parent company steps down after hack
 
 
 
+=======
+
+
+
+Dashcam video shows arrest of Charleston church shooter in Shelby
+
+Posted 3:33 pm, June 23, 2015, by Web Staff 
+
+FacebookTwitterGooglePinterestRedditEmail 
 
 
 
 
+
+SHELBY, N.C. — The dashcam video from the arrest of the man accused of shooting nine people in Charleston was released Tuesday by the Shelby Police Department.
+Dylan Storm Roof, the 21-year-old man who police say is responsible for the shooting, was arrested in Shelby, N.C., on Thursday.
+Roof was charged with nine counts of murder.
+Roof told investigators that he wanted to start a race war.
+Read more on the Charleston church shooting here.
+Video courtesy of the Shelby Police Department. 
+
+35.292351
+-81.535646
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 WATCH IT: Sinkhole swallows 5 people in China is captured on video
+=======
+Filed in: News Topics: Charleston, church shooting, Dylann Roof 
+
+>>>>>>> origin/master
 
 
 
@@ -582,6 +699,11 @@ WATCH IT: Sinkhole swallows 5 people in China is captured on video
 
 
 
+<<<<<<< HEAD
+=======
+You Decide 2016
+FOX8’s comprehensive election coverage
+>>>>>>> origin/master
 
 
 
@@ -589,6 +711,7 @@ WATCH IT: Sinkhole swallows 5 people in China is captured on video
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -634,10 +757,35 @@ Bronx
 Four suspects sought in violent robbery in the Bronx
 
 
+=======
+ 
+
+ 
+
+
+Popular
+
+
+
+2 killed, 2 injured in wrong-way wreck in Winston-Salem; speed, alcohol suspected
+
+
+
+City in the Carolinas named second best city in the world
+
+
+
+What is this ‘mysterious sea creature’ that washed ashore?
+
+
+
+Dolphin bitten by shark washes ashore at North Carolina beach
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Bronx
 
 
@@ -659,6 +807,31 @@ Police seek gunman caught on video firing at 29-year-old man in the Bronx
 
 
 
+=======
+
+
+
+ 
+
+
+Latest News
+
+
+
+About 2,000 protesters expected for Moral Monday event in Winston-Salem
+
+
+
+Video shows shark at NC beach; woman says several were swimming under pier
+
+
+
+Winston-Salem State football player saves teen from burning vehicle
+
+
+
+Tyson investigating claims of animal abuse at chicken farms
+>>>>>>> origin/master
 
 
 
@@ -671,6 +844,7 @@ Police seek gunman caught on video firing at 29-year-old man in the Bronx
 
 
 
+<<<<<<< HEAD
 News
 
 
@@ -693,10 +867,27 @@ Two suspects identified in broad daylight killing of Bronx 14-year-old
 
 
 
+=======
+
+
+
+
 
 
 News
 
+GoFundMe page for sister of accused Charleston church shooter taken down
+
+
+News
+
+CAPTURED: Charleston church shooting suspect Dylann Roof has been caught in Shelby, NC
+>>>>>>> origin/master
+
+
+News
+
+<<<<<<< HEAD
 
 
 
@@ -732,12 +923,55 @@ Police seek suspect in shooting death of 20-year-old Bronx man
 
 
 
+=======
+Quick-thinking NC woman helps police nab suspect in SC church shooting that killed nine
+
+
+News
+
+Dylann Roof confesses to killing 9 people in Charleston church, wanting to start ‘race war’
+
+
+News
+
+Wedding canceled, sister of accused Charleston shooter asks for donations
 
 
 
  
 
 
+News
+
+Who is the suspect in the South Carolina church shooting that killed nine people?
+
+
+News
+
+Former NC senator’s sister among 9 killed in Charleston church shooting
+
+
+News
+
+Dylann Storm Roof: FBI names suspect in Charleston church shooting
+
+
+News
+
+Dylann Roof says he almost backed out because everyone at church was ‘so nice’
+
+
+News
+
+FBI says Dylann Roof should not have been cleared to purchase a weapon
+>>>>>>> origin/master
+
+
+
+ 
+
+
+<<<<<<< HEAD
 
 
 
@@ -768,10 +1002,21 @@ Police searching for suspects who stole checks in Queens, opened accounts in The
 
 
 
+=======
+News
+
+Woman says Charleston shooter spared her to ‘tell everyone’ what happened
 
 
 News
 
+Dylann Roof and Michael Slager are jail neighbors, police confirm
+>>>>>>> origin/master
+
+
+News
+
+<<<<<<< HEAD
 
 
 
@@ -784,6 +1029,9 @@ Disturbing video shows deadly daytime shooting in the Bronx
 
 
 
+=======
+Charleston shooting: 9 killed in ‘hate crime’ shooting at church
+>>>>>>> origin/master
 
 
 
@@ -796,6 +1044,7 @@ Disturbing video shows deadly daytime shooting in the Bronx
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -807,11 +1056,17 @@ Mobile Apps
 Android App
 
 
+=======
+Mobile AppsAndroid App
+Android Weather App
+Weather iPhone App
+>>>>>>> origin/master
 iPhone & iPad App
 
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -827,6 +1082,12 @@ Twitter
 Instagram
 
 
+=======
+Facebook
+Twitter
+Instagram
+Pinterest
+>>>>>>> origin/master
 About & Contact
 
 
@@ -835,6 +1096,7 @@ About & Contact
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -868,14 +1130,24 @@ WordPress.com VIP
 
 
 
+=======
+Online Public File • 				Terms of Service •
+		Privacy Policy  •
+		2005 Francis St. High Point, NC 27263  •
+		Copyright © 2015, WGHP		 • A Tribune Broadcasting Station •
+		Powered by WordPress.com VIP 
+>>>>>>> origin/master
 
 
 
 
 
 ×
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> origin/master
 Email Alerts
 
 
@@ -907,6 +1179,7 @@ Email Alerts
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -965,6 +1238,15 @@ Join 5,004 other followers
 
 
 
+=======
+Follow
+
+Follow “myfox8.com”
+
+Get every new post delivered to your Inbox.
+
+Join 51,550 other followers
+>>>>>>> origin/master
 
 
 
@@ -983,6 +1265,7 @@ Build a website with WordPress.com
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -1002,6 +1285,12 @@ Your Name
 
 
 
+=======
+Send to Email Address
+
+Your Name
+
+>>>>>>> origin/master
 Your Email Address
 
 
@@ -1009,6 +1298,7 @@ Your Email Address
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -1029,6 +1319,14 @@ Cancel
 
 
 
+=======
+Cancel
+
+				Post was not sent - check your email addresses!			
+
+				Email check failed, please try again			
+
+>>>>>>> origin/master
 				Sorry, your blog cannot share posts by email.			
 
 
@@ -1046,6 +1344,7 @@ Cancel
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -1069,3 +1368,5 @@ Cancel
 
 
 
+=======
+>>>>>>> origin/master

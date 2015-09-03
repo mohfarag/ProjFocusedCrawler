@@ -1,9 +1,24 @@
+<<<<<<< HEAD
 
 	Shooting erupts at church in Charleston, South Carolina - Breaking News - Jerusalem Post
 
 
 
 	Shooting erupts at church in Charleston, South Carolina - Breaking News - Jerusalem Post
+=======
+Multiple Fatalities at Church Shooting in Downtown Charleston, S.C. | whotv.com 
+Multiple Fatalities at Church Shooting in Downtown Charleston, S.C. | whotv.com
+
+
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+GoSearch
+>>>>>>> origin/master
 
 
 
@@ -11,6 +26,40 @@
 
 
 
+<<<<<<< HEAD
+
+
+
+=======
+ Watch Now: SoundOff 
+
+WHO-HD Channel 13 TV Schedule 
+
+
+ Search
+ Contact Us
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
+
+
+=======
+whotv.com
+
+ Menu
+
+News
+Mega Doppler-S
+Sports
+On 13
+Contests
+Events
+>>>>>>> origin/master
 
 
 
@@ -18,6 +67,13 @@
 
 
 
+<<<<<<< HEAD
+
+=======
+Weather 
+
+84°
+>>>>>>> origin/master
 
 
 
@@ -25,29 +81,22 @@
 
 
 
+<<<<<<< HEAD
+
+
+=======
+84°
+
+
+Low 75°
+High 93°
+>>>>>>> origin/master
 
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 
 
 
@@ -4431,6 +4480,32 @@ Tags
 
 
 
+=======
+Mon
+
+
+					76°  97°
+					
+
+
+Tue
+
+
+					73°  94°
+					
+
+
+Wed
+
+
+					73°  90°
+					
+
+
+See complete forecast
+
+ Severe weather alert
+>>>>>>> origin/master
 
 
 
@@ -4439,6 +4514,15 @@ Tags
 
 
 
+<<<<<<< HEAD
+
+
+=======
+ 
+
+
+ Latest Severe Weather Watches and Warnings						
+>>>>>>> origin/master
 
 
 
@@ -4447,8 +4531,7 @@ Tags
 
 
 
-
-
+<<<<<<< HEAD
 
 Information
 
@@ -4657,10 +4740,17 @@ Tools and services
 
 
                         JPost.com Archive
+=======
+ 
+
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -4673,37 +4763,83 @@ Tools and services
 
 
                         JPost Alert
+=======
+Multiple Fatalities at Church Shooting in Downtown Charleston, S.C.
+
+Posted 10:49 pm, June 17, 2015, by CNN, Updated at 11:00pm, June 17, 2015 
+
+FacebookTwitterGoogleEmailRedditTumblr 
+
+
+
+CHARLESTON, South Carolina – Several people were killed in a shooting at an historic African-American church in Charleston, South Carolina, a source close to the investigation told CNN.
+The shooter is still at large.
+The shooting took place Wednesday evening at the Emanuel African Methodist Episcopal Church. On its website, the church describes itself as the “oldest AME church in the South.”
+“It’s really bad. It’s a very bad scene,” local pastor Thomas Dixon said.
+“Apparently the person just entered the church and opened fire. That part has not been fully articulated on what happened yet … they are still looking for the suspect.”
+Police haven’t said how many people have been shot. But the source who spoke to CNN said several bodies were in the church that were yet to be identified.
+Police said the suspect in the shooting is a clean-shaven white man in his 20s, with a slender build. He was wearing a gray sweatshirt, blue jeans and boots.
+Soon afterward, news camera showed officers taking a man matching that description into custody, but police said they were still looking for the shooter.
+The department asked anyone with information about the shooting to call 911 dispatchers
+Every Wednesday evening, the church holds a Bible study in its basement.
+Corey Wessenger, who was standing across the street from the church, said the area was swarming with law enforcement.
+“I just saw a group of about 40 people escorted by cops,” Wessenger told CNN by phone.
+Community members gathered in a prayer circle just down the street from the scene.
+Patrick Wright, a reporter with WFMY News, tweeted, “We’ve been told not to leave our restaurant here in #Charleston for the time being. Helicopter still circling above.”
+
+
+
+Trademark and Copyright 2015 Cable News Network, Inc., a Time Warner Company. All rights reserved.
+Filed in: News Topics: Charleston Church Shooting, world 
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 
                         Find us on Google+
+=======
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 
                         Digital Library
 
+=======
+
+ 
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 
 
 
 Conferences
+=======
+ Channel 13 is on Instagram!
+Join the fun.  Share with us!
+
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -4720,12 +4856,33 @@ Conferences
 
 
 
+=======
+ 
+
+ 
+
+
+Popular
+
+
+
+Widow Shocked to See Husband’s Death Featured on Reality Show
+
+
+
+Woman Reveals Comment Allegedly from ‘Subway Guy’ Jared Fogle That Led to Raid
+
+
+
+Waukee Schools Superintendent Has Message for Governor, Legislature
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 Sites Of Interest
 
 
@@ -4753,18 +4910,51 @@ Sites Of Interest
                         KKL-JNF
 
 
+=======
+
+ 
+
+
+Latest News
+
+
+
+What’s Bugging Andy: Online Petition to Keep Adventureland Log Ride
+
+
+
+I Think: Major League Baseball All-Star Game Needs Fixing
+
+
+
+Former SoundOFF “Intern” Harrison Barnes Asks for Higher Final Grade after Winning NBA Title
+
+
+
+Ankeny Dinner, Silent Auction Raises Money for Woman Fighting Cancer
 
 
 
 
+
+ 
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
                         Poalim Online
+=======
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 
                         Old City Tours
 
@@ -4834,25 +5024,141 @@ Sites Of Interest
 
 
 
+=======
+
+
+News
+
+Charleston Church Shooting: 9 Killed in What Officials Call a Hate Crime
+
+
+News
+
+Charleston Church Shooting Suspect Arrested in North Carolina
+
+
+News
+
+Dylann Storm Roof: Police Name Suspect in Charleston Church Shooting
+
+
+News
+
+Ted Cruz Talks Charleston Shooting While in Johnston
+
+
+News
+
+Charleston Church Shooting: Questions Swirl Around Suspect Dylann Roof
+
+
+
+ 
+
+
+News
+
+Obama Set to Eulogize Pastor in Charleston Shooting
+
+
+News
+
+South Carolina Lawmakers to Debate Confederate Flag Monday
+
+
+News
+
+Watch President Obama Sing ‘Amazing Grace’ at Eulogy for Reverend Killed in Charleston Shooting
+
+
+News
+
+Charleston Shooting Victim Funerals Begin, As Confederate Flag Falls in Other States
+
+
+Politics
+
+South Carolina Bill to Remove Confederate Flag Advances in Senate
+
+
+
+ 
+
+
+News
+
+Racist Online Manifesto Mentions Charleston, Includes Images of Roof
+
+
+News
+
+Officer Charged with Murder After Video Shows him Shooting Man in Back
+
+
+News
+
+Prayer Gathering Held in Des Moines After Charleston Church Shooting
 
 
 
 
 
 
+ 
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
+=======
+Mobile Apps13WarnMe Weather iPhone App
+Android App
+News iPhone & iPad App
+Severe Weather Android App
+Severe Weather iPhone App
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+Facebook
+Twitter
+Instagram
+About & Contact
+>>>>>>> origin/master
 
 
 
 
 
 
-
-
-
+<<<<<<< HEAD
 Now Available
  
 On iphone, ipad and android
 
+=======
+
+Online Public File • 				Terms of Service •
+		Privacy Policy  •
+		1801 Grand Ave. Des Moines, IA 50309  •
+		Copyright © 2015, WHO		 • A Tribune Broadcasting Station •
+		Powered by WordPress.com VIP 
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
+=======
+×
+Email Alerts
+>>>>>>> origin/master
 
 
 
@@ -4871,11 +5177,7 @@ On iphone, ipad and android
 
 
 
-
-
-
-
-
+<<<<<<< HEAD
 Copyright © 2015 Jpost Inc. All rights reserved • 
 Terms of Use
  • 
@@ -4887,6 +5189,10 @@ Privacy Policy
  
      •   
  
+=======
+
+
+>>>>>>> origin/master
 
 
 
@@ -4897,6 +5203,19 @@ Privacy Policy
 
 
 
+<<<<<<< HEAD
+
+
+
+=======
+Follow
+
+Follow “whotv.com”
+
+Get every new post delivered to your Inbox.
+
+Join 2,326 other followers
+>>>>>>> origin/master
 
 
 
@@ -4905,6 +5224,10 @@ Privacy Policy
 
 
 
+<<<<<<< HEAD
+=======
+Build a website with WordPress.com
+>>>>>>> origin/master
 
 
 
@@ -4913,20 +5236,35 @@ Privacy Policy
 
 
 
+<<<<<<< HEAD
+
+
+=======
+Send to Email Address
+
+Your Name
+
+Your Email Address
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 
 
 
+=======
+Cancel
 
+				Post was not sent - check your email addresses!			
 
+				Email check failed, please try again			
 
-
-
+				Sorry, your blog cannot share posts by email.			
+>>>>>>> origin/master
 
 
 

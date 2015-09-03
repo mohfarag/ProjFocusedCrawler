@@ -27,8 +27,13 @@ import json
 from nltk.stem.porter import PorterStemmer
 from nltk.tokenize.regexp import WordPunctTokenizer
 #from _socket import timeout
+<<<<<<< HEAD
 #requests.packages.urllib3.disable_warnings()
 from contextlib import closing
+=======
+
+
+>>>>>>> origin/master
 logging.getLogger('requests').setLevel(logging.WARNING)
 headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 6.0; WOW64; rv:24.0) Gecko/20100101 Firefox/24.0'}#'Digital Library Research Laboratory (DLRL)'}
 #corpusTokens = []
@@ -154,6 +159,7 @@ def train_SaveClassifier(posURLs,negURLs,classifierFileName):
     return classifier
 '''
 
+<<<<<<< HEAD
 def getTweets(jsonFileName):
     f = open(jsonFileName,'r')
     texts = {}
@@ -248,6 +254,8 @@ def getOrigLongURLs(shortURLs):
     return expandedURLs
 
 
+=======
+>>>>>>> origin/master
 def getSourceFreqDic(origLongURLsFreqDic):
     sourcesFreqDic = {}
     for k,v in origLongURLsFreqDic.items():
@@ -260,6 +268,7 @@ def getSourceFreqDic(origLongURLsFreqDic):
             
     return sourcesFreqDic
 
+<<<<<<< HEAD
 def saveSourcesFreqDic(sourcesFreqDic,filename):
     t = [(k, len(v),sum(v)) for k,v in sourcesFreqDic.items()]
     st = getSorted(t, 1)
@@ -271,6 +280,8 @@ def saveSourcesFreqDic(sourcesFreqDic,filename):
     f.close()
 
 
+=======
+>>>>>>> origin/master
 def getDomain(url):
     domain = ""
     ind = url.find("//")
@@ -494,9 +505,12 @@ def getSorted(tupleList,fieldIndex):
 def filterLinks(element):
     if element.parent.name == 'a':
         return False
+<<<<<<< HEAD
     p = element.parent
     if p.parent.name == 'a':
         return False
+=======
+>>>>>>> origin/master
     return True
 
 def visible(element):
@@ -678,6 +692,7 @@ def extractTextFromHTML(page):
         
         comments = soup.findAll(text=lambda text:isinstance(text,Comment))
         [comment.extract() for comment in comments]
+<<<<<<< HEAD
         
         text_nodes = soup.findAll(text=True)
         #text_nodes_noLinks = soup.findAll(text=True)
@@ -725,12 +740,63 @@ def extractTextFromHTML_noURLs(page):
             if tn.name == 'a':
                 tn.extract()
         '''
+=======
+        
+>>>>>>> origin/master
         text_nodes = soup.findAll(text=True)
         #text_nodes_noLinks = soup.findAll(text=True)
         visible_text = filter(visible, text_nodes)
         text_noURLs = filter(filterLinks,visible_text)
         #text = ''.join(visible_text)
         text = '\n'.join(text_noURLs)
+        
+        text = title + text
+        wtext = {"text":text,"title":title}
+    except:
+        print sys.exc_info()
+        #text = ""
+        wtext = {}
+    #return text
+    return wtext
+
+def getWebpage(url):
+    try:
+        r = requests.get(url.strip(),timeout=10,verify=False,headers=headers)            
+        if r.status_code == requests.codes.ok:
+            page = r.content
+            #text = extractTextFromHTML(page)
+            #text['html']= page
+        else:
+            page = ''
+    except:
+        print sys.exc_info()
+        #text = ""
+        page = ''
+    return page
+
+def extractTextFromHTML_noURLs(page):
+    try:
+        soup = BeautifulSoup(page)
+        title = ""
+        text = ""
+        if soup.title:
+            if soup.title.string:
+                title = soup.title.string
+        
+        comments = soup.findAll(text=lambda text:isinstance(text,Comment))
+        [comment.extract() for comment in comments]
+        '''
+        links = soup.findAll('a')
+        for tn in links:
+            if tn.name == 'a':
+                tn.extract()
+        '''
+        text_nodes = soup.findAll(text=True)
+        #text_nodes_noLinks = soup.findAll(text=True)
+        visible_text = filter(visible, text_nodes)
+        text_noURLs = filter(filterLinks,visible_text)
+        #text = ''.join(visible_text)
+        text = ' '.join(text_noURLs)
         
         text = title + text
         wtext = {"text":text,"title":title}
@@ -760,6 +826,7 @@ def getWebpageText(URLs = []):
             text = {}
         webpagesText.append(text)
     return webpagesText
+<<<<<<< HEAD
 
 def getWebpageText_NoURLs(URLs = []):
     webpagesText = []
@@ -780,6 +847,8 @@ def getWebpageText_NoURLs(URLs = []):
             text = {}
         webpagesText.append(text)
     return webpagesText
+=======
+>>>>>>> origin/master
 '''
 def saveObjUsingPickle(obj,fileName):
     out_s = open(fileName, 'wb')

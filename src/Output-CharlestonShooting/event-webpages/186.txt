@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 Officers Shoot Suspect Who Pointed Gun At Police In Fuller Park « CBS Chicago
 
 Officers Shoot Suspect Who Pointed Gun At Police In Fuller Park « CBS Chicago
+=======
+Charleston shooting | US news | The Guardian
+
+Charleston shooting | US news | The Guardian
+>>>>>>> origin/master
 
 
 
@@ -16,14 +22,22 @@ Officers Shoot Suspect Who Pointed Gun At Police In Fuller Park « CBS Chicago
 
 
 
+<<<<<<< HEAD
 
 
 
 Chicago
+=======
+Close
+
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Radio.com
 
 
@@ -248,11 +262,24 @@ Circulars
 
 
 Autos
+=======
+
+Skip to main content
+
+ 
 
 
 
 
 
+
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
 
 
 
@@ -284,6 +311,8 @@ World
 
 
 Photos
+=======
+sign in
 
 
 
@@ -292,6 +321,32 @@ Photos
 
 
 
+subscribe
+
+
+
+
+
+
+
+search
+
+
+
+
+jobs
+
+
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
  
 
 
@@ -311,18 +366,74 @@ Photos
 
 
 Local
+=======
+more
+
+
+from the guardian:
+
+
+jobs
+
+
+
+change edition:
+
+
+
+switch to the  UK  edition
+
+
+switch to the  AU  edition
+
+
+switch to the 
+INT
+beta
+ edition
+
+
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 Officers Shoot Suspect Who Pointed Gun At Police In Fuller Park
+=======
+US edition
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 March 20, 2014 9:43 PM
+=======
+switch to the 
+UK edition
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+switch to the 
+Australia edition
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+switch to the 
+International
+beta
+>>>>>>> origin/master
 
 
 
@@ -333,19 +444,16 @@ March 20, 2014 9:43 PM
 
 
 
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
  
+=======
+The Guardian
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Related Tags:
 
 
@@ -354,6 +462,10 @@ Chicago Police
 FOP
 , 
 Police-Involved Shooting
+=======
+
+
+>>>>>>> origin/master
 
 
 
@@ -362,6 +474,7 @@ Police-Involved Shooting
 
 
 
+<<<<<<< HEAD
 CHICAGO (STMW) —
  Chicago Police shot and wounded a male who allegedly pointed a gun at officers Thursday evening in the South Side Fuller Park neighborhood.
 
@@ -397,6 +510,14 @@ Area Central detectives and the Independent Police Review Authority are investig
 
 
 (Source: Sun-Times Media Wire © Chicago Sun-Times 2014. All Rights Reserved. This material may not be published, broadcast, rewritten, or redistributed.)
+=======
+
+
+home
+
+
+›
+US
 
 
 
@@ -407,54 +528,130 @@ Area Central detectives and the Independent Police Review Authority are investig
 
 
 
+home
 
 
 
 
+US
+selected
 
 
 
 
+world
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+opinion
+>>>>>>> origin/master
 
 
+
+
+<<<<<<< HEAD
+=======
+sports
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+soccer
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+tech
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+arts
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
  
 
 
+=======
+lifestyle
 
 
 
 
+fashion
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+business
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+travel
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+environment
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 Listen Live
+=======
+science
+
+
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+browse all sections
+close
+>>>>>>> origin/master
 
 
 
 
 
 
-
-
-
-
+<<<<<<< HEAD
  
 
 
@@ -515,6 +712,12 @@ CBS Chicago
 
 
 Follow @CBSChicago
+=======
+
+
+ 
+
+>>>>>>> origin/master
 
 
 
@@ -523,11 +726,23 @@ Follow @CBSChicago
 
 
 
+<<<<<<< HEAD
 
 
 
 
 Like us on foursquare
+=======
+Charleston shooting
+
+Sunday
+
+5
+July
+2015
+
+
+>>>>>>> origin/master
 
 
 
@@ -545,6 +760,27 @@ Like us on foursquare
 
 
 
+<<<<<<< HEAD
+
+
+=======
+Defiant Nascar fans pledge allegiance to their Confederate flags
+
+
+Dozens of the civil war-era flags were scattered throughout the vast infield in Daytona despite the series urging fans to no longer wave the banner
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+Defiant Nascar fans pledge allegiance to their Confederate flags
+>>>>>>> origin/master
 
 
 
@@ -554,23 +790,17 @@ Like us on foursquare
 
 
 
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 Follow More Stations and Personalities
+=======
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
  
 Contests & Promotions
 Blue Collar Bears Fan Of The Week
@@ -626,6 +856,11 @@ dodgerman
 
 
  
+=======
+Nikki Haley: 'I could not look my kids in the face and justify that flag'
+
+
+South Carolina governor reflects on call for Confederate flag’s removal, saying Charleston shooting victims are ‘forever ingrained in my soul’
 
 
 
@@ -634,8 +869,26 @@ dodgerman
 
 
 
+Nikki Haley: 'I could not look my kids in the face and justify that flag'
 
 
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+Older
+Newer
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
 
 
 
@@ -663,16 +916,50 @@ New Podcast Network
 Download Our New Weather App!
  
 
+=======
+Topics
+
+
+
+South Carolina
+
+
+
+
+Motor sport
+
+
+
+
+Nascar
+
+
+
+
+American civil war
+
+
+
+
+Florida
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+Race issues
+>>>>>>> origin/master
 
 
 
 
 
-
-
-
-
+<<<<<<< HEAD
  
+=======
+>>>>>>> origin/master
 
 
 
@@ -681,13 +968,20 @@ Download Our New Weather App!
 
 
 
+<<<<<<< HEAD
 
 
 News
+=======
+The Guardian
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Local
 
 
@@ -707,10 +1001,26 @@ Weather
 
 
 Traffic
+=======
+
+
+back to top
 
 
 
 
+
+
+
+
+
+
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 Sports
@@ -739,15 +1049,49 @@ Podcasts
 Blogs
 
 
+=======
+home
 
 
 
 
+US
+selected
+
+
+
+
+world
+
+
+
+
+opinion
+
+
+
+
+sports
+
+
+
+
+soccer
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Scores & Stats
+=======
+tech
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 NFL Football
 
 
@@ -760,15 +1104,33 @@ NBA Basketball
 NHL Hockey
 
 
+=======
+arts
 
 
 
 
+lifestyle
+
+
+
+
+fashion
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Contact Us
+=======
+business
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 CBS 2
 
 
@@ -782,12 +1144,26 @@ Connect
 
 
 Mobile
+=======
+travel
+
+
+
+
+environment
+
+
+
+
+science
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 Corporate
 
 
@@ -811,6 +1187,10 @@ Mobile
 Connect
 
 
+=======
+
+all sections
+close
 
 
 
@@ -818,12 +1198,41 @@ Connect
 
 
 
+home
 
+
+
+
+US
+selected
+
+
+
+
+world
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+UK
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Chicago Business Listings
+=======
+europe
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Restaurants
 
 
@@ -837,14 +1246,32 @@ Professional Services
 
 
 Search Listings
+=======
+americas
 
 
 
 
+asia
 
 
 
 
+middle east
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+africa
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 By viewing our video content, you are accepting the terms of our 
 Video Services Policy
 
@@ -894,14 +1321,59 @@ WordPress.com VIP
 
 
  
+=======
+australia
+
+
+
+
+cities
+
+
+
+
+development
 
 
 
 
 
 
+opinion
 
 
+
+
+sports
+
+
+
+
+soccer
+
+
+
+
+MLS
+
+
+
+
+NFL
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+MLB
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 Facebook
@@ -911,10 +1383,21 @@ Twitter
 
 
 RSS
+=======
+NBA
 
 
 
 
+NHL
+
+
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 Other CBS Local Cities 
@@ -995,14 +1478,89 @@ CBS Tampa
 
 
 CBS Washington
+=======
+soccer
+
+
+
+
+live scores
+
+
+
+
+tables
+
+
+
+
+competitions
+
+
+
+
+results
+
+
+
+
+fixtures
+
+
+
+
+clubs
 
 
 
 
 
 
+tech
 
 
+
+
+arts
+
+
+
+
+movies
+
+
+
+
+tv & radio
+
+
+
+
+music
+
+
+
+
+games
+
+
+
+
+books
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+art & design
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 ©2015 CBS Local Media,
@@ -1012,16 +1570,29 @@ a division of CBS Radio Inc.
 All rights reserved.
 
 
+=======
+stage
+
+
+
+
+classical
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+lifestyle
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Buy Tickets
 Order Food
  
@@ -1040,26 +1611,51 @@ Email Alerts
 Daily Deals
 50% Off From ATE Accessories
  
+=======
+food
 
 
 
 
+health & fitness
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+love & sex
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+family
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+women
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+home & garden
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Log In
 Register
  
@@ -1077,47 +1673,97 @@ Twitter
 
 
 Youtube
+=======
+
+
+fashion
+
+
+
+
+business
+
+
+
+
+economics
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+sustainable business
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+diversity & equality in business
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+small business
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+travel
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+USA
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+europe
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+UK
+>>>>>>> origin/master
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 Listen Live
 
 
+=======
+
+
+environment
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 AM/FM Stations
@@ -1143,15 +1789,45 @@ B96
 WBBM NewsRadio
 
 
+=======
+climate change
 
 
 
 
+wildlife
+
+
+
+
+energy
+
+
+
+
+pollution
+
+
+
+
+
+
+science
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Featured Shows & Multimedia
+=======
+media
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Play.It
 
 
@@ -1162,6 +1838,16 @@ CBS Sports Radio
 
 
 Radio.com
+=======
+crosswords
+
+
+
+
+video
+
+
+>>>>>>> origin/master
 
 
 
@@ -1170,6 +1856,7 @@ Radio.com
 
 
 
+<<<<<<< HEAD
 Advertise On Our Streams
 
 
@@ -1184,6 +1871,34 @@ Advertise On Our Streams
 
 
 
+=======
+
+
+
+jobs
+
+subscribe
+all topics
+all contributors
+
+
+report technical issue
+
+
+
+about us
+
+contact us
+
+complaints & corrections
+terms & conditions
+privacy policy
+cookie policy
+securedrop
+
+
+© 2015 Guardian News and Media Limited or its affiliated companies. All rights reserved.
+>>>>>>> origin/master
 
 
 
@@ -1203,6 +1918,7 @@ Advertise On Our Streams
 
  
 
+<<<<<<< HEAD
 
 
 
@@ -1240,3 +1956,5 @@ Advertise On Our Streams
 
 
 
+=======
+>>>>>>> origin/master

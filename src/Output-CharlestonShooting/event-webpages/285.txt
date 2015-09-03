@@ -1,7 +1,14 @@
+<<<<<<< HEAD
 Police arrest suspect Travis Bloch in broad-daylight shooting of Bronx 14-year-old | New York's PIX11 / WPIX-TV 
 
 
 Police arrest suspect Travis Bloch in broad-daylight shooting of Bronx 14-year-old | New York's PIX11 / WPIX-TV
+=======
+South Carolina church shooting: police hunt gunman after 'hate crime' attack | US news | The Guardian
+
+South Carolina church shooting: police hunt gunman after 'hate crime' attack | US news | The Guardian
+
+>>>>>>> origin/master
 
 
 
@@ -16,8 +23,12 @@ Police arrest suspect Travis Bloch in broad-daylight shooting of Bronx 14-year-o
 
 
 
+<<<<<<< HEAD
 Go
 Search
+=======
+Close
+>>>>>>> origin/master
 
 
 
@@ -26,6 +37,13 @@ Search
 
 
 
+<<<<<<< HEAD
+
+=======
+Skip to main content
+
+ 
+>>>>>>> origin/master
 
 
 
@@ -33,7 +51,7 @@ Search
 
 
 
-
+<<<<<<< HEAD
  Replay: 
 PIX11 News 
 
@@ -41,16 +59,30 @@ PIX11 News
 
 PIX11 TV Schedule 
 
+=======
+
+
+
+
+sign in
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
  Search
 
 
  Contact Us
 
+=======
+
+
+
+subscribe
+>>>>>>> origin/master
 
 
 
@@ -58,23 +90,37 @@ PIX11 TV Schedule
 
 
 
+<<<<<<< HEAD
+=======
+search
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 New York's PIX11 / WPIX-TV
+=======
+jobs
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
  
 Menu
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 NEWS
 
 
@@ -97,6 +143,32 @@ Traffic
 
 
 Events
+=======
+more
+
+
+from the guardian:
+
+
+jobs
+
+
+
+change edition:
+
+
+
+switch to the  UK  edition
+
+
+switch to the  AU  edition
+
+
+switch to the 
+INT
+beta
+ edition
+>>>>>>> origin/master
 
 
 
@@ -105,6 +177,7 @@ Events
 
 
 
+<<<<<<< HEAD
 
 
 Weather 
@@ -115,6 +188,31 @@ Weather
 77°
 
 
+=======
+US edition
+
+
+
+
+switch to the 
+UK edition
+
+
+
+
+switch to the 
+Australia edition
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+switch to the 
+International
+beta
+>>>>>>> origin/master
 
 
 
@@ -125,23 +223,28 @@ Weather
 
 
 
-
-
-
-
+<<<<<<< HEAD
 77°
+=======
+The Guardian
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 Low 
 68°
 
 
 High 
 81°
+=======
+
+
+>>>>>>> origin/master
 
 
 
@@ -150,16 +253,27 @@ High
 
 
 
+<<<<<<< HEAD
 
 
 
 
 Sat
+=======
+home
+
+
+›
+US
+
+
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 					71° 
  86°
 					
@@ -171,17 +285,34 @@ Sat
 
 Sun
 
+=======
+
+
+
+home
 
 
 
 
+US
+selected
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 					74° 
  90°
 					
+=======
+world
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 Mon
@@ -194,15 +325,92 @@ Mon
  92°
 					
 
+=======
+opinion
 
 
 
 
+sports
+
+
+
+
+soccer
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 See complete forecast
 
 
 
+=======
+tech
+
+
+
+
+arts
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+
+
+
+ 
+=======
+lifestyle
+
+
+
+
+fashion
+
+
+
+
+business
+
+
+
+
+travel
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+environment
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+science
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+browse all sections
+close
+>>>>>>> origin/master
+
 
 
 
@@ -222,39 +430,27 @@ See complete forecast
 
 
 
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 
 
 
 
 
 Police arrest suspect Travis Bloch in broad-daylight shooting of Bronx 14-year-old
+=======
+Charleston shooting
+
+
+
+South Carolina church shooting: police hunt gunman after 'hate crime' attack
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Posted 2:32 PM, June 15, 2015, by 
 Jeremy Tanner
 , 
@@ -271,6 +467,14 @@ Pinterest
 Email
 Google
  
+=======
+
+
+
+Nine killed by white gunman who opened fire inside a historic black church in Charleston, South Carolina
+• Charleston shooting: follow the latest updates
+
+>>>>>>> origin/master
 
 
 
@@ -283,6 +487,7 @@ Google
 
 
 
+<<<<<<< HEAD
 NEW YORK (PIX11) –
  One of the suspects wanted in the May 22 fatal shooting of a 14-year-old boy in front of his Bronx building is under arrest, police said Monday.
 
@@ -294,21 +499,66 @@ Officers arrested Bloch in Binghamton after they stopped him for allegedly sel
 
 
 Police are still looking for the second suspect, identified as 16-year-old Jeremiah Thomas, also known as “Jay.”  Police said the video shows the two suspects, faces obscured by bandannas and hoodies, run up to Duran and shoot him in the face at point blank range.
+=======
 
 
 
 
+
+
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Photo Gallery
 
+=======
+
+Sorry, your browser is unable to play this video.
+Please install Adobe Flash™ and try again.
+Alternatively upgrade to a modern browser.
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
  View Gallery (11 images)
 
 
 
+=======
+Charleston police chief Gregory Mullen holds a press conference on the church shooting on Thursday
+
+
+
+Michael Safi and agencies
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
+=======
+@safimichael
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+
+
+=======
+Thursday 18 June 2015 06.08 EDT
+
+
+Last modified on Saturday 20 June 2015 12.23 EDT
+>>>>>>> origin/master
 
 
 
@@ -316,6 +566,10 @@ Photo Gallery
 
 
 
+<<<<<<< HEAD
+=======
+Share on Facebook
+>>>>>>> origin/master
 
 
 
@@ -323,44 +577,54 @@ Photo Gallery
 
 
 
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
  
+=======
+Share on Twitter
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 Police sources told PIX11 the shooting could have been connected with either gang activity or a previous conflict among groups in the neighborhood.  Duran had a rap sheet that included arrests for robbery, assault and possession of a knife.Duran was pronounced dead in front of the apartment building where his family lived at 1181 Sheridan Ave. in the Concourse section of the Bronx.
 
 
 Police are asking anyone has information on the whereabouts of Jeremiah Thomas to call the anonymous police tip line Crime  Stoppers at 800-577-TIPS (8477).  Police describe him as a black male, 16 years old, roughly 6 feet tall and weighing approximately 170 pounds.
+=======
+
+Share via Email
+
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 Related stories
+=======
+Share on Pinterest
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Two suspects identified in broad daylight killing of Bronx 14-year-old
 
 
 Police search for two suspects in fatal shooting of Bronx 14-year-old
 
+=======
+
+
+
+Share on LinkedIn
+>>>>>>> origin/master
 
 
 
@@ -368,6 +632,7 @@ Police search for two suspects in fatal shooting of Bronx 14-year-old
 
 
 
+<<<<<<< HEAD
 
 
 Filed in:
@@ -388,20 +653,34 @@ Shooting
 , 
 Travis Bloch
  
+=======
+Share on Google+
+
+
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
+=======
+Share on WhatsApp
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 ×
 
 
 Report a Typo
+=======
+
+
+>>>>>>> origin/master
 
 
 
@@ -413,6 +692,7 @@ Report a Typo
 
 
 
+<<<<<<< HEAD
 
 Name
 (required)
@@ -450,6 +730,85 @@ Typo
 
 
 Cancel
+=======
+ Related: Charleston church shooting: police hunt suspect in 'hate crime' – latest updates 
+
+At least nine people have been killed after a gunman opened fire at a historic black church in Charleston, South Carolina, in what police have described as a “hate crime”.
+Police released a image of the gunman and a car from video at a press conference on Thursday. The suspect, who is still on the loose, has been described as a clean-shaved, white male aged approximately 21, with a small, slender build, wearing a grey sweatshirt with jeans and boots.
+
+
+— City of Charleston (@CityCharleston)
+June 18, 2015
+Anyone with information about this incident call 1-800-CALL-FBI. pic.twitter.com/EidJGhNEDp
+
+
+
+Gunfire erupted on Wednesday inside the Emanuel African Methodist Episcopal church, whose pastor Clementa Pinckney, a Democratic member of the South Carolina Senate, was named as one of the dead.
+Eight of the victims were killed in the church. Another died on the way to hospital. Charleston police chief Greg Mullen said there were survivors, but declined to give more details.
+The gunman had yet to be caught hours after the attack and was considered extremely dangerous, he said. 
+
+
+
+ Facebook 
+ Twitter 
+ Pinterest 
+
+
+Emanuel African Methodist Episcopal Church, Charleston. Photograph: Alamy
+
+
+Mullen said he believed the shooting was “a hate crime”. He said: This is a tragedy that no community should have to experience ... It is senseless, unfathomable. We are going to do everything in our power to find this individual, to lock him [the gunman] up, to make sure he does not hurt anyone else.
+“The primary emphasis is going to be us catching this individual before he hurts anybody else”.
+A reward would be announced on Thursday, he said.
+The city’s mayor, Joseph P Riley Jr, described the killing as an “unspeakable tragedy”, pledging to “bring this awful person to justice as soon as humanely possible”.
+“People in prayer on a Wednesday evening, a ritual coming together, praying and worshipping God. To have an awful person come in and shoot them is inexplicable, obviously the most intolerable and unbelievable act possible,” he said.
+
+Charleston, South Carolina
+
+He said he had met victims’ families in “a heartbreaking scene I have never witnessed in my life before”. He added: “I told them that this community sends forth it love to them and we are all in this together.”
+Police have not named the victims but the Democratic party leader in the South Carolina state house confirmed pastor and state senator Pinckney was among the dead. “He was always out doing work either for his parishioners or his constituents. He touched everybody,” minority leader Todd Rutherford told AP.
+
+ Related: Charleston shooting: state senator Clementa Pinckney among victims 
+
+Pinckney helped lead a prayer vigil in April for Walter Scott, a black South Carolina man who was shot dead by a North Charleston police officer. He campaigned for police to be equipped with body cameras, which he said “may not be the golden ticket, the golden egg, the end-all-fix-all, but [would help] to paint a picture of what happens during a police stop”. Mandatory body cameras became law in the state one week ago.
+The Emanuel African Methodist Episcopal church traces its roots to 1816 and is one of the largest black congregations south of Baltimore. The Reverend Martin Luther King Jr addressed the church in 1962.
+South Carolina governor Nikki Haley said in a statement she and her family were praying for the victims. “While we do not yet know all of the details, we do know that we’ll never understand what motivates anyone to enter one of our places of worship and take the life of another,” she said.
+
+
+
+ Facebook 
+ Twitter 
+ Pinterest 
+
+
+Police investigators are seen outside the Emanuel African Methodist Episcopal (AME) church. Photograph: Richard Ellis/EPA
+
+
+“Please join us in lifting up the victims and their families with our love and prayers.” 
+Cornell William Brooks, president of the National Association for the Advancement of Colored People (NAACP) said the organisation was “outraged” to be faced with another mass hate crime 106 years after it was founded to fight racial hatred.
+“The senselessly slain parishioners were in a church for Wednesday night bible study. There is no greater coward than a criminal who enters a house of God and slaughters innocent people engaged in the study of scripture,” he said in a statement. 
+Soon after Wednesday night’s shooting, a group of pastors huddled together praying in a circle across the street. Community organiser Christopher Cason said he felt certain the shootings were racially motivated. “I am very tired of people telling me that I don’t have the right to be angry,” Cason said. “I am very angry right now.” 
+Even before Scott’s shooting in April, Cason said he had been part of a group meeting with police and local leaders to try to shore up better relationships. 
+Presidential candidate Jeb Bush has cancelled a planned trip to the state, and the South Carolina legislature has suspended a sitting planned for Thursday.
+
+
+
+
+More news 
+Topics
+
+
+
+Charleston shooting
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+South Carolina
+>>>>>>> origin/master
 
 
 
@@ -460,6 +819,10 @@ Cancel
 
 
 
+<<<<<<< HEAD
+=======
+Share on Facebook
+>>>>>>> origin/master
 
 
 
@@ -467,6 +830,10 @@ Cancel
 
 
 
+<<<<<<< HEAD
+=======
+Share on Twitter
+>>>>>>> origin/master
 
 
 
@@ -474,11 +841,11 @@ Cancel
 
 
 
-
-
-
-
+<<<<<<< HEAD
  
+=======
+Share via Email
+>>>>>>> origin/master
 
 
 
@@ -486,6 +853,10 @@ Cancel
 
 
 
+<<<<<<< HEAD
+=======
+Share on Pinterest
+>>>>>>> origin/master
 
 
 
@@ -493,10 +864,25 @@ Cancel
 
 
 
+<<<<<<< HEAD
 Watch The CW Now!
 
 
 See last night’s episodes now on The CW
+=======
+Share on LinkedIn
+
+
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
+=======
+Share on Google+
+>>>>>>> origin/master
 
 
 
@@ -504,28 +890,37 @@ See last night’s episodes now on The CW
 
 
 
+<<<<<<< HEAD
+=======
+Share on WhatsApp
+
+>>>>>>> origin/master
 
 
 
 
-
-
-
-
-
+<<<<<<< HEAD
  
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
  
+=======
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 Popular
+=======
+>>>>>>> origin/master
 
 
 
@@ -533,17 +928,29 @@ Popular
 
 
 
+<<<<<<< HEAD
 
 NBA great Darryl Dawkins has died at 58 years old
+=======
+ 
+
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 
 
 
 Video showing shootings of WDBJ crew posted under Bryce Williams Twitter, Facebook accounts
+=======
+more on this story
+
+
+
+>>>>>>> origin/master
 
 
 
@@ -552,16 +959,26 @@ Video showing shootings of WDBJ crew posted under Bryce Williams Twitter, Facebo
 
 
 
+<<<<<<< HEAD
 Reporter, photographer shot to death on air in Virginia
+=======
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 
 
 ‘Dead’ teen ‘wakes up’ screaming, banging inside coffin; family smashes tomb
+=======
+Charleston church shooting: police release image of suspect – as it happened
+
+
+Police say they are searching for a gunman after shooting at South Carolina church on Wednesday evening
+>>>>>>> origin/master
 
 
 
@@ -573,19 +990,31 @@ Reporter, photographer shot to death on air in Virginia
 
 
 
+<<<<<<< HEAD
+=======
+Published: 18 Jun 2015
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
  
+=======
+Charleston church shooting: police release image of suspect – as it happened
+
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 Latest News
+=======
+>>>>>>> origin/master
 
 
 
@@ -594,7 +1023,11 @@ Latest News
 
 
 
+<<<<<<< HEAD
 One man’s poop is another’s medicine
+=======
+Charleston shooting: state senator Clementa Pinckney among victims
+>>>>>>> origin/master
 
 
 
@@ -603,17 +1036,29 @@ One man’s poop is another’s medicine
 
 
 
+<<<<<<< HEAD
 Calif. man bitten while taking selfie with rattlesnake
+=======
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 
 
 
 CEO of Ashley Madison parent company steps down after hack
 
+=======
+Published: 18 Jun 2015
+
+
+
+
+Charleston shooting: state senator Clementa Pinckney among victims
+>>>>>>> origin/master
 
 
 
@@ -621,7 +1066,10 @@ CEO of Ashley Madison parent company steps down after hack
 
 
 
+<<<<<<< HEAD
 WATCH IT: Sinkhole swallows 5 people in China is captured on video
+=======
+>>>>>>> origin/master
 
 
 
@@ -634,10 +1082,19 @@ WATCH IT: Sinkhole swallows 5 people in China is captured on video
 
 
 
+<<<<<<< HEAD
  
 
 
 
+=======
+
+
+
+Sorry, your browser is unable to play this video.
+Please install Adobe Flash™ and try again.
+Alternatively upgrade to a modern browser.
+>>>>>>> origin/master
 
 
 
@@ -660,19 +1117,28 @@ WATCH IT: Sinkhole swallows 5 people in China is captured on video
 
 
 
+<<<<<<< HEAD
 
 Bronx
+=======
+Charleston church shooting: gunman sought after reports of fatalities and injuries in South Carolina – video
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Two suspects identified in broad daylight killing of Bronx 14-year-old
+=======
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 Bronx
 
 
@@ -681,34 +1147,60 @@ Bronx
 Police search for two suspects in fatal shooting of Bronx 14-year-old
 
 
+=======
+
+
+Published: 18 Jun 2015
 
 
 
 
+Charleston church shooting: gunman sought after reports of fatalities and injuries in South Carolina – video
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 News
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Suspect arrested after shooting, killing officer in New Orleans
+=======
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 Staten Island
+=======
+popular
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Suspect dead in Staten Island standoff sparked by firefighter shooting
+=======
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 Bronx
  
 Brooklyn
@@ -716,38 +1208,61 @@ Brooklyn
 Manhattan
  
 News
-
-
-
-
-2 killed, 5 hurt in Monday shootings throughout NYC: NYPD
-
-
-
-
-
-
-
-
+=======
  
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+2 killed, 5 hurt in Monday shootings throughout NYC: NYPD
+=======
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+The Guardian
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+ 
+=======
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 News
+=======
+back to top
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Boy, 15, arrested in shooting death of teen
+=======
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 Bronx
 
 
@@ -756,22 +1271,42 @@ Bronx
 Suspect wanted for allegedly shooting teenager in the Bronx
 
 
+=======
+
+
+home
 
 
 
 
+US
+selected
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Bronx
  
 News
+=======
+world
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Man, 30, shot in the head on Bronx street: cops
+=======
+opinion
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 News
@@ -782,29 +1317,59 @@ News
 Man wanted in connection with shooting of 15-year-old in the Bronx
 
 
+=======
+sports
 
 
 
 
+soccer
+
+
+
+
+tech
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 News
+=======
+arts
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 DVD peddler punches 6-year-old in the face, tries to steal mom’s iPhone: cops
+=======
+lifestyle
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+fashion
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
  
+=======
+business
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 Bronx
@@ -815,53 +1380,106 @@ Bronx
 Police open fire after 19-year-old allegedly points gun at officer in the Bronx
 
 
+=======
+travel
 
 
 
 
+environment
+
+
+
+
+science
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 News
 
 
 
 
 Police: Video shows Ferguson shooting suspect with gun
+=======
+
+
+
+all sections
+close
+
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 Bronx
+=======
+home
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Bronx teen arrested after shooting boy in the arm: cops
+=======
+US
+selected
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+world
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+UK
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
  
 
 
+=======
+europe
 
 
 
 
+americas
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+asia
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 Mobile Apps
@@ -869,14 +1487,27 @@ Android App
 
 
 iPhone & iPad App
+=======
+middle east
 
 
 
 
+africa
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+australia
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 Facebook
@@ -891,18 +1522,42 @@ Instagram
 About & Contact
 
 
+=======
+cities
+
+
+
+
+development
 
 
 
 
 
 
+opinion
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+sports
+>>>>>>> origin/master
 
 
+
+
+<<<<<<< HEAD
+=======
+soccer
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 Online Public File
@@ -925,12 +1580,36 @@ WordPress.com VIP
 
 
 
+=======
+MLS
+
+
+
+
+NFL
+
+
+
+
+MLB
+
+
+
+
+NBA
+
+
+
+
+NHL
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -941,70 +1620,141 @@ Email Alerts
 
 
 
+=======
+soccer
+
+
+
+
+live scores
+
+
+
+
+tables
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+competitions
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+results
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+fixtures
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+clubs
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+tech
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+arts
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+movies
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+tv & radio
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+music
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+games
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+books
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+art & design
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+stage
+>>>>>>> origin/master
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 
 Follow
+=======
+classical
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Follow “New York's PIX11 / WPIX-TV”
 
 
@@ -1017,41 +1767,85 @@ Get every new post delivered to your Inbox.
 
 Join 5,004 other followers
 
+=======
+
+lifestyle
 
 
 
 
+food
 
 
 
 
+health & fitness
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+love & sex
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+family
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+women
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 Build a website with WordPress.com
+=======
+home & garden
+
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
+=======
+fashion
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+business
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+economics
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 Send to Email Address
 
@@ -1064,19 +1858,42 @@ Your Name
 
 
 Your Email Address
+=======
+sustainable business
+
+
+
+
+diversity & equality in business
+
+
+
+
+small business
+
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
+=======
+travel
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+USA
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 Cancel
 
@@ -1091,6 +1908,138 @@ Cancel
 
 
 				Sorry, your blog cannot share posts by email.			
+=======
+europe
+
+
+
+
+UK
+
+
+
+
+
+
+environment
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+climate change
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+wildlife
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+energy
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+pollution
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+science
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+media
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+crosswords
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+video
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
+=======
+
+
+
+
+
+
+US News
+
+
+
+
+›
+Charleston shooting
+
+
+
+
+
+
+
+
+jobs
+
+subscribe
+all topics
+all contributors
+
+
+report technical issue
+
+
+
+about us
+
+contact us
+
+complaints & corrections
+terms & conditions
+privacy policy
+cookie policy
+securedrop
+
+
+© 2015 Guardian News and Media Limited or its affiliated companies. All rights reserved.
 
 
 
@@ -1108,25 +2057,6 @@ Cancel
 
 
 
+ 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+>>>>>>> origin/master

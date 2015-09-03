@@ -1,5 +1,11 @@
+<<<<<<< HEAD
 Lightning Believed Cause of Fire at a Black Church - The New York Times 
 
+=======
+Charleston shooting | US news | The Guardian
+
+Charleston shooting | US news | The Guardian
+>>>>>>> origin/master
 
 
 
@@ -7,6 +13,7 @@ Lightning Believed Cause of Fire at a Black Church - The New York Times
 
 
 
+<<<<<<< HEAD
 Lightning Believed Cause of Fire at a Black Church - The New York Times
 
 
@@ -233,6 +240,8 @@ See next articles
 
 See previous articles
 
+=======
+>>>>>>> origin/master
 
 
 
@@ -241,6 +250,10 @@ See previous articles
 
 
 
+<<<<<<< HEAD
+=======
+Close
+>>>>>>> origin/master
 
 
 
@@ -249,6 +262,10 @@ See previous articles
 
 
 
+<<<<<<< HEAD
+=======
+Skip to main content
+>>>>>>> origin/master
 
  
 
@@ -262,17 +279,28 @@ See previous articles
 
 
 
+<<<<<<< HEAD
+=======
+sign in
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 Advertisement
 
 
 
 
 
+=======
+
+
+
+subscribe
+>>>>>>> origin/master
 
 
 
@@ -280,6 +308,7 @@ Advertisement
 
 
 
+<<<<<<< HEAD
 
 
 U.S.
@@ -296,12 +325,22 @@ ALAN BLINDER
  and 
 RICHARD PÉREZ-PEÑA
 JULY 1, 2015
+=======
+search
+
+
+
+
+jobs
+
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 Inside
 
 
@@ -321,6 +360,35 @@ Supported by
 
 
 
+=======
+
+
+
+more
+
+
+from the guardian:
+
+
+jobs
+
+
+
+change edition:
+
+
+
+switch to the  UK  edition
+
+
+switch to the  AU  edition
+
+
+switch to the 
+INT
+beta
+ edition
+>>>>>>> origin/master
 
 
 
@@ -329,32 +397,63 @@ Supported by
 
 
 
+<<<<<<< HEAD
 
 Photo
 
 
 
+=======
+US edition
 
 
 
 
+switch to the 
+UK edition
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+switch to the 
+Australia edition
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
 Smoke rose from the Mount Zion A.M.E. church, early Wednesday.
+=======
+switch to the 
+International
+beta
+
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Credit
 
             Veasey Conway/Florence Morning News, via Associated Press        
 
 
+=======
+
+
+
+The Guardian
+>>>>>>> origin/master
 
 
 
@@ -363,24 +462,39 @@ Credit
 
 
 
+<<<<<<< HEAD
 Advertisement
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Continue reading the main story
+=======
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+
+
+=======
+home
+
+
+›
+US
+>>>>>>> origin/master
 
 
 
 
 
 
-
-
-
-
-
-
+<<<<<<< HEAD
 Continue reading the main story
 
 
@@ -392,19 +506,41 @@ Share This Page
 Continue reading the main story
 
 
+=======
 
 
 
 
+home
+
+
+
+
+US
+selected
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Continue reading the main story
+=======
+world
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+opinion
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 GREELEYVILLE, S.C. —  A day after a fire gutted a small black church here, a law enforcement official said Wednesday that lightning was the likely cause of the blaze.
 The fire at Mount Zion African Methodist Episcopal Church, which took more than two hours to extinguish, began around 8:30 p.m. on Tuesday and burned through the church’s roof.
 As investigators sifted through the soot-blackened brick shell of the church, the F.B.I.’s initial assessment found that there was no sign of arson and that lightning was probably to blame, according to a law enforcement official, who spoke on the condition of anonymity because the official was not authorized to discuss the matter on the record. Lightning storms moved through the area Tuesday night.
@@ -422,42 +558,85 @@ Continue reading the main story
                             Related Coverage
                     
 
+=======
+sports
 
 
 
 
+soccer
 
 
 
 
+tech
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+arts
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+lifestyle
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+fashion
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+business
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 No Evidence of Hate Crimes in Fires at Black Churches
 JUNE 29, 2015
 
 
 
+=======
+travel
+
+
+
+
+environment
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+science
+>>>>>>> origin/master
 
 
 
 
 
 
-
-
-
-
+<<<<<<< HEAD
 
 
 
@@ -474,11 +653,19 @@ visited the church in 1996
 Elected officials in South Carolina, many of them African-American, urged people not to rush to conclusions.
 “Things are often not what they seem,” Mount Zion’s pastor, the Rev. John Taylor, said. “Just wait and see. Speculation is never good.”
 All of the recent church fires broke out in the days after the fatal shootings of a pastor and eight members at a Charleston church. A 21-year-old man, Dylann Roof, has been charged in the shootings, which officials have labeled a hate crime.
+=======
+browse all sections
+close
+
+
+
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 
 Alan Blinder reported from Greeleyville, and Richard Pérez-Peña from New York. Michael S. Schmidt contributed reporting from Washington, and Katie Rogers from New York.
 
@@ -502,6 +689,9 @@ Subscribe
 
 
 
+=======
+ 
+>>>>>>> origin/master
 
 
 
@@ -511,6 +701,7 @@ Subscribe
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -763,26 +954,42 @@ Video: Opinion
 
 
 Arts
+=======
+Charleston shooting
+
+Saturday
+
+4
+July
+2015
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 Today's Arts
+=======
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 Art & Design
+=======
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 ArtsBeat
 
 
@@ -791,54 +998,100 @@ ArtsBeat
 
 
 Books
+=======
+
+Golfer Bubba Watson criticised for vow to take Confederate flag off 'General Lee' car
+
+
+Two-time Masters champion abused on social media for making gesture in wake of wider debate about flag’s meaning
+
+
+
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 
 Dance
+=======
+Golfer Bubba Watson criticised for vow to take Confederate flag off 'General Lee' car
+
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 
 Movies
+=======
+Older
+Newer
+
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 
 Music
 
 
+=======
+Topics
+
+
+
+Bubba Watson
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 N.Y.C. Events Guide
+=======
+Golf
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 Television
 
 
+=======
+US sports
 
 
 
 
+Race issues
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Theater
+=======
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 Video Games
 
 
@@ -847,23 +1100,40 @@ Video Games
 
 
 Video: Arts
+=======
+
+
+
+The Guardian
+
+
+
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
+=======
+back to top
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 Living
+=======
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 Automobiles
 
 
@@ -873,10 +1143,23 @@ Automobiles
 
 Crossword
 
+=======
+
+
+
+home
 
 
 
 
+US
+selected
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 Food
 
@@ -887,10 +1170,24 @@ Food
 
 Education
 
+=======
+world
 
 
 
 
+opinion
+
+
+
+
+sports
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 Fashion & Style
 
@@ -901,10 +1198,24 @@ Fashion & Style
 
 Health
 
+=======
+soccer
 
 
 
 
+tech
+
+
+
+
+arts
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 Jobs
 
@@ -915,10 +1226,24 @@ Jobs
 
 Magazine
 
+=======
+lifestyle
 
 
 
 
+fashion
+
+
+
+
+business
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 N.Y.C. Events Guide
 
@@ -929,18 +1254,39 @@ N.Y.C. Events Guide
 
 Real Estate
 
+=======
+travel
+
+
+
+
+environment
+
+
+
+
+science
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 T Magazine
 
 
+=======
+
+
+all sections
+close
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Travel
 
 
@@ -950,14 +1296,31 @@ Travel
 
 Weddings & Celebrations
 
+=======
+
+
+
+home
 
 
 
 
+US
+selected
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+world
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 Listings & More
 
@@ -968,10 +1331,24 @@ Listings & More
 
 Classifieds
 
+=======
+UK
 
 
 
 
+europe
+
+
+
+
+americas
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 Tools & Services
 
@@ -982,10 +1359,24 @@ Tools & Services
 
 Times Topics
 
+=======
+asia
 
 
 
 
+middle east
+
+
+
+
+africa
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 Public Editor
 
@@ -996,17 +1387,36 @@ Public Editor
 
 N.Y.C. Events Guide
 
+=======
+australia
+
+
+
+
+cities
+
+
+
+
+development
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 TV Listings
 
+=======
+
+opinion
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 Blogs
 
@@ -1017,10 +1427,24 @@ Blogs
 
 Cartoons
 
+=======
+sports
 
 
 
 
+soccer
+
+
+
+
+MLS
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 Multimedia
 
@@ -1031,17 +1455,36 @@ Multimedia
 
 Photography
 
+=======
+NFL
 
 
 
 
+MLB
+
+
+
+
+NBA
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 Video
+=======
+NHL
+
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 
 NYT Store
 
@@ -1052,10 +1495,24 @@ NYT Store
 
 Times Journeys
 
+=======
+soccer
 
 
 
 
+live scores
+
+
+
+
+tables
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 Subscribe
 
@@ -1066,15 +1523,33 @@ Subscribe
 
 Manage My Account
 
+=======
+competitions
+
+
+
+
+results
+
+
+
+
+fixtures
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+clubs
+>>>>>>> origin/master
 
 
 
 
 
-
-
-
-
+<<<<<<< HEAD
 Subscribe
 
 
@@ -1082,57 +1557,112 @@ Subscribe
 
 Subscribe
 
+=======
+
+tech
 
 
 
 
+arts
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 Times Premier
 
 
 
+=======
+movies
 
 
 
 
+tv & radio
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 Home Delivery
 
 
 
+=======
+music
 
 
 
 
+games
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 Digital Subscriptions
 
 
 
+=======
+books
 
 
 
 
+art & design
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 NYT Opinion
 
 
 
+=======
+stage
+
+
+
+
+classical
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 Crossword
 
+=======
+
+lifestyle
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+food
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 Email Newsletters
 
@@ -1143,10 +1673,24 @@ Email Newsletters
 
 Alerts
 
+=======
+health & fitness
 
 
 
 
+love & sex
+
+
+
+
+family
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 Gift Subscriptions
 
@@ -1164,14 +1708,39 @@ Corporate Subscriptions
 
 Education Rate
 
+=======
+women
+
+
+
+
+home & garden
 
 
 
 
 
 
+fashion
 
 
+
+
+business
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+economics
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 Mobile Applications
 
@@ -1182,42 +1751,81 @@ Mobile Applications
 
 Replica Edition
 
+=======
+sustainable business
+
+
+
+
+diversity & equality in business
+
+
+
+
+small business
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 International New York Times
 
+=======
+
+travel
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+USA
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+europe
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+UK
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+environment
+>>>>>>> origin/master
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
                     © 
 2015
  The New York Times Company
+=======
+climate change
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 Home
@@ -1245,14 +1853,44 @@ Terms of Service
 
 
 Terms of Sale
+=======
+wildlife
+
+
+
+
+energy
+
+
+
+
+pollution
 
 
 
 
 
 
+science
 
 
+
+
+media
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+crosswords
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 Site Map
@@ -1265,6 +1903,58 @@ Site Feedback
 
 
 Subscriptions
+=======
+video
+
+
+
+
+
+
+
+
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
+
+
+
+
+
+
+
+
+
+
+=======
+jobs
+
+subscribe
+all topics
+all contributors
+
+
+report technical issue
+
+
+
+about us
+
+contact us
+
+complaints & corrections
+terms & conditions
+privacy policy
+cookie policy
+securedrop
+
+
+© 2015 Guardian News and Media Limited or its affiliated companies. All rights reserved.
+>>>>>>> origin/master
 
 
 
@@ -1282,19 +1972,8 @@ Subscriptions
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
+=======
+ 
+>>>>>>> origin/master
 

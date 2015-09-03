@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 Account retrieval | Florida Today
 
 Account retrieval | Florida Today
+=======
+Charleston shooting | US news | The Guardian
+
+Charleston shooting | US news | The Guardian
+>>>>>>> origin/master
 
 
 
@@ -16,14 +22,22 @@ Account retrieval | Florida Today
 
 
 
+<<<<<<< HEAD
 
 
 
 Account lookup
+=======
+Close
+
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Subscription account retrieval
 
 
@@ -31,6 +45,14 @@ Subscription account retrieval
 
 If you are a current subscriber, your subscription includes full access to Florida Today on your desktop, tablet, or mobile phone.  
 Please complete the form below so we can start setting up your digital access.
+=======
+
+Skip to main content
+
+ 
+
+
+>>>>>>> origin/master
 
 
 
@@ -40,8 +62,13 @@ Please complete the form below so we can start setting up your digital access.
 
 
 
+<<<<<<< HEAD
 
 Zip code
+=======
+sign in
+
+>>>>>>> origin/master
 
 
 
@@ -49,21 +76,36 @@ Zip code
 
 
 
+<<<<<<< HEAD
 
 Phone number
+=======
+subscribe
+
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+search
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 Continue
+=======
+jobs
+
+
+>>>>>>> origin/master
 
 
 
@@ -72,6 +114,7 @@ Continue
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -91,4 +134,786 @@ floridatoday@gannett.com
 
 
 
+=======
+more
+
+
+from the guardian:
+
+
+jobs
+
+
+
+change edition:
+
+
+
+switch to the  UK  edition
+
+
+switch to the  AU  edition
+
+
+switch to the 
+INT
+beta
+ edition
+
+
+
+
+
+
+
+
+US edition
+
+
+
+
+switch to the 
+UK edition
+
+
+
+
+switch to the 
+Australia edition
+
+
+
+
+switch to the 
+International
+beta
+
+
+
+
+
+
+
+
+
+
+The Guardian
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+home
+
+
+›
+US
+
+
+
+
+
+
+
+
+
+
+home
+
+
+
+
+US
+selected
+
+
+
+
+world
+
+
+
+
+opinion
+
+
+
+
+sports
+
+
+
+
+soccer
+
+
+
+
+tech
+
+
+
+
+arts
+
+
+
+
+lifestyle
+
+
+
+
+fashion
+
+
+
+
+business
+
+
+
+
+travel
+
+
+
+
+environment
+
+
+
+
+science
+
+
+
+
+
+
+browse all sections
+close
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Charleston shooting
+
+Thursday
+
+2
+July
+2015
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Latest black church fire in South Carolina had 'natural' cause, authorities say
+
+
+Officers close investigation in Greeleyville after finding ‘no indicator of criminal intent’
+
+
+
+
+
+
+
+
+Latest black church fire in South Carolina had 'natural' cause, authorities say
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Dylann Roof's sister tries to raise funds online to reschedule her wedding
+
+
+GoFundMe page, which has since been removed, had asked for $5,000 in contributions after Charleston church shooting forced cancellation
+
+
+
+
+
+
+
+
+Dylann Roof's sister tries to raise funds online to reschedule her wedding
+
+
+
+
+
+
+Older
+Newer
+
+
+
+
+
+
+Topics
+
+
+
+South Carolina
+
+
+
+
+Crowdfunding
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Guardian
+
+
+
+
+
+
+
+
+back to top
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+home
+
+
+
+
+US
+selected
+
+
+
+
+world
+
+
+
+
+opinion
+
+
+
+
+sports
+
+
+
+
+soccer
+
+
+
+
+tech
+
+
+
+
+arts
+
+
+
+
+lifestyle
+
+
+
+
+fashion
+
+
+
+
+business
+
+
+
+
+travel
+
+
+
+
+environment
+
+
+
+
+science
+
+
+
+
+
+
+
+all sections
+close
+
+
+
+
+
+
+
+home
+
+
+
+
+US
+selected
+
+
+
+
+world
+
+
+
+
+UK
+
+
+
+
+europe
+
+
+
+
+americas
+
+
+
+
+asia
+
+
+
+
+middle east
+
+
+
+
+africa
+
+
+
+
+australia
+
+
+
+
+cities
+
+
+
+
+development
+
+
+
+
+
+
+opinion
+
+
+
+
+sports
+
+
+
+
+soccer
+
+
+
+
+MLS
+
+
+
+
+NFL
+
+
+
+
+MLB
+
+
+
+
+NBA
+
+
+
+
+NHL
+
+
+
+
+
+
+soccer
+
+
+
+
+live scores
+
+
+
+
+tables
+
+
+
+
+competitions
+
+
+
+
+results
+
+
+
+
+fixtures
+
+
+
+
+clubs
+
+
+
+
+
+
+tech
+
+
+
+
+arts
+
+
+
+
+movies
+
+
+
+
+tv & radio
+
+
+
+
+music
+
+
+
+
+games
+
+
+
+
+books
+
+
+
+
+art & design
+
+
+
+
+stage
+
+
+
+
+classical
+
+
+
+
+
+
+lifestyle
+
+
+
+
+food
+
+
+
+
+health & fitness
+
+
+
+
+love & sex
+
+
+
+
+family
+
+
+
+
+women
+
+
+
+
+home & garden
+
+
+
+
+
+
+fashion
+
+
+
+
+business
+
+
+
+
+economics
+
+
+
+
+sustainable business
+
+
+
+
+diversity & equality in business
+
+
+
+
+small business
+
+
+
+
+
+
+travel
+
+
+
+
+USA
+
+
+
+
+europe
+
+
+
+
+UK
+
+
+
+
+
+
+environment
+
+
+
+
+climate change
+
+
+
+
+wildlife
+
+
+
+
+energy
+
+
+
+
+pollution
+
+
+
+
+
+
+science
+
+
+
+
+media
+
+
+
+
+crosswords
+
+
+
+
+video
+
+
+
+
+
+
+
+
+
+
+
+
+
+jobs
+
+subscribe
+all topics
+all contributors
+
+
+report technical issue
+
+
+
+about us
+
+contact us
+
+complaints & corrections
+terms & conditions
+privacy policy
+cookie policy
+securedrop
+
+
+© 2015 Guardian News and Media Limited or its affiliated companies. All rights reserved.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+>>>>>>> origin/master
 

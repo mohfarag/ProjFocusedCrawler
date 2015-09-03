@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 Police Officer Fatally Shoots Armed Suspect In West Englewood « CBS Chicago
 
 Police Officer Fatally Shoots Armed Suspect In West Englewood « CBS Chicago
+=======
+Charleston shooting | US news | The Guardian
+
+Charleston shooting | US news | The Guardian
+>>>>>>> origin/master
 
 
 
@@ -16,14 +22,22 @@ Police Officer Fatally Shoots Armed Suspect In West Englewood « CBS Chicago
 
 
 
+<<<<<<< HEAD
 
 
 
 Chicago
+=======
+Close
+
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Radio.com
 
 
@@ -102,11 +116,50 @@ Tampa
 Washington
 
 
+=======
+
+Skip to main content
+
+ 
 
 
 
 
+
+
+
+
+
+
+
+sign in
+
+
+
+
+
+
+
+
+subscribe
+
+
+
+
+
+
+
+search
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 SIGN UP FOR NEWSLETTERS
+=======
+jobs
+>>>>>>> origin/master
 
 
 
@@ -117,6 +170,7 @@ SIGN UP FOR NEWSLETTERS
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -134,6 +188,72 @@ SIGN UP FOR NEWSLETTERS
 
 
 Sponsored By
+=======
+more
+
+
+from the guardian:
+
+
+jobs
+
+
+
+change edition:
+
+
+
+switch to the  UK  edition
+
+
+switch to the  AU  edition
+
+
+switch to the 
+INT
+beta
+ edition
+
+
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+US edition
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+switch to the 
+UK edition
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+switch to the 
+Australia edition
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+switch to the 
+International
+beta
+>>>>>>> origin/master
 
 
 
@@ -144,24 +264,7 @@ Sponsored By
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 
 
 CBS 2
@@ -170,16 +273,42 @@ WBBM Newsradio
 Welcome to WBBM Newsradio 780 & 105.9FM, The Home of Chicago Bears Radio and Chicago Cubs Radio, on CBSChicago.com! WBBM Newsradio 780 & 105.9FM is joining forces with the CBS 2 Television and 670 The […]
 670 The Score
 Welcome to 670 The Score, the home of White Sox radio, on CBSChicago.com! The Score is partners with CBS 2 TV and WBBM 780, and they give you the best Chicago has to offer. 670 […]
+=======
+The Guardian
+
+
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 Follow Us
 Facebook
 Twitter
 YouTube
+=======
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+
+
+=======
+home
+
+
+›
+US
+>>>>>>> origin/master
 
 
 
@@ -190,16 +319,7 @@ YouTube
 
 
 
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 
 
 Home
@@ -248,14 +368,63 @@ Circulars
 
 
 Autos
+=======
+home
 
 
 
 
+US
+selected
 
 
 
 
+world
+
+
+
+
+opinion
+
+
+
+
+sports
+
+
+
+
+soccer
+
+
+
+
+tech
+
+
+
+
+arts
+
+
+
+
+lifestyle
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+fashion
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Local
 
 
@@ -284,6 +453,32 @@ World
 
 
 Photos
+=======
+business
+
+
+
+
+travel
+
+
+
+
+environment
+
+
+
+
+science
+
+
+
+
+
+
+browse all sections
+close
+>>>>>>> origin/master
 
 
 
@@ -297,32 +492,54 @@ Photos
 
 
 
+<<<<<<< HEAD
  
 
 
+=======
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 
 
 
 
 
 Local
+=======
+Charleston shooting
+
+Tuesday
+
+23
+June
+2015
+
+
+
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 Police Officer Fatally Shoots Armed Suspect In West Englewood
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 August 9, 2012 3:55 PM
+=======
+>>>>>>> origin/master
 
 
 
@@ -336,21 +553,32 @@ August 9, 2012 3:55 PM
 
 
 
+<<<<<<< HEAD
+=======
+Sorry, your browser is unable to play this video.
+Please install Adobe Flash™ and try again.
+Alternatively upgrade to a modern browser.
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
  
 
 
 Police investigate the scene of an officer-involved shooting Thursday afternoon in West Englewood. (CBS)
+=======
+
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 Related Tags:
 
 
@@ -375,17 +603,28 @@ Suzanne Le Mignot serves as CBS 2 Chicago’s general assignment...
 
 
 Read More
+=======
+
+
+
+
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 
 
 Featured & Trending:
+=======
+Police video shows Charleston shooting suspect Dylann Roof's arrest - video
 
 
+A police dashboard camera captures the final moments of a 14-hour manhunt for Charleston shooting suspect Dylann Roof
+>>>>>>> origin/master
 
 
 
@@ -394,6 +633,10 @@ Featured & Trending:
 
 
 
+<<<<<<< HEAD
+=======
+Police video shows Charleston shooting suspect Dylann Roof's arrest - video
+>>>>>>> origin/master
 
 
 
@@ -416,6 +659,12 @@ Featured & Trending:
 
 
 
+<<<<<<< HEAD
+=======
+Sorry, your browser is unable to play this video.
+Please install Adobe Flash™ and try again.
+Alternatively upgrade to a modern browser.
+>>>>>>> origin/master
 
 
 
@@ -438,10 +687,15 @@ Featured & Trending:
 
 
 
+<<<<<<< HEAD
 
 
+=======
+Hillary Clinton backs removal of Confederate flag - video
 
 
+Democratic US presidential candidate Hillary Clinton urged all businesses to stop selling products with Confederate flag images on them
+>>>>>>> origin/master
 
 
 
@@ -450,6 +704,10 @@ Featured & Trending:
 
 
 
+<<<<<<< HEAD
+=======
+Hillary Clinton backs removal of Confederate flag - video
+>>>>>>> origin/master
 
 
 
@@ -465,10 +723,15 @@ Featured & Trending:
 
 
 
+<<<<<<< HEAD
 
 
+=======
+Amazon joins retailers banning the sale of items featuring Confederate flag
 
 
+On Tuesday afternoon, Amazon became the latest in a string of high-profile companies like Walmart, Sears and eBay, to step away from the sales
+>>>>>>> origin/master
 
 
 
@@ -477,6 +740,10 @@ Featured & Trending:
 
 
 
+<<<<<<< HEAD
+=======
+Amazon joins retailers banning the sale of items featuring Confederate flag
+>>>>>>> origin/master
 
 
 
@@ -495,10 +762,16 @@ Featured & Trending:
 
 
 
+<<<<<<< HEAD
 
 
+=======
+My country is a racist country – built on the lie of freedom and opportunity
 
+Lindy West
 
+We need to start speaking the truth about the US, about the accusations of racism levelled at retailer Zara and about the familiar shape of Dylann Roof’s crimes
+>>>>>>> origin/master
 
 
 
@@ -507,6 +780,10 @@ Featured & Trending:
 
 
 
+<<<<<<< HEAD
+=======
+My country is a racist country – built on the lie of freedom and opportunity
+>>>>>>> origin/master
 
 
 
@@ -523,6 +800,10 @@ Featured & Trending:
 
 
 
+<<<<<<< HEAD
+=======
+Drive to call time on Confederate flag sweeps south – 150 years after civil war
+>>>>>>> origin/master
 
 
 
@@ -533,6 +814,10 @@ Featured & Trending:
 
 
 
+<<<<<<< HEAD
+=======
+Drive to call time on Confederate flag sweeps south – 150 years after civil war
+>>>>>>> origin/master
 
 
 
@@ -542,6 +827,19 @@ Featured & Trending:
 
 
 
+
+<<<<<<< HEAD
+=======
+Is country music ready to dissociate from the Confederate flag?
+>>>>>>> origin/master
+
+
+
+
+
+
+
+<<<<<<< HEAD
 Latest News Headlines:
 
 
@@ -553,10 +851,18 @@ Water Main Break Closes Streets In West Loop
 Man Shot, Seriously Wounded In Lawndale
  
 2 Killed, 7 Injured In High-Speed Crash In Robbins; Drag Racing Suspected
+=======
+
+
+
+Is country music ready to dissociate from the Confederate flag?
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 CHICAGO (CBS)
  – A Chicago police officer fatally shot an armed suspect in West Englewood Thursday morning – the second police-involved shooting within 24 hours.
 
@@ -587,6 +893,13 @@ Family friend Tiffany Williams says Young and his girlfriend had gone into a sto
 
 
 Wednesday night, about three miles east of the shooting, police shot and killed a 19-year-old man who opened fire on them.
+=======
+
+
+
+
+
+Virginia to remove Confederate flag from all state-issued license plates
 
 
 
@@ -597,6 +910,22 @@ Wednesday night, about three miles east of the shooting, police shot and killed 
 
 
 
+Virginia to remove Confederate flag from all state-issued license plates
+
+
+
+>>>>>>> origin/master
+
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+Historians crowdsource key reads about racial violence in America
+>>>>>>> origin/master
 
 
 
@@ -607,12 +936,34 @@ Wednesday night, about three miles east of the shooting, police shot and killed 
 
 
 
+<<<<<<< HEAD
+=======
+Historians crowdsource key reads about racial violence in America
+>>>>>>> origin/master
 
 
 
 
 
+
+
+
+<<<<<<< HEAD
  
+=======
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
+
+=======
+Black churches taught us to forgive white people. We learned to shame ourselves
+
+Kiese Laymon
+>>>>>>> origin/master
 
 
 
@@ -622,18 +973,19 @@ Wednesday night, about three miles east of the shooting, police shot and killed 
 
 
 
+<<<<<<< HEAD
+=======
+Black churches taught us to forgive white people. We learned to shame ourselves
+>>>>>>> origin/master
 
 
 
 
 
-
-
-
-
-
-
+<<<<<<< HEAD
 Listen Live
+=======
+>>>>>>> origin/master
 
 
 
@@ -642,6 +994,7 @@ Listen Live
 
 
 
+<<<<<<< HEAD
 
 
  
@@ -673,14 +1026,28 @@ Eight Wounded In Thursday Shootings Across Chicago
 Most recently, two men were shot late Thursday in the West Side Austin neighborhood. The men, ages 19 and 20, were standing outside in the 1500 block of North Linder about 10:25 p.m. when shots were fired in their direction from a group of males standing on the corner across the street, according to Chicago Police.
  
 80
+=======
+Agreeing to remove the Confederate flag isn't courageous. It's just politics
+
+Jeb Lund
+
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Follow 
 CBS Chicago
 
 
+=======
+
+
+Agreeing to remove the Confederate flag isn't courageous. It's just politics
+>>>>>>> origin/master
 
 
 
@@ -699,24 +1066,46 @@ CBS Chicago
 
 
 
+<<<<<<< HEAD
+=======
+Mississippi to propose removal of Confederate emblem from state flag
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Follow @CBSChicago
+=======
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+Mississippi to propose removal of Confederate emblem from state flag
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 Like us on foursquare
+=======
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+Obama backs Australia's gun laws while condemning latest mass shootings in US
+>>>>>>> origin/master
 
 
 
@@ -727,6 +1116,10 @@ Like us on foursquare
 
 
 
+<<<<<<< HEAD
+=======
+Obama backs Australia's gun laws while condemning latest mass shootings in US
+>>>>>>> origin/master
 
 
 
@@ -737,6 +1130,10 @@ Like us on foursquare
 
 
 
+<<<<<<< HEAD
+=======
+Walmart removes Confederate flag merchandise from stores
+>>>>>>> origin/master
 
 
 
@@ -747,19 +1144,22 @@ Like us on foursquare
 
 
 
-
-
-
-
+<<<<<<< HEAD
 
 
 Follow More Stations and Personalities
+=======
+Walmart removes Confederate flag merchandise from stores
+
+
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
  
 Contests & Promotions
 Blue Collar Bears Fan Of The Week
@@ -799,10 +1199,26 @@ dodgerman
  cbsloc.al/1LGzANK
  
 24 minutes ago
+=======
+Older
+Newer
 
 
 
 
+
+
+Topics
+
+
+
+Race issues
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 				NOW: Live streaming of CBS2’s newscast. One click and you’re in the loop. Starts now: 
  CBSChicago.com/watch
@@ -818,10 +1234,24 @@ dodgerman
 
 
 
+=======
+South Carolina
 
 
 
 
+US politics
+
+
+
+
+Gun crime
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
@@ -852,23 +1282,68 @@ New Podcast Network
 Download Our New Weather App!
  
 
+=======
+Virginia
+
+
+
+More…
+
+
+
+Retail industry
 
 
 
 
+Mississippi
 
 
 
 
+US crime
+
+
+
+
+Walmart
+
+
+
+
+Educational books
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+Toni Morrison
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
  
 
 
 
+=======
+Barack Obama
 
 
 
 
+US gun control
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
@@ -897,16 +1372,50 @@ Weather
 
 Traffic
 
+=======
+Zara
 
 
 
 
+eBay
+
+
+
+
+US education
+
+
+
+
+Country
+
+
+
+
+US policing
+
+
+
+
+Hillary Clinton
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 Sports
+=======
+E-commerce
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Bears
 
 
@@ -926,17 +1435,39 @@ Podcasts
 
 
 Blogs
+=======
 
 
 
 
+
+
+
+
+The Guardian
+
+
+
+
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 Scores & Stats
+=======
+back to top
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 NFL Football
 
 
@@ -949,15 +1480,32 @@ NBA Basketball
 NHL Hockey
 
 
+=======
 
 
 
 
+
+
+
+
+home
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Contact Us
+=======
+US
+selected
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 CBS 2
 
 
@@ -971,10 +1519,24 @@ Connect
 
 
 Mobile
+=======
+world
 
 
 
 
+opinion
+
+
+
+
+sports
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 Corporate
@@ -998,14 +1560,42 @@ Mobile
 
 
 Connect
+=======
+soccer
 
 
 
 
+tech
 
 
 
 
+arts
+
+
+
+
+lifestyle
+
+
+
+
+fashion
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+business
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 Chicago Business Listings
@@ -1027,6 +1617,18 @@ Professional Services
 
 Search Listings
 
+=======
+travel
+
+
+
+
+environment
+
+
+
+
+science
 
 
 
@@ -1034,6 +1636,17 @@ Search Listings
 
 
 
+all sections
+close
+>>>>>>> origin/master
+
+
+
+
+
+
+
+<<<<<<< HEAD
 By viewing our video content, you are accepting the terms of our 
 Video Services Policy
 
@@ -1085,14 +1698,63 @@ WordPress.com VIP
  
 
 
+=======
+home
 
 
 
 
+US
+selected
 
 
 
 
+world
+
+
+
+
+UK
+
+
+
+
+europe
+
+
+
+
+americas
+
+
+
+
+asia
+
+
+
+
+middle east
+
+
+
+
+africa
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+australia
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Facebook
 
 
@@ -1100,17 +1762,30 @@ Twitter
 
 
 RSS
+=======
+cities
+
+
+
+
+development
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 Other CBS Local Cities 
+=======
+opinion
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 CBS Atlanta
 
 
@@ -1186,14 +1861,84 @@ CBS Tampa
 CBS Washington
 
 
+=======
+sports
+
+
+
+
+soccer
+
+
+
+
+MLS
+
+
+
+
+NFL
+
+
+
+
+MLB
+
+
+
+
+NBA
+
+
+
+
+NHL
 
 
 
 
 
 
+soccer
 
 
+
+
+live scores
+
+
+
+
+tables
+
+
+
+
+competitions
+
+
+
+
+results
+
+
+
+
+fixtures
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+clubs
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 ©2015 CBS Local Media,
  
 a division of CBS Radio Inc.
@@ -1201,14 +1946,24 @@ a division of CBS Radio Inc.
 All rights reserved.
 
 
+=======
+
+
+tech
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+arts
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 Buy Tickets
@@ -1231,22 +1986,48 @@ Daily Deals
  
 
 
+=======
+movies
 
 
 
 
+tv & radio
 
 
 
 
+music
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+games
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+books
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+art & design
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 Log In
@@ -1268,45 +2049,99 @@ Twitter
 Youtube
 
 
+=======
+stage
+
+
+
+
+classical
 
 
 
 
 
 
+lifestyle
+
+
+
+
+food
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+health & fitness
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+love & sex
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+family
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+women
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+home & garden
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+fashion
+>>>>>>> origin/master
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 
 
 Listen Live
 
 
+=======
+business
 
 
 
 
+economics
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 AM/FM Stations
@@ -1332,15 +2167,45 @@ B96
 WBBM NewsRadio
 
 
+=======
+sustainable business
 
 
 
 
+diversity & equality in business
+
+
+
+
+small business
+
+
+
+
+
+
+travel
+
+
+
+
+USA
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Featured Shows & Multimedia
+=======
+europe
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Play.It
 
 
@@ -1351,51 +2216,140 @@ CBS Sports Radio
 
 
 Radio.com
+=======
+UK
 
 
 
 
 
 
+environment
+>>>>>>> origin/master
 
 
+
+
+<<<<<<< HEAD
+=======
+climate change
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Advertise On Our Streams
+=======
+wildlife
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+energy
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+pollution
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+science
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+media
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+crosswords
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+video
+>>>>>>> origin/master
 
 
 
 
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
  
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
  
+=======
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
+
+
+
+
+
+
+
+
+
+
+=======
+jobs
+
+subscribe
+all topics
+all contributors
+
+
+report technical issue
+
+
+
+about us
+
+contact us
+
+complaints & corrections
+terms & conditions
+privacy policy
+cookie policy
+securedrop
+
+
+© 2015 Guardian News and Media Limited or its affiliated companies. All rights reserved.
+>>>>>>> origin/master
 
 
 
@@ -1413,19 +2367,8 @@ Advertise On Our Streams
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
+=======
+ 
+>>>>>>> origin/master
 

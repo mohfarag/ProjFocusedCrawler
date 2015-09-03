@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 Charleston Church Shooting: Social Media Reaction to Attack - NBC News
 
 Charleston Church Shooting: Social Media Reaction to Attack - NBC News
+=======
+Dylann Roof faces new charges over Charleston church shooting | US news | The Guardian
+
+Dylann Roof faces new charges over Charleston church shooting | US news | The Guardian
+>>>>>>> origin/master
 
 
 
@@ -16,6 +22,25 @@ Charleston Church Shooting: Social Media Reaction to Attack - NBC News
 
 
 
+<<<<<<< HEAD
+=======
+Close
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+
+=======
+Skip to main content
+
+ 
+>>>>>>> origin/master
 
 
 
@@ -26,15 +51,7 @@ Charleston Church Shooting: Social Media Reaction to Attack - NBC News
 
 
 
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 Watch Live: Scott Walker Delivers Foreign Policy Speech
 
 
@@ -98,16 +115,28 @@ Top Videos
 
 
 More 
+=======
+
+sign in
+
+
+
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
+=======
+subscribe
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 Ongoing:
 
 
@@ -116,17 +145,31 @@ Ongoing:
 Hurricane Katrina Anniversary
 
 
+=======
+
+
+search
 
 
 
 
+jobs
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Europe's Border Crisis
+=======
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -142,34 +185,93 @@ Search
 
 
 
+=======
+more
+
+
+from the guardian:
+
+
+jobs
+
+
+
+change edition:
+
+
+
+switch to the  UK  edition
+
+
+switch to the  AU  edition
+
+
+switch to the 
+INT
+beta
+ edition
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 Search
 
 
+=======
+
+
+US edition
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+switch to the 
+UK edition
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+switch to the 
+Australia edition
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+switch to the 
+International
+beta
+>>>>>>> origin/master
 
 
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 Primary Navigation
+=======
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+The Guardian
+>>>>>>> origin/master
 
 
 
@@ -178,10 +280,7 @@ Primary Navigation
 
 
 
-
-
-
-
+<<<<<<< HEAD
 U.S.
 
 
@@ -213,23 +312,63 @@ Investigations
 
 
 Sports
+=======
 
 
 
 
+
+
+
+
+home
+
+
+›
+US
+
+
+
+
+
+
+
+
+
+
+home
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 More 
+=======
+US
+selected
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+world
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+opinion
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
  Nightly News
@@ -242,31 +381,65 @@ Today
 
 
  Dateline
+=======
+sports
 
 
 
 
+soccer
 
 
 
 
+tech
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+arts
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+lifestyle
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+fashion
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Secondary Navigation
+=======
+business
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+travel
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 Sections
@@ -317,6 +490,30 @@ Asian America
 
 
 NBCBLK
+=======
+environment
+
+
+
+
+science
+
+
+
+
+
+
+browse all sections
+close
+
+
+
+
+
+
+
+
+ 
 
 
 
@@ -328,21 +525,52 @@ NBCBLK
 
 
 
+Charleston shooting
 
+
+
+Dylann Roof faces new charges over Charleston church shooting
+
+
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+Suspect, 21, charged with three counts of attempted murder
+Roof expected in court in October over deaths of nine during Bible study
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Top Ongoing
+=======
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 Hurricane Katrina Anniversary
+=======
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 Europe's Border Crisis
 
 
@@ -365,10 +593,34 @@ Dateline
 
 
 Today
+=======
+
+
+
+Dylann Storm Roof already faced nine murder charges over the Charleston church shooting. Federal authorities have yet to say whether they will pursue hate crime charges.
+Photograph: Chuck Burton/AP
+
+
+
+Associated Press in Columbia, South Carolina
+
+
+Tuesday 7 July 2015 12.59 EDT
 
 
 
 
+
+
+
+Share on Facebook
+
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Featured
 
 
@@ -393,6 +645,10 @@ Flashback
 
 
 Debunker
+=======
+
+
+Share on Twitter
 
 
 
@@ -400,11 +656,33 @@ Debunker
 
 
 
+Share via Email
 
 
 
 
 
+
+
+Share on Pinterest
+>>>>>>> origin/master
+
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+Share on LinkedIn
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
 Multimedia
 
 
@@ -419,10 +697,25 @@ Photo
 
 
 More From NBC
+=======
+
+
+Share on Google+
 
 
 
 
+
+
+
+Share on WhatsApp
+
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Sports
 
 
@@ -454,6 +747,7 @@ Parent Toolkit
 
 
 
+=======
 
 
 
@@ -466,6 +760,43 @@ Parent Toolkit
 
 
 
+The man accused of killing nine people attending Bible study at a historic black church in Charleston has been indicted on three new charges of attempted murder, prosecutors said on Tuesday.
+
+ Related: Dylann Roof talked of 'hurting a bunch of people' before shootings, says friend 
+
+Dylann Storm Roof, 21, had been indicted on the state charges, stemming from people who survived the 17 June attack at the Emanuel African Methodist Episcopal church, prosecutor Scarlett Wilson said in a news release.
+Roof was arrested last month and charged with nine counts of murder, one for each person killed. He also faces a weapons charge.
+Roof’s defense attorney did not immediately return a message on Tuesday seeking comment. Roof is next expected in court in October on the murder charges, and online court records did not show any additional dates for the new charges.
+A state judge has already been appointed. Federal authorities have not said whether they will pursue hate crime charges against Roof.
+The news of the new charges comes as South Carolina state lawmakers move closer toward possibly removing the Confederate flag from the statehouse grounds. Roof, who is white, appeared in photos waving Confederate flags and burning or desecrating US flags, and purportedly wrote of fomenting racial violence. Survivors told police he hurled racial insults during the attack.
+State senators gave final approval on Tuesday to a bill that would remove the flag from its pole in front of the statehouse. That sends the proposal to the house, where it faces a less certain future.
+
+
+
+
+More news 
+Topics
+
+
+
+Charleston shooting
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+Gun crime
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+US crime
+>>>>>>> origin/master
 
 
 
@@ -476,6 +807,10 @@ Parent Toolkit
 
 
 
+<<<<<<< HEAD
+=======
+Share on Facebook
+>>>>>>> origin/master
 
 
 
@@ -483,11 +818,26 @@ Parent Toolkit
 
 
 
+<<<<<<< HEAD
+=======
+Share on Twitter
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
  NBC News works best with JavaScript turned on
             
 
 
 
+=======
+
+
+
+Share via Email
+>>>>>>> origin/master
 
 
 
@@ -495,35 +845,57 @@ Parent Toolkit
 
 
 
+<<<<<<< HEAD
+=======
+Share on Pinterest
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
  Feedback
 
+=======
+
+Share on LinkedIn
+>>>>>>> origin/master
 
 
 
 
+
+<<<<<<< HEAD
+advertisement
+
+
+ 
+=======
+
+
+Share on Google+
+>>>>>>> origin/master
+
+
+
+
+
+
+
+<<<<<<< HEAD
 
 advertisement
 
 
  
+=======
+Share on WhatsApp
 
 
 
-
-
-
-
-
-advertisement
-
-
- 
+>>>>>>> origin/master
 
 
 
@@ -542,16 +914,25 @@ advertisement
 
 
 
+<<<<<<< HEAD
 Storyline
+=======
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
                   Charleston Church Shooting
                 
 
 
+=======
+
+
+View all comments >
+>>>>>>> origin/master
 
 
 
@@ -559,6 +940,23 @@ Storyline
 
 
 
+<<<<<<< HEAD
+
+
+
+
+=======
+comments 
+Sign in
+or create your Guardian account to join the discussion.
+
+This discussion is closed for comments.
+
+We’re doing some maintenance right now. You can still read comments, but please come back later to add your own.
+
+
+Commenting has been disabled for this account (why?)
+>>>>>>> origin/master
 
 
 
@@ -566,18 +964,25 @@ Storyline
 
 
 
+<<<<<<< HEAD
 
 
 
 
+=======
+Order by 
+
+
+newest
+
+
+oldest
+>>>>>>> origin/master
 
 
 
 
-
-
-
-
+<<<<<<< HEAD
 
 
 
@@ -587,10 +992,26 @@ Storyline
 
 
 News
+=======
+Show 25
+
+
+25
+
+
+50
+
+
+100
+
+
+All
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 Charleston Church Shooting
@@ -604,20 +1025,46 @@ Jun 18 2015, 3:29 pm ET
 
 
 
+=======
+Threads 
+
+
+collapsed
+
+
+expanded
+
+
+unthreaded
 
 
 
 
+
+Loading comments… Trouble loading?
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
 Charleston Church Shooting: Social Media Reaction to Attack
+=======
+View more comments
+
+
+
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 by
  
 Emmanuelle Saliba
@@ -648,20 +1095,33 @@ Share
 
 
 
+=======
+ 
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Share
+=======
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 
 
 
 Tweet
+=======
+popular
+
+
+
+>>>>>>> origin/master
 
 
 
@@ -670,6 +1130,7 @@ Tweet
 
 
 
+<<<<<<< HEAD
 Share
 
 
@@ -727,10 +1188,13 @@ advertisement
 Charleston church shooting
  provoked shock and outrage on Twitter. 
 
+=======
+>>>>>>> origin/master
 
  
 
 
+<<<<<<< HEAD
 "To say our thoughts and prayers are with them...doesn’t say enough to convey the heartache & the sadness & the anger that we feel." —
 @POTUS
 — The White House (@WhiteHouse) 
@@ -748,10 +1212,20 @@ June 18, 2015
  
 
 
+=======
 
 
 
 
+
+
+The Guardian
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 advertisement
 
 
@@ -781,20 +1255,48 @@ June 18, 2015
 
 
  
+=======
 
 
 
 
+back to top
+
+
+
+
+
+
+
+
+
+
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 advertisement
 
 
  
+=======
+home
 
 
 
 
+US
+selected
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Was already weary. Was already heavy hearted. Was already tired. Where can we be safe? Where can we be free? Where can we be black?
 — solange knowles (@solangeknowles) 
 June 18, 2015
@@ -819,20 +1321,43 @@ http://t.co/0kyZK8OHCm
 — Ava DuVernay (@AVAETC) 
 June 18, 2015
  
+=======
+world
 
 
 
 
+opinion
+
+
+
+
+sports
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 advertisement
 
 
  
+=======
+soccer
 
 
 
 
+tech
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
  
 
 
@@ -853,20 +1378,43 @@ June 18, 2015
 
 
  
+=======
+arts
 
 
 
 
+lifestyle
+
+
+
+
+fashion
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 advertisement
 
 
  
+=======
+business
 
 
 
 
+travel
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 My thoughts and prayers are with the families of the victims of last night's shooting in Charleston 
 https://t.co/GCtPg7yQ1r
 — Ted Cruz (@tedcruz) 
@@ -893,6 +1441,13 @@ June 18, 2015
 
 
 
+=======
+environment
+
+
+
+
+science
 
 
 
@@ -900,29 +1455,62 @@ June 18, 2015
 
 
 
+all sections
+close
+>>>>>>> origin/master
 
 
 
 
+
+
+
+<<<<<<< HEAD
+=======
+home
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Emmanuelle Saliba
+=======
+US
+selected
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Twitter
 
 
 Email
 
 
+=======
+world
 
 
 
 
+UK
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+europe
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 Daniella Silva
@@ -934,14 +1522,32 @@ Twitter
 
 
 Email
+=======
+americas
 
 
 
 
+asia
 
 
 
 
+middle east
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+africa
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 Topics 
@@ -959,118 +1565,230 @@ First Published
 Jun 18 2015, 4:42 am ET
 
 
+=======
+australia
+
+
+
+
+cities
+
+
+
+
+development
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+opinion
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+sports
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
  Next Story
 
 
 Nashville Hotel Nixes Conference for Group Cited by Charleston Church Gunman
 
 
+=======
+soccer
+
+
+
+
+MLS
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+NFL
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+MLB
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+NBA
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+NHL
+>>>>>>> origin/master
 
 
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 advertisement
+=======
+soccer
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+live scores
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+tables
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+competitions
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+results
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+fixtures
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 advertisement
+=======
+clubs
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+tech
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 advertisement
 
 
  
 
 
+=======
+arts
 
 
 
 
+movies
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+tv & radio
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+music
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+games
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+books
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+art & design
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+stage
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 About Us
@@ -1080,10 +1798,21 @@ Careers
 
 
 Contact
+=======
+classical
 
 
 
 
+
+
+lifestyle
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 Privacy Policy
@@ -1091,111 +1820,212 @@ Privacy Policy
 New
 
 
+=======
+food
 
 
 
 
+health & fitness
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Terms of Service
+=======
+love & sex
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 nbcnews.com Site Map
 
 
+=======
+family
 
 
 
 
+women
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Advertise
+=======
+home & garden
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 AdChoices
+=======
+fashion
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 © 2015 NBCnews.com
+=======
+business
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+economics
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+sustainable business
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+diversity & equality in business
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+small business
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+travel
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+USA
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+europe
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+UK
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+environment
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+climate change
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+wildlife
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+energy
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+pollution
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+science
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+media
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+crosswords
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+video
+>>>>>>> origin/master
 
 
 
@@ -1207,10 +2037,19 @@ AdChoices
 
 
 
+<<<<<<< HEAD
+=======
+US News
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+›
+Charleston shooting
+>>>>>>> origin/master
 
 
 
@@ -1219,6 +2058,7 @@ AdChoices
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -1229,16 +2069,31 @@ AdChoices
 
 
 
+=======
+jobs
 
+subscribe
+all topics
+all contributors
 
 
+report technical issue
 
 
 
+about us
 
+contact us
 
+complaints & corrections
+terms & conditions
+privacy policy
+cookie policy
+securedrop
 
 
+© 2015 Guardian News and Media Limited or its affiliated companies. All rights reserved.
+>>>>>>> origin/master
 
 
 
@@ -1246,4 +2101,18 @@ AdChoices
 
 
 
+
+
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+ 
+>>>>>>> origin/master
 

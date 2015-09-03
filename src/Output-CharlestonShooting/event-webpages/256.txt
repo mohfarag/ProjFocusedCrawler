@@ -1,7 +1,14 @@
+<<<<<<< HEAD
 Dozens gather at Bethel A.M.E. in Greensboro to remember victims of Charleston shooting | myfox8.com 
 
 
 Dozens gather at Bethel A.M.E. in Greensboro to remember victims of Charleston shooting | myfox8.com
+=======
+Funerals for Charleston shooting victims begin with 'message of love' | US news | The Guardian
+
+Funerals for Charleston shooting victims begin with 'message of love' | US news | The Guardian
+
+>>>>>>> origin/master
 
 
 
@@ -16,8 +23,12 @@ Dozens gather at Bethel A.M.E. in Greensboro to remember victims of Charleston s
 
 
 
+<<<<<<< HEAD
 Go
 Search
+=======
+Close
+>>>>>>> origin/master
 
 
 
@@ -26,6 +37,13 @@ Search
 
 
 
+<<<<<<< HEAD
+
+=======
+Skip to main content
+
+ 
+>>>>>>> origin/master
 
 
 
@@ -33,7 +51,7 @@ Search
 
 
 
-
+<<<<<<< HEAD
  Watch Now: 
 12 p.m. News 
 
@@ -41,16 +59,30 @@ Search
 
 FOX8 TV Schedule 
 
+=======
+
+
+
+
+sign in
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
  Search
 
 
  Contact Us
 
+=======
+
+
+
+subscribe
+>>>>>>> origin/master
 
 
 
@@ -58,23 +90,37 @@ FOX8 TV Schedule
 
 
 
+<<<<<<< HEAD
+=======
+search
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 myfox8.com
+=======
+jobs
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
  
 Menu
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 News
 
 
@@ -97,6 +143,32 @@ Contests
 
 
 Events
+=======
+more
+
+
+from the guardian:
+
+
+jobs
+
+
+
+change edition:
+
+
+
+switch to the  UK  edition
+
+
+switch to the  AU  edition
+
+
+switch to the 
+INT
+beta
+ edition
+>>>>>>> origin/master
 
 
 
@@ -105,6 +177,7 @@ Events
 
 
 
+<<<<<<< HEAD
 
 
 Weather 
@@ -115,6 +188,31 @@ Weather
 78°
 
 
+=======
+US edition
+
+
+
+
+switch to the 
+UK edition
+
+
+
+
+switch to the 
+Australia edition
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+switch to the 
+International
+beta
+>>>>>>> origin/master
 
 
 
@@ -125,23 +223,28 @@ Weather
 
 
 
-
-
-
-
+<<<<<<< HEAD
 78°
+=======
+The Guardian
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 Low 
 64°
 
 
 High 
 85°
+=======
+
+
+>>>>>>> origin/master
 
 
 
@@ -150,16 +253,27 @@ High
 
 
 
+<<<<<<< HEAD
 
 
 
 
 Sat
+=======
+home
+
+
+›
+US
+
+
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 					64° 
  87°
 					
@@ -171,17 +285,34 @@ Sat
 
 Sun
 
+=======
+
+
+
+home
 
 
 
 
+US
+selected
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 					66° 
  88°
 					
+=======
+world
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 Mon
@@ -194,47 +325,100 @@ Mon
  88°
 					
 
+=======
+opinion
 
 
 
 
+sports
+
+
+
+
+soccer
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 See complete forecast
 
 
 
+=======
+tech
 
 
 
 
-
-
-
- 
-
-
+arts
+>>>>>>> origin/master
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 
 
 
  
 
+=======
+lifestyle
+
+
+
+
+fashion
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+business
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+travel
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+environment
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+science
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
+ 
+
+=======
+
+browse all sections
+close
+>>>>>>> origin/master
 
 
 
@@ -243,6 +427,10 @@ See complete forecast
 
 
 
+<<<<<<< HEAD
+=======
+ 
+>>>>>>> origin/master
 
 
 
@@ -250,11 +438,15 @@ See complete forecast
 
 
 
+<<<<<<< HEAD
 Dozens gather at Bethel A.M.E. in Greensboro to remember victims of Charleston shooting
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Posted 6:17 am, June 19, 2015, by 
 Chad Tucker
  
@@ -269,6 +461,14 @@ Pinterest
 Reddit
 Email
  
+=======
+Charleston shooting
+
+
+
+Funerals for Charleston shooting victims begin with 'message of love'
+
+>>>>>>> origin/master
 
 
 
@@ -277,10 +477,15 @@ Email
 
 
 
+<<<<<<< HEAD
+=======
+‘We are stronger because we are together as a community,’ said Emanuel AME interim pastor Norvell Goff at the service for Ethel Lance in North Charleston
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 GREENSBORO, N.C. — Dozens of people filled Bethel A.M.E. Church including people with close ties to the historic Charleston church, for a community vigil to remember the victims of the shooting.   
 
 
@@ -294,20 +499,36 @@ Weston knows the family of the victims and said the pain of Wednesday night is b
 
 
 Weston said she is searching for understanding; not just for the families who lost loved ones but also for the alleged shooter Dylann Roof, that maybe some sense will be made of the events so it won’t happen again. 
+=======
 
 
 
 
+
+
+
+
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 36.072635
 
 
 -79.791975
+=======
+
+
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 
 
 Related stories
@@ -325,10 +546,32 @@ Quick-thinking NC woman helps police nab suspect in SC church shooting that kill
 
 
 
+=======
+Sorry, your browser is unable to play this video.
+Please install Adobe Flash™ and try again.
+Alternatively upgrade to a modern browser.
 
 
 
 
+
+Services take place on Thursday for two of the nine victims of a massacre at a historic Emanuel AME Church in Charleston, South Carolina
+
+
+
+Amanda Holpuch in New York
+
+
+
+
+
+@holpuch
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
@@ -340,21 +583,39 @@ Topics:
  
 Charleston
  
+=======
+Thursday 25 June 2015 15.33 EDT
+
+
+Last modified on Thursday 25 June 2015 19.16 EDT
+
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+Share on Facebook
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 ×
 
 
 Report a Typo
 
+=======
+
+
+
+Share on Twitter
+>>>>>>> origin/master
 
 
 
@@ -362,24 +623,41 @@ Report a Typo
 
 
 
+<<<<<<< HEAD
+=======
+Share via Email
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Name
 (required)
 
 
 
+=======
+
+
+
+Share on Pinterest
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 Typo
 (required)
 
 
+=======
+
+
+Share on LinkedIn
+>>>>>>> origin/master
 
 
 
@@ -387,6 +665,10 @@ Typo
 
 
 
+<<<<<<< HEAD
+=======
+Share on Google+
+>>>>>>> origin/master
 
 
 
@@ -394,14 +676,23 @@ Typo
 
 
 
+<<<<<<< HEAD
 
 
  
+=======
+Share on WhatsApp
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Cancel
+=======
+>>>>>>> origin/master
 
 
 
@@ -414,23 +705,62 @@ Cancel
 
 
 
+<<<<<<< HEAD
+
+
+
+=======
+ Related: The Charleston shooting victims: a poet, a politician, a librarian, women of faith 
+
+The first funerals for victims of the Charleston shooting were held on Thursday, as the community honored the nine people who were gunned down at Emanuel African Methodist Episcopal church by an alleged white supremacist. 
+Funerals are scheduled into next week. 
+“I am here to tell you that we are stronger because we are together as a community,” Norvell Goff, Emanuel AME’s interim pastor, said at the service for Ethel Lance at Royal Missionary Baptist church in North Charleston. 
+On Wednesday night, Goff led the weekly Bible study class where Lance and eight others were killed exactly a week before. Hundreds gathered in the church’s basement. 
+“Many of our hearts our broken, but only God can fix a broken heart,” Goff said at the gathering. “That’s my testimony.”
+
+ Related: Funerals begin for Charleston shooting victims – in pictures 
+
+Marjorie McIver, whose sister Myra Thompson died in the attack, attended Bible study, according to the Post and Courier. Thompson’s funeral will be held on Monday at the church. 
+“God loves us,” McIver said. “He’s forgiven us of our sins. It behooves us to forgive others. That message of love, even for your enemies, even for those who use you, who despise you – that’s a powerful message.” 
+Later on Thursday, the funeral for Sharonda Coleman-Singleton, a mother of three, was held at Mt Moriah Missionary Baptist church in North Charleston. Charleston’s mayor, Joe Riley, said Singleton was “one of those extraordinary people, a coach who taught life lessons”.
+On Wednesday, thousands visited the state house rotunda, where Clementa Pinckney lay in state. Lawmakers paid their respects to the state senator and Emanuel AME pastor, as did his wife, Jennifer, and two daughters, Eliana and Malana. 
+A large, black curtain hung in front of a window in the state house lobby, blocking from sight the Confederate flag that flies over a monument on the grounds. The push to take down the flag, and stop states from allowing it on license plates or flying it on government land, has gathered momentum since the shooting, which police say was racially motivated. 
+Apple has removed war games with the Confederate flag from its app store, and the National Park Service said on Thursday it would remove all items that depict only the Confederate flag from its stores.
+Many of the lawmakers who worked with Pinckney have said they want the flag taken down, but to do so would require a two-thirds majority vote from the legislature. Governor Nikki Haley has said she supports taking down the flag. Haley said on Twitter earlier this week: “July 4th is just around the corner. It will be fitting that our state Capitol will soon fly the flags of our country & state, and no other.” 
+President Barack Obama, who said the flag “belongs in a museum”, is scheduled to deliver the eulogy at the funeral for Pinckney on Friday. The ceremony will take place at the College of Charleston, which can hold 5,400 people. The first lady, Michelle Obama, Vice-President Joe Biden and his wife, Jill Biden, are also set to attend.
+Funerals for the other victims are scheduled into next week at Emanuel AME and in the state capital, Columbia, where the funeral of Daniel Simmons will be held. Funerals for Cynthia Hurd, Tywanza Sanders and his great aunt Susie Jackson will be held at Emanuel AME on Saturday.
+On Thursday, the Charleston County council voted to rename the library Hurd managed in her honor. All 16 branches of the Charleston library will close for her funeral, so workers can attend the service. 
+The funeral for DePayne Middleton-Doctor, who was known for her talents as a singer and preacher, will be held at Emanuel AME on Sunday. 
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+
+
+
+=======
+More news 
+Topics
+
+
+
+Charleston shooting
+>>>>>>> origin/master
 
 
 
 
-
-
-
-
-
-
+<<<<<<< HEAD
 
 
  
+=======
+South Carolina
+
+
+>>>>>>> origin/master
 
 
 
@@ -439,16 +769,36 @@ Cancel
 
 
 
+<<<<<<< HEAD
+=======
+Share on Facebook
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 You Decide 2016
 
 
 FOX8’s comprehensive election coverage
+=======
+
+Share on Twitter
+
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+Share via Email
+>>>>>>> origin/master
 
 
 
@@ -456,29 +806,39 @@ FOX8’s comprehensive election coverage
 
 
 
-
-
-
-
-
-
+<<<<<<< HEAD
 
 
 
  
+=======
+Share on Pinterest
+
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
  
+=======
+Share on LinkedIn
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 Popular
 
+=======
+
+Share on Google+
+>>>>>>> origin/master
 
 
 
@@ -486,7 +846,11 @@ Popular
 
 
 
+<<<<<<< HEAD
 After shooting, Virginia gunman details grievances in ‘suicide note’ faxed to ABC News
+=======
+Share on WhatsApp
+>>>>>>> origin/master
 
 
 
@@ -495,7 +859,10 @@ After shooting, Virginia gunman details grievances in ‘suicide note’ faxed t
 
 
 
+<<<<<<< HEAD
 Va. shooter posted tweets, video of shooting on social media
+=======
+>>>>>>> origin/master
 
 
 
@@ -504,7 +871,10 @@ Va. shooter posted tweets, video of shooting on social media
 
 
 
+<<<<<<< HEAD
 Va. reporter, photographer killed on-air during live news interview, shooter kills himself
+=======
+>>>>>>> origin/master
 
 
 
@@ -513,7 +883,18 @@ Va. reporter, photographer killed on-air during live news interview, shooter kil
 
 
 
+<<<<<<< HEAD
 Iowa teachers sing ‘One Day More’ before students return to school — and it’s awesome
+=======
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+View all comments >
+>>>>>>> origin/master
 
 
 
@@ -521,31 +902,52 @@ Iowa teachers sing ‘One Day More’ before students return to school — and i
 
 
 
-
-
-
-
+<<<<<<< HEAD
 
 
 
 
 
  
+=======
+comments 
+Sign in
+or create your Guardian account to join the discussion.
+
+This discussion is closed for comments.
+
+We’re doing some maintenance right now. You can still read comments, but please come back later to add your own.
+
+
+Commenting has been disabled for this account (why?)
+
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 Latest News
 
 
 
 
+=======
+Order by 
+
+
+newest
+
+
+oldest
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Middle school teacher welcomes students back to magical Harry Potter-themed classroom
 
 
@@ -556,10 +958,26 @@ Middle school teacher welcomes students back to magical Harry Potter-themed cla
 
 
 Greesnsboro police searching for man who exposed himself in front of children at Lawndale Target
+=======
+Show 25
+
+
+25
+
+
+50
+
+
+100
+
+
+All
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -567,16 +985,37 @@ Greesnsboro police searching for man who exposed himself in front of children at
 Father allegedly robs bank to pay for daughter’s chemotherapy
 
 
+=======
+Threads 
+
+
+collapsed
+
+
+expanded
+
+
+unthreaded
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 
 Calif. man bitten while taking selfie with rattlesnake
 
 
 
+=======
+Loading comments… Trouble loading?
+
+
+
+
+View more comments
+>>>>>>> origin/master
 
 
 
@@ -596,6 +1035,10 @@ Calif. man bitten while taking selfie with rattlesnake
 
 
 
+<<<<<<< HEAD
+=======
+popular
+>>>>>>> origin/master
 
 
 
@@ -608,46 +1051,75 @@ Calif. man bitten while taking selfie with rattlesnake
 
 
 
+<<<<<<< HEAD
+=======
+ 
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 News
 
 
 
 
 Local AME church remembers South Carolina victims
+=======
+
+
+
+The Guardian
+
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 News
 
 
 
 
 Winston-Salem man’s cousin killed in Charleston church shooting
+=======
+
+back to top
+
+
+
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 News
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Woman says Charleston shooter spared her to ‘tell everyone’ what happened
 
+=======
+
+home
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 News
 
@@ -668,19 +1140,53 @@ News
 
 New details emerge about how the Charleston shooting unfolded
 
+=======
+US
+selected
 
 
 
 
+world
+
+
+
+
+opinion
+
+
+
+
+sports
+
+
+
+
+soccer
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
  
 
+=======
+tech
 
 
 
 
+arts
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 News
 
@@ -701,23 +1207,59 @@ News
 
 Charleston church shooting suspect hears victims’ kin say, ‘I forgive you’
 
+=======
+lifestyle
 
 
 
 
+fashion
+
+
+
+
+business
+
+
+
+
+travel
+
+
+
+
+environment
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 News
+=======
+science
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Police release photos of suspect in Charleston church shooting
 
 
+=======
+
+
+all sections
+close
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 News
 
 
@@ -737,19 +1279,51 @@ News
 
 Former NC senator’s sister among 9 killed in Charleston church shooting
 
+=======
+
+
+
+home
 
 
 
 
+US
+selected
+
+
+
+
+world
+
+
+
+
+UK
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
  
 
+=======
+europe
 
 
 
 
+americas
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 News
 
@@ -770,43 +1344,98 @@ News
 
 Charleston remembers three more with services for victims of church massacre
 
+=======
+asia
 
 
 
 
+middle east
+
+
+
+
+africa
+
+
+
+
+australia
+
+
+
+
+cities
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 News
+=======
+development
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Worshippers return to South Carolina church after shooting that killed nine
 
+=======
+
+opinion
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+sports
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+soccer
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
  
 
 
 
+=======
+MLS
 
 
 
 
+NFL
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+MLB
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 Mobile Apps
 Android App
@@ -822,10 +1451,26 @@ iPhone & iPad App
 
 
 
+=======
+NBA
 
 
 
 
+NHL
+
+
+
+
+
+
+soccer
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
@@ -843,20 +1488,47 @@ Pinterest
 
 About & Contact
 
+=======
+live scores
+
+
+
+
+tables
+
+
+
+
+competitions
+
+
+
+
+results
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+fixtures
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+clubs
+>>>>>>> origin/master
 
 
 
 
 
 
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 
 Online Public File
  • 				
@@ -878,80 +1550,154 @@ WordPress.com VIP
 
 
 
+=======
+tech
 
 
 
 
+arts
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+movies
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 ×
 
 
 Email Alerts
 
+=======
+tv & radio
+
+
+
+
+music
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+games
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+books
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+art & design
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+stage
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+classical
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+lifestyle
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+food
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+health & fitness
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+love & sex
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+family
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+women
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+home & garden
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+fashion
+>>>>>>> origin/master
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 
 Follow
 
@@ -972,39 +1718,88 @@ Join 54,924 other followers
 
 
 
+=======
+business
+
+
+
+
+economics
+
+
+
+
+sustainable business
+
+
+
+
+diversity & equality in business
+
+
+
+
+small business
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+travel
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+USA
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 Build a website with WordPress.com
 
 
 
+=======
+europe
+
+
+
+
+UK
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+environment
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+climate change
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -1022,14 +1817,39 @@ Your Email Address
 
 
 
+=======
+wildlife
+
+
+
+
+energy
+
+
+
+
+pollution
 
 
 
 
 
 
+science
+>>>>>>> origin/master
 
 
+
+
+<<<<<<< HEAD
+=======
+media
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
@@ -1049,6 +1869,79 @@ Cancel
 
 
 
+=======
+crosswords
+
+
+
+
+video
+
+
+
+
+
+
+
+
+
+
+
+US News
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+›
+Charleston shooting
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+
+
+
+
+
+
+
+
+
+
+=======
+jobs
+
+subscribe
+all topics
+all contributors
+
+
+report technical issue
+
+
+
+about us
+
+contact us
+
+complaints & corrections
+terms & conditions
+privacy policy
+cookie policy
+securedrop
+
+
+© 2015 Guardian News and Media Limited or its affiliated companies. All rights reserved.
+>>>>>>> origin/master
 
 
 
@@ -1061,25 +1954,13 @@ Cancel
 
 
 
+<<<<<<< HEAD
+=======
 
 
 
 
 
+ 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+>>>>>>> origin/master

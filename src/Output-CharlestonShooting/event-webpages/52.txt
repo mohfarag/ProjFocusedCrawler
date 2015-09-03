@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Charleston church shooting: 21-year-old suspect captured as 'holy city' mourns | US news | The Guardian
 
 
@@ -6,6 +7,17 @@ Charleston church shooting: 21-year-old suspect captured as 'holy city' mourns |
 
 
 
+=======
+Vigils held in Harlem to remember victims of South Carolina church shooting | New York's PIX11 / WPIX-TV 
+Vigils held in Harlem to remember victims of South Carolina church shooting | New York's PIX11 / WPIX-TV
+
+
+
+
+
+
+GoSearch
+>>>>>>> origin/master
 
 
 
@@ -13,37 +25,79 @@ Charleston church shooting: 21-year-old suspect captured as 'holy city' mourns |
 
 
 
+<<<<<<< HEAD
+
+
+
+=======
+ Replay: PIX11 News   
+
+PIX11 TV Schedule 
+
+
+ Search
+ Contact Us
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+
+
+=======
+New York's PIX11 / WPIX-TV
+
+ Menu
+
+NEWS
+Local
+Morning
+Sports
+PIX Team
+Contests
+PIX PLUS
+Traffic
+Events
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+
+=======
+Weather 
+
+78°
+>>>>>>> origin/master
 
 
 
 
 
 
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 Close
 
 
 
+=======
+
+78°
+
+
+Low 73°
+High 87°
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -2431,10 +2485,35 @@ clubs
 tech
 
 
+=======
+Mon
+
+
+					72°  84°
+					
+
+
+Tue
+
+
+					74°  80°
+					
+
+
+Wed
+
+
+					72°  86°
+					
+
+
+See complete forecast
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 arts
@@ -2709,32 +2788,54 @@ wildlife
 
 
 
+=======
+ 
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 energy
+=======
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 
 
 
 pollution
+=======
+ 
+
+
+
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+
+
+=======
+Vigils held in Harlem to remember victims of South Carolina church shooting
+
+Posted 10:18 PM, June 18, 2015, by Ann Mercogliano 
+
+FacebookTwitterRedditPinterestEmailGoogle 
+>>>>>>> origin/master
 
 
 
 
 
-
-
-
-
-
-
+<<<<<<< HEAD
 
 science
 
@@ -2749,12 +2850,46 @@ media
 
 
 
+=======
+NEW YORK — In Harlem, many gathered for vigils and prayer services on Thursday night to remember the nine lives lost when a gunman opened fire in a South Carolina church, an attack that is being investigated as a hate crime.
+In addition to heartbreak and anger, security was also visible at the gatherings.
+As a precaution, the NYPD said it notified the Patrol Services Bureau, as well as Intelligence and Counter-Terrorism Bureaus, to pay special attention to any church locations throughout the city.
+Meanwhile, many in Harlem Thursday night prayed for victims and denounced the violence. There was a vigil at the Abyssinian Baptist Church followed by a march.
+Dozens marched, some from other locations, and a group from the Abyssinian Baptist Church, all ending at the First A.M.E. Church: Bethel in Harlem.
+Suspected gunman Dylan Storm Roof, 21, was taken into custody during a traffic stop in Shelby, North Carolina, Thursday — a day after the massacre. Roof allegedly said he was at the church to shoot black people.
+“I am so pleased that we were able to resolve this case quickly not only for the families, but for our community, for our state,” said Chief Gregory Mullen with the Charleston Police Department.
+On Thursday night, the pain was evident in Harlem, prayers were many, and a message of support was clear.
+“A house of prayer is supposed to be a sanctuary, a place of peace,” Harlem resident Landon Dais said.
+There was also a moment of silence for the victims.
+In a statement, the NYPD said: “Our Intelligence Bureau will continue to maintain liaison with the various law enforcement agencies investigating the Charleston incident and assess the NYPD response accordingly.”
+The Department of Justice has opened a hate crime investigation into the South Carolina shooting.
+
+
+PHOTO GALLERY: Mermaid Parade 2015 [NSFW]
+
+
+PHOTOS & VIDEO: ‘Seinfield’ fans can visit Jerry’s apartment in new exhibit
+
+
+DNA test proves ‘fried rat’ was a chicken tender, KFC says
+
+
+New Yorkers strip down for No Pants Subway Ride [PHOTOS & VIDEO]
+
+
+
+
+Filed in: News 
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 crosswords
+=======
+>>>>>>> origin/master
 
 
 
@@ -2763,21 +2898,33 @@ crosswords
 
 
 
+<<<<<<< HEAD
 blog
+=======
+ 
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 
 
 editor
+=======
+Watch NJ Lottery drawings live
+Winning numbers and daily results
+
+
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -2795,10 +2942,35 @@ cryptic
 
 
 
+=======
+ 
+
+ 
+
+
+Popular
+
+
+
+Father charged with abandoning 3-year-old daughter at Harlem Subway
+
+
+
+Scientists baffled by mysterious creature with ‘beak’ and ‘fur’ that washed ashore
+
+
+
+North Carolina beach has 2 shark incidents in same day
+
+
+
+Missing Connecticut teen found safe after flying to Morocco to meet Facebook boyfriend
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 prize
 
 
@@ -2819,14 +2991,45 @@ quiptic
 
 genius
 
+=======
+
+
+
+ 
+
+
+Latest News
+
+
+
+Shoppers say goodbye to iconic FAO Schwarz flagship store
+
+
+
+2 teens shot near Brooklyn Museum: NYPD
+
+
+
+Nintendo President Satoru Iwata dies at 55
+
+
+
+Tyson investigating claims of animal abuse at chicken farms
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 
 
 speedy
+=======
+ 
+
+
+>>>>>>> origin/master
 
 
 
@@ -2835,6 +3038,7 @@ speedy
 
 
 
+<<<<<<< HEAD
 everyman
 
 
@@ -2884,12 +3088,88 @@ video
 US News
 
 
+=======
+
+
+News
+
+How South Carolina church massacre spurred reaction in NYC
+
+
+Brooklyn News
+
+Emotional vigil held in Brooklyn for Charleston victims
+
+
+News
+
+Tip from woman heading to work led police to suspected church shooter
+
+
+News
+
+Family of Charleston shooting suspect makes first statement on slayings
+
+
+News
+
+Who were the Charleston victims?: 9 lives lost to family and community
+
+
+
+ 
+
+
+News
+
+Who is the Charleston church shooting suspect?
+
+
+News
+
+Suspected church shooter Dylann Roof confesses to massacre: source
+
+
+News
+
+‘Hate will not win': Victims’ families tell suspected church shooter they forgive him
+
+
+News
+
+Charleston minister: ‘No evildoer, no demon’ can close church
+
+
+Morning
+
+S.C. deadly church shooting aftermath: Protecting religious institutions from hate groups
+
+
+
+ 
+
+
+News
+
+Dylann Roof says he almost backed out because everyone at church was ‘so nice’
+
+
+News
+
+Woman says Charleston shooter spared her to ‘tell everyone’ what happened
+
+
+News
+
+New Yorkers struggle to keep Harlem roots amid gentrification
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 
 
 ›
@@ -2897,6 +3177,27 @@ US News
 
 Charleston shooting
 
+=======
+ 
+
+
+
+
+
+Mobile AppsAndroid App
+iPhone & iPad App
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+Facebook
+Twitter
+Instagram
+About & Contact
+>>>>>>> origin/master
 
 
 
@@ -2904,15 +3205,20 @@ Charleston shooting
 
 
 
+<<<<<<< HEAD
+=======
+Online Public File • 				Terms of Service •
+		Privacy Policy  •
+		220 East 42nd Street New York, NY 10017 212-949-1100  •
+		Copyright © 2015, WPIX		 • A Tribune Broadcasting Station •
+		Powered by WordPress.com VIP 
+>>>>>>> origin/master
 
 
 
 
 
-
-
-
-
+<<<<<<< HEAD
 jobs
 
 
@@ -2924,18 +3230,33 @@ all topics
 
 
 all contributors
+=======
+×
+Email Alerts
 
 
 
 
 
+
+
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
 report technical issue
+=======
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 about us
 
 
@@ -2958,15 +3279,80 @@ cookie policy
 
 securedrop
 
+=======
 
 
 
 
 
+
+
+
+
+
+
+
+Follow
+
+Follow “New York's PIX11 / WPIX-TV”
+
+Get every new post delivered to your Inbox.
+
+Join 4,974 other followers
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
 © 2015 Guardian News and Media Limited or its affiliated companies. All rights reserved.
 
 
 
+=======
+
+
+
+Build a website with WordPress.com
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+
+
+=======
+Send to Email Address
+
+Your Name
+
+Your Email Address
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
+
+
+
+=======
+Cancel
+
+				Post was not sent - check your email addresses!			
+
+				Email check failed, please try again			
+
+				Sorry, your blog cannot share posts by email.			
+>>>>>>> origin/master
 
 
 
@@ -2981,26 +3367,10 @@ securedrop
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
  
+=======
+>>>>>>> origin/master
 
 
 

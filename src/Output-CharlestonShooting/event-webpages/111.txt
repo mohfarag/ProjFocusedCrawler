@@ -1,9 +1,15 @@
+<<<<<<< HEAD
 Republican candidates reaffirm gun rights support after Charleston shooting | US news | The Guardian
 
 
 
 Republican candidates reaffirm gun rights support after Charleston shooting | US news | The Guardian
 
+=======
+Charleston shooting | US news | The Guardian
+
+Charleston shooting | US news | The Guardian
+>>>>>>> origin/master
 
 
 
@@ -19,23 +25,10 @@ Republican candidates reaffirm gun rights support after Charleston shooting | US
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
+=======
 Close
+>>>>>>> origin/master
 
 
 
@@ -44,6 +37,32 @@ Close
 
 
 
+<<<<<<< HEAD
+
+=======
+Skip to main content
+
+ 
+>>>>>>> origin/master
+
+
+
+
+
+
+
+<<<<<<< HEAD
+Close
+=======
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+sign in
+>>>>>>> origin/master
 
 
 
@@ -52,8 +71,17 @@ Close
 
 
 
+<<<<<<< HEAD
+=======
+subscribe
+>>>>>>> origin/master
 
 
+
+
+
+
+<<<<<<< HEAD
 Skip to main content
 
 
@@ -61,86 +89,128 @@ Skip to main content
 
  
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-sign in
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-subscribe
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+=======
 
 search
 
 
 
 
+jobs
+>>>>>>> origin/master
 
 
 
 
+
+
+
+
+
+
+<<<<<<< HEAD
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=======
+more
+
+
+from the guardian:
 
 
 jobs
 
 
 
+change edition:
+
+
+
+switch to the  UK  edition
+
+
+switch to the  AU  edition
+
+
+switch to the 
+INT
+beta
+ edition
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
+sign in
+
+
+
+=======
+
+
+
+US edition
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+switch to the 
+UK edition
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+switch to the 
+Australia edition
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+
+
+
+subscribe
+=======
+switch to the 
+International
+beta
+
+
+
+>>>>>>> origin/master
+
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+The Guardian
+>>>>>>> origin/master
 
 
 
@@ -150,6 +220,30 @@ jobs
 
 
 
+<<<<<<< HEAD
+search
+=======
+>>>>>>> origin/master
+
+
+
+
+
+
+
+<<<<<<< HEAD
+
+
+
+jobs
+=======
+home
+
+
+›
+US
+
+>>>>>>> origin/master
 
 
 
@@ -159,6 +253,32 @@ jobs
 
 
 
+<<<<<<< HEAD
+=======
+home
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+US
+selected
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+world
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 more
 
@@ -169,28 +289,60 @@ more
 
 from the guardian:
 
+=======
+opinion
 
 
 
 
+sports
+
+
+
+
+soccer
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 jobs
 
 
 
+=======
+tech
 
 
 
 
+arts
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 change edition:
 
 
 
+=======
+lifestyle
 
 
 
 
+fashion
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 switch to the 
  UK 
@@ -205,10 +357,24 @@ switch to the
  AU 
  edition
 
+=======
+business
 
 
 
 
+travel
+
+
+
+
+environment
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 switch to the 
 
@@ -220,6 +386,29 @@ beta
 
 
  edition
+=======
+science
+
+
+
+
+
+
+browse all sections
+close
+
+>>>>>>> origin/master
+
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+ 
+>>>>>>> origin/master
 
 
 
@@ -228,29 +417,38 @@ beta
 
 
 
-
-
-
-
-
-
-
+<<<<<<< HEAD
 
 
 US edition
+=======
+Charleston shooting
+
+The latest news and comment on the Charleston church shooting in South Carolina 
+
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
+=======
+12 July 2015
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 switch to the 
 
 
 UK edition
+=======
+
+
+>>>>>>> origin/master
 
 
 
@@ -261,11 +459,19 @@ UK edition
 
 
 
+<<<<<<< HEAD
 switch to the 
 
 
 Australia edition
 
+=======
+
+New Orleans mayor lays out broad plan to rid city of Confederate relics
+
+
+Mitch Landrieu aims to rid city of statues of Jefferson Davis, Robert E Lee, and other Confederate leaders while he calls for the renaming of a major parkway
+>>>>>>> origin/master
 
 
 
@@ -275,6 +481,7 @@ Australia edition
 
 
 
+<<<<<<< HEAD
 switch to the 
 
 
@@ -284,6 +491,16 @@ International
 beta
 
 
+=======
+
+
+Published: 10:13 AM
+
+
+
+
+New Orleans mayor lays out broad plan to rid city of Confederate relics
+>>>>>>> origin/master
 
 
 
@@ -296,6 +513,10 @@ beta
 
 
 
+<<<<<<< HEAD
+=======
+10 July 2015
+>>>>>>> origin/master
 
 
 
@@ -304,7 +525,28 @@ beta
 
 
 
+<<<<<<< HEAD
 The Guardian
+=======
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+
+
+=======
+South Carolina's Confederate flag comes down as history of hate meets modernity
+
+
+In a cathartic moment, the controversial standard was consigned to a museum. But taking down a symbol is easier than dealing with what it represents
+>>>>>>> origin/master
 
 
 
@@ -316,6 +558,18 @@ The Guardian
 
 
 
+<<<<<<< HEAD
+=======
+Published: 2:30 PM
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+South Carolina's Confederate flag comes down as history of hate meets modernity
+>>>>>>> origin/master
 
 
 
@@ -324,32 +578,26 @@ The Guardian
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 home
+=======
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 ›
 
 
 US
+=======
+
+FBI chief admits gun background check system failure over Dylann Roof
+
+>>>>>>> origin/master
 
 
 
@@ -362,13 +610,23 @@ US
 
 
 
+<<<<<<< HEAD
+=======
+Published: 2:07 PM
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 home
+=======
+FBI chief admits gun background check system failure over Dylann Roof
+
+
+>>>>>>> origin/master
 
 
 
@@ -378,19 +636,30 @@ home
 
 
 
+<<<<<<< HEAD
 US
 
 selected
 
 
 
+=======
+
+
+
+
+Muslim and Jewish groups at forefront of efforts to rebuild black churches
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 world
+=======
+>>>>>>> origin/master
 
 
 
@@ -398,17 +667,29 @@ world
 
 
 
+<<<<<<< HEAD
 
 opinion
 
 
 
+=======
+Published: 12:17 PM
+
+
+
+
+Muslim and Jewish groups at forefront of efforts to rebuild black churches
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 sports
+=======
+>>>>>>> origin/master
 
 
 
@@ -416,8 +697,13 @@ sports
 
 
 
+<<<<<<< HEAD
 
 soccer
+=======
+9 July 2015
+
+>>>>>>> origin/master
 
 
 
@@ -426,7 +712,10 @@ soccer
 
 
 
+<<<<<<< HEAD
 tech
+=======
+>>>>>>> origin/master
 
 
 
@@ -435,7 +724,10 @@ tech
 
 
 
+<<<<<<< HEAD
 arts
+=======
+>>>>>>> origin/master
 
 
 
@@ -443,8 +735,15 @@ arts
 
 
 
+<<<<<<< HEAD
 
 lifestyle
+=======
+Sorry, your browser is unable to play this video.
+Please install Adobe Flash™ and try again.
+Alternatively upgrade to a modern browser.
+
+>>>>>>> origin/master
 
 
 
@@ -453,7 +752,10 @@ lifestyle
 
 
 
+<<<<<<< HEAD
 fashion
+=======
+>>>>>>> origin/master
 
 
 
@@ -462,16 +764,26 @@ fashion
 
 
 
+<<<<<<< HEAD
 business
+=======
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 
 
 
 travel
+=======
+South Carolina governor signs law to remove Confederate flag – video
+
+
+
+>>>>>>> origin/master
 
 
 
@@ -480,16 +792,28 @@ travel
 
 
 
+<<<<<<< HEAD
 environment
 
 
+=======
+
+
+Published: 6:27 PM
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 science
+=======
+South Carolina governor signs law to remove Confederate flag – video
+
+
+>>>>>>> origin/master
 
 
 
@@ -500,6 +824,7 @@ science
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -509,6 +834,34 @@ all
 
 
 close
+=======
+South Carolina governor signs law ordering removal of Confederate flag
+
+
+
+
+
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+Published: 4:19 PM
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+South Carolina governor signs law ordering removal of Confederate flag
+>>>>>>> origin/master
 
 
 
@@ -522,6 +875,13 @@ close
 
 
 
+<<<<<<< HEAD
+
+=======
+My South Carolina university is whitewashing its complex racial history
+
+AD Carson
+>>>>>>> origin/master
 
 
 
@@ -534,36 +894,39 @@ close
 
 
 
+<<<<<<< HEAD
+=======
+Published: 11:14 AM
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+My South Carolina university is whitewashing its complex racial history
+>>>>>>> origin/master
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 US elections 2016
+=======
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 
 Republican candidates reaffirm gun rights support after Charleston shooting
+=======
+'A new day in South Carolina' as house votes to remove Confederate flag
+
+>>>>>>> origin/master
 
 
 
@@ -576,14 +939,41 @@ Republican candidates reaffirm gun rights support after Charleston shooting
 
 
 
+<<<<<<< HEAD
+=======
+Published: 8:45 AM
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 
 ‘Everybody’s for the second amendment,’ Rand Paul said at conservative conference that coincided with Obama’s speech denouncing US gun violence
+=======
+'A new day in South Carolina' as house votes to remove Confederate flag
+
+
+
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+8 July 2015
+>>>>>>> origin/master
 
 
 
@@ -601,6 +991,15 @@ Republican candidates reaffirm gun rights support after Charleston shooting
 
 
 
+<<<<<<< HEAD
+
+
+=======
+Slew of amendments hamper South Carolina push to ditch Confederate flag
+
+
+Tempers begin to fray during marathon session as Republicans launch dozens of proposed amendments 
+>>>>>>> origin/master
 
 
 
@@ -611,51 +1010,59 @@ Republican candidates reaffirm gun rights support after Charleston shooting
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 Marco Rubio declared his steadfast support of the right to bear arms at the Faith and Freedom Coalition conference.
 Photograph: ddp USA/REX Shutterstock/ddp USA/REX Shutterstock
 
+=======
+
+Published: 3:57 PM
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+Slew of amendments hamper South Carolina push to ditch Confederate flag
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Sabrina Siddiqui
  and 
 
 
 Dan Roberts
  in Washington
+=======
+
+
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 Thursday 18 June 2015 
 16.44 EDT
 
+=======
+
+7 July 2015
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Last modified on Saturday 20 June 2015 
 12.23 EDT
+=======
+>>>>>>> origin/master
 
 
 
@@ -669,10 +1076,18 @@ Last modified on Saturday 20 June 2015
 
 
 
+<<<<<<< HEAD
 
 
 
 Share on Facebook
+=======
+South Carolina senate backs removal of Confederate flag from capitol
+
+
+Republicans in state house of representatives work to ensure a Confederate-linked symbol remains at the state house
+
+>>>>>>> origin/master
 
 
 
@@ -683,13 +1098,23 @@ Share on Facebook
 
 
 
+<<<<<<< HEAD
+=======
+Published: 7:01 PM
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 Share on Twitter
+=======
+South Carolina senate backs removal of Confederate flag from capitol
+
+
+>>>>>>> origin/master
 
 
 
@@ -703,10 +1128,17 @@ Share on Twitter
 
 
 
+<<<<<<< HEAD
 
 
 
 Share via Email
+=======
+Alabama city votes to pull Confederate flag as Florida town flies it again
+
+
+
+>>>>>>> origin/master
 
 
 
@@ -717,13 +1149,23 @@ Share via Email
 
 
 
+<<<<<<< HEAD
+=======
+Published: 5:49 PM
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 Share on Pinterest
+=======
+Alabama city votes to pull Confederate flag as Florida town flies it again
+
+
+>>>>>>> origin/master
 
 
 
@@ -737,10 +1179,17 @@ Share on Pinterest
 
 
 
+<<<<<<< HEAD
 
 
 
 Share on LinkedIn
+=======
+Dylann Roof faces new charges over Charleston church shooting
+
+
+
+>>>>>>> origin/master
 
 
 
@@ -751,13 +1200,23 @@ Share on LinkedIn
 
 
 
+<<<<<<< HEAD
+=======
+Published: 12:59 PM
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 Share on Google+
+=======
+Dylann Roof faces new charges over Charleston church shooting
+
+
+>>>>>>> origin/master
 
 
 
@@ -768,13 +1227,20 @@ Share on Google+
 
 
 
+<<<<<<< HEAD
+=======
+6 July 2015
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 Share on WhatsApp
+=======
+>>>>>>> origin/master
 
 
 
@@ -789,6 +1255,16 @@ Share on WhatsApp
 
 
 
+<<<<<<< HEAD
+
+
+=======
+Gun-control supporters must use their opponents' own tactics against them
+
+Joshua Spivak
+
+Advocates know that the pro-gun lobby are more adept at using existing political weapons to get a reaction from politicians
+>>>>>>> origin/master
 
 
 
@@ -800,24 +1276,34 @@ Share on WhatsApp
 
 
 
+<<<<<<< HEAD
+=======
+Published: 7:15 AM
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+Gun-control supporters must use their opponents' own tactics against them
+>>>>>>> origin/master
 
 
 
 
 
-
-
-
-
-
-
+<<<<<<< HEAD
 Less than one day after a white gunman killed nine people at a prayer meeting at a historic black church in Charleston, 
 South Carolina
 , Republican presidential candidates touted their support for the right to bear arms before a mass gathering of conservatives.
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
  
 Related: 
 Charleston church shooting suspect Dylann Roof in custody – latest updates
@@ -840,23 +1326,48 @@ Marco Rubio
 Although the rousing defenses of gun ownership were not made in reference to the Charleston church massacre – and are routinely part of both candidates’ stump speeches when addressing social conservatives – the comments coincided with what political watchers said was 
 at least the 14th time Barack Obama
  has been forced to address gun violence in America.
+=======
+
+
+
+5 July 2015
 
 
 
 
+
+
+
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
  
 Related: 
 Charleston church shooting: Obama calls for gun control in wake of tragedy
  
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Speaking at the White House, Obama said the shooting at Emanuel African Methodist Episcopal (AME) church could “shift how we think about the issue of gun violence”.
 
 
 
 
+=======
+
+
+Defiant Nascar fans pledge allegiance to their Confederate flags
+
+
+Dozens of the civil war-era flags were scattered throughout the vast infield in Daytona despite the series urging fans to no longer wave the banner
+>>>>>>> origin/master
 
 
 
@@ -868,6 +1379,7 @@ Speaking at the White House, Obama said the shooting at Emanuel African Methodis
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -876,6 +1388,14 @@ Speaking at the White House, Obama said the shooting at Emanuel African Methodis
  
  Sorry, your browser is unable to play this video. 
 
+=======
+Published: 2:26 PM
+
+
+
+
+Defiant Nascar fans pledge allegiance to their Confederate flags
+>>>>>>> origin/master
 
 
 
@@ -883,6 +1403,7 @@ Speaking at the White House, Obama said the shooting at Emanuel African Methodis
 
 
 
+<<<<<<< HEAD
  
 Facebook
  
@@ -896,20 +1417,34 @@ Twitter
  
 Pinterest
  
+=======
 
 
 
 
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 Barack Obama says similar shootings have happened ‘too many times.’
 
 Link to video
+=======
+Nikki Haley: 'I could not look my kids in the face and justify that flag'
+
+
+South Carolina governor reflects on call for Confederate flag’s removal, saying Charleston shooting victims are ‘forever ingrained in my soul’
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 At the conference across town, Paul did directly address the Charleston killings just a few minutes into his remarks, as did Texas senator 
 Ted Cruz
 , another Republican presidential candidate who spoke at the event.
@@ -926,11 +1461,25 @@ Cruz opened his speech by holding a moment of silence for the victims of what he
 
 Rubio did not mention the shooting at all during his remarks, although he tweeted earlier on Thursday that he was “saddened” by the event.
 
+=======
 
 
 
 
 
+Published: 1:50 PM
+
+
+
+
+Nikki Haley: 'I could not look my kids in the face and justify that flag'
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
 — Marco Rubio (@marcorubio)
 
 
@@ -941,11 +1490,22 @@ Saddened by the news from Charleston. The victims and their families are in my p
 
 
 
+=======
 
 
 
 
 
+
+
+3 July 2015
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
 By contrast, a visibly frustrated Obama 
 reacted to the shooting
  by pointing out that he has had “to make statements like this too many times”.
@@ -955,18 +1515,28 @@ reacted to the shooting
 
 
 Republican lawmakers in Washington remain overwhelmingly opposed to gun control and blocked an expansion of background checks in the US Senate shortly after the 2012 mass shooting by 20-year-old Adam Lanza at an elementary school in Newtown, Connecticut, which left 20 children and six educators dead. 
+=======
 
 
 
 
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
  
 Related: 
 Charleston church shooting: Without gun control, racism will keep killing black people | Gary Younge
  
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 All of the roughly dozen Republican contenders for president have consistently flaunted their support for the second amendment while on the campaign trail, often warning that the Obama administration is out to grab guns from ordinary citizens.
 
 
@@ -997,14 +1567,43 @@ a campaign event on pensions
 Clinton was also more outspoken than 
 Obama
 , saying gun control would have to happen “at some point”.
+=======
+Golfer Bubba Watson criticised for vow to take Confederate flag off 'General Lee' car
+
+
+Two-time Masters champion abused on social media for making gesture in wake of wider debate about flag’s meaning
 
 
 
 
+
+
+
+
+
+
+
+Published: 11:01 PM
+
+
+
+
+Golfer Bubba Watson criticised for vow to take Confederate flag off 'General Lee' car
+
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 “We will stand with you as we seek answers and take action,” she told the National Association of Latino Elected and Appointed Officials conference in Las Vegas.
 
 
 “How many innocent people in our country from little children, church members to movie theater attendees – how many people do we need to see cut down before we act?” the former secretary of state asked.
+=======
+
+
+>>>>>>> origin/master
 
 
 
@@ -1015,15 +1614,27 @@ Obama
 
 
 
+<<<<<<< HEAD
 Topics
 
 
 
+=======
+
+A view from the south: let the Confederate flag go
+
+Barbara Kingsolver
+
+The Confederate emblem was about pride as well as hatred, but racists have twisted its meaning
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 US elections 2016
+=======
+>>>>>>> origin/master
 
 
 
@@ -1031,17 +1642,29 @@ US elections 2016
 
 
 
+<<<<<<< HEAD
 
 US gun control
 
 
 
+=======
+Published: 1:00 AM
+
+
+
+
+A view from the south: let the Confederate flag go
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 Republicans
+=======
+>>>>>>> origin/master
 
 
 
@@ -1049,8 +1672,13 @@ Republicans
 
 
 
+<<<<<<< HEAD
 
 US politics
+=======
+2 July 2015
+
+>>>>>>> origin/master
 
 
 
@@ -1059,7 +1687,10 @@ US politics
 
 
 
+<<<<<<< HEAD
 Marco Rubio
+=======
+>>>>>>> origin/master
 
 
 
@@ -1067,15 +1698,26 @@ Marco Rubio
 
 
 
+<<<<<<< HEAD
 More…
 
 
 
+=======
+
+Latest black church fire in South Carolina had 'natural' cause, authorities say
+
+
+Officers close investigation in Greeleyville after finding ‘no indicator of criminal intent’
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Ted Cruz
+=======
+>>>>>>> origin/master
 
 
 
@@ -1083,17 +1725,29 @@ Ted Cruz
 
 
 
+<<<<<<< HEAD
 
 Rand Paul
 
 
 
+=======
+Published: 2:03 PM
+
+
+
+
+Latest black church fire in South Carolina had 'natural' cause, authorities say
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 Barack Obama
+=======
+>>>>>>> origin/master
 
 
 
@@ -1102,16 +1756,28 @@ Barack Obama
 
 
 
+<<<<<<< HEAD
 Gun crime
 
 
 
 
+=======
+
+
+Dylann Roof's sister tries to raise funds online to reschedule her wedding
+
+
+GoFundMe page, which has since been removed, had asked for $5,000 in contributions after Charleston church shooting forced cancellation
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Charleston shooting
+=======
+>>>>>>> origin/master
 
 
 
@@ -1119,11 +1785,20 @@ Charleston shooting
 
 
 
+<<<<<<< HEAD
 
 South Carolina
 
 
 
+=======
+Published: 2:02 PM
+
+
+
+
+Dylann Roof's sister tries to raise funds online to reschedule her wedding
+>>>>>>> origin/master
 
 
 
@@ -1136,13 +1811,20 @@ South Carolina
 
 
 
+<<<<<<< HEAD
+=======
+1 July 2015
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 Share on Facebook
+=======
+>>>>>>> origin/master
 
 
 
@@ -1154,12 +1836,22 @@ Share on Facebook
 
 
 
+<<<<<<< HEAD
 
 
 
 
 
 Share on Twitter
+=======
+TV Land drops Dukes of Hazzard reruns amid Confederate flag controversy
+
+
+The network declined to specify reason for pulling 1980s sitcom, but civil war-era flag that has fuelled national debate is displayed on show’s General Lee car
+
+
+
+>>>>>>> origin/master
 
 
 
@@ -1168,15 +1860,26 @@ Share on Twitter
 
 
 
+<<<<<<< HEAD
+=======
+Published: 3:24 PM
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+TV Land drops Dukes of Hazzard reruns amid Confederate flag controversy
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Share via Email
+=======
+>>>>>>> origin/master
 
 
 
@@ -1185,6 +1888,10 @@ Share via Email
 
 
 
+<<<<<<< HEAD
+=======
+30 June 2015
+>>>>>>> origin/master
 
 
 
@@ -1193,7 +1900,10 @@ Share via Email
 
 
 
+<<<<<<< HEAD
 Share on Pinterest
+=======
+>>>>>>> origin/master
 
 
 
@@ -1206,11 +1916,21 @@ Share on Pinterest
 
 
 
+<<<<<<< HEAD
 
 
 
 
 Share on LinkedIn
+=======
+The west has normalised racist wars - but you can’t solve complex problems with 1,000lb bombs
+
+Frankie Boyle
+
+‘Radicalisation’ is our new dirty word in the US and UK, yet radical change is needed. Here’s an idea: stop trying to fix the world with high explosives
+
+
+>>>>>>> origin/master
 
 
 
@@ -1220,14 +1940,25 @@ Share on LinkedIn
 
 
 
+<<<<<<< HEAD
+=======
+Published: 12:54 PM
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 
 Share on Google+
+=======
+The west has normalised racist wars - but you can’t solve complex problems with 1,000lb bombs
+
+
+
+>>>>>>> origin/master
 
 
 
@@ -1243,9 +1974,40 @@ Share on Google+
 
 
 
+<<<<<<< HEAD
 
 Share on WhatsApp
 
+=======
+Obama's 'Amazing Grace' is a sign of music's powerful role in black churches
+
+Guthrie P Ramsey
+
+Obama united his audience – mostly black church-goers – with their history, and joined himself to that history
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+Published: 10:15 AM
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+Obama's 'Amazing Grace' is a sign of music's powerful role in black churches
+>>>>>>> origin/master
 
 
 
@@ -1261,6 +2023,15 @@ Share on WhatsApp
 
 
 
+<<<<<<< HEAD
+
+
+=======
+Nikki Haley and the Confederate flag: the latest battle in career that defies the odds
+
+
+The 43-year-old Indian American governor, one of the Republican party’s unlikeliest stars, finds herself squarely in the spotlight again for her call to remove the Confederate flag from the South Carolina statehouse grounds
+>>>>>>> origin/master
 
 
 
@@ -1272,24 +2043,19 @@ Share on WhatsApp
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
  
+=======
+Published: 7:51 AM
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+Nikki Haley and the Confederate flag: the latest battle in career that defies the odds
+>>>>>>> origin/master
 
 
 
@@ -1300,11 +2066,28 @@ Share on WhatsApp
 
 
 
-
-
-
-
+<<<<<<< HEAD
 more on this story
+=======
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+
+
+=======
+These lone wolf terrorists are not holy warriors
+
+Nabila Ramdani
+
+Nowadays any vengeful inadequate can claim a link with global terror. All it takes is a selfie and a flag for instant international infamy
+>>>>>>> origin/master
 
 
 
@@ -1316,6 +2099,18 @@ more on this story
 
 
 
+<<<<<<< HEAD
+=======
+Published: 3:30 AM
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+These lone wolf terrorists are not holy warriors
+>>>>>>> origin/master
 
 
 
@@ -1327,28 +2122,22 @@ more on this story
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 Charleston shootings: NRA blames victims as reactions echo Newtown
 
+=======
+
+29 June 2015
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 An NRA board member suggested worshippers ‘might be alive’ if they had guns themselves, while Obama and gun control groups repeat calls for reform
+=======
+>>>>>>> origin/master
 
 
 
@@ -1361,10 +2150,17 @@ An NRA board member suggested worshippers ‘might be alive’ if they had guns 
 
 
 
+<<<<<<< HEAD
 
 
 Published: 
 20 Jun 2015
+=======
+South Carolina legislators easing to idea of removing Confederate flag – report
+
+
+A survey of state lawmakers shows there is enough support to remove the flag from statehouse grounds if all supporters cast a vote
+>>>>>>> origin/master
 
 
 
@@ -1374,9 +2170,23 @@ Published:
 
 
 
+<<<<<<< HEAD
 Charleston shootings: NRA blames victims as reactions echo Newtown
 
 
+=======
+
+
+Published: 6:33 PM
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+South Carolina legislators easing to idea of removing Confederate flag – report
+>>>>>>> origin/master
 
 
 
@@ -1392,6 +2202,15 @@ Charleston shootings: NRA blames victims as reactions echo Newtown
 
 
 
+<<<<<<< HEAD
+
+
+=======
+Hundreds honour Charleston church shooting victim Myra Thompson
+
+
+Thompson qualified as a preacher the day of the attack. Governor Nikki Haley: ‘This is a woman who I want to strive to be’
+>>>>>>> origin/master
 
 
 
@@ -1403,6 +2222,18 @@ Charleston shootings: NRA blames victims as reactions echo Newtown
 
 
 
+<<<<<<< HEAD
+=======
+Published: 5:20 PM
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+Hundreds honour Charleston church shooting victim Myra Thompson
+>>>>>>> origin/master
 
 
 
@@ -1411,16 +2242,7 @@ Charleston shootings: NRA blames victims as reactions echo Newtown
 
 
 
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 Sorry, your browser is unable to play this video.
 
 Please install 
@@ -1429,6 +2251,51 @@ Adobe Flash
 Alternatively 
 upgrade
  to a modern browser.
+=======
+
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+
+
+=======
+To replace the Confederate flag with a Pride flag won't fix American racism
+
+Linda Chavers
+
+It disrespects the impact of the Confederate flag’s display on black Americans and misunderstands the oppression still faced by LGBT people
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+Published: 11:29 AM
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+To replace the Confederate flag with a Pride flag won't fix American racism
+>>>>>>> origin/master
 
 
 
@@ -1447,58 +2314,54 @@ upgrade
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 
 
 Michelle Obama on Charleston: 'Too many tragedies like this' - video
+=======
+White supremacists want a race war. They must not fight America's wars
+
+Matt Kennard
+
+If the US government wants to get serious about taking on white supremacist terrorism it must commit to kicking them out of the military
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 Michelle Obama spoke about the deadly church shooting in Charleston, South Carolina.
+=======
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
+=======
+Published: 6:45 AM
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+White supremacists want a race war. They must not fight America's wars
+>>>>>>> origin/master
 
 
 
 
 
-
-
-
-
+<<<<<<< HEAD
 Published: 
 19 Jun 2015
+=======
+>>>>>>> origin/master
 
 
 
@@ -1506,9 +2369,15 @@ Published:
 
 
 
+<<<<<<< HEAD
 
 
 Michelle Obama on Charleston: 'Too many tragedies like this' - video
+=======
+28 June 2015
+
+
+>>>>>>> origin/master
 
 
 
@@ -1524,6 +2393,15 @@ Michelle Obama on Charleston: 'Too many tragedies like this' - video
 
 
 
+<<<<<<< HEAD
+
+
+=======
+Charleston funerals: Joe Biden and city remember victims of church massacre
+
+
+Funeral for pastor DePayne Middelton-Doctor today afterCynthia Hurd, Tywanza Sanders and Susie Jackson were buried Saturday
+>>>>>>> origin/master
 
 
 
@@ -1535,22 +2413,42 @@ Michelle Obama on Charleston: 'Too many tragedies like this' - video
 
 
 
+<<<<<<< HEAD
+=======
+Published: 11:58 AM
+>>>>>>> origin/master
 
 
 
 
-
-
+<<<<<<< HEAD
 Rick Perry calls Charleston church shooting an 'accident'
+=======
+Charleston funerals: Joe Biden and city remember victims of church massacre
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 Republican presidential candidate says ‘real issue’ raised by case is drugs and accuses Obama of seeking to use shooting to take away Americans’ guns
 
 
+=======
+
+
+Steven W Thrasher column
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+Confederate flag down, rainbow flag up: this is the American pride we've been waiting for
+>>>>>>> origin/master
 
 
 
@@ -1559,25 +2457,35 @@ Republican presidential candidate says ‘real issue’ raised by case is drugs 
 
 
 
-
-
-
-
+<<<<<<< HEAD
 Published: 
 19 Jun 2015
+=======
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
+=======
+Published: 9:36 AM
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Rick Perry calls Charleston church shooting an 'accident'
 
 
 
+=======
+
+
+
+Confederate flag down, rainbow flag up: this is the American pride we've been waiting for
+>>>>>>> origin/master
 
 
 
@@ -1593,6 +2501,10 @@ Rick Perry calls Charleston church shooting an 'accident'
 
 
 
+<<<<<<< HEAD
+=======
+White supremacist calls Charleston 'a preview of coming attractions'
+>>>>>>> origin/master
 
 
 
@@ -1606,6 +2518,18 @@ Rick Perry calls Charleston church shooting an 'accident'
 
 
 
+<<<<<<< HEAD
+=======
+Published: 8:30 AM
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+White supremacist calls Charleston 'a preview of coming attractions'
+>>>>>>> origin/master
 
 
 
@@ -1617,10 +2541,7 @@ Rick Perry calls Charleston church shooting an 'accident'
 
 
 
-
-
-
-
+<<<<<<< HEAD
 Sorry, your browser is unable to play this video.
 
 Please install 
@@ -1629,6 +2550,10 @@ Adobe Flash
 Alternatively 
 upgrade
  to a modern browser.
+=======
+
+27 June 2015
+>>>>>>> origin/master
 
 
 
@@ -1646,6 +2571,38 @@ upgrade
 
 
 
+<<<<<<< HEAD
+
+
+=======
+Gun control won't prevent another Charleston-style shooting, says Jeb Bush
+
+
+Ahead of South Carolina visit, Republican presidential candidate says it is better to identify potentially violent people before they commit crimes
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+Published: 9:39 PM
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+Gun control won't prevent another Charleston-style shooting, says Jeb Bush
+>>>>>>> origin/master
 
 
 
@@ -1658,33 +2615,27 @@ upgrade
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 No decision has been made on death penalty in Charleston church shooting, says prosecutor – video
+=======
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 Prosecutor Scarlett Wilson says 'now is not the time' to discuss whether suspected gunman Dylann Roof will face the death penalty
 
 
+=======
+Ten days that turned America into a better place
+
+Michael Cohen
+
+Out of the horror of the Charleston shootings has come extraordinarily honest self-examination
+>>>>>>> origin/master
 
 
 
@@ -1696,19 +2647,31 @@ Prosecutor Scarlett Wilson says 'now is not the time' to discuss whether suspect
 
 
 
+<<<<<<< HEAD
 
 Published: 
 19 Jun 2015
 
 
 
+=======
+Published: 7:05 PM
+
+
+
+
+Ten days that turned America into a better place
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 No decision has been made on death penalty in Charleston church shooting, says prosecutor – video
+=======
+>>>>>>> origin/master
 
 
 
@@ -1721,6 +2684,16 @@ No decision has been made on death penalty in Charleston church shooting, says p
 
 
 
+<<<<<<< HEAD
+
+
+=======
+Taking down the Confederate flag is not enough to erase racism
+
+Michael Twitty
+
+Removing the southern symbol from the public square will not tackle systemic racism such as voter suppression and police brutality
+>>>>>>> origin/master
 
 
 
@@ -1732,18 +2705,27 @@ No decision has been made on death penalty in Charleston church shooting, says p
 
 
 
+<<<<<<< HEAD
+=======
+Published: 7:05 PM
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+Taking down the Confederate flag is not enough to erase racism
+>>>>>>> origin/master
 
 
 
 
 
-
-
-
-
-
-
+<<<<<<< HEAD
 Representatives of Charleston shooting victims 'forgive' Dylann Roof
+=======
+>>>>>>> origin/master
 
 
 
@@ -1754,26 +2736,44 @@ Representatives of Charleston shooting victims 'forgive' Dylann Roof
 
 
 
+<<<<<<< HEAD
+
+
+=======
+PayPal appears to suspend donations to group in 'Dylann Roof manifesto'
+
+
+Attempts to donate to Council of Conservative Citizens, labeled hate group by activists, are rejected after organization allegedly gets nod from shooting suspect
+>>>>>>> origin/master
 
 
 
 
 
 
-
-
+<<<<<<< HEAD
 Published: 
 19 Jun 2015
+=======
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
+=======
+Published: 3:42 PM
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Representatives of Charleston shooting victims 'forgive' Dylann Roof
+=======
+PayPal appears to suspend donations to group in 'Dylann Roof manifesto'
+>>>>>>> origin/master
 
 
 
@@ -1784,13 +2784,24 @@ Representatives of Charleston shooting victims 'forgive' Dylann Roof
 
 
 
+<<<<<<< HEAD
+
+=======
+About 163 results for Charleston shooting
+
+1
+2
+3
+4
+5
+>>>>>>> origin/master
 
 
 
 
 
 
-
+<<<<<<< HEAD
 
 Analysis
 
@@ -1800,18 +2811,39 @@ Analysis
 11 myths about the future of gun control, debunked after the Charleston shooting
 
 
+=======
+Topics
+
+
+
+South Carolina
 
 
 
 
+Race issues
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+Gun crime
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+US crime
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
@@ -1820,67 +2852,147 @@ Published:
 20 Jun 2015
 
 
+=======
+American civil war
+
+
+
+More…
+
+
+
+US politics
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 
 11 myths about the future of gun control, debunked after the Charleston shooting
 
+=======
+US gun control
 
 
 
 
+LGBT rights
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+Obama administration
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+Barack Obama
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+Islam
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+US military
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 Charleston killings leave US reckoning with race and guns amid 'broken peace'
 
 
 
+=======
+US supreme court
 
 
 
 
+Same-sex marriage (US)
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+Florida
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+Military
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
 Published: 
 18 Jun 2015
 
+=======
+Judaism
 
 
 
 
+Bubba Watson
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+Protest
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Charleston killings leave US reckoning with race and guns amid 'broken peace'
+=======
+FBI
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+ 
+>>>>>>> origin/master
 
 
 
@@ -1890,6 +3002,10 @@ Charleston killings leave US reckoning with race and guns amid 'broken peace'
 
 
 
+<<<<<<< HEAD
+=======
+The Guardian
+>>>>>>> origin/master
 
 
 
@@ -1897,14 +3013,13 @@ Charleston killings leave US reckoning with race and guns amid 'broken peace'
 
 
 
-
-
-
-
-
-
+<<<<<<< HEAD
 Charleston church shooting: suspect Dylann Roof in custody as community holds vigils
 
+=======
+
+back to top
+>>>>>>> origin/master
 
 
 
@@ -1919,192 +3034,365 @@ Charleston church shooting: suspect Dylann Roof in custody as community holds vi
 
 
 
+<<<<<<< HEAD
 
 
 
 Published: 
 19 Jun 2015
 
-
-
-
-
-
-
-
-
-Charleston church shooting: suspect Dylann Roof in custody as community holds vigils
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-More more on this story
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-popular
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-The Guardian
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-back to top
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+=======
 home
 
 
 
 
+US
+selected
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+world
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+Charleston church shooting: suspect Dylann Roof in custody as community holds vigils
+=======
+opinion
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+sports
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+soccer
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+tech
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+arts
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+lifestyle
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+fashion
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+business
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+More more on this story
+=======
+travel
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+environment
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+science
+>>>>>>> origin/master
+
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+all sections
+close
+>>>>>>> origin/master
+
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+home
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+
+
+popular
+
+
+=======
+US
+selected
+
+
+
+
+world
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+UK
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+europe
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+
+
+ 
+
+
+=======
+americas
+
+
+
+
+asia
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+middle east
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+africa
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+australia
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+The Guardian
+=======
+cities
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+development
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+opinion
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+sports
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+back to top
+=======
+soccer
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+MLS
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+NFL
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+MLB
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+NBA
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+NHL
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
+home
+=======
+soccer
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+live scores
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 US
 
 selected
 
 
+=======
+tables
 
 
 
 
+competitions
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
 world
 
+=======
+results
 
 
 
 
+fixtures
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
@@ -2112,23 +3400,8 @@ opinion
 
 
 
-
-
-
-
-
-sports
-
-
-
-
-
-
-
-
-soccer
-
-
+=======
+clubs
 
 
 
@@ -2136,56 +3409,150 @@ soccer
 
 
 tech
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+
+sports
 
 
 
-
+=======
 arts
 
 
 
 
+movies
+>>>>>>> origin/master
 
 
 
+
+<<<<<<< HEAD
+
+soccer
+
+
+
+=======
+tv & radio
+
+
+
+
+music
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+
+tech
+
+
+
+=======
+games
+
+
+
+
+books
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+
+arts
+
+
+
+=======
+art & design
+
+
+
+
+stage
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 lifestyle
+=======
+classical
+
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 
 
 
 fashion
 
+=======
+lifestyle
 
 
 
 
+food
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
 business
 
+=======
+health & fitness
 
 
 
 
+love & sex
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
 travel
 
+=======
+family
 
 
 
 
+women
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
@@ -2193,74 +3560,143 @@ environment
 
 
 
+=======
+home & garden
 
 
 
 
+
+
+fashion
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 science
 
 
 
+=======
+business
 
 
 
 
+economics
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+sustainable business
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+diversity & equality in business
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 all
  sections
 
 
 close
+=======
+small business
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+travel
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+USA
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 
 home
 
+=======
+europe
+
+
+
+
+UK
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 
 US
 
 selected
 
 
+=======
+environment
 
 
 
 
+climate change
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
 world
 
+=======
+wildlife
 
 
 
 
+energy
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
@@ -2268,21 +3704,45 @@ UK
 
 
 
+=======
+pollution
 
 
 
 
+
+
+science
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 europe
 
 
 
+=======
+media
 
 
 
 
+crosswords
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 americas
+=======
+video
+
+>>>>>>> origin/master
 
 
 
@@ -2291,6 +3751,7 @@ americas
 
 
 
+<<<<<<< HEAD
 asia
 
 
@@ -3042,6 +4503,13 @@ securedrop
 
 
 
+=======
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
@@ -3052,10 +4520,31 @@ securedrop
 
 
 
+=======
+jobs
+
+subscribe
+all topics
+all contributors
+
+
+report technical issue
 
 
 
+about us
 
+contact us
+
+complaints & corrections
+terms & conditions
+privacy policy
+cookie policy
+securedrop
+
+
+© 2015 Guardian News and Media Limited or its affiliated companies. All rights reserved.
+>>>>>>> origin/master
 
 
 
@@ -3075,5 +4564,8 @@ securedrop
 
  
 
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> origin/master

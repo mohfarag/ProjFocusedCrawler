@@ -1,8 +1,16 @@
+<<<<<<< HEAD
 Charleston shooting echoes a painful history of attacks on black churches | World news | The Guardian
 
 
 
 Charleston shooting echoes a painful history of attacks on black churches | World news | The Guardian
+=======
+Charleston church massacre: 'What happened in there was brutal' | US news | The Guardian
+
+Charleston church massacre: 'What happened in there was brutal' | US news | The Guardian
+
+
+>>>>>>> origin/master
 
 
 
@@ -16,6 +24,25 @@ Charleston shooting echoes a painful history of attacks on black churches | Worl
 
 
 
+<<<<<<< HEAD
+=======
+Close
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+
+=======
+Skip to main content
+
+ 
+>>>>>>> origin/master
 
 
 
@@ -26,15 +53,7 @@ Charleston shooting echoes a painful history of attacks on black churches | Worl
 
 
 
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 Close
 
 
@@ -1628,30 +1647,53 @@ sports
 
 
 
+=======
+
+sign in
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 soccer
 
 
 
+=======
+
+
+
+subscribe
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 tech
 
 
+=======
+
+
+search
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 arts
+=======
+jobs
+
+
+>>>>>>> origin/master
 
 
 
@@ -1660,6 +1702,7 @@ arts
 
 
 
+<<<<<<< HEAD
 lifestyle
 
 
@@ -1679,33 +1722,94 @@ fashion
 
 
 business
+=======
+more
+
+
+from the guardian:
+
+
+jobs
+
+
+
+change edition:
+
+
+
+switch to the  UK  edition
+
+
+switch to the  AU  edition
+
+
+switch to the 
+INT
+beta
+ edition
+
+
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 
 
 travel
 
 
+=======
+US edition
 
 
 
 
+switch to the 
+UK edition
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 environment
 
 
+=======
+switch to the 
+Australia edition
+
+
+
+
+switch to the 
+International
+beta
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 science
+=======
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+The Guardian
+>>>>>>> origin/master
 
 
 
@@ -1717,10 +1821,7 @@ science
 
 
 
-
-
-
-
+<<<<<<< HEAD
 all
  sections
 
@@ -1731,6 +1832,18 @@ close
 
 
 
+=======
+
+
+
+
+
+home
+
+
+›
+US
+>>>>>>> origin/master
 
 
 
@@ -1746,124 +1859,211 @@ home
 
 
 
+<<<<<<< HEAD
+=======
+US
+selected
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 US
 
 
+=======
+world
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 world
 
 selected
 
-
-
-
-
-
-
-
-
-UK
-
-
-
-
-
-
-
-
-europe
-
-
-
-
-
-
-
-
-americas
-
-
-
-
-
-
-
-
-asia
-
-
-
-
-
-
-
-
-middle east
-
-
-
-
-
-
-
-
-africa
-
-
-
-
-
-
-
-
-australia
-
-
-
-
-
-
-
-
-cities
-
-
-
-
-
-
-
-
-development
-
-
-
-
-
-
-
-
-
-
-
-
+=======
 opinion
 
 
 
 
+sports
+>>>>>>> origin/master
 
 
 
+
+<<<<<<< HEAD
+=======
+soccer
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+UK
+=======
+tech
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+arts
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+europe
+=======
+lifestyle
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+fashion
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+americas
+=======
+business
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+travel
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+asia
+=======
+environment
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+science
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+middle east
+
+
+=======
+
+
+browse all sections
+close
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
+africa
+
+
+=======
+
+
+ 
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
+australia
+=======
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
+
+
+
+cities
+=======
+Charleston shooting
+
+
+
+Charleston church massacre: 'What happened in there was brutal'
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+development
+
+=======
+
+Details emerge of final moments before prayer group was gunned down by killer who had been invited in to Bible study meeting
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+opinion
+=======
+>>>>>>> origin/master
+
+
+
+
+
+
+
+<<<<<<< HEAD
 
 sports
 
@@ -1875,52 +2075,105 @@ sports
 
 
 soccer
+=======
+People comfort each other at a vigil outside the Emanuel church in Charleston, where nine black churchgoers were killed.
+Photograph: John Taggart/EPA
+
+
+
+
+Ed Pilkington, 
+Paul Lewis and 
+Oliver Laughland in Charleston
+
+
+Friday 19 June 2015 07.03 EDT
+
+
+Last modified on Saturday 20 June 2015 12.23 EDT
+
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 
 
 MLS
+=======
+Share on Facebook
+
+
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 
 
 
 NFL
+=======
+Share on Twitter
+
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+Share via Email
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 MLB
 
 
 
+=======
+
+
+
+Share on Pinterest
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 NBA
 
 
+=======
+
+
+Share on LinkedIn
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 NHL
 
+=======
+
+Share on Google+
+>>>>>>> origin/master
 
 
 
@@ -1928,7 +2181,11 @@ NHL
 
 
 
+<<<<<<< HEAD
 rugby world cup
+=======
+Share on WhatsApp
+>>>>>>> origin/master
 
 
 
@@ -1941,12 +2198,16 @@ rugby world cup
 
 
 
+<<<<<<< HEAD
 soccer
+=======
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -1999,10 +2260,110 @@ clubs
 
 
 
+=======
+Dylann Storm Roof walked up the 23 slate grey steps that led to the main entrance of the Emanuel African Methodist Episcopal church and asked for the pastor. It was Wednesday, and that meant Bible study night.
+Security cameras captured the slender 21-year-old dressed in dark trousers and a grey sweatshirt, with his hair cut into a distinctive bowl, entering the church by the main door. There was no sign in the video footage of the gun that he carried, carefully hidden. His father had given him a .45-calibre handgun in April as a 21st birthday present.
+
+ Related: What happened at the Charleston, South Carolina, church shooting? 
+
+No one, it seemed, thought to turn the young man away. The church in downtown Charleston had a history of opening its doors to strangers that stretched back decades.
+Inside, a dozen regular members of the church were gathered around a table in a basement meeting room. It was the time of the week when congregants came to gain “a closer relationship with God”, as the church describes the sessions. “Is something missing from your life?” the church website says. “Are you doing all you can to have a closer relationship with God? If you have a desire to learn more about God, then join us.”
+On Wednesday at about 8pm Roof answered that call. Having asked for the pastor, he sat down right next to him.
+
+
+
+ Facebook 
+ Twitter 
+ Pinterest 
+
+
+Charleston shooting suspect Dylann Storm Roof (centre) is escorted by police. Photograph: Chuck Burton/AP
+
+
+Before the shooting began, Roof’s youngest victim, 26-year-old student Tywanza Sanders, a 2014 graduate of Allen University, released a Snapchat video to a friend. It provided a glimpse of the gathering in the moments before the carnage.
+
+ Related: Charleston shooting suspect Dylann Roof 'wanted to ignite civil war' 
+
+The video, obtained by CNN and Mashable, is grainy and shaky, showing only the briefest glimpse of the scene. The bible group is seen sitting around the table in a large, wood-panelled room. Books and papers were on the table, and the participants were sitting on folding chairs.
+
+
+— Mashable News (@MashableNews)
+June 18, 2015
+Victim's @Snapchat video shows #DylannRoof at church's Bible study before deadly shooting http://t.co/U0sy9r3iUu https://t.co/60xhtZK44h
+
+
+
+One still image from the video shows Clementa Pinckney, who also held a position as a South Carolina state senator, in a green shirt, gesturing to the others and possibly smiling. At least three other unidentified black people are in the frame. At the far side of the table was Roof, partially obscured by his soon-to-be victims.
+
+
+
+ Facebook 
+ Twitter 
+ Pinterest 
+
+
+Clementa Pinckney speaking at a service at the Emanuel church in 2012. Photograph: Randall Hill/Reuters
+
+
+If Sanders was the youngest of those victims, the oldest was his great-aunt Susie Jackson. At 87, she had been coming to the Emanuel her entire life. As her son, Walter, told the Guardian, she rarely missed a Sunday service, was an integral part of the church’s gospel choir, and was also a dab hand at cooking for the congregation.
+Not long ago, she won first prize in the annual church fair for her hot devilled crab cakes. She greatly enjoyed the prize, her son said, two days at the Charleston Hyatt.
+The church, and her family, were the centre of Susie Jackson’s world. “This is just senseless,” he said of his mother’s death, just hours after the shooting, having travelled from his home in Cleveland to rejoin his grieving family.
+
+
+
+ Facebook 
+ Twitter 
+ Pinterest 
+
+
+Walter Jackson (right), the son of Susie Jackson who died in Wednesday’s shooting. Photograph: David Goldman/AP
+
+
+“To kill innocent people like that. It’s hard on all of us. My mother was always there for us – she was always the one people would turn to when they had a problem.”
+
+ Related: The Charleston shooting victims: a poet, a politician, a librarian, women of faith 
+
+Other congregants at the table were Dr Daniel L Simmons Sr, 74, and Ethel Lance, 70, a reverend and a custodian respectively of the Emanuel church, and Myra Thompson, 59, the wife of a vicar at another local church.
+“These weren’t just ordinary people,” said William Hamilton, a local attorney who knew several victims. “They were major community names who had done things for us here for years.”
+DePayne Middleton-Doctor, 49, worked in Charleston county as director of the federal community development block grants; Cynthia Hurd, 54, was the regional manager of the St Andrew’s library, and Sharonda Coleman-Singleton, 45, was a speech therapist at a high school north of the city.
+So far only Sanders’ seconds-long Snapchat, supplemented by an equally sketchy indirect account given by one of the three survivors, have been able to provide clues to what happened inside that room. What is known is that Roof sat quietly among the worshippers for about an hour as they studied the Bible.
+Both local police and the FBI have declined to provide details about what happened next.
+
+
+
+ Facebook 
+ Twitter 
+ Pinterest 
+
+
+One of the victims, DePayne Middleton-Doctor. Photograph: Leigh Thomson/Southern Wesleyan University/AP
+
+
+However Sylvia Johnson, a cousin of Pinckney, relayed a harrowing account she said was provided to her by a female survivor.
+Johnson told NBC that Roof sat next to Pinckney throughout the class, but then made his move as the meeting was coming to an end. “At the conclusion of the Bible study, from what I understand, they just start hearing loud noises ringing out. The suspect had already wounded a couple of individuals, including my cousin.”
+Johnson said the survivor told her that Roof reloaded his weapon five times and engaged in conversation with his victims as they pleaded with him to stop.
+The survivor’s son, who was also at the meeting, “was trying to talk him out of doing that act of killing people”, Johnson said. She added that Roof replied: “I have to do it. You rape our women and you’re taking over our country. And you have to go.”
+It was not until hours later that news of the shooting began to spread around Charleston – and across the country. Roof fled the scene in a black sedan with Confederate flag licence plates, and was arrested, the following day, more than 200 miles away, across the North Carolina border.
+
+
+
+ Facebook 
+ Twitter 
+ Pinterest 
+
+
+Cynthia Hurd with a reproduction of the original Charleston Messenger. The librarian was one of the nine people killed by Roof. Photograph: Grace Beahm/AP
+
+
+By the early hours of Thursday morning, distraught relatives of the victims had gathered at the nearby Embassy Suites hotel.
+“Raw emotion was out,” said Tamika Myers, 40, who works at Blind Justice, a local group that assists grieving relatives of shooting victims. “People were crying. Some were passing out.”
+The identities of only three victims were relayed to families that night, Myers said. By 5am the coroner, Rae H Wooten, had to explain why identification was proving so difficult. “What happened in there was brutal,” Myers said. “It was gruesome.” 
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -2011,13 +2372,32 @@ clubs
 tech
 
 
+=======
+More news 
+Topics
+
+
+
+Charleston shooting
 
 
 
 
+South Carolina
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 arts
+=======
+Gun crime
+
+
+>>>>>>> origin/master
 
 
 
@@ -2026,7 +2406,11 @@ arts
 
 
 
+<<<<<<< HEAD
 movies
+=======
+Share on Facebook
+>>>>>>> origin/master
 
 
 
@@ -2034,53 +2418,91 @@ movies
 
 
 
+<<<<<<< HEAD
 
 tv & radio
+=======
+Share on Twitter
+
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 
 
 music
+=======
+Share via Email
+
+
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 
 
 
 games
+=======
+Share on Pinterest
+
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+Share on LinkedIn
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 books
 
 
 
+=======
+
+
+
+Share on Google+
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 art & design
 
 
+=======
+
+
+Share on WhatsApp
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 stage
+=======
+>>>>>>> origin/master
 
 
 
@@ -2089,7 +2511,10 @@ stage
 
 
 
+<<<<<<< HEAD
 classical
+=======
+>>>>>>> origin/master
 
 
 
@@ -2098,20 +2523,34 @@ classical
 
 
 
+<<<<<<< HEAD
+=======
+ 
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 lifestyle
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+popular
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 food
+=======
+>>>>>>> origin/master
 
 
 
@@ -2120,7 +2559,11 @@ food
 
 
 
+<<<<<<< HEAD
 health & fitness
+=======
+ 
+>>>>>>> origin/master
 
 
 
@@ -2129,7 +2572,11 @@ health & fitness
 
 
 
+<<<<<<< HEAD
 love & sex
+=======
+The Guardian
+>>>>>>> origin/master
 
 
 
@@ -2138,7 +2585,11 @@ love & sex
 
 
 
+<<<<<<< HEAD
 family
+=======
+back to top
+>>>>>>> origin/master
 
 
 
@@ -2147,100 +2598,190 @@ family
 
 
 
+<<<<<<< HEAD
 women
+=======
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 
 
 home & garden
 
 
+=======
+home
 
 
 
 
+US
+selected
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+world
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 fashion
 
 
+=======
+opinion
 
 
 
 
+sports
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 business
 
 
+=======
+soccer
 
 
 
 
+tech
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 economics
 
 
+=======
+arts
 
 
 
 
+lifestyle
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 sustainable business
 
 
+=======
+fashion
 
 
 
 
+business
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 diversity & equality in business
 
 
-
-
-
-
-
-
-small business
-
-
-
-
-
-
-
-
-
-
-
-
+=======
 travel
 
 
 
 
+environment
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+
+
+small business
+=======
+science
+
+
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
+=======
+all sections
+close
+>>>>>>> origin/master
+
+
+
+
+
+
+
+<<<<<<< HEAD
+travel
+=======
+home
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+US
+selected
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 USA
+=======
+world
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+UK
+>>>>>>> origin/master
 
 
 
@@ -2250,247 +2791,468 @@ europe
 
 
 
+<<<<<<< HEAD
+=======
+americas
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 UK
+=======
+asia
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+middle east
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+africa
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 environment
+=======
+australia
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+cities
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 climate change
+=======
+development
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 
 
 wildlife
 
 
+=======
+opinion
 
 
 
 
+sports
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 energy
 
 
+=======
+soccer
 
 
 
 
+MLS
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 pollution
 
 
+=======
+NFL
 
 
 
 
+MLB
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+NBA
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 science
+=======
+NHL
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+soccer
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 media
+=======
+live scores
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+tables
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 crosswords
+=======
+competitions
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+results
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 blog
+=======
+fixtures
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+clubs
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 editor
 
 
+=======
+
+
+tech
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 quick
 
 
+=======
+arts
 
 
 
 
+movies
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 cryptic
 
 
+=======
+tv & radio
 
 
 
 
+music
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 prize
 
 
+=======
+games
 
 
 
 
+books
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 quiptic
 
 
+=======
+art & design
 
 
 
 
+stage
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 genius
+=======
+classical
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+lifestyle
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 speedy
+=======
+food
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+health & fitness
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 everyman
+=======
+love & sex
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+family
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 azed
+=======
+women
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+home & garden
+>>>>>>> origin/master
 
 
 
 
 
 
-
-
-
-
+<<<<<<< HEAD
 
 
 video
 
 
+=======
+fashion
+
+
+
+
+business
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+economics
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+sustainable business
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+diversity & equality in business
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+small business
+>>>>>>> origin/master
 
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 World
 
+=======
+
+travel
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+USA
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 ›
 
 
 Race issues
 
+=======
+europe
+
+
+
+
+UK
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+environment
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+climate change
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 jobs
@@ -2504,16 +3266,35 @@ all topics
 
 
 all contributors
+=======
+wildlife
+
+
+
+
+energy
+
+
+
+
+pollution
+
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 report technical issue
+=======
+science
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 about us
@@ -2545,6 +3326,18 @@ securedrop
 
 © 2015 Guardian News and Media Limited or its affiliated companies. All rights reserved.
 
+=======
+media
+
+
+
+
+crosswords
+
+
+
+
+video
 
 
 
@@ -2556,6 +3349,14 @@ securedrop
 
 
 
+US News
+
+
+
+
+›
+Charleston shooting
+>>>>>>> origin/master
 
 
 
@@ -2563,6 +3364,43 @@ securedrop
 
 
 
+
+<<<<<<< HEAD
+
+
+
+
+
+
+
+
+
+
+=======
+jobs
+
+subscribe
+all topics
+all contributors
+
+
+report technical issue
+
+
+
+about us
+
+contact us
+
+complaints & corrections
+terms & conditions
+privacy policy
+cookie policy
+securedrop
+
+
+© 2015 Guardian News and Media Limited or its affiliated companies. All rights reserved.
+>>>>>>> origin/master
 
 
 
@@ -2582,5 +3420,8 @@ securedrop
 
  
 
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> origin/master

@@ -1,6 +1,21 @@
+<<<<<<< HEAD
 Chicago Police Officer Shoots Robbery Suspect In Heart Of Chicago « CBS Chicago
 
 Chicago Police Officer Shoots Robbery Suspect In Heart Of Chicago « CBS Chicago
+=======
+New audio captures officer ‘laughing’ after deadly South Carolina shooting | myfox8.com 
+New audio captures officer ‘laughing’ after deadly South Carolina shooting | myfox8.com
+
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
+=======
+GoSearch
+>>>>>>> origin/master
 
 
 
@@ -8,11 +23,7 @@ Chicago Police Officer Shoots Robbery Suspect In Heart Of Chicago « CBS Chicago
 
 
 
-
-
-
-
-
+<<<<<<< HEAD
 
 
 
@@ -664,12 +675,22 @@ Download Our New Weather App!
  
 
 
+=======
+ Replay: FOX8 News Replay 
+
+FOX8 TV Schedule 
+
+
+ Search
+ Contact Us
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 
 
 News
@@ -703,10 +724,25 @@ Traffic
 
 
 Sports
+=======
+myfox8.com
+
+ Menu
+
+News
+On-Air
+Morning News
+Sports
+You Decide 2016
+Lottery
+Contests
+Events
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Bears
 
 
@@ -754,10 +790,19 @@ NHL Hockey
 
 
 Contact Us
+=======
+Weather 
+
+77°
+
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 CBS 2
 
 
@@ -798,16 +843,65 @@ Mobile
 
 
 Connect
+=======
+77°
+
+
+Low 68°
+High 88°
 
 
 
 
 
+Mon
+
+
+					69°  90°
+					
+
+
+Tue
+
+
+					70°  91°
+					
+
+
+Wed
+
+
+					72°  90°
+					
+
+
+See complete forecast
+
+
+
+
+ 
 
 
 
 
 
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
+=======
+ 
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
 Chicago Business Listings
 
 
@@ -881,10 +975,99 @@ Deals
 Powered by 
 WordPress.com VIP
 
+=======
+
+
+New audio captures officer ‘laughing’ after deadly South Carolina shooting
+
+Posted 8:52 am, April 14, 2015, by CNN Wire 
+
+FacebookTwitterGooglePinterestRedditEmail 
+
+
+
 
  
 
 
+
+×
+New audio captures officer ‘laughing’ after deadly South Carolina shooting
+
+
+ 
+
+
+
+Two pieces of audio recorded in the immediate aftermath of a deadly police shooting in South Carolina emerged Monday.
+The voice of Michael Slager can be heard in both. The former North Charleston police officer is charged with murder in the death of 50-year-old Walter Scott.
+In the first recording, an unidentified officer talks to Slager about what might happen.
+“Once they get here, it’ll be real quick. They’re gonna tell you, you’re gonna be off for a couple days and we’ll come back and interview you then. They’re not gonna ask you any type of questions right now. They’re gonna take your weapon,” the officer says. “It’d probably be a good idea to jot down your thoughts about whatever happened … once the adrenaline stops pumping.”
+Slager responds: “It’s pumping,” and then laughs.
+
+The second audio, taken from dash cam video from inside a patrol car, captures a phone call between Slager and someone CNN believes is his wife.
+He tells her: “Hey. Hey, everything’s OK. OK? I just shot somebody.”
+“He grabbed my Taser, yeah. Yeah,” says Slager. “He was running from me. … I’m fine.”
+If convicted of murder, the former officer faces up to life in prison or the death penalty, although a death penalty case appears unlikely at this point.
+“Based on the facts revealed thus far, it does not appear South Carolina’s death penalty provision applies in this case because there are no statutory ‘aggravating circumstances’ present,” Scarlett A. Wilson, who is the chief prosecutor for the Ninth Judicial Circuit in the state, said on her Facebook page.
+Slager was charged after cell phone video emerged, showing him firing at Scott as the man ran away.
+Pierre Fulton was riding in a car with Scott before the shooting took place.
+“Walter was a dear friend and I miss him every day,” Fulton said in a statement given to ABC News by his lawyer. “Over the past five years he helped me to become a better man and showed me the value of hard work.”
+“I’ll never know why he ran, but I know he didn’t deserve to die,” Fulton said. “Please keep Walter and his family in your prayers and respect my privacy moving forward.”
+Scott’s death has reignited a national conversation around race and policing. Scott was black; Slager is white.
+The case has also brought to light previous instances in which Slager’s behavior on the job is being questioned.
+On Monday, attorneys for a man named Julius Wilson announced that they were filing a lawsuit in connection with an August 2014 traffic stop.
+During the stop, three officers — including Slager — pulled Wilson out of his car. Wilson was then allegedly shocked with a stun gun. The suit claims Slager used excessive force.
+Slager was also named in a police complaint in 2013 after he allegedly “Tased a man for no reason” before slamming him to the ground and dragging him, according to the North Charleston Police Department.
+At the time, Slager was searching for a suspect who was described as being 5-feet-5-inches tall. The African-American man he confronted was 6-feet-3 inches tall.
+A lawyer for Mario Givens, the man who filed the complaint, said last week that his client plans to file a lawsuit.
+Givens said Slager came to his door, ordered him out of the house and then Tased him.
+Slager was later cleared in that incident.
+
+32.854620
+-79.974810
+
+
+
+
+Trademark and Copyright 2015 Cable News Network, Inc., a Time Warner Company. All rights reserved.
+Filed in: News Topics: Michael Slager, shooting 
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+Women Making a Difference
+Know a woman in the community who is doing good? We want to share your story.
+
+
+
+
+
+
+
+ 
+>>>>>>> origin/master
+
+ 
+
+
+<<<<<<< HEAD
 
 
 
@@ -1040,12 +1223,148 @@ Daily Deals
 
 
 
+=======
+Popular
+
+
+
+2 killed, 2 injured in wrong-way wreck in Winston-Salem; speed, alcohol suspected
+
+
+
+City in the Carolinas named second best city in the world
+
+
+
+What is this ‘mysterious sea creature’ that washed ashore?
+
+
+
+Dolphin bitten by shark washes ashore at North Carolina beach
 
 
 
 
 
 
+
+ 
+
+
+Latest News
+
+
+
+About 2,000 protesters expected for Moral Monday event in Winston-Salem
+
+
+
+Video shows shark at NC beach; woman says several were swimming under pier
+
+
+
+Winston-Salem State football player saves teen from burning vehicle
+
+
+
+Tyson investigating claims of animal abuse at chicken farms
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+News
+
+Adrenaline was ‘pumping': New audio captures aftermath of deadly South Carolina shooting
+
+
+News
+
+South Carolina police shooting: Authorities release dash cam video
+
+
+News
+
+2 police killings, 2 outcomes: Lessons learned from Ferguson to South Carolina
+
+
+News
+
+SC officer charged with murder after shown on video shooting man in back
+
+
+News
+
+Dylann Roof and Michael Slager are jail neighbors, police confirm
+
+
+
+ 
+
+
+News
+
+Walter Scott, shot in the back after police stop, is laid to rest
+
+
+News
+
+Jon Stewart on Charleston: ‘No jokes,’ ‘just sadness’
+
+
+News
+
+Grand jury indicts Michael Slager on murder charge in Walter Scott shooting
+
+
+News
+
+Greensboro activists ask for better police-community relations
+
+
+News
+
+Church security a consideration after deadly South Carolina shooting
+
+
+
+ 
+
+
+News
+
+Who is the suspect in the South Carolina church shooting that killed nine people?
+
+
+News
+
+Teenager killed in NC shooting
+
+
+News
+
+Greensboro police: ‘Cluster of crime’ to start April not random, shouldn’t scare public
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
 
 
 
@@ -1095,19 +1414,51 @@ Youtube
 
 
 
+=======
+ 
 
 
 
 
 
+Mobile AppsAndroid App
+Android Weather App
+Weather iPhone App
+iPhone & iPad App
+
+
+
+
+Facebook
+Twitter
+Instagram
+Pinterest
+About & Contact
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
 Listen Live
 
 
+=======
+
+
+Online Public File • 				Terms of Service •
+		Privacy Policy  •
+		2005 Francis St. High Point, NC 27263  •
+		Copyright © 2015, WGHP		 • A Tribune Broadcasting Station •
+		Powered by WordPress.com VIP 
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 
 AM/FM Stations
 
@@ -1151,6 +1502,12 @@ CBS Sports Radio
 
 
 Radio.com
+=======
+×
+Email Alerts
+
+
+>>>>>>> origin/master
 
 
 
@@ -1159,7 +1516,10 @@ Radio.com
 
 
 
+<<<<<<< HEAD
 Advertise On Our Streams
+=======
+>>>>>>> origin/master
 
 
 
@@ -1180,6 +1540,19 @@ Advertise On Our Streams
 
 
 
+<<<<<<< HEAD
+
+
+
+=======
+Follow
+
+Follow “myfox8.com”
+
+Get every new post delivered to your Inbox.
+
+Join 51,550 other followers
+>>>>>>> origin/master
 
 
 
@@ -1187,32 +1560,55 @@ Advertise On Our Streams
 
 
 
-
-
-
+<<<<<<< HEAD
  
 
 
 
 
  
+=======
+
+Build a website with WordPress.com
+
+
+
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+
+
+=======
+Send to Email Address
+
+Your Name
+
+Your Email Address
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 
 
 
+=======
+Cancel
 
+				Post was not sent - check your email addresses!			
 
+				Email check failed, please try again			
+
+				Sorry, your blog cannot share posts by email.			
+>>>>>>> origin/master
 
 
 

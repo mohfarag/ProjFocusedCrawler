@@ -1,7 +1,14 @@
+<<<<<<< HEAD
 Winston-Salem man’s cousin killed in Charleston church shooting | myfox8.com 
 
 
 Winston-Salem man’s cousin killed in Charleston church shooting | myfox8.com
+=======
+Charleston shooting | US news | The Guardian
+
+Charleston shooting | US news | The Guardian
+
+>>>>>>> origin/master
 
 
 
@@ -16,8 +23,12 @@ Winston-Salem man’s cousin killed in Charleston church shooting | myfox8.com
 
 
 
+<<<<<<< HEAD
 Go
 Search
+=======
+Close
+>>>>>>> origin/master
 
 
 
@@ -26,6 +37,7 @@ Search
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -100,6 +112,10 @@ Events
 
 
 
+=======
+Skip to main content
+
+ 
 
 
 
@@ -107,12 +123,42 @@ Events
 
 
 
+
+
+
+
+sign in
+
+
+
+
+
+
+
+
+subscribe
+>>>>>>> origin/master
+
+
+
+
+
+
+
+<<<<<<< HEAD
 Weather 
+=======
+search
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 78°
+=======
+jobs
+>>>>>>> origin/master
 
 
 
@@ -123,6 +169,7 @@ Weather
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -142,6 +189,32 @@ Low
 
 High 
 85°
+=======
+more
+
+
+from the guardian:
+
+
+jobs
+
+
+
+change edition:
+
+
+
+switch to the  UK  edition
+
+
+switch to the  AU  edition
+
+
+switch to the 
+INT
+beta
+ edition
+>>>>>>> origin/master
 
 
 
@@ -150,15 +223,25 @@ High
 
 
 
+<<<<<<< HEAD
+=======
+US edition
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Sat
+=======
+switch to the 
+UK edition
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 					64° 
  87°
@@ -170,39 +253,74 @@ Sat
 
 
 Sun
+=======
+switch to the 
+Australia edition
+
+
+
+
+switch to the 
+International
+beta
+
+
+
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 					66° 
  88°
 					
 
 
+=======
+
+
+The Guardian
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Mon
+=======
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 					68° 
  88°
 					
+=======
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 See complete forecast
 
 
 
+=======
+
+home
+
+
+›
+US
+>>>>>>> origin/master
 
 
 
@@ -210,58 +328,103 @@ See complete forecast
 
 
 
+<<<<<<< HEAD
  
 
 
 
 
 
+=======
+
+
+
+home
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+US
+selected
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+world
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+opinion
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
  
+=======
+sports
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+soccer
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+tech
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+arts
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Winston-Salem man’s cousin killed in Charleston church shooting
+=======
+lifestyle
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Posted 9:31 am, June 19, 2015, by 
 Winston-Salem Journal
  
+=======
+fashion
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Facebook
 Twitter
 Google
@@ -269,14 +432,22 @@ Pinterest
 Reddit
 Email
  
+=======
+business
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+travel
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
  
@@ -284,16 +455,31 @@ Email
 
 Ward Miller is the cousin of Rev. Daniel Simmons who was killed in the recent Charleston church shooting. Miller says of his family, "Being people of faith, we forgive this young man."  (Bruce Chapman/Journal)
  
+=======
+environment
+
+
+
+
+science
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 ×
 
 
 Winston-Salem man’s cousin killed in Charleston church shooting
+=======
+browse all sections
+close
+
+
+>>>>>>> origin/master
 
 
 
@@ -301,13 +487,17 @@ Winston-Salem man’s cousin killed in Charleston church shooting
 
 
  
+<<<<<<< HEAD
 Ward Miller is the cousin of Rev. Daniel Simmons who was killed in the recent Charleston church shooting. Miller says of his family, "Being people of faith, we forgive this young man."  (Bruce Chapman/Journal)
 
 
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 WINSTON-SALEM, N.C. — The cousin of a minister who was among the nine people killed Wednesday in Charleston, S.C., says his family is devastated by the death.
 
 
@@ -327,6 +517,25 @@ Winston-Salem Journal
 
 
 -80.244216
+=======
+
+
+
+
+
+Charleston shooting
+
+Monday
+
+29
+June
+2015
+
+
+
+
+
+>>>>>>> origin/master
 
 
 
@@ -337,6 +546,7 @@ Winston-Salem Journal
 
 
 
+<<<<<<< HEAD
 Filed in:
  
 News
@@ -348,10 +558,13 @@ Charleston
 
 
 
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -359,6 +572,24 @@ Charleston
 
 
 Report a Typo
+=======
+South Carolina legislators easing to idea of removing Confederate flag – report
+
+
+A survey of state lawmakers shows there is enough support to remove the flag from statehouse grounds if all supporters cast a vote
+
+
+
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
+=======
+South Carolina legislators easing to idea of removing Confederate flag – report
+>>>>>>> origin/master
 
 
 
@@ -366,13 +597,11 @@ Report a Typo
 
 
 
-
-
-
-
-
+<<<<<<< HEAD
 Name
 (required)
+=======
+>>>>>>> origin/master
 
 
 
@@ -381,10 +610,17 @@ Name
 
 
 
+<<<<<<< HEAD
 Typo
 (required)
 
 
+=======
+Hundreds honour Charleston church shooting victim Myra Thompson
+
+
+Thompson qualified as a preacher the day of the attack. Governor Nikki Haley: ‘This is a woman who I want to strive to be’
+>>>>>>> origin/master
 
 
 
@@ -393,6 +629,10 @@ Typo
 
 
 
+<<<<<<< HEAD
+=======
+Hundreds honour Charleston church shooting victim Myra Thompson
+>>>>>>> origin/master
 
 
 
@@ -401,12 +641,46 @@ Typo
 
 
 
+<<<<<<< HEAD
  
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Cancel
+=======
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
+
+
+=======
+To replace the Confederate flag with a Pride flag won't fix American racism
+
+Linda Chavers
+
+It disrespects the impact of the Confederate flag’s display on black Americans and misunderstands the oppression still faced by LGBT people
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+To replace the Confederate flag with a Pride flag won't fix American racism
+>>>>>>> origin/master
 
 
 
@@ -419,53 +693,60 @@ Cancel
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
  
+=======
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+
+
+=======
+White supremacists want a race war. They must not fight America's wars
+
+Matt Kennard
+
+If the US government wants to get serious about taking on white supremacist terrorism it must commit to kicking them out of the military
+>>>>>>> origin/master
 
 
 
 
 
 
-
-
+<<<<<<< HEAD
 You Decide 2016
 
 
 FOX8’s comprehensive election coverage
+=======
+
+
+White supremacists want a race war. They must not fight America's wars
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+Older
+Newer
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -484,10 +765,33 @@ FOX8’s comprehensive election coverage
 
 Popular
 
+=======
+Topics
+
+
+
+South Carolina
 
 
 
 
+Gun crime
+
+
+
+
+Race issues
+
+
+
+
+LGBT rights
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
@@ -495,12 +799,28 @@ After shooting, Virginia gunman details grievances in ‘suicide note’ faxed t
 
 
 
+=======
+US military
+
+
+
+More…
+
+
+
+US crime
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 Va. shooter posted tweets, video of shooting on social media
+=======
+Ferguson
+
+>>>>>>> origin/master
 
 
 
@@ -509,16 +829,34 @@ Va. shooter posted tweets, video of shooting on social media
 
 
 
+<<<<<<< HEAD
 Va. reporter, photographer killed on-air during live news interview, shooter kills himself
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+The Guardian
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Iowa teachers sing ‘One Day More’ before students return to school — and it’s awesome
+=======
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+back to top
+>>>>>>> origin/master
 
 
 
@@ -531,67 +869,126 @@ Iowa teachers sing ‘One Day More’ before students return to school — and i
 
 
 
-
-
-
-
+<<<<<<< HEAD
  
 
 
+=======
+
+
+home
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Latest News
+=======
+US
+selected
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+world
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Middle school teacher welcomes students back to magical Harry Potter-themed classroom
+=======
+opinion
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+sports
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Greesnsboro police searching for man who exposed himself in front of children at Lawndale Target
+=======
+soccer
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+tech
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Father allegedly robs bank to pay for daughter’s chemotherapy
+=======
+arts
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+lifestyle
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Calif. man bitten while taking selfie with rattlesnake
+=======
+fashion
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+business
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+travel
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
  
+=======
+environment
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+science
+>>>>>>> origin/master
 
 
 
@@ -599,6 +996,11 @@ Calif. man bitten while taking selfie with rattlesnake
 
 
 
+<<<<<<< HEAD
+=======
+all sections
+close
+>>>>>>> origin/master
 
 
 
@@ -606,28 +1008,42 @@ Calif. man bitten while taking selfie with rattlesnake
 
 
 
+<<<<<<< HEAD
+=======
+home
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+US
+selected
+>>>>>>> origin/master
 
 
 
 
-
-
-
-
+<<<<<<< HEAD
 News
+=======
+world
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Quick-thinking NC woman helps police nab suspect in SC church shooting that killed nine
+=======
+UK
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 News
@@ -638,20 +1054,42 @@ News
 Dylann Roof confesses to killing 9 people in Charleston church, wanting to start ‘race war’
 
 
+=======
+europe
 
 
 
 
+americas
+
+
+
+
+asia
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 News
+=======
+middle east
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 African American police chiefs talk about police-community relations
+=======
+africa
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 News
@@ -662,10 +1100,24 @@ News
 Beloved Winston-Salem K-9 officer honored after dying in surgery
 
 
+=======
+australia
 
 
 
 
+cities
+
+
+
+
+development
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 News
 
 
@@ -674,29 +1126,57 @@ News
 Police release photos of suspect in Charleston church shooting
 
 
+=======
+
+
+opinion
 
 
 
 
+sports
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
  
 
 
+=======
+soccer
 
 
 
 
+MLS
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 News
+=======
+NFL
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Minister: ‘No evildoer, no demon’ can close church targeted by shooter
+=======
+MLB
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 News
@@ -705,10 +1185,21 @@ News
 
 
 Dylann Roof faces hate crime charges in Charleston shooting
+=======
+NBA
 
 
 
 
+NHL
+
+
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 News
@@ -719,20 +1210,42 @@ News
 Dylann Roof says he almost backed out because everyone at church was ‘so nice’
 
 
+=======
+soccer
 
 
 
 
+live scores
+
+
+
+
+tables
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 News
+=======
+competitions
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Dylann Roof and Michael Slager are jail neighbors, police confirm
+=======
+results
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 News
@@ -741,19 +1254,38 @@ News
 
 
 SC Senator killed in Charleston church shooting
+=======
+fixtures
 
 
 
 
+clubs
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+tech
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
  
+=======
+arts
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 News
@@ -764,20 +1296,42 @@ News
 Charleston remembers three more with services for victims of church massacre
 
 
+=======
+movies
 
 
 
 
+tv & radio
+
+
+
+
+music
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 News
+=======
+games
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 New details emerge about how the Charleston shooting unfolded
+=======
+books
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 News
@@ -788,29 +1342,60 @@ News
 Worshippers return to South Carolina church after shooting that killed nine
 
 
+=======
+art & design
+
+
+
+
+stage
+
+
+
+
+classical
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+lifestyle
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
  
 
 
+=======
+food
 
 
 
 
+health & fitness
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+love & sex
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 Mobile Apps
@@ -824,16 +1409,34 @@ Weather iPhone App
 
 
 iPhone & iPad App
+=======
+family
+
+
+
+
+women
+
+
+
+
+home & garden
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+fashion
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Facebook
 
 
@@ -883,14 +1486,32 @@ WordPress.com VIP
 
 
 
+=======
+business
 
 
 
 
+economics
 
 
 
 
+sustainable business
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+diversity & equality in business
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 ×
 
@@ -899,6 +1520,116 @@ Email Alerts
 
 
 
+=======
+small business
+
+
+
+
+
+
+travel
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+USA
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+europe
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+UK
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+environment
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+climate change
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+wildlife
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+energy
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+pollution
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+science
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+media
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+crosswords
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+video
+>>>>>>> origin/master
 
 
 
@@ -906,58 +1637,7 @@ Email Alerts
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 Follow
 
 
@@ -1054,6 +1734,50 @@ Cancel
 
 
 
+=======
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
+
+
+
+
+
+
+
+
+
+
+=======
+jobs
+
+subscribe
+all topics
+all contributors
+
+
+report technical issue
+
+
+
+about us
+
+contact us
+
+complaints & corrections
+terms & conditions
+privacy policy
+cookie policy
+securedrop
+
+
+© 2015 Guardian News and Media Limited or its affiliated companies. All rights reserved.
+>>>>>>> origin/master
 
 
 
@@ -1071,20 +1795,8 @@ Cancel
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
+=======
+ 
+>>>>>>> origin/master
 

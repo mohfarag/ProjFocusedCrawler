@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 One Critically Wounded In South Shore Police-Involved Shooting « CBS Chicago
 
 One Critically Wounded In South Shore Police-Involved Shooting « CBS Chicago
+=======
+Why did some British papers underplay the Charleston shooting? | Media | The Guardian
+
+Why did some British papers underplay the Charleston shooting? | Media | The Guardian
+>>>>>>> origin/master
 
 
 
@@ -16,14 +22,22 @@ One Critically Wounded In South Shore Police-Involved Shooting « CBS Chicago
 
 
 
+<<<<<<< HEAD
 
 
 
 Chicago
+=======
+Close
+
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Radio.com
 
 
@@ -107,6 +121,11 @@ Washington
 
 
 SIGN UP FOR NEWSLETTERS
+=======
+
+Skip to main content
+
+ 
 
 
 
@@ -118,6 +137,29 @@ SIGN UP FOR NEWSLETTERS
 
 
 
+sign in
+
+
+
+
+
+
+
+
+subscribe
+
+
+
+
+
+
+
+search
+
+
+
+
+jobs
 
 
 
@@ -128,12 +170,89 @@ SIGN UP FOR NEWSLETTERS
 
 
 
+more
+
+
+from the guardian:
+
+
+jobs
+
+
+
+change edition:
+
+
+
+switch to the  UK  edition
+
+
+switch to the  AU  edition
+
+
+switch to the 
+INT
+beta
+ edition
+>>>>>>> origin/master
 
 
 
 
 
+
+
+
+<<<<<<< HEAD
+=======
+US edition
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+switch to the 
+UK edition
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+switch to the 
+Australia edition
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+switch to the 
+International
+beta
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
 Sponsored By
+=======
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+The Guardian
+>>>>>>> origin/master
 
 
 
@@ -150,6 +269,16 @@ Sponsored By
 
 
 
+<<<<<<< HEAD
+
+
+=======
+home
+
+
+›
+media
+>>>>>>> origin/master
 
 
 
@@ -158,12 +287,7 @@ Sponsored By
 
 
 
-
-
-
-
-
-
+<<<<<<< HEAD
 CBS 2
 Welcome to CBS 2 on CBSChicago.com! CBS 2 is joining forces with the most trusted local CBS RADIO stations in Chicago to give you the best Chicago has to offer as CBS Local. CBS 2 […]
 WBBM Newsradio
@@ -172,34 +296,60 @@ Welcome to WBBM Newsradio 780 & 105.9FM, The Home of Chicago Bears Radio and Chi
 Welcome to 670 The Score, the home of White Sox radio, on CBSChicago.com! The Score is partners with CBS 2 TV and WBBM 780, and they give you the best Chicago has to offer. 670 […]
 
 
+=======
+
+
+home
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Follow Us
 Facebook
 Twitter
 YouTube
+=======
+US
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+world
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+opinion
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+sports
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+soccer
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 Home
@@ -250,12 +400,59 @@ Circulars
 Autos
 
 
+=======
+tech
+
+
+
+
+arts
+
+
+
+
+lifestyle
+
+
+
+
+fashion
+
+
+
+
+business
+
+
+
+
+travel
+
+
+
+
+environment
+
+
+
+
+science
 
 
 
 
 
 
+browse all sections
+close
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
 Local
 
 
@@ -284,17 +481,7 @@ World
 
 
 Photos
-
-
-
-
-
-
-
-
- 
-
-
+=======
 
 
  
@@ -309,20 +496,92 @@ Photos
 
 
 
+Media
 
+
+Greenslade
+
+
+
+Why did some British papers underplay the Charleston shooting?
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
+
+
+
+ 
+=======
+Roy Greenslade
+
+
+
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+ 
+
+=======
+
+Would UK national newspaper editors have given greater coverage to the church massacre if the shooter had been black and the victims had been white?
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
 Local
 
 
+=======
+
+
+The Charleston church shooting suspect, Dylann Roof, after his arrest.
+Photograph: Jason Miczek/Reuters
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 One Critically Wounded In South Shore Police-Involved Shooting
 
 
 
 
 December 17, 2012 12:24 PM
+=======
+
+Friday 19 June 2015 03.55 EDT
+
+
+Last modified on Monday 22 June 2015 06.11 EDT
+
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+Share on Facebook
+>>>>>>> origin/master
 
 
 
@@ -330,17 +589,16 @@ December 17, 2012 12:24 PM
 
 
 
+<<<<<<< HEAD
+=======
+Share on Twitter
+>>>>>>> origin/master
 
 
 
 
 
-
-
-
-
-
-
+<<<<<<< HEAD
  
 
 
@@ -357,11 +615,25 @@ South Shore
 
 
 
+=======
+
+
+Share via Email
 
 
 
 
 
+
+
+Share on Pinterest
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
 CHICAGO (STMW) —
  Police chased and shot a 21-year-old man who pulled a gun in the South Shore neighborhood Monday morning, a police union spokesman said.
 
@@ -381,6 +653,30 @@ Rayshawn Balkcom, 23, was just returning to his home when he saw the man run int
 
 
 (Source: Sun-Times Media Wire © Chicago Sun-Times 2012. All Rights Reserved. This material may not be published, broadcast, rewritten, or redistributed.)
+=======
+
+
+Share on LinkedIn
+
+
+
+
+
+
+
+Share on Google+
+
+
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
+=======
+Share on WhatsApp
+>>>>>>> origin/master
 
 
 
@@ -398,11 +694,7 @@ Rayshawn Balkcom, 23, was just returning to his home when he saw the man run int
 
 
 
-
-
-
-
-
+<<<<<<< HEAD
 
 
 
@@ -415,27 +707,90 @@ Rayshawn Balkcom, 23, was just returning to his home when he saw the man run int
 
 
 
+=======
+A young white American murdered a prominent church minister and eight churchgoers while reportedly declaring his hatred for black people. The crime poses two major questions about US society - its racial divide and its lax gun laws.
+Both of those questions were raised in a considered and sensitive statement by America’s black president, Barack Obama, in which he spoke of his country’s “dark past”. 
+Unsurprisingly, the story of the massacre received front page coverage in newspapers across the USA. But how was it covered by Britain’s national newspapers? 
+First, the bald facts. The shootings featured in stories and pictures on the front pages of the Independent (“America’s shame”), the Guardian (“Cold stare of the racist killer who stunned America”) and Metro (“I have to kill you”). There were also small page 1 blurbs in the Times and Daily Mirror.
+The Daily Telegraph confined its coverage to a foreign news page, here. The Times, in similar fashion, ran it on pages 30 and 31. The Daily Mail gave it a page and a half. The Sun’s spread, headlined Fiend from the swamp, was complemented by an editorial. 
+i’s story was on page 6: “Suspected killer of nine black churchgoers was given gun by his parents for 21st birthday”. The Mirror’s spread used a quote headline from the suspect, Dylann Roof, “I have to do it.. you rape our women & are taking over our country”. It also carried an editorial.
+In the Daily Express it was on page 9 and in the Daily Star it was a spread on pages 18 and 19 (although it also used a quote from the killer on page 2). 
+Second, what three editorials said. The Independent (“Divided nation”) began:
+
+“Even in America, a country by now inured to mass killings, Wednesday evening’s shooting rampage in a historic black church in Charleston, South Carolina, in which nine people died, has come as a particular shock”.
+
+It appeared, said the Indy, to be “a classic example of hate crime” that “will do nothing to improve the deteriorating state of race relations in the US”. It continued:
+
+“In the wake of a series of police killings of unarmed black suspects and the unrest that ensued – from Ferguson, Missouri, last summer, to Baltimore just a few weeks ago – there is no doubt the mood has changed. 
+A CBS/New York Times poll last month, in the aftermath of the Baltimore riots, found that 61% of Americans believe race relations are generally bad – a view shared by blacks and whites alike...
+This deterioration comes after America appeared to have exorcised some of its ancient racial demons by electing its first black president...
+Other factors, of course, are at work. The obscene proliferation of guns only magnifies tragedies like that at the Emanuel African Methodist Episcopal Church, established by free blacks and slaves in Charleston at the start of the 19th century. 
+There is even talk of arming pastors, a step that would be almost comical, were it not so desperate”. 
+
+The Indy also pointed out that, despite advances, “the deck of life chances is still stacked against black Americans. They earn less than whites, their opportunities for advancement are far fewer”.
+The Mirror editorial (“Gun control vital for US”) also referred to the “continuing deep cultural divide in the US”, adding:
+
+“The election of the country’s first black president was a milestone but there are still Americans who hate other Americans simply because of the colour of their skin”.
+
+But its major argument was about “the wide availability of guns” that allows weapons to be acquired by “violent bigots”. It concluded with a comment sympathetic to the US president:
+
+“Barack Obama captured the sombre mood, as he so often does, when he revealed he and his wife Michelle knew several members and the pastor of the South Carolina church.
+The familiarity of his words – America, the land of grieving after massacres – reflects both the need to heal that racial divide and remove guns from a heavily armed population”.
+
+But the Sun (“Deadly US toll”) condemned Obama for his failure to restrict gun ownership. “Yet again”, it said, Obama expressed grief, but “what will he do this time? Nothing”. It contended:
+
+“Obama should concentrate more on why the US has far more massacres than any other western nation where guns are legal.
+And whether it is caused by a society that fails to help disturbed loners while at the same time celebrating criminal notoriety”.
+
+Ok, that’s the facts. Now, third, for my comment, albeit tentative, on the disparity of British national paper coverage of this savage racist crime.
+I can’t help but note that the left-of-centre, liberal press gave the story much greater prominence and more space than the right-of-centre papers (with the notable and honourable exception of the Sun). 
+It is, frankly, astonishing that the Times and Telegraph in particular underplayed the story.
+I cannot help but wonder if racism was involved in editorial decision-making. Would those papers have treated this story in the same fashion if a black man had murdered nine white churchgoers?
+Looking back also to December 2012, when the Sandy Hook school atrocity occurred, I recall that it dominated the front pages of every national, including the Telegraph, Times, Mail, Express and Star. Sure, it involved children, and the deaths of such “innocents” would guarantee splash status.
+But surely the nine innocents of Charleston, South Carolina, merited more attention than some British newspaper editors granted them.
+
+This article was amended on June 19 to clarify the position of the stories in the Express and Star.
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
+
+
+
+=======
+More blogposts 
+Topics
+
+
+
+National newspapers
+>>>>>>> origin/master
 
 
 
 
-
-
-
+<<<<<<< HEAD
 
 Listen Live
 
 
 
+=======
+Charleston shooting
 
 
 
 
+Newspapers
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
@@ -475,44 +830,122 @@ Most recently, two men were shot late Thursday in the West Side Austin neighborh
 Follow 
 CBS Chicago
 
+=======
+US crime
 
 
 
 
+South Carolina
+
+
+
+More…
+
+
+
+The Times
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+The Guardian
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+Daily Telegraph
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+The Independent
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+Daily Mirror
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
 Follow @CBSChicago
 
+=======
+The Sun
 
 
 
 
+Daily Mail
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+Daily Express
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
 Like us on foursquare
 
+=======
+Daily Star
+
+
+
+
+i
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+Metro
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+Barack Obama
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+Newspapers & magazines
+>>>>>>> origin/master
 
 
 
@@ -523,6 +956,10 @@ Like us on foursquare
 
 
 
+<<<<<<< HEAD
+=======
+Share on Facebook
+>>>>>>> origin/master
 
 
 
@@ -530,31 +967,29 @@ Like us on foursquare
 
 
 
+<<<<<<< HEAD
+=======
+Share on Twitter
+>>>>>>> origin/master
 
 
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 Follow More Stations and Personalities
 
+=======
+
+Share via Email
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
  
 Contests & Promotions
 Blue Collar Bears Fan Of The Week
@@ -594,11 +1029,25 @@ dodgerman
  cbsloc.al/1LGzANK
  
 25 minutes ago
+=======
+
+
+Share on Pinterest
 
 
 
 
 
+
+
+Share on LinkedIn
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
 				NOW: Live streaming of CBS2’s newscast. One click and you’re in the loop. Starts now: 
  CBSChicago.com/watch
  
@@ -610,6 +1059,22 @@ dodgerman
 
 
  
+=======
+
+
+Share on Google+
+
+
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
+=======
+Share on WhatsApp
+>>>>>>> origin/master
 
 
 
@@ -621,41 +1086,53 @@ dodgerman
 
 
 
-
-
-
-
-
+<<<<<<< HEAD
 News Via Email
  
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Download The Free App
  
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 New Podcast Network
  
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Download Our New Weather App!
  
+=======
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
+=======
+View all comments >
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
  
 
 
@@ -663,10 +1140,25 @@ Download Our New Weather App!
 
 
 
+=======
+
+
+comments 
+Sign in
+or create your Guardian account to join the discussion.
+
+This discussion is closed for comments.
+
+We’re doing some maintenance right now. You can still read comments, but please come back later to add your own.
+
+
+Commenting has been disabled for this account (why?)
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 News
 
 
@@ -721,12 +1213,67 @@ Podcasts
 
 
 Blogs
+=======
+
+
+
+Order by 
+
+
+newest
+
+
+oldest
+
+
+
+
+Show 25
+
+
+25
+
+
+50
+
+
+100
+
+
+All
+
+
+
+
+Threads 
+
+
+collapsed
+
+
+expanded
+
+
+unthreaded
+
+
+
+
+
+Loading comments… Trouble loading?
+
+
+
+
+View more comments
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 Scores & Stats
 
 
@@ -744,15 +1291,35 @@ NBA Basketball
 NHL Hockey
 
 
+=======
+
+
+
+ 
 
 
 
 
+
+
+
+
+
+popular
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Contact Us
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 CBS 2
 
 
@@ -766,17 +1333,35 @@ Connect
 
 
 Mobile
+=======
 
 
 
 
+ 
+
+
+
+
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 Corporate
+=======
+The Guardian
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 About Us
 
 
@@ -793,6 +1378,10 @@ Mobile
 
 
 Connect
+=======
+
+
+back to top
 
 
 
@@ -801,13 +1390,31 @@ Connect
 
 
 
+>>>>>>> origin/master
 
 
+
+
+
+
+<<<<<<< HEAD
+=======
+home
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Chicago Business Listings
+=======
+US
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Restaurants
 
 
@@ -821,14 +1428,32 @@ Professional Services
 
 
 Search Listings
+=======
+world
 
 
 
 
+opinion
 
 
 
 
+sports
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+soccer
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 By viewing our video content, you are accepting the terms of our 
 Video Services Policy
 
@@ -878,16 +1503,62 @@ WordPress.com VIP
 
 
  
+=======
+tech
+
+
+
+
+arts
+
+
+
+
+lifestyle
+
+
+
+
+fashion
+
+
+
+
+business
+
+
+
+
+travel
+
+
+
+
+environment
+
+
+
+
+science
+
+
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
+=======
+all sections
+close
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 Facebook
 
 
@@ -897,15 +1568,30 @@ Twitter
 RSS
 
 
+=======
+
+
+home
 
 
 
 
+US
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Other CBS Local Cities 
+=======
+world
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 CBS Atlanta
 
 
@@ -981,31 +1667,113 @@ CBS Tampa
 CBS Washington
 
 
+=======
+UK
+
+
+
+
+europe
+
+
+
+
+americas
+
+
+
+
+asia
+
+
+
+
+middle east
+
+
+
+
+africa
+
+
+
+
+australia
+
+
+
+
+cities
+
+
+
+
+development
 
 
 
 
 
 
+opinion
 
 
+
+
+sports
+
+
+
+
+soccer
+
+
+
+
+MLS
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+NFL
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 ©2015 CBS Local Media,
  
 a division of CBS Radio Inc.
  
 All rights reserved.
+=======
+MLB
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+NBA
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+NHL
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Buy Tickets
 Order Food
  
@@ -1026,22 +1794,45 @@ Daily Deals
  
 
 
+=======
+
+
+soccer
 
 
 
 
+live scores
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+tables
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+competitions
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+results
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 Log In
@@ -1063,45 +1854,98 @@ Twitter
 Youtube
 
 
+=======
+fixtures
+
+
+
+
+clubs
 
 
 
 
 
 
+tech
 
 
 
 
+arts
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+movies
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+tv & radio
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+music
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+games
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+books
+>>>>>>> origin/master
 
 
+
+
+<<<<<<< HEAD
+=======
+art & design
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+stage
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Listen Live
+=======
+classical
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 
 
 AM/FM Stations
@@ -1125,10 +1969,34 @@ B96
 
 
 WBBM NewsRadio
+=======
+lifestyle
 
 
 
 
+food
+
+
+
+
+health & fitness
+
+
+
+
+love & sex
+
+
+
+
+family
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 Featured Shows & Multimedia
@@ -1148,15 +2016,191 @@ CBS Sports Radio
 Radio.com
 
 
+=======
+women
 
 
 
 
+home & garden
+
+
+
+
+
+
+fashion
+
+
+
+
+business
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 Advertise On Our Streams
 
 
+=======
+economics
+
+
+
+
+sustainable business
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+diversity & equality in business
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+small business
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+travel
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+USA
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+europe
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+
+
+ 
+=======
+UK
+
+
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+ 
+
+
+=======
+environment
+
+
+
+
+climate change
+
+
+
+
+wildlife
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+energy
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+pollution
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+science
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+media
+selected
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+crosswords
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+video
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
+=======
+
+
+
+
+
+
+Media
+
+
+
+
+›
+National newspapers
 
 
 
@@ -1165,9 +2209,29 @@ Advertise On Our Streams
 
 
 
+jobs
+
+subscribe
+all topics
+all contributors
+
+
+report technical issue
 
 
 
+about us
+
+contact us
+
+complaints & corrections
+terms & conditions
+privacy policy
+cookie policy
+securedrop
+
+
+© 2015 Guardian News and Media Limited or its affiliated companies. All rights reserved.
 
 
 
@@ -1187,40 +2251,4 @@ Advertise On Our Streams
 
  
 
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+>>>>>>> origin/master

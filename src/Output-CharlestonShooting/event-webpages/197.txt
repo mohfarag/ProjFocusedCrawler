@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 Cicero Police Shoot Suspected Gang Member « CBS Chicago
 
 Cicero Police Shoot Suspected Gang Member « CBS Chicago
+=======
+Charleston shooting | US news | The Guardian
+
+Charleston shooting | US news | The Guardian
+>>>>>>> origin/master
 
 
 
@@ -16,14 +22,22 @@ Cicero Police Shoot Suspected Gang Member « CBS Chicago
 
 
 
+<<<<<<< HEAD
 
 
 
 Chicago
+=======
+Close
+
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Radio.com
 
 
@@ -102,11 +116,50 @@ Tampa
 Washington
 
 
+=======
+
+Skip to main content
+
+ 
 
 
 
 
+
+
+
+
+
+
+
+sign in
+
+
+
+
+
+
+
+
+subscribe
+
+
+
+
+
+
+
+search
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 SIGN UP FOR NEWSLETTERS
+=======
+jobs
+>>>>>>> origin/master
 
 
 
@@ -117,6 +170,7 @@ SIGN UP FOR NEWSLETTERS
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -134,6 +188,72 @@ SIGN UP FOR NEWSLETTERS
 
 
 Sponsored By
+=======
+more
+
+
+from the guardian:
+
+
+jobs
+
+
+
+change edition:
+
+
+
+switch to the  UK  edition
+
+
+switch to the  AU  edition
+
+
+switch to the 
+INT
+beta
+ edition
+
+
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+US edition
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+switch to the 
+UK edition
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+switch to the 
+Australia edition
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+switch to the 
+International
+beta
+>>>>>>> origin/master
 
 
 
@@ -144,24 +264,7 @@ Sponsored By
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 
 
 CBS 2
@@ -170,16 +273,42 @@ WBBM Newsradio
 Welcome to WBBM Newsradio 780 & 105.9FM, The Home of Chicago Bears Radio and Chicago Cubs Radio, on CBSChicago.com! WBBM Newsradio 780 & 105.9FM is joining forces with the CBS 2 Television and 670 The […]
 670 The Score
 Welcome to 670 The Score, the home of White Sox radio, on CBSChicago.com! The Score is partners with CBS 2 TV and WBBM 780, and they give you the best Chicago has to offer. 670 […]
+=======
+The Guardian
+
+
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 Follow Us
 Facebook
 Twitter
 YouTube
+=======
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+
+
+=======
+home
+
+
+›
+US
+>>>>>>> origin/master
 
 
 
@@ -190,16 +319,7 @@ YouTube
 
 
 
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 
 
 Home
@@ -248,14 +368,63 @@ Circulars
 
 
 Autos
+=======
+home
 
 
 
 
+US
+selected
 
 
 
 
+world
+
+
+
+
+opinion
+
+
+
+
+sports
+
+
+
+
+soccer
+
+
+
+
+tech
+
+
+
+
+arts
+
+
+
+
+lifestyle
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+fashion
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Local
 
 
@@ -284,6 +453,32 @@ World
 
 
 Photos
+=======
+business
+
+
+
+
+travel
+
+
+
+
+environment
+
+
+
+
+science
+
+
+
+
+
+
+browse all sections
+close
+>>>>>>> origin/master
 
 
 
@@ -297,32 +492,67 @@ Photos
 
 
 
+<<<<<<< HEAD
  
+=======
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
+
+
+=======
+Charleston shooting
+
+Monday
+
+22
+June
+2015
+>>>>>>> origin/master
 
 
 
 
 
-
-
+<<<<<<< HEAD
 Local
+=======
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 Cicero Police Shoot Suspected Gang Member
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 July 5, 2012 10:42 PM
+=======
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+
+
+=======
+Four Republican hopefuls return money after 'Dylann Roof manifesto' revelation
+
+
+Scott Walker, Rand Paul, Ted Cruz and Rick Santorum and 18 others to give up cash from leader of group that may have influenced Charleston church gunman
+>>>>>>> origin/master
 
 
 
@@ -331,27 +561,31 @@ July 5, 2012 10:42 PM
 
 
 
+<<<<<<< HEAD
+=======
+Four Republican hopefuls return money after 'Dylann Roof manifesto' revelation
+>>>>>>> origin/master
 
 
 
 
-
-
-
-
-
-
+<<<<<<< HEAD
 View Comments
  
 
 
 (CBS)
+=======
+
+
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 Related Tags:
 
 
@@ -363,18 +597,31 @@ Police-Involved Shooting
 
 
 
+=======
+
+
+
+Barack Obama to deliver eulogy for Charleston church victims
+
+
+President and first lady to attend funeral for Pastor Clementa Pinckney, who was early supporter of Obama in 2008
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 Featured & Trending:
 
 
 
+=======
 
 
 
+Barack Obama to deliver eulogy for Charleston church victims
+>>>>>>> origin/master
 
 
 
@@ -390,10 +637,15 @@ Featured & Trending:
 
 
 
+<<<<<<< HEAD
 
 
+=======
+South Carolina governor calls for removal of Confederate flag from statehouse
 
 
+Governor Nikki Haley makes abrupt about-face in wake of Charleston killings to call for removal of flag that has flown on statehouse grounds for 50 years
+>>>>>>> origin/master
 
 
 
@@ -402,6 +654,10 @@ Featured & Trending:
 
 
 
+<<<<<<< HEAD
+=======
+South Carolina governor calls for removal of Confederate flag from statehouse
+>>>>>>> origin/master
 
 
 
@@ -415,12 +671,18 @@ Featured & Trending:
 
 
 
+<<<<<<< HEAD
 
 
 
+=======
+Analysis
 
+Is the Confederate flag a racist symbol? After Charleston, the debate rages on
 
 
+For most Americans, the answer is simple: yes. But the flag has its defenders who insist it expresses a rich southern heritage, not hatred associated with slavery
+>>>>>>> origin/master
 
 
 
@@ -429,6 +691,10 @@ Featured & Trending:
 
 
 
+<<<<<<< HEAD
+=======
+Is the Confederate flag a racist symbol? After Charleston, the debate rages on
+>>>>>>> origin/master
 
 
 
@@ -445,6 +711,10 @@ Featured & Trending:
 
 
 
+<<<<<<< HEAD
+=======
+Leader of group cited in 'Dylann Roof manifesto' donated to top Republicans
+>>>>>>> origin/master
 
 
 
@@ -455,6 +725,10 @@ Featured & Trending:
 
 
 
+<<<<<<< HEAD
+=======
+Leader of group cited in 'Dylann Roof manifesto' donated to top Republicans
+>>>>>>> origin/master
 
 
 
@@ -465,6 +739,10 @@ Featured & Trending:
 
 
 
+<<<<<<< HEAD
+=======
+The Guardian view on the Confederate flag: tear down this red rag
+>>>>>>> origin/master
 
 
 
@@ -475,6 +753,10 @@ Featured & Trending:
 
 
 
+<<<<<<< HEAD
+=======
+The Guardian view on the Confederate flag: tear down this red rag
+>>>>>>> origin/master
 
 
 
@@ -485,6 +767,10 @@ Featured & Trending:
 
 
 
+<<<<<<< HEAD
+=======
+Apple and Salesforce CEOs call on South Carolina to take down Confederate flag
+>>>>>>> origin/master
 
 
 
@@ -495,6 +781,10 @@ Featured & Trending:
 
 
 
+<<<<<<< HEAD
+=======
+Apple and Salesforce CEOs call on South Carolina to take down Confederate flag
+>>>>>>> origin/master
 
 
 
@@ -505,6 +795,10 @@ Featured & Trending:
 
 
 
+<<<<<<< HEAD
+=======
+Chuck Todd apologizes for gun violence video that ran day of Charleston services
+>>>>>>> origin/master
 
 
 
@@ -515,6 +809,10 @@ Featured & Trending:
 
 
 
+<<<<<<< HEAD
+=======
+Chuck Todd apologizes for gun violence video that ran day of Charleston services
+>>>>>>> origin/master
 
 
 
@@ -525,23 +823,43 @@ Featured & Trending:
 
 
 
+<<<<<<< HEAD
+=======
+The Confederate flag in pop culture: harmless Americana or racist symbol?
+>>>>>>> origin/master
 
 
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
 Latest News Headlines:
+=======
+The Confederate flag in pop culture: harmless Americana or racist symbol?
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
  
 Water Main Break Closes Streets In West Loop
  
 Man Shot, Seriously Wounded In Lawndale
  
 2 Killed, 7 Injured In High-Speed Crash In Robbins; Drag Racing Suspected
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 CICERO, Ill. (STMW)
  — A police officer in Cicero shot a suspected gang member fleeing from police Thursday evening in the western suburb.
 
@@ -556,6 +874,25 @@ Police Chief Bernard Harrison and Cicero Town President Larry Dominick contacted
 
 
 (Source: Sun-Times Media Wire © Chicago Sun-Times 2012. All Rights Reserved. This material may not be published, broadcast, rewritten, or redistributed.)
+=======
+
+
+Barack Obama invokes N-word during interview on racism in America
+
+
+
+
+
+
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+Barack Obama invokes N-word during interview on racism in America
+>>>>>>> origin/master
 
 
 
@@ -577,13 +914,28 @@ Police Chief Bernard Harrison and Cicero Town President Larry Dominick contacted
 
 
 
-
-
-
-
+<<<<<<< HEAD
 
 View Comments
  
+=======
+Dylann Roof is the product of a system that has bred racist hatred for centuries
+
+Joanne Braxton and Michael Sainato
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+Dylann Roof is the product of a system that has bred racist hatred for centuries
+>>>>>>> origin/master
 
 
 
@@ -594,17 +946,13 @@ View Comments
 
 
 
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 
 Listen Live
+=======
+Kanye West and Lupe Fiasco address the Charleston church shooting
+
+>>>>>>> origin/master
 
 
 
@@ -614,6 +962,7 @@ Listen Live
 
 
 
+<<<<<<< HEAD
 
  
 
@@ -644,34 +993,63 @@ Eight Wounded In Thursday Shootings Across Chicago
 Most recently, two men were shot late Thursday in the West Side Austin neighborhood. The men, ages 19 and 20, were standing outside in the 1500 block of North Linder about 10:25 p.m. when shots were fired in their direction from a group of males standing on the corner across the street, according to Chicago Police.
  
 80
+=======
+Kanye West and Lupe Fiasco address the Charleston church shooting
+
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Follow 
 CBS Chicago
 
+=======
+
+Older
+Newer
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+
+
+
+=======
+Topics
+
+
+
+Gun crime
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+South Carolina
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+Race issues
+>>>>>>> origin/master
 
 
 
 
-
-
-
+<<<<<<< HEAD
 
 
 Follow @CBSChicago
@@ -683,52 +1061,109 @@ Follow @CBSChicago
 
 
 
+=======
+US crime
 
 
 
 
+US politics
+
+
+
+More…
+
+
+
+American civil war
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Like us on foursquare
+=======
+Republicans
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+Barack Obama
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+US gun control
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+Mitt Romney
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+Media business
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+Tim Cook
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+Obama administration
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+Art
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+NBC Universal
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Follow More Stations and Personalities
+=======
+Urban music
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
  
@@ -771,21 +1206,54 @@ dodgerman
  
 24 minutes ago
 
+=======
+Rap
 
 
 
 
+Apple
+
+
+
+
+Ted Cruz
+
+
+
+
+Scott Walker
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 				NOW: Live streaming of CBS2’s newscast. One click and you’re in the loop. Starts now: 
  CBSChicago.com/watch
  
 #LIVE
  
 33 minutes ago
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
  
+=======
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
+=======
+The Guardian
+>>>>>>> origin/master
 
 
 
@@ -794,26 +1262,32 @@ dodgerman
 
 
 
-
-
-
-
-
+<<<<<<< HEAD
 
 
 
 News Via Email
  
+=======
+back to top
+
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Download The Free App
  
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 New Podcast Network
  
 
@@ -825,23 +1299,49 @@ Download Our New Weather App!
 
 
 
+=======
+
+
+
+home
 
 
 
 
+US
+selected
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
  
 
+=======
+world
 
 
 
 
+opinion
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+sports
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 News
 
@@ -897,12 +1397,65 @@ Podcasts
 
 
 Blogs
+=======
+soccer
+
+
+
+
+tech
+
+
+
+
+arts
+
+
+
+
+lifestyle
+
+
+
+
+fashion
+
+
+
+
+business
+
+
+
+
+travel
+
+
+
+
+environment
+
+
+
+
+science
 
 
 
 
 
 
+
+all sections
+close
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
 Scores & Stats
 
 
@@ -943,10 +1496,51 @@ Connect
 
 Mobile
 
+=======
+
+home
 
 
 
 
+US
+selected
+
+
+
+
+world
+
+
+
+
+UK
+
+
+
+
+europe
+
+
+
+
+americas
+
+
+
+
+asia
+
+
+
+
+middle east
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 Corporate
 
@@ -972,10 +1566,36 @@ Connect
 
 
 
+=======
+africa
 
 
 
 
+australia
+
+
+
+
+cities
+
+
+
+
+development
+
+
+
+
+
+
+opinion
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
@@ -998,10 +1618,34 @@ Professional Services
 
 Search Listings
 
+=======
+sports
 
 
 
 
+soccer
+
+
+
+
+MLS
+
+
+
+
+NFL
+
+
+
+
+MLB
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
@@ -1055,12 +1699,58 @@ WordPress.com VIP
 
  
 
+=======
+NBA
+
+
+
+
+NHL
 
 
 
 
 
 
+soccer
+
+
+
+
+live scores
+
+
+
+
+tables
+
+
+
+
+competitions
+
+
+
+
+results
+
+
+
+
+fixtures
+
+
+
+
+clubs
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
 
 
 
@@ -1072,10 +1762,24 @@ Twitter
 
 RSS
 
+=======
+tech
 
 
 
 
+arts
+
+
+
+
+movies
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 Other CBS Local Cities 
 
@@ -1156,12 +1860,83 @@ CBS Tampa
 
 CBS Washington
 
+=======
+tv & radio
+
+
+
+
+music
+
+
+
+
+games
+
+
+
+
+books
+
+
+
+
+art & design
+
+
+
+
+stage
+
+
+
+
+classical
 
 
 
 
 
 
+lifestyle
+
+
+
+
+food
+
+
+
+
+health & fitness
+
+
+
+
+love & sex
+
+
+
+
+family
+
+
+
+
+women
+
+
+
+
+home & garden
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
 
 
 
@@ -1172,14 +1947,27 @@ a division of CBS Radio Inc.
 All rights reserved.
 
 
+=======
+fashion
 
 
 
 
+business
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+economics
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 Buy Tickets
@@ -1202,24 +1990,50 @@ Daily Deals
  
 
 
+=======
+sustainable business
+
+
+
+
+diversity & equality in business
+
+
+
+
+small business
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+travel
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+USA
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+europe
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Log In
 Register
  
@@ -1240,51 +2054,98 @@ Youtube
 
 
 
+=======
+UK
 
 
 
 
 
 
+environment
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+climate change
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+wildlife
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+energy
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+pollution
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+science
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+media
+>>>>>>> origin/master
 
 
 
 
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 
 Listen Live
 
 
 
+=======
+crosswords
+
+
+
+
+video
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 AM/FM Stations
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 93 XRT
 
 
@@ -1308,10 +2169,42 @@ WBBM NewsRadio
 
 
 Featured Shows & Multimedia
+=======
 
 
 
 
+jobs
+
+subscribe
+all topics
+all contributors
+
+
+report technical issue
+
+
+
+about us
+
+contact us
+
+complaints & corrections
+terms & conditions
+privacy policy
+cookie policy
+securedrop
+
+
+© 2015 Guardian News and Media Limited or its affiliated companies. All rights reserved.
+
+
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Play.It
 
 
@@ -1322,11 +2215,20 @@ CBS Sports Radio
 
 
 Radio.com
+=======
 
 
 
 
 
+
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
 
 
 
@@ -1400,3 +2302,7 @@ Advertise On Our Streams
 
 
 
+=======
+ 
+
+>>>>>>> origin/master

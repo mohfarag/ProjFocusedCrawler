@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 STATEMENT BY REV. AL SHARPTON ON THE KILLING OF NINE PEOPLE AT EMANUEL AME CHURCH IN CHARLESTON, SOUTH CAROLINA | National Action Network
 
 STATEMENT BY REV. AL SHARPTON ON THE KILLING OF NINE PEOPLE AT EMANUEL AME CHURCH IN CHARLESTON, SOUTH CAROLINA | National Action Network
+=======
+Charleston shooting | US news | The Guardian
+
+Charleston shooting | US news | The Guardian
+>>>>>>> origin/master
 
 
 
@@ -9,14 +15,20 @@ STATEMENT BY REV. AL SHARPTON ON THE KILLING OF NINE PEOPLE AT EMANUEL AME CHURC
 
 
 
+<<<<<<< HEAD
  
 
 
 Home
+=======
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 About
 
 
@@ -33,17 +45,36 @@ Contact Us
 
 
 NAN Youth Move
+=======
+
+Close
 
 
 
 
 
 
+
+
+Skip to main content
+
+ 
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
 News
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Rev. Sharpton’s Blog
 
 
@@ -58,11 +89,25 @@ Recent Profiles
 
 News Archive
 
+=======
+
+sign in
 
 
 
 
 
+
+
+
+subscribe
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
 Media
 
 
@@ -81,10 +126,27 @@ Videos
 
 
 Podcasts
+=======
+
+
+search
 
 
 
 
+jobs
+
+
+
+
+
+
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
  
@@ -101,47 +163,105 @@ Search for:
 
 
 
+=======
+more
+
+
+from the guardian:
+
+
+jobs
+
+
+
+change edition:
+
+
+
+switch to the  UK  edition
+
+
+switch to the  AU  edition
+
+
+switch to the 
+INT
+beta
+ edition
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+ 
+=======
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+US edition
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+ 
+=======
+switch to the 
+UK edition
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+switch to the 
+Australia edition
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+ 
+=======
+switch to the 
+International
+beta
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
  
 
 
+=======
+
+
+The Guardian
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
  
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
- 
+=======
+>>>>>>> origin/master
 
 
 
@@ -152,31 +272,77 @@ Search for:
 
 
 
+<<<<<<< HEAD
+
+
+=======
+home
+
+
+›
+US
+>>>>>>> origin/master
 
 
 
 
 
 
-
-
+<<<<<<< HEAD
  
  
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 NAN HOTLINE #: 877-626-4651
 
 
+=======
+home
 
 
 
 
+US
+selected
 
 
 
 
+world
+
+
+
+
+opinion
+
+
+
+
+sports
+
+
+
+
+soccer
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+tech
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 National Action Network
@@ -185,14 +351,27 @@ Featured
  » STATEMENT BY REV. AL SHARPTON ON THE KILLING OF NINE PEOPLE AT EMANUEL AME CHURCH IN CHARLESTON, SOUTH CAROLINA	
 
 
+=======
+arts
 
 
 
 
+lifestyle
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+fashion
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 Featured Archive
@@ -217,6 +396,36 @@ August 18, 2015
 The 400 year struggle for black equality doesn’t end with #blacklivesmatter
 August 17, 2015
 View More Posts
+=======
+business
+
+
+
+
+travel
+
+
+
+
+environment
+
+
+
+
+science
+
+
+
+
+
+
+browse all sections
+close
+
+
+
+
+>>>>>>> origin/master
 
 
 
@@ -224,11 +433,15 @@ View More Posts
  
 
 
+<<<<<<< HEAD
 STATEMENT BY REV. AL SHARPTON ON THE KILLING OF NINE PEOPLE AT EMANUEL AME CHURCH IN CHARLESTON, SOUTH CAROLINA
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 FOR IMMEDIATE RELEASE
 
 
@@ -274,6 +487,17 @@ a
 
 
 ###
+=======
+
+
+
+Charleston shooting
+
+Tuesday
+
+7
+July
+2015
 
 
 
@@ -288,67 +512,142 @@ a
 
 
 
+
+
+
+
+
+South Carolina senate backs removal of Confederate flag from capitol
+
+
+Republicans in state house of representatives work to ensure a Confederate-linked symbol remains at the state house
+
+
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+South Carolina senate backs removal of Confederate flag from capitol
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
 Social
+=======
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+ 
+
+
+
+=======
+
+Alabama city votes to pull Confederate flag as Florida town flies it again
+
+
+Ocala, Florida government building removed flag following Charleston shooting, but Marion county council unanimously votes to restore it
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
+ 
+
+
+
+=======
+
+
+
+Alabama city votes to pull Confederate flag as Florida town flies it again
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
+ 
+=======
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
  
 
 
 
 
+=======
 
 
+Dylann Roof faces new charges over Charleston church shooting
+
+
+Suspect, 21, charged with three counts of attempted murder and is expected in court in October over deaths of nine during Bible study
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+ 
+=======
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+Dylann Roof faces new charges over Charleston church shooting
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
 
 
  
+=======
+Older
+Newer
+
+
+>>>>>>> origin/master
 
 
 
 
-
-
-
-
- 
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
+<<<<<<< HEAD
 @NationalAction
 
 
@@ -366,6 +665,47 @@ Tweets by @TheRevAl
 
 
 
+=======
+Topics
+
+
+
+South Carolina
+
+
+
+
+American civil war
+
+
+
+
+Alabama
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+US crime
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+Florida
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+Gun crime
+>>>>>>> origin/master
 
 
 
@@ -379,40 +719,42 @@ Tweets by @TheRevAl
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 Copyright © 2011 National Action Network. All Rights Reserved.
+=======
+The Guardian
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 The National Action Network is not responsible for any original documents sent to our offices
 seeking assistance including unsolicited letters, manuscripts, court documents or photographs.
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
  
  
  
+=======
+back to top
+
+
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 National Action Network
 
 			House of Justice
@@ -428,6 +770,430 @@ National Action Network
 			(877) NAN-HOJ1
 
 
+=======
+
+
+
+
+
+
+home
+
+
+
+
+US
+selected
+
+
+
+
+world
+
+
+
+
+opinion
+
+
+
+
+sports
+
+
+
+
+soccer
+
+
+
+
+tech
+
+
+
+
+arts
+
+
+
+
+lifestyle
+
+
+
+
+fashion
+
+
+
+
+business
+
+
+
+
+travel
+
+
+
+
+environment
+
+
+
+
+science
+
+
+
+
+
+
+
+all sections
+close
+
+
+
+
+
+
+
+home
+
+
+
+
+US
+selected
+
+
+
+
+world
+
+
+
+
+UK
+
+
+
+
+europe
+
+
+
+
+americas
+
+
+
+
+asia
+
+
+
+
+middle east
+
+
+
+
+africa
+
+
+
+
+australia
+
+
+
+
+cities
+
+
+
+
+development
+
+
+
+
+
+
+opinion
+
+
+
+
+sports
+
+
+
+
+soccer
+
+
+
+
+MLS
+
+
+
+
+NFL
+
+
+
+
+MLB
+
+
+
+
+NBA
+
+
+
+
+NHL
+
+
+
+
+
+
+soccer
+
+
+
+
+live scores
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+tables
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+competitions
+
+
+
+
+results
+
+
+
+
+fixtures
+
+
+
+
+clubs
+
+
+
+
+
+
+tech
+
+
+
+
+arts
+
+
+
+
+movies
+
+
+
+
+tv & radio
+
+
+
+
+music
+
+
+
+
+games
+
+
+
+
+books
+
+
+
+
+art & design
+
+
+
+
+stage
+
+
+
+
+classical
+
+
+
+
+
+
+lifestyle
+
+
+
+
+food
+
+
+
+
+health & fitness
+
+
+
+
+love & sex
+
+
+
+
+family
+
+
+
+
+women
+
+
+
+
+home & garden
+
+
+
+
+
+
+fashion
+
+
+
+
+business
+
+
+
+
+economics
+
+
+
+
+sustainable business
+
+
+
+
+diversity & equality in business
+
+
+
+
+small business
+
+
+
+
+
+
+travel
+
+
+
+
+USA
+
+
+
+
+europe
+
+
+
+
+UK
+
+
+
+
+
+
+environment
+
+
+
+
+climate change
+
+
+
+
+wildlife
+
+
+
+
+energy
+
+
+
+
+pollution
+
+
+
+
+
+
+science
+
+
+
+
+media
+
+
+
+
+crosswords
+
+
+
+
+video
 
 
 
@@ -436,4 +1202,51 @@ National Action Network
 
 
 
+
+
+
+
+
+jobs
+
+subscribe
+all topics
+all contributors
+
+
+report technical issue
+
+
+
+about us
+
+contact us
+
+complaints & corrections
+terms & conditions
+privacy policy
+cookie policy
+securedrop
+
+
+© 2015 Guardian News and Media Limited or its affiliated companies. All rights reserved.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+>>>>>>> origin/master
 

@@ -1,13 +1,50 @@
+<<<<<<< HEAD
 SPLC statement on the shooting in Charleston, South Carolina | Southern Poverty Law Center
 
 SPLC statement on the shooting in Charleston, South Carolina | Southern Poverty Law Center
+=======
+Charleston shooting | US news | The Guardian
+
+Charleston shooting | US news | The Guardian
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 Jump to Navigation
+=======
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+Close
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+
+=======
+Skip to main content
+
+ 
+>>>>>>> origin/master
 
 
 
@@ -19,29 +56,27 @@ Jump to Navigation
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 
 Search
 
 
 Menu
+=======
+sign in
+
+
+
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
+=======
+subscribe
+>>>>>>> origin/master
 
 
 
@@ -49,11 +84,7 @@ Menu
 
 
 
-
-
-
-
-
+<<<<<<< HEAD
 What We Do
 Fighting Hate
 
@@ -65,10 +96,21 @@ Seeking Justice
 
 
 Civil Rights Memorial
+=======
+search
 
 
 
 
+jobs
+
+
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Our Issues
 Hate & Extremism
 
@@ -104,21 +146,79 @@ Intelligence Report
 
 
 Publications
+=======
 
 
 
 
+more
+
+
+from the guardian:
+
+
+jobs
+
+
+
+change edition:
+
+
+
+switch to the  UK  edition
+
+
+switch to the  AU  edition
+
+
+switch to the 
+INT
+beta
+ edition
+
+
+
+
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Hate Map
+=======
+US edition
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+switch to the 
+UK edition
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
  
  
+=======
+switch to the 
+Australia edition
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+switch to the 
+International
+beta
+>>>>>>> origin/master
 
 
 
@@ -127,10 +227,7 @@ Hate Map
 
 
 
-
-
-
-
+<<<<<<< HEAD
 Facebook
 
 
@@ -147,19 +244,131 @@ Ways to Give
 
 
 Donate
+=======
+
+
+The Guardian
 
 
 
 
 
 
+
+
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+ 
+ 
+=======
+home
+
+
+›
+US
+
+
+
+
+
+
+
+
+
+
+home
+
+
+
+
+US
+selected
+
+
+
+
+world
+
+
+
+
+opinion
+
+
+
+
+sports
+
+
+
+
+soccer
+
+
+
+
+tech
+
+
+
+
+arts
+
+
+
+
+lifestyle
+
+
+
+
+fashion
+
+
+
+
+business
+
+
+
+
+travel
+
+
+
+
+environment
+
+
+
+
+science
+
+
+
+
+
+
+browse all sections
+close
+
+
+
+
+
+
+>>>>>>> origin/master
 
 
  
- 
-
-
- 
 
 
 
@@ -169,17 +378,18 @@ Donate
 
 
 
+<<<<<<< HEAD
 
 
+=======
+Charleston shooting
 
+Thursday
 
-
-
-
-
-
-
-
+25
+June
+2015
+>>>>>>> origin/master
 
 
 
@@ -206,6 +416,12 @@ Donate
 
 
 
+<<<<<<< HEAD
+=======
+Sorry, your browser is unable to play this video.
+Please install Adobe Flash™ and try again.
+Alternatively upgrade to a modern browser.
+>>>>>>> origin/master
 
 
 
@@ -216,12 +432,31 @@ Donate
 
 
 
+
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
 News
 
 
 
 
 
+=======
+
+
+
+Charleston shooting: mourners gather for first funerals since massacre - video
+
+
+Services take place on Thursday for two of the nine victims of a massacre at a historic Emanuel AME Church in Charleston, South Carolina
+>>>>>>> origin/master
 
 
 
@@ -230,6 +465,10 @@ News
 
 
 
+<<<<<<< HEAD
+=======
+Charleston shooting: mourners gather for first funerals since massacre - video
+>>>>>>> origin/master
 
 
 
@@ -237,7 +476,39 @@ News
 
 
 
+<<<<<<< HEAD
 SPLC statement on the shooting in Charleston, South Carolina
+=======
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+
+
+=======
+Funerals for Charleston shooting victims begin with 'message of love'
+
+
+‘We are stronger because we are together as a community,’ said Emanuel AME interim pastor Norvell Goff at the service for Ethel Lance in North Charleston
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+Funerals for Charleston shooting victims begin with 'message of love'
+>>>>>>> origin/master
 
 
 
@@ -250,52 +521,55 @@ SPLC statement on the shooting in Charleston, South Carolina
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 Richard Cohen
+=======
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 
 
 
 
 President
+=======
+Funerals begin for Charleston shooting victims – in pictures
+
+
+The first of the funerals for victims of last week’s shooting at Emanuel African Methodist Episcopal church took place in South Carolina on Thursday
+
+
+>>>>>>> origin/master
 
 
 
 
+
+
+<<<<<<< HEAD
+ 
+ 
+=======
+Funerals begin for Charleston shooting victims – in pictures
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+ 
 
 
  
- 
+=======
 
 
-
-
- 
-
-
- 
+>>>>>>> origin/master
 
 
 
@@ -305,9 +579,28 @@ President
 
 
 
+<<<<<<< HEAD
 
 June 17, 2015
 
+=======
+Beyond Dylann Roof: inside the hunt for domestic extremists in the digital age
+
+
+Whether you call it terrorism or not, law enforcement officials say they are aware of home-grown threats around the globe. The question now is how to stop them
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+Beyond Dylann Roof: inside the hunt for domestic extremists in the digital age
+>>>>>>> origin/master
 
 
 
@@ -324,16 +617,13 @@ June 17, 2015
 
 
 
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 
 Our hearts go out to the victims and their families.  Black churches, including those in South Carolina, have been the targets of hate crimes throughout our country's history.  We know that they will remain resolute and their faith unshaken in the face of this tragedy.
+=======
+Nas and Killer Mike demand action in wake of Charleston murders
+
+>>>>>>> origin/master
 
 
 
@@ -343,6 +633,7 @@ Our hearts go out to the victims and their families.  Black churches, includin
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -364,6 +655,8 @@ threat of homegrown domestic terrorism is very real
 Our hearts go out to the victims and their families.  Black churches, 
 including those in South Carolina
 , have been the targets of hate crimes throughout our country's history.  We know that they will remain resolute and their faith unshaken in the face of this tragedy.
+=======
+Nas and Killer Mike demand action in wake of Charleston murders
 
 
 
@@ -372,22 +665,55 @@ including those in South Carolina
 
 
 
+Older
+Newer
+
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
+
+
+
+=======
+Topics
+
+
+
+South Carolina
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+Gun crime
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+US crime
+>>>>>>> origin/master
 
 
 
+
+<<<<<<< HEAD
+=======
+FBI
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
  
@@ -413,6 +739,40 @@ including those in South Carolina
  
 
 
+=======
+Urban music
+
+
+
+More…
+
+
+
+Rap
+
+
+
+
+The far right
+
+
+
+
+Hip-hop
+
+
+
+
+Race issues
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+Run the Jewels
+>>>>>>> origin/master
 
 
 
@@ -426,6 +786,22 @@ including those in South Carolina
 
 
 
+<<<<<<< HEAD
+=======
+The Guardian
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+back to top
+>>>>>>> origin/master
 
 
 
@@ -439,18 +815,7 @@ including those in South Carolina
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 Home
 
 
@@ -459,19 +824,39 @@ Facebook
 
 Twitter
 
+=======
+
+home
 
 
 
 
+US
+selected
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
  
 
+=======
+world
 
 
 
 
+opinion
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 The Southern Poverty Law Center
 400 Washington Avenue
@@ -485,32 +870,79 @@ Montgomery, AL 36104
 
 
 
+=======
+sports
 
 
 
 
+soccer
 
 
 
 
+tech
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+arts
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
 The Civil Rights Memorial Center
 
+=======
+lifestyle
 
 
 
 
+fashion
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+business
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 Learn More
 
 
 
+=======
+travel
+
+
+
+
+environment
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+science
+>>>>>>> origin/master
 
 
 
@@ -518,11 +950,12 @@ Learn More
 
 
 
-
-
-
-
+<<<<<<< HEAD
  
+=======
+all sections
+close
+>>>>>>> origin/master
 
 
 
@@ -530,6 +963,7 @@ Learn More
 
 
 
+<<<<<<< HEAD
 
 About Us
 Our History
@@ -549,23 +983,56 @@ Privacy & Terms
 
 Contact Us
 
+=======
+home
 
 
 
 
+US
+selected
 
 
 
 
+world
+
+
+
+
+UK
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+europe
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
  
 
 
 
+=======
+americas
 
 
 
 
+asia
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 State Offices
 Alabama
@@ -579,21 +1046,44 @@ Louisiana
 
 Mississippi
 
+=======
+middle east
 
 
 
 
+africa
 
 
 
 
+australia
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+cities
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
  
+=======
+development
+
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -618,24 +1108,61 @@ Donor Resources
 
 Store
 
+=======
+opinion
 
 
 
 
+sports
 
 
 
 
+soccer
+
+
+
+
+MLS
+
+
+
+
+NFL
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+MLB
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
  
 
 
 
+=======
+NBA
+
+
+
+
+NHL
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 Resources
 News
 
@@ -656,10 +1183,30 @@ Publications
 
 
 
+=======
+
+soccer
 
 
 
 
+live scores
+
+
+
+
+tables
+
+
+
+
+competitions
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
@@ -672,6 +1219,266 @@ Publications
 
  
 
+=======
+results
+
+
+
+
+fixtures
+
+
+
+
+clubs
+
+
+
+
+
+
+tech
+
+
+
+
+arts
+
+
+
+
+movies
+
+
+
+
+tv & radio
+
+
+
+
+music
+
+
+
+
+games
+
+
+
+
+books
+
+
+
+
+art & design
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+stage
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+classical
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+lifestyle
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+food
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+health & fitness
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+
+
+=======
+love & sex
+
+
+
+
+family
+
+
+
+
+women
+
+
+
+
+home & garden
+
+
+
+
+
+
+fashion
+
+
+
+
+business
+
+
+
+
+economics
+
+
+
+
+sustainable business
+
+
+
+
+diversity & equality in business
+
+
+
+
+small business
+
+
+
+
+
+
+travel
+
+
+
+
+USA
+
+
+
+
+europe
+
+
+
+
+UK
+
+
+
+
+
+
+environment
+
+
+
+
+climate change
+
+
+
+
+wildlife
+
+
+
+
+energy
+
+
+
+
+pollution
+
+
+
+
+
+
+science
+
+
+
+
+media
+
+
+
+
+crosswords
+
+
+
+
+video
+
+
+
+
+
+
+
+
+
+
+
+
+
+jobs
+
+subscribe
+all topics
+all contributors
+
+
+report technical issue
+
+
+
+about us
+
+contact us
+
+complaints & corrections
+terms & conditions
+privacy policy
+cookie policy
+securedrop
+
+
+© 2015 Guardian News and Media Limited or its affiliated companies. All rights reserved.
 
 
 
@@ -689,14 +1496,6 @@ Publications
 
 
 
+ 
 
-
-
-
-
-
-
-
-
-
-
+>>>>>>> origin/master

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Obama on Charleston shooting: 'I refuse to act as if this is the new normal' – live updates | US news | The Guardian
 
 
@@ -20,6 +21,11 @@ Obama on Charleston shooting: 'I refuse to act as if this is the new normal' –
 
 
 
+=======
+'He was my hero': Charleston mother hails 26-year-old killed shielding victims | US news | The Guardian
+
+'He was my hero': Charleston mother hails 26-year-old killed shielding victims | US news | The Guardian
+>>>>>>> origin/master
 
 
 
@@ -44,6 +50,7 @@ Close
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -59,6 +66,10 @@ Skip to main content
 
 
 
+=======
+Skip to main content
+
+>>>>>>> origin/master
  
 
 
@@ -71,6 +82,10 @@ Skip to main content
 
 
 
+<<<<<<< HEAD
+=======
+sign in
+>>>>>>> origin/master
 
 
 
@@ -79,6 +94,10 @@ Skip to main content
 
 
 
+<<<<<<< HEAD
+=======
+subscribe
+>>>>>>> origin/master
 
 
 
@@ -86,10 +105,15 @@ Skip to main content
 
 
 
+<<<<<<< HEAD
+=======
+search
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 sign in
 
 
@@ -99,6 +123,9 @@ sign in
 
 
 
+=======
+jobs
+>>>>>>> origin/master
 
 
 
@@ -109,6 +136,7 @@ sign in
 
 
 
+<<<<<<< HEAD
 subscribe
 
 
@@ -127,59 +155,14 @@ subscribe
 
 
 search
-
-
-
-
-
-
-
-
-
-
-jobs
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+=======
 more
-
-
-
-
 
 
 from the guardian:
 
 
-
-
-
-
 jobs
-
-
-
-
-
 
 
 
@@ -187,18 +170,142 @@ change edition:
 
 
 
+switch to the  UK  edition
 
 
-
+switch to the  AU  edition
 
 
 switch to the 
- UK 
+INT
+beta
  edition
 
 
+>>>>>>> origin/master
 
 
+
+
+
+
+<<<<<<< HEAD
+=======
+US edition
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+jobs
+=======
+switch to the 
+UK edition
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+switch to the 
+Australia edition
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+switch to the 
+International
+beta
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+The Guardian
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+more
+=======
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
+from the guardian:
+=======
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
+jobs
+
+
+=======
+home
+
+
+›
+US
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
+change edition:
+=======
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+home
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+switch to the 
+ UK 
+ edition
+=======
+US
+selected
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 switch to the 
@@ -206,10 +313,19 @@ switch to the
  edition
 
 
+=======
+world
 
 
 
 
+opinion
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 switch to the 
 
 
@@ -222,59 +338,116 @@ beta
  edition
 
 
+=======
+sports
 
 
 
 
+soccer
 
 
 
 
+tech
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+arts
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+lifestyle
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
 US edition
 
+=======
+fashion
 
 
 
 
+business
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+travel
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 switch to the 
 
 
 UK edition
 
 
+=======
+environment
+
+
+
+
+science
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 
 
 switch to the 
 
 
 Australia edition
+=======
+browse all sections
+close
+
+
+
+
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+ 
+>>>>>>> origin/master
 
 
 
 
 
 
-
-
-
-
+<<<<<<< HEAD
 switch to the 
 
 
@@ -286,262 +459,7 @@ beta
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-The Guardian
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-home
-
-
-
-
-
-
-›
-
-
-US
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-home
-
-
-
-
-
-
-
-
-
-US
-
-selected
-
-
-
-
-
-
-
-
-
-world
-
-
-
-
-
-
-
-
-opinion
-
-
-
-
-
-
-
-
-sports
-
-
-
-
-
-
-
-
-soccer
-
-
-
-
-
-
-
-
-tech
-
-
-
-
-
-
-
-
-arts
-
-
-
-
-
-
-
-
-lifestyle
-
-
-
-
-
-
-
-
-fashion
-
-
-
-
-
-
-
-
-business
-
-
-
-
-
-
-
-
-travel
-
-
-
-
-
-
-
-
-environment
-
-
-
-
-
-
-
-
-science
-
-
-
-
-
-
-
-
-
-
-
-
-
-browse 
-all
- sections
-
-
-close
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+=======
 
 
 
@@ -551,10 +469,453 @@ Charleston shooting
 
 
 
+'He was my hero': Charleston mother hails 26-year-old killed shielding victims
+>>>>>>> origin/master
 
 
 
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+Tywanza Sanders put himself in the line of fire and told shooter ‘You don’t have to do this’ after attacker said was going to kill everybody in church basement
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+The Guardian
+=======
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+Sorry, your browser is unable to play this video.
+Please install Adobe Flash™ and try again.
+Alternatively upgrade to a modern browser.
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
+
+
+
+=======
+Horace Taylor pays tribute to his cousin Tywanza Sanders.
+
+
+
+Ed Pilkington in Charleston
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
+=======
+@edpilkington
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+
+
+home
+=======
+Friday 19 June 2015 17.58 EDT
+
+
+Last modified on Saturday 20 June 2015 12.23 EDT
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
+›
+
+
+US
+=======
+
+Share on Facebook
+
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+Share on Twitter
+>>>>>>> origin/master
+
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+Share via Email
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
+home
+
+
+=======
+
+
+Share on Pinterest
+>>>>>>> origin/master
+
+
+
+
+
+
+
+<<<<<<< HEAD
+US
+
+selected
+=======
+Share on LinkedIn
+
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
+
+
+
+world
+=======
+Share on Google+
+
+
+
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+Share on WhatsApp
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+opinion
+=======
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+sports
+=======
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
+
+
+
+soccer
+
+
+
+
+=======
+Tywanza Sanders, 26, the youngest victim of the deadly shooting at the Emanuel AME church in Charleston, died trying to shield the oldest victim, his great aunt Susie Jackson, 87, from the barrel of a gun. That simple act of courage has emerged as perhaps the enduring image of the victims’ resilience in the face of the hatred unleashed by the shooter on Wednesday night.
+At about 9pm that night, as the Bible studies class attended by Sanders, Jackson, and 10 other church regulars drew to a close, a stranger who had walked into their midst about an hour previously pulled out a gun. Dylann Roof, 21, is charged with murdering nine of the congregants, each of the deceased shot multiple times.
+The description of Roof’s alleged offences released by the Charleston police department on Friday suggests that he stood over one of the survivors of the attack “and uttered a racially inflammatory statement”. 
+Sanders’ actions stand in stark contrast to the alleged racial animosity of his assailant. Accounts originating from the three survivors of the attack indicate that the young man remained strikingly calm as he tried to talk the shooter out of what he was about to do.
+“You don’t have to do this,” Sanders said.
+When the shooter moved to pull the trigger anyway, saying he was going to kill everyone in the room, Sanders is said to have leapt in front of the gun, putting himself between the firearm and his great aunt. He took the first bullet, but the killer reloaded and they both died.
+Sanders’ mother, Felicia Sanders, was also at the Bible studies meeting on Wednesday. She survived by playing dead.
+At Roof’s bond hearing on Friday she put the loss of her child in the most simple terms. “Tywanza is my son, but he was my hero.”
+To Roof, she said: “We welcomed you Wednesday night in our bible study with open arms. You have killed some of the most beautifullest people that I know. Every fiber in my body hurts – I will never be the same.”
+There were four members of the Sanders extended family in the basement of the Mother Emanuel church that night. In addition to Tywanza Sanders and Susie Jackson who died, and Felicia Sanders who survived, another family member Ethel Lance, 70, was also killed.
+By Friday a deep sense of shock had settled over the Sanders family home, a classic Charleston wooden house with porch just a few blocks away from the scene of the shooting. Most of the family was grieving behind closed doors, but Tywanza’s cousin Horace Taylor, 33, took time to recall for the Guardian the “standup guy” that he had been.
+Taylor said that his cousin was “always speaking positive, he was always with a smile on his face. Though he was younger than me, I looked up at him as my big cousin.”
+He said that Sanders had an entrepreneurial bent, and was forever seeking the next venture that would allow him to better himself and support his large extended family. He worked two jobs – cutting hair in a barber shop in North Charleston and working in a restaurant kitchen. In his spare time he wrote rap lyrics and poetry.
+“While other kids fall into drugs and shit, he was just trying to find another way to make a better life for all of us,” Sanders said.
+That same concern to do the right thing was on display on Wednesday night, Taylor added.
+“Tywanza tried to save my grandma. He tried to protect everybody else from those bullets. I’m pretty sure he knew he wasn’t going to make it, but he still did his best to save others. That’s the man he was.”
+
+
+
+
+More news 
+Topics
+
+
+
+Charleston shooting
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+tech
+=======
+South Carolina
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+arts
+
+
+=======
+
+
+Share on Facebook
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
+lifestyle
+
+=======
+
+Share on Twitter
+>>>>>>> origin/master
+
+
+
+
+
+
+
+<<<<<<< HEAD
+fashion
+=======
+Share via Email
+>>>>>>> origin/master
+
+
+
+
+
+
+
+<<<<<<< HEAD
+
+business
+=======
+Share on Pinterest
+
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
+
+
+travel
+=======
+Share on LinkedIn
+
+
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
+
+
+
+environment
+=======
+Share on Google+
+
+
+
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+Share on WhatsApp
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+science
+=======
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+browse 
+all
+ sections
+
+
+close
+
+
+
+=======
+
+
+
+
+
+ 
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+popular
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+ 
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+The Guardian
+>>>>>>> origin/master
+
+
+
+
+
+
+
+<<<<<<< HEAD
+Charleston shooting
+
+=======
+
+back to top
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
 Obama on Charleston shooting: 'I refuse to act as if this is the new normal' – live updates
+=======
+>>>>>>> origin/master
 
 
 
@@ -564,14 +925,24 @@ Obama on Charleston shooting: 'I refuse to act as if this is the new normal' –
 
 
 
+<<<<<<< HEAD
+=======
+home
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+US
+selected
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -588,11 +959,89 @@ Moves towards US gun control at a standstill
 
 
 
+=======
+world
 
 
 
 
+opinion
+
+
+
+
+sports
+
+
+
+
+soccer
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Updated 
+=======
+tech
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+arts
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+lifestyle
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+fashion
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+business
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+travel
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+environment
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+science
+>>>>>>> origin/master
 
 
 
@@ -600,6 +1049,11 @@ Updated
 
 
 
+<<<<<<< HEAD
+=======
+all sections
+close
+>>>>>>> origin/master
 
 
 
@@ -607,323 +1061,560 @@ Updated
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 
 Dylann Roof appears in court.
 Photograph: Screengrab
 
 
 
+=======
+home
 
 
 
 
+US
+selected
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+world
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Raya Jalabi
  in New York
+=======
+UK
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+europe
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+americas
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 @rayajalabi
+=======
+asia
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+middle east
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 Friday 19 June 2015 
 18.04 EDT
 
 
 
+=======
+africa
 
 
 
 
+australia
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Last modified on Saturday 20 June 2015 
 12.23 EDT
+=======
+cities
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+development
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+opinion
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+sports
+>>>>>>> origin/master
 
 
 
 
-
-
-
-
+<<<<<<< HEAD
 Share on Facebook
+=======
+soccer
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+MLS
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+NFL
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+MLB
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Share on Twitter
+=======
+NBA
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+NHL
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+soccer
+>>>>>>> origin/master
 
 
 
 
-
-
-
-
+<<<<<<< HEAD
 
 
 Share via Email
 
 
+=======
+live scores
 
 
 
 
+tables
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+competitions
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+results
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 Share on Pinterest
 
 
+=======
+fixtures
+
+
+
+
+clubs
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+tech
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+arts
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Share on LinkedIn
+=======
+movies
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+tv & radio
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+music
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+games
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Share on Google+
+=======
+books
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+art & design
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+stage
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+classical
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Share on WhatsApp
 
 
+=======
+
+
+lifestyle
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+food
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+health & fitness
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+love & sex
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+family
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+women
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+home & garden
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+fashion
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+business
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+economics
+>>>>>>> origin/master
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 Key events
+=======
+sustainable business
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+diversity & equality in business
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 Show
+=======
+small business
+
+
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+travel
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+USA
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+europe
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+UK
+>>>>>>> origin/master
 
 
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 
 
 Live feed
 
 
+=======
+environment
 
 
 
 
+climate change
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+wildlife
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Show
+=======
+energy
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+pollution
+>>>>>>> origin/master
 
 
 
 
 
 
-
-
-
-
+<<<<<<< HEAD
 
 
 Order by
 
 
+=======
+science
 
 
 
 
+media
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Newest first
+=======
+crosswords
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 Oldest first
+=======
+video
+
+
+>>>>>>> origin/master
 
 
 
@@ -933,10 +1624,15 @@ Oldest first
 
 
 
+<<<<<<< HEAD
+=======
+US News
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
  
 6.04pm 
@@ -946,10 +1642,18 @@ ET
 
 
 Summary
+=======
+›
+Charleston shooting
+
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Here’s a final summary for today:
 
 
@@ -983,10 +1687,38 @@ doesn’t personally support the death penalty
 A portrait of Dylann Roof
  as an apparently committed racist
  has emerged throughout the day
+=======
+
+jobs
+
+subscribe
+all topics
+all contributors
+
+
+report technical issue
+
+
+
+about us
+
+contact us
+
+complaints & corrections
+terms & conditions
+privacy policy
+cookie policy
+securedrop
+
+
+© 2015 Guardian News and Media Limited or its affiliated companies. All rights reserved.
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 That’s it from us today on the live blog, thanks for tuning in. 
 
 
@@ -1006,12 +1738,19 @@ For Twitter updates
 ), who are on the ground in Charleston. Amanda Holpuch (
 @holpuch
 ) is in Columbia.
+=======
+
+
+
+
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
  
 Facebook
  
@@ -9431,4 +10170,9 @@ securedrop
  
 
 
+=======
+
+
+ 
+>>>>>>> origin/master
 

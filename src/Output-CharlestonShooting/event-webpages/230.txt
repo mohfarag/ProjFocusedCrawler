@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Charleston shooting: Confederate flag at heart of growing political storm | US news | The Guardian
 
 
@@ -7,6 +8,11 @@ Charleston shooting: Confederate flag at heart of growing political storm | US n
 
 
 
+=======
+Church burnings after Charleston: part of a 'long, dark' history that never stopped | US news | The Guardian
+
+Church burnings after Charleston: part of a 'long, dark' history that never stopped | US news | The Guardian
+>>>>>>> origin/master
 
 
 
@@ -22,20 +28,10 @@ Charleston shooting: Confederate flag at heart of growing political storm | US n
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
+=======
 Close
+>>>>>>> origin/master
 
 
 
@@ -44,6 +40,21 @@ Close
 
 
 
+<<<<<<< HEAD
+
+=======
+Skip to main content
+
+ 
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+Close
+=======
+>>>>>>> origin/master
 
 
 
@@ -51,15 +62,46 @@ Close
 
 
 
+<<<<<<< HEAD
+=======
+sign in
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
 
 
 
 Skip to main content
+=======
+subscribe
+
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
  
+=======
+search
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+jobs
+>>>>>>> origin/master
 
 
 
@@ -70,10 +112,7 @@ Skip to main content
 
 
 
-
-
-
-
+<<<<<<< HEAD
 
 
 
@@ -91,95 +130,14 @@ Skip to main content
 
 
 sign in
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-subscribe
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-search
-
-
-
-
-
-
-
-
-
-
-jobs
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+=======
 more
-
-
-
-
 
 
 from the guardian:
 
 
-
-
-
-
 jobs
-
-
-
-
-
 
 
 
@@ -187,9 +145,194 @@ change edition:
 
 
 
+switch to the  UK  edition
+
+
+switch to the  AU  edition
+
+
+switch to the 
+INT
+beta
+ edition
+
+
+>>>>>>> origin/master
 
 
 
+
+
+
+<<<<<<< HEAD
+=======
+US edition
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+switch to the 
+UK edition
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+switch to the 
+Australia edition
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+subscribe
+=======
+switch to the 
+International
+beta
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+The Guardian
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
+search
+=======
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+jobs
+
+
+=======
+home
+
+
+›
+US
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+home
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+US
+selected
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+
+
+more
+
+
+=======
+world
+
+
+
+
+opinion
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+from the guardian:
+=======
+sports
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+
+
+jobs
+
+
+=======
+soccer
+
+
+
+
+tech
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+
+
+change edition:
+
+
+=======
+arts
+
+
+
+
+lifestyle
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 switch to the 
@@ -197,17 +340,30 @@ switch to the
  edition
 
 
+=======
+fashion
 
 
 
 
+business
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 switch to the 
  AU 
  edition
+=======
+travel
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 switch to the 
@@ -222,6 +378,22 @@ beta
  edition
 
 
+=======
+environment
+
+
+
+
+science
+
+
+
+
+
+
+browse all sections
+close
+>>>>>>> origin/master
 
 
 
@@ -230,6 +402,10 @@ beta
 
 
 
+<<<<<<< HEAD
+=======
+ 
+>>>>>>> origin/master
 
 
 
@@ -237,11 +413,15 @@ beta
 
 
 
+<<<<<<< HEAD
 US edition
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -251,20 +431,40 @@ switch to the
 
 
 UK edition
+=======
+US crime
+
+
+
+Church burnings after Charleston: part of a 'long, dark' history that never stopped
+
+
+
+
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
+=======
+More than a half-dozen recent church burnings are proof that high-profile arsons, which date back to before the US civil war, continue to occur at a high rate
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 switch to the 
 
 
 Australia edition
+=======
+
+
+>>>>>>> origin/master
 
 
 
@@ -275,6 +475,7 @@ Australia edition
 
 
 
+<<<<<<< HEAD
 switch to the 
 
 
@@ -287,6 +488,22 @@ beta
 
 
 
+=======
+
+A charred bible page outside Mount Zion African Methodist Episcopal church on Wednesday in Greeleyville, South Carolina.
+Photograph: Veasey Conway/AP
+
+
+
+
+Max Blau in Atlanta
+
+
+Thursday 2 July 2015 10.20 EDT
+
+
+Last modified on Thursday 2 July 2015 17.00 EDT
+>>>>>>> origin/master
 
 
 
@@ -294,6 +511,10 @@ beta
 
 
 
+<<<<<<< HEAD
+=======
+Share on Facebook
+>>>>>>> origin/master
 
 
 
@@ -301,10 +522,25 @@ beta
 
 
 
+<<<<<<< HEAD
 
 
 
 The Guardian
+=======
+Share on Twitter
+
+
+
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+Share via Email
+>>>>>>> origin/master
 
 
 
@@ -312,6 +548,10 @@ The Guardian
 
 
 
+<<<<<<< HEAD
+=======
+Share on Pinterest
+>>>>>>> origin/master
 
 
 
@@ -319,6 +559,10 @@ The Guardian
 
 
 
+<<<<<<< HEAD
+=======
+Share on LinkedIn
+>>>>>>> origin/master
 
 
 
@@ -326,6 +570,10 @@ The Guardian
 
 
 
+<<<<<<< HEAD
+=======
+Share on Google+
+>>>>>>> origin/master
 
 
 
@@ -333,23 +581,30 @@ The Guardian
 
 
 
-
-
-
-
+<<<<<<< HEAD
 
 
 home
+=======
+Share on WhatsApp
+
+
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 ›
 
 
 US
+=======
+
+
+>>>>>>> origin/master
 
 
 
@@ -357,6 +612,7 @@ US
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -364,88 +620,186 @@ US
 
 
 
+=======
+Sometime after 8pm on Tuesday evening, Mount Zion African Methodist Episcopal church in Greeleyville, South Carolina, went up in flames. Located 60 miles north of Charleston, the building’s torched roof lit up the night sky. It was similar to the six other predominantly black southern churches that have burned in the two weeks since the slaughter of nine black men and women inside a historic Charleston church on 17 June.
+Local and federal investigators, urging patience until their investigation is complete, have yet to determine an exact cause. With only the red brick walls left standing, residents of the tiny town and across the nation have slowly grown suspicious that the seemingly isolated church fires may be connected. 
+The latest string of church fires has led to at least three confirmed arsons in Charlotte, North Carolina, Knoxville, Tennessee, and Macon, Georgia. In all, more than a half-dozen churches have burned since the mass shooting.
+As the Federal Bureau of Investigation looks at whether any of the fires classify as hate crimes, recent church fires like the one in Greeleyville, a house of worship that KKK members torched two decades ago, have resuscitated memories of high-profile arsons dating back to before the US civil war.
+“There are no other institutions as central to African American life as the church,” says Laurie Maffly-Kipp, a Washington University in St Louis professor who studies religion and American history. “If you want to go after a really potent symbol, that’s the place you go. It’s sort of like burning the cross. You could say the cross is just a couple pieces of wood put together. But that symbolism means something very important.”
+People have set fire to black churches since the early 19th century, a time when houses of worship largely operated as underground places, offering glimmers of hope and freedom for enslaved black men and women. During Reconstruction, black ministers founded churches for emancipated slaves where they could pray, learn to read and participate in a larger community. As the number of black churches grew over time, Maffly-Kipp says, arson became one of a number of terrorist tactics such as bombings and threats against ministers, used to deter black community members from regularly meeting.
+“The history is long and deep and dark,” Southern Poverty Law Center senior fellow Mark Potok says. “Churches were burned as a matter of suppressing people, trying to keep black people ‘in their place’.”
+
+
+
+ Facebook 
+ Twitter 
+ Pinterest 
+
+
+Smoke rises from Mount Zion African Methodist Episcopal church late on Tuesday. Photograph: Veasey Conway/AP
+
+
+Between 1954 and 1968, Potok says, arsons and bombings struck nearly 100 black churches, many of which provided space for activists to organize their civil rights movement efforts. The most infamous church attack, the 1963 bombing of the 16th Street Baptist church in Birmingham, Alabama, resulted in the deaths of four young black girls. The four KKK members who plotted the attack never faced charges.
+Christopher Strain, a Florida Atlantic University American studies professor and author of Burning Faith: Church Arson in the American South, says the pattern re-emerged in the mid-90s, when a rash of church fires prompted the then US president Bill Clinton to form the National Church Arson Task Force (NCATF) and Congress to pass legislation doubling the penalties for future church arsons. Between January 1995 and September 1998, the NCATF opened investigations into 670 arsons, bombings and attempted bombings at houses of worship.
+In June 1995, Mount Zion AME church burned down for the first time in its history. Ku Klux Klan recruits Christopher Cox and Timothy Welch doused the church’s pews and pulpit with accelerants before setting the century-old house of worship ablaze. Cox and Welch later confessed to the arson and were sentenced to nearly two decades in prison. According to Potok, a South Carolina jury ordered the Christian Knights of the KKK and several individual Klansmen to pay a $37.8m ivil judgment for their conspiring roles in the crime – which a judge later reduced to $21.5m.
+Since then, church fires have continued to occur at a high rate, despite fading from the national news. According to the National Fire Protection Association, about 280 houses of worship, including those practicing all different faiths, were intentionally torched between 2007 and 2011. A recent Associated Press analysis found only 16% of all church fires were ruled to be arson.
+“People are now saying here we go again, but they never really stopped,” Strain says. “The church burnings got national press in the 1960s and 1990s. They have never really gone away.”
+Strain says many church blazes now happen due to a number other factors – old wooden buildings, faulty electrical wiring, unintentional homeless fires or angst-filled teens – largely unrelated to hate crimes. However, Strain notes, the reccurrence of arsons after the recent Confederate flag debate warrants heightened vigilance. Though it may be coincidence, he says, the track record of church burnings in southern states is hard to ever ignore.
+Mount Zion AME church is a rare exception for a church burning down twice. But in cities like Knoxville, black churches have seen history repeat itself in recent weeks. College Hill Seventh-day Adventist church, one of the three churches where fire investigators have confirmed arson, suffered about $50,000 in damages to the building and a church van on 21 June. 
+Nearly two decades before the recent arson, Inner City Baptist church, located about five miles away, burned down thanks to a mix of Molotov cocktails, gunpowder and kerosene. Racial slurs marked the charred sanctuary walls where former NFL defensive end Reggie White once preached.
+The College Hill pastor, Cleveland Hodby III, who nearly six months ago joined the 280-member congregation, says enough of his church has survived to continue holding regular services. However, he says, the toughest thing to fix won’t be the damage to the burnt property or torched van. It’ll be recovering the sense of safety his house of worship held for his congregation.
+“There’s a feeling of a need for safety,” Hodby says. “Church has always been a safe place. The aura of church being a safe place has been taken. I have to restore that.”
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 home
 
 
 
+=======
+More news 
+Topics
+
+
+
+US crime
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 US
 
 selected
 
+=======
+Race issues
 
 
 
 
+South Carolina
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+North Carolina
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 world
+=======
+Tennessee
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+Georgia
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 opinion
+=======
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 
 
 sports
+=======
+Share on Facebook
+
+
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 
 
 
 soccer
+=======
+Share on Twitter
+
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+Share via Email
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 tech
 
 
 
+=======
+
+
+
+Share on Pinterest
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 arts
 
 
+=======
+
+
+Share on LinkedIn
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 lifestyle
 
+=======
+
+Share on Google+
+>>>>>>> origin/master
 
 
 
@@ -453,7 +807,11 @@ lifestyle
 
 
 
+<<<<<<< HEAD
 fashion
+=======
+Share on WhatsApp
+>>>>>>> origin/master
 
 
 
@@ -462,7 +820,10 @@ fashion
 
 
 
+<<<<<<< HEAD
 business
+=======
+>>>>>>> origin/master
 
 
 
@@ -471,7 +832,10 @@ business
 
 
 
+<<<<<<< HEAD
 travel
+=======
+>>>>>>> origin/master
 
 
 
@@ -480,15 +844,23 @@ travel
 
 
 
+<<<<<<< HEAD
 environment
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+View all comments >
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 science
 
 
@@ -497,12 +869,28 @@ science
 
 
 
+=======
+
+
+
+comments 
+Sign in
+or create your Guardian account to join the discussion.
+
+This discussion is closed for comments.
+
+We’re doing some maintenance right now. You can still read comments, but please come back later to add your own.
+
+
+Commenting has been disabled for this account (why?)
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 browse 
 all
  sections
@@ -512,6 +900,84 @@ close
 
 
 
+=======
+
+Order by 
+
+
+newest
+
+
+oldest
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+
+
+
+
+
+
+
+
+=======
+Show 25
+
+
+25
+
+
+50
+
+
+100
+
+
+All
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+
+
+
+
+
+
+=======
+Threads 
+
+
+collapsed
+
+
+expanded
+
+
+unthreaded
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
+=======
+Loading comments… Trouble loading?
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+View more comments
+>>>>>>> origin/master
 
 
 
@@ -521,49 +987,30 @@ close
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 
 
 
 Charleston shooting
+=======
+ 
+
+
+
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 
 Charleston shooting: Confederate flag at heart of growing political storm
+=======
+popular
+
+>>>>>>> origin/master
 
 
 
@@ -575,6 +1022,10 @@ Charleston shooting: Confederate flag at heart of growing political storm
 
 
 
+<<<<<<< HEAD
+=======
+ 
+>>>>>>> origin/master
 
 
 
@@ -583,12 +1034,28 @@ Charleston shooting: Confederate flag at heart of growing political storm
 
 
 
+<<<<<<< HEAD
 
 
 Republican legislator plans to introduce bill to remove flag at capitol
 
 
 Presidential candidate Lindsey Graham: ‘Let’s have that debate’
+=======
+The Guardian
+
+
+
+
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+back to top
+>>>>>>> origin/master
 
 
 
@@ -603,44 +1070,75 @@ Presidential candidate Lindsey Graham: ‘Let’s have that debate’
 
 
 
+<<<<<<< HEAD
+=======
+home
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+US
+selected
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+world
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+opinion
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+sports
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+soccer
+>>>>>>> origin/master
 
 
 
 
-
-
-
-
+<<<<<<< HEAD
 
 The Confederate flag is seen waving in front of the state capitol building in Columbia, South Carolina.
 Photograph: Mladen Antonov/AFP/Getty Images
 
 
 
+=======
+tech
 
 
 
 
+arts
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 Amanda Holpuch
@@ -661,12 +1159,42 @@ Oliver Laughland
 Saturday 20 June 2015 
 08.41 EDT
 
+=======
+lifestyle
 
 
 
 
+fashion
+
+
+
+
+business
+
+
+
+
+travel
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Last modified on Wednesday 24 June 2015 
 10.48 EDT
+=======
+environment
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+science
+>>>>>>> origin/master
 
 
 
@@ -674,154 +1202,288 @@ Last modified on Wednesday 24 June 2015
 
 
 
+<<<<<<< HEAD
+=======
+all sections
+close
+>>>>>>> origin/master
 
 
 
 
 
-
-
-
-
+<<<<<<< HEAD
 Share on Facebook
 
 
+=======
+
+
+home
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+US
+selected
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+world
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 Share on Twitter
 
 
+=======
+UK
 
 
 
 
+europe
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+americas
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+asia
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 Share via Email
 
 
+=======
+middle east
 
 
 
 
+africa
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+australia
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+cities
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 Share on Pinterest
+=======
+development
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+opinion
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+sports
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+soccer
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Share on LinkedIn
+=======
+MLS
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+NFL
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+MLB
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+NBA
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Share on Google+
+=======
+NHL
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+soccer
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+live scores
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 Share on WhatsApp
 
 
+=======
+tables
+
+
+
+
+competitions
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+results
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+fixtures
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+clubs
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+tech
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+arts
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+movies
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+tv & radio
+>>>>>>> origin/master
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 Pressure is mounting on 
 South Carolina
  to pull down the Confederate flag that continues to fly on the grounds of the state capitol, after a Republican legislator announced plans to introduce a bill to remove the divisive symbol that has inflamed feelings in the wake of the Charleston church shootings.
@@ -833,18 +1495,31 @@ said on MSNBC
 
 
 “I’m not political tonight, but I do have access and I will file that bill in December,” Brannon said. 
+=======
+music
 
 
 
 
+games
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
  
 Related: 
 'I forgive you': Charleston church victims' families confront suspect
  
+=======
+books
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 The flag, which represents the region that seceded from the Union in 1861 in defense of slavery, has become the focus of rising tension in South Carolina as a result of the racist opinions expressed by the suspected shooter, Dylann Roof, 21, who was arrested a day after the rampage in a car that bore the Confederate icon. The Battle Flag of the Northern Virginia Army, as the controversial banner is also known, once flew above the state house dome, but was moved to its current location still in state grounds 
 in 2000
 .
@@ -871,18 +1546,43 @@ The growing demand for a resolution to South Carolina’s official attachment to
 
 
 All across the state, from the urban centers of Columbia and Charleston to the conservative rural heartlands in the north, examples of the Confederacy’s stranglehold on the collective imagination, at least of many white Carolinians, abound. They vary from moderate to extreme, from whimsical to revolutionary.
+=======
+art & design
 
 
 
 
+stage
+
+
+
+
+classical
+
+
+
+
+
+
+lifestyle
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
  
 Related: 
 Charleston shootings: NRA blames victims as reactions echo Newtown
  
+=======
+food
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 At the mild end of the spectrum are the many outposts of what might be called Confederacy nostalgia, epitomized by the Confederate Museum located just a few blocks away from the Emanuel AME church. The museum has been curated in a hall that in 1861 was used to recruit and arm thousands of secessionist soldiers.
 
 
@@ -900,18 +1600,36 @@ On the more extreme end, South Carolina remains a hotbed of neo-confederacy nati
 The law center has 
 identified 19 active hate groups
  in South Carolina, some six of which have secessionist aspirations.
+=======
+health & fitness
 
 
 
 
+love & sex
+
+
+
+
+family
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
  
 Related: 
 11 myths about the future of gun control, debunked after the Charleston shooting
  
+=======
+women
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Debate about the prevalence of Confederate imagery in South Carolina was rekindled by 
 photographs
  of Roof posing on the bonnet of his car that bore a Confederacy license plate. He also made “racially inflammatory” comments during the shooting spree, according to local police.
@@ -930,18 +1648,38 @@ The league’s chairman in South Carolina, Pat Hines, told the Guardian that the
 
 
 Hines said that the league’s members in South Carolina wanted to see a new secession of the southern states. He estimated that some 25% to 40% of the population of the state supported the idea.
+=======
+home & garden
 
 
 
 
+
+
+fashion
+
+
+
+
+business
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
  
 Related: 
 We avoid the word terrorism when the victims are black – not just when the killer is white | Jamiles Lartey
  
+=======
+economics
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Then he clarified to the Guardian that he was referring exclusively to white South Carolinians. 
 
 
@@ -971,10 +1709,36 @@ Charleston shooting
 Frustrated, sad and angry, Williams placed nine American flags around the state house’s Confederate memorial, in honor of the Charleston victims. A black state trooper had to ask her to remove the flags.
 
 
+=======
+sustainable business
 
 
 
 
+diversity & equality in business
+
+
+
+
+small business
+
+
+
+
+
+
+travel
+
+
+
+
+USA
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 — JMarieW122 (@JMarieW122)
@@ -986,14 +1750,29 @@ June 20, 2015
 @holpuch
  It was heart-wrenching. I snapped a pic before being asked to remove them. 
 pic.twitter.com/hVBAp7qpk3
+=======
+europe
 
 
 
 
+UK
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+environment
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Meanwhile, black children did cartwheels on the state house lawn as one of their relatives had her pictures taken in a wedding dress on top of the building’s steps. The Confederate flag flew behind the lens. 
 
 
@@ -1002,14 +1781,27 @@ Gwendolyn Neal, a black woman who was born and raised in South Carolina, said th
 
 •
 This story was amended on 24 June, 2015, to delete a claim that the Confederate Museum stood on the site of an old slave market. 
+=======
+climate change
 
 
 
 
+wildlife
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+energy
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 More news 
@@ -1018,21 +1810,45 @@ More news
 Topics
 
 
+=======
+pollution
 
 
 
 
+
+
+science
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 Charleston shooting
 
 
 
+=======
+media
 
 
 
 
+crosswords
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 South Carolina
+=======
+video
+
+>>>>>>> origin/master
 
 
 
@@ -1041,13 +1857,20 @@ South Carolina
 
 
 
+<<<<<<< HEAD
 Race issues
 
 
+=======
+
+
+US News
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 Gun crime
@@ -2532,6 +3355,19 @@ securedrop
 
 © 2015 Guardian News and Media Limited or its affiliated companies. All rights reserved.
 
+=======
+›
+US crime
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
 
 
 
@@ -2542,14 +3378,31 @@ securedrop
 
 
 
+=======
+jobs
+
+subscribe
+all topics
+all contributors
+
+
+report technical issue
 
 
 
+about us
+
+contact us
+
+complaints & corrections
+terms & conditions
+privacy policy
+cookie policy
+securedrop
 
 
-
-
-
+© 2015 Guardian News and Media Limited or its affiliated companies. All rights reserved.
+>>>>>>> origin/master
 
 
 
@@ -2569,5 +3422,8 @@ securedrop
 
  
 
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> origin/master

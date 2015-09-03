@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Charleston shooting | US news | The Guardian
 
 
@@ -20,6 +21,11 @@ Charleston shooting | US news | The Guardian
 
 
 
+=======
+Dylann Roof had gun magazines in car months before Charleston shooting | US news | The Guardian
+
+Dylann Roof had gun magazines in car months before Charleston shooting | US news | The Guardian
+>>>>>>> origin/master
 
 
 
@@ -44,6 +50,7 @@ Close
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -59,6 +66,10 @@ Skip to main content
 
 
 
+=======
+Skip to main content
+
+>>>>>>> origin/master
  
 
 
@@ -71,6 +82,7 @@ Skip to main content
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -90,6 +102,8 @@ Skip to main content
 
 
 
+=======
+>>>>>>> origin/master
 sign in
 
 
@@ -99,6 +113,7 @@ sign in
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -109,6 +124,8 @@ sign in
 
 
 
+=======
+>>>>>>> origin/master
 subscribe
 
 
@@ -117,90 +134,155 @@ subscribe
 
 
 
+<<<<<<< HEAD
+=======
+search
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+jobs
+>>>>>>> origin/master
 
 
 
 
 
-
-
-
-
+<<<<<<< HEAD
 search
 
+=======
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 
 
-
-
-jobs
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+=======
 more
 
 
-
-
-
-
 from the guardian:
-
-
-
-
+>>>>>>> origin/master
 
 
 jobs
 
 
 
+<<<<<<< HEAD
 
 
 
 
 
+
+
+=======
 change edition:
 
 
 
+switch to the  UK  edition
 
 
-
+switch to the  AU  edition
 
 
 switch to the 
+INT
+beta
+ edition
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+US edition
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+more
+
+
+=======
+switch to the 
+UK edition
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+from the guardian:
+=======
+switch to the 
+Australia edition
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+
+
+jobs
+=======
+switch to the 
+International
+beta
+
+
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+change edition:
+=======
+The Guardian
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+switch to the 
  UK 
  edition
+=======
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 switch to the 
  AU 
  edition
@@ -222,6 +304,14 @@ beta
  edition
 
 
+=======
+
+
+home
+
+
+›
+US
 
 
 
@@ -232,49 +322,110 @@ beta
 
 
 
+home
+>>>>>>> origin/master
 
 
+
+
+<<<<<<< HEAD
+=======
+US
+selected
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+world
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
 US edition
 
+=======
+opinion
 
 
 
 
+sports
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+soccer
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 switch to the 
 
 
 UK edition
 
 
+=======
+tech
 
 
 
 
+arts
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+lifestyle
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 switch to the 
 
 
 Australia edition
 
 
+=======
+fashion
 
 
 
 
+business
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+travel
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 switch to the 
 
 
@@ -282,6 +433,25 @@ International
 
 
 beta
+=======
+environment
+
+
+
+
+science
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+browse all sections
+close
+>>>>>>> origin/master
 
 
 
@@ -290,6 +460,10 @@ beta
 
 
 
+<<<<<<< HEAD
+=======
+ 
+>>>>>>> origin/master
 
 
 
@@ -298,12 +472,7 @@ beta
 
 
 
-
-
-
-
-
-
+<<<<<<< HEAD
 The Guardian
 
 
@@ -311,6 +480,29 @@ The Guardian
 
 
 
+=======
+
+
+
+Charleston shooting
+
+
+
+Dylann Roof had gun magazines in car months before Charleston shooting
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+The 21-year-old charged with murdering nine black people in Charleston was questioned for possessing AR-15 magazines and parts, according to police report
+>>>>>>> origin/master
 
 
 
@@ -329,15 +521,7 @@ The Guardian
 
 
 
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 
 home
 
@@ -350,6 +534,31 @@ home
 
 
 US
+=======
+Dylann Roof was questioned by Columbia police in March after an officer found six 40-round magazines and part of an AR-15 in Roof’s trunk.
+Photograph: Handout/Reuters
+
+
+
+Associated Press
+
+
+Friday 26 June 2015 11.03 EDT
+
+
+Last modified on Friday 26 June 2015 11.08 EDT
+
+
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
+=======
+Share on Facebook
+>>>>>>> origin/master
 
 
 
@@ -357,19 +566,23 @@ US
 
 
 
+<<<<<<< HEAD
+=======
+Share on Twitter
+>>>>>>> origin/master
 
 
 
 
 
 
-
-
-
-
-
+<<<<<<< HEAD
 home
 
+=======
+
+Share via Email
+>>>>>>> origin/master
 
 
 
@@ -377,38 +590,64 @@ home
 
 
 
+<<<<<<< HEAD
 
 US
 
 selected
+=======
+Share on Pinterest
+
+
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
+=======
+Share on LinkedIn
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 world
 
 
 
+=======
+
+
+
+Share on Google+
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 opinion
 
 
+=======
+
+
+Share on WhatsApp
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 sports
+=======
+>>>>>>> origin/master
 
 
 
@@ -417,34 +656,70 @@ sports
 
 
 
+<<<<<<< HEAD
 soccer
 
 
 
+=======
+
+
+
+ 
+Three months before the deadly shooting rampage at Charleston’s historic Emanuel African Methodist Episcopal church that killed nine people, Dylann Roof was questioned by a Columbia police officer who found AR-15 magazines in his trunk, according to a police document released on Friday.
+Roof was spotted on 13 March loitering in his car in a Columbia park by an off-duty police officer. It was the same officer who had arrested Roof a month earlier at a Columbia mall on a misdemeanor charge of possessing the drug Suboxone, a narcotic used to wean people from opiate addiction, the police report said.
+The officer who arrived at the scene asked Roof why he was in the park and asked if he could search the car. Roof agreed and the officer found six 40-round magazines as well as part of an AR-15. Roof was questioned, but he was not charged.
+The news comes as President Barack Obama prepares to deliver the eulogy in Charleston, South Carolina, for the Rev Clementa Pinckney, the pastor of Emanuel AME church who was one of those killed last week.
+Roof, 21, has been charged with nine counts of murder in connection with the deadly attack at the Charleston church. Police say he used a .45-caliber semi-automatic handgun in the attack. Friends say Roof bought the gun in April with money he got for his birthday.
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 tech
 
 
+=======
+More news 
+Topics
+
+
+
+Charleston shooting
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 arts
 
 
+=======
+Gun crime
 
 
 
 
+South Carolina
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 lifestyle
+=======
+Barack Obama
+
+
+>>>>>>> origin/master
 
 
 
@@ -453,7 +728,11 @@ lifestyle
 
 
 
+<<<<<<< HEAD
 fashion
+=======
+Share on Facebook
+>>>>>>> origin/master
 
 
 
@@ -461,38 +740,67 @@ fashion
 
 
 
+<<<<<<< HEAD
 
 business
+=======
+Share on Twitter
+
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 
 
 travel
+=======
+Share via Email
+
+
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 
 
 
 environment
+=======
+Share on Pinterest
+
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+Share on LinkedIn
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 science
 
 
 
+=======
+
+
+
+Share on Google+
+>>>>>>> origin/master
 
 
 
@@ -500,6 +808,7 @@ science
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -509,6 +818,14 @@ all
 
 
 close
+=======
+Share on WhatsApp
+
+
+
+
+
+>>>>>>> origin/master
 
 
 
@@ -532,6 +849,10 @@ close
 
 
 
+<<<<<<< HEAD
+=======
+View all comments >
+>>>>>>> origin/master
 
 
 
@@ -539,6 +860,7 @@ close
 
 
 
+<<<<<<< HEAD
 
 
 Charleston shooting
@@ -547,10 +869,25 @@ Charleston shooting
 
 
 Thursday
+=======
+comments 
+Sign in
+or create your Guardian account to join the discussion.
+
+This discussion is closed for comments.
+
+We’re doing some maintenance right now. You can still read comments, but please come back later to add your own.
+
+
+Commenting has been disabled for this account (why?)
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 25
 
 
@@ -559,6 +896,84 @@ June
 
 2015
 
+=======
+
+Order by 
+
+
+newest
+
+
+oldest
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+
+
+
+
+
+
+
+
+=======
+Show 25
+
+
+25
+
+
+50
+
+
+100
+
+
+All
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+
+
+
+
+
+
+=======
+Threads 
+
+
+collapsed
+
+
+expanded
+
+
+unthreaded
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
+=======
+Loading comments… Trouble loading?
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+View more comments
+>>>>>>> origin/master
 
 
 
@@ -568,6 +983,10 @@ June
 
 
 
+<<<<<<< HEAD
+=======
+ 
+>>>>>>> origin/master
 
 
 
@@ -577,41 +996,15 @@ June
 
 
 
+<<<<<<< HEAD
+=======
+popular
+>>>>>>> origin/master
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 Sorry, your browser is unable to play this video.
 
 Please install 
@@ -620,6 +1013,44 @@ Adobe Flash
 Alternatively 
 upgrade
  to a modern browser.
+=======
+
+>>>>>>> origin/master
+
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+ 
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+The Guardian
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+back to top
+>>>>>>> origin/master
 
 
 
@@ -634,37 +1065,24 @@ upgrade
 
 
 
+<<<<<<< HEAD
+=======
+home
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+US
+selected
+>>>>>>> origin/master
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 
 Charleston shooting: mourners gather for first funerals since massacre - video
 
@@ -675,100 +1093,203 @@ Charleston shooting: mourners gather for first funerals since massacre - video
 
 Services take place on Thursday for two of the nine victims of a massacre at a historic Emanuel AME Church in Charleston, South Carolina
 
+=======
+world
 
 
 
 
+opinion
+
+
+
+
+sports
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
 Charleston shooting: mourners gather for first funerals since massacre - video
 
+=======
+soccer
 
 
 
 
+tech
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+arts
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+lifestyle
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+fashion
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+business
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+travel
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+environment
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
 Funerals for Charleston shooting victims begin with 'message of love'
+=======
+science
+
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 ‘We are stronger because we are together as a community,’ said Emanuel AME interim pastor Norvell Goff at the service for Ethel Lance in North Charleston
+=======
+all sections
+close
+
+
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 
 
 
 Funerals for Charleston shooting victims begin with 'message of love'
 
+=======
+home
 
 
 
 
+US
+selected
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+world
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+UK
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+europe
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+americas
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+asia
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+middle east
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+africa
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+australia
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 Funerals begin for Charleston shooting victims – in pictures
 
@@ -781,194 +1302,381 @@ The first of the funerals for victims of last week’s shooting at Emanuel Afric
 
 
 
+=======
+cities
 
 
 
 
+development
+
+
+
+
+
+
+opinion
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 Funerals begin for Charleston shooting victims – in pictures
 
 
 
+=======
+sports
+
+
+
+
+soccer
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+MLS
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+NFL
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+MLB
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+NBA
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+NHL
+>>>>>>> origin/master
 
 
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 
 
 
 Beyond Dylann Roof: inside the hunt for domestic extremists in the digital age
 
+=======
+soccer
 
 
 
 
+live scores
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 Whether you call it terrorism or not, law enforcement officials say they are aware of home-grown threats around the globe. The question now is how to stop them
 
 
 
+=======
+tables
 
 
 
 
+competitions
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 Beyond Dylann Roof: inside the hunt for domestic extremists in the digital age
 
 
 
+=======
+results
+
+
+
+
+fixtures
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+clubs
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+tech
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+arts
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+movies
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+tv & radio
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+music
+>>>>>>> origin/master
 
 
 
 
-
-
-
-
+<<<<<<< HEAD
 
 Nas and Killer Mike demand action in wake of Charleston murders
 
 
 
+=======
+games
 
 
 
 
+books
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+art & design
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 Nas and Killer Mike demand action in wake of Charleston murders
 
 
 
+=======
+stage
+
+
+
+
+classical
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+lifestyle
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+food
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 Older
 
 
 Newer
 
+=======
+health & fitness
 
 
 
 
+love & sex
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+family
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+women
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 Topics
+=======
+home & garden
+
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 
 
 South Carolina
 
 
+=======
+fashion
 
 
 
 
+business
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 Gun crime
 
 
+=======
+economics
 
 
 
 
+sustainable business
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 US crime
 
 
+=======
+diversity & equality in business
+
+
+
+
+small business
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 FBI
+=======
+travel
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+USA
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Urban music
+=======
+europe
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -976,47 +1684,94 @@ More…
 
 
 
+=======
+UK
 
 
 
 
+
+
+environment
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Rap
+=======
+climate change
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+wildlife
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 The far right
+=======
+energy
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+pollution
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Hip-hop
 
 
+=======
+
+
+science
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 Race issues
 
 
+=======
+media
 
 
 
 
+crosswords
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 Run the Jewels
+=======
+video
+
+
+>>>>>>> origin/master
 
 
 
@@ -1026,6 +1781,19 @@ Run the Jewels
 
 
 
+<<<<<<< HEAD
+=======
+US News
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+›
+Charleston shooting
+>>>>>>> origin/master
 
 
 
@@ -1034,10 +1802,7 @@ Run the Jewels
 
 
 
-
-
-
-
+<<<<<<< HEAD
 
 
 
@@ -2040,6 +2805,31 @@ securedrop
 
 
 
+=======
+jobs
+
+subscribe
+all topics
+all contributors
+
+
+report technical issue
+
+
+
+about us
+
+contact us
+
+complaints & corrections
+terms & conditions
+privacy policy
+cookie policy
+securedrop
+
+
+© 2015 Guardian News and Media Limited or its affiliated companies. All rights reserved.
+>>>>>>> origin/master
 
 
 
@@ -2059,5 +2849,8 @@ securedrop
 
  
 
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> origin/master

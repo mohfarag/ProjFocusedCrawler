@@ -1,7 +1,14 @@
+<<<<<<< HEAD
 Police search for shooters in two morning shootings | Fox 59 
 
 
 Police search for shooters in two morning shootings | Fox 59
+=======
+Charleston church shooting: suspect Dylann Roof in custody as community holds vigils | US news | The Guardian
+
+Charleston church shooting: suspect Dylann Roof in custody as community holds vigils | US news | The Guardian
+
+>>>>>>> origin/master
 
 
 
@@ -16,8 +23,12 @@ Police search for shooters in two morning shootings | Fox 59
 
 
 
+<<<<<<< HEAD
 Go
 Search
+=======
+Close
+>>>>>>> origin/master
 
 
 
@@ -26,6 +37,13 @@ Search
 
 
 
+<<<<<<< HEAD
+
+=======
+Skip to main content
+
+ 
+>>>>>>> origin/master
 
 
 
@@ -34,7 +52,7 @@ Search
 
 
 
-
+<<<<<<< HEAD
 FOX59 TV Schedule 
 
 
@@ -49,6 +67,11 @@ FOX59 TV Schedule
 
 
 
+=======
+
+
+
+sign in
 
 
 
@@ -57,20 +80,42 @@ FOX59 TV Schedule
 
 
 
+subscribe
+>>>>>>> origin/master
 
 
 
+
+
+
+
+<<<<<<< HEAD
+=======
+search
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Fox 59
+=======
+jobs
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
  
 Menu
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 News
 
 
@@ -96,15 +141,77 @@ On-Air
 
 
 HealthTrax
+=======
+
+
+more
+
+
+from the guardian:
+
+
+jobs
+
+
+
+change edition:
+
+
+
+switch to the  UK  edition
+
+
+switch to the  AU  edition
+
+
+switch to the 
+INT
+beta
+ edition
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
  
 
 
+=======
+
+
+US edition
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+switch to the 
+UK edition
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+switch to the 
+Australia edition
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+switch to the 
+International
+beta
+>>>>>>> origin/master
 
 
 
@@ -113,21 +220,15 @@ HealthTrax
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
  
 
 
+=======
+
+
+The Guardian
+>>>>>>> origin/master
 
 
 
@@ -142,6 +243,7 @@ HealthTrax
 
 
 
+<<<<<<< HEAD
 Police search for shooters in two morning shootings
 
 
@@ -150,10 +252,20 @@ Police search for shooters in two morning shootings
 Posted 4:55 PM, June 28, 2015, by 
 Jim Scott
  
+=======
+
+
+home
+
+
+›
+US
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Facebook
 Twitter
 Google
@@ -161,16 +273,23 @@ LinkedIn
 Pinterest
 Email
  
+=======
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+home
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
  
 
 
@@ -178,26 +297,49 @@ File photo
  
 
 
+=======
+US
+selected
 
 
 
 
+world
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 ×
 
 
 Police search for shooters in two morning shootings
 
 
+=======
+opinion
 
 
 
 
+sports
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
  
 File photo
+=======
+soccer
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 INDIANAPOLIS,Ind. (June 28, 2015)–Metropolitan police continue to look for two gunmen in separate shootings Sunday morning.
@@ -219,6 +361,52 @@ Police say the victim was shot at least twice in the hip area.  He was taken to
 
 
 Investigators searched the area but were unable to locate a suspect.
+=======
+tech
+
+
+
+
+arts
+
+
+
+
+lifestyle
+
+
+
+
+fashion
+
+
+
+
+business
+
+
+
+
+travel
+
+
+
+
+environment
+
+
+
+
+science
+
+
+
+
+
+
+browse all sections
+close
+>>>>>>> origin/master
 
 
 
@@ -227,9 +415,12 @@ Investigators searched the area but were unable to locate a suspect.
 
 
 
+<<<<<<< HEAD
 Filed in:
  
 News
+=======
+>>>>>>> origin/master
  
 
 
@@ -241,12 +432,21 @@ News
 
 
 
+<<<<<<< HEAD
 ×
 
 
 Report a Typo
 
 
+=======
+
+
+Charleston shooting
+
+
+Charleston church shooting: suspect Dylann Roof in custody as community holds vigils
+>>>>>>> origin/master
 
 
 
@@ -256,19 +456,34 @@ Report a Typo
 
 
 
+<<<<<<< HEAD
 
 Name
 (required)
 
 
+=======
+Arrested Dylann Roof ‘wanted to ignite civil war’
+The victims: a poet, a politician, a librarian, women of faith
+Daily Show’s Jon Stewart: ‘This was a terrorist attack’
+Share your accounts with GuardianWitness
+Read the latest summary
+
+
+
+Updated 
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 Typo
 (required)
+=======
+>>>>>>> origin/master
 
 
 
@@ -287,6 +502,7 @@ Typo
 
 
 
+<<<<<<< HEAD
  
 
 
@@ -295,6 +511,31 @@ Typo
 Cancel
 
 
+=======
+
+Sorry, your browser is unable to play this video.
+Please install Adobe Flash™ and try again.
+Alternatively upgrade to a modern browser.
+
+
+
+
+
+Dylann Roof was apprehended in Shelby, North Carolina. 
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+Contribute with
+Guardian Witness
+>>>>>>> origin/master
 
 
 
@@ -305,26 +546,37 @@ Cancel
 
 
 
+<<<<<<< HEAD
 
 
 
 
+=======
+Raya Jalabi and 
+Jessica Glenza in New York, and 
+Claire Phipps in Sydney
+
+
+Friday 19 June 2015 03.09 EDT
+
+
+Last modified on Saturday 20 June 2015 12.23 EDT
+>>>>>>> origin/master
 
 
 
 
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
  
 
 
 
+=======
+
+
+
+Share on Facebook
+>>>>>>> origin/master
 
 
 
@@ -332,16 +584,68 @@ Cancel
 
 
 
+<<<<<<< HEAD
+=======
+Share on Twitter
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
  
 Download/Update your FOX59 News App!
 
 
 Download or update your FOX59 News app in your App Store or Google Play. There are plenty of new features to explore! 
 
+=======
+
+
+
+Share via Email
+>>>>>>> origin/master
+
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+Share on Pinterest
+
+
+
+
+
+
+
+Share on LinkedIn
+
+
+
+
+
+
+
+Share on Google+
+
+
+
+
+
+
+
+Share on WhatsApp
+
+
+
+
+
+
+>>>>>>> origin/master
 
 
 
@@ -350,18 +654,15 @@ Download or update your FOX59 News app in your App Store or Google Play. There a
 
 
 
-
-
-
-
-
-
-
+<<<<<<< HEAD
  
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
  
 
 
@@ -371,6 +672,17 @@ Download or update your FOX59 News app in your App Store or Google Play. There a
 
 Popular
 
+=======
+
+
+
+Key events
+
+
+
+
+Show
+>>>>>>> origin/master
 
 
 
@@ -378,32 +690,54 @@ Popular
 
 
 
+<<<<<<< HEAD
 Police discover 3 bodies, including 2 children, inside Henry County home
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+Live feed
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 ‘Hi, babies!’: Twins immediately pretend they’re asleep after hearing mom on baby monitor
+=======
+Show
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 
 
 
 Police: Gunman in Virginia TV crew shooting died from self-inflicted gunshot
 
+=======
+Order by
+
+
+Newest first
+
+
+Oldest first
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 
 Changes kick 50,000 Hoosiers off federal food stamp program
 
@@ -413,11 +747,34 @@ Changes kick 50,000 Hoosiers off federal food stamp program
 
 
 
+=======
+ 3.09am ET03:09 
+Closing summary
+
+
+
+Claire Phipps
+
+I’m winding down this live blog now, but you can find all our ongoing coverage of the Charleston shooting here.
+Here is a round-up of the latest developments in this unfolding story:
+
+Suspect Dylann Roof is in custody in Charleston county jail. It is believed he will appear in court at 2pm on Friday. So far, there has been no confirmation that he has yet been charged.
+Interviews with friends and associates of the 21-year-old accused revealed their concerns that he had been “planning something like that for six months”, and his desire to ignite “a civil war”.
+The nine people – six women and three men – killed in the historic black church of Emanuel AME church have been identified. They were Rev Clementa Pinckney, Tywanza Sanders, Sharonda Coleman-Singleton, Cynthia Hurd, DePayne Middleton-Doctor, Rev Dr Daniel L Simmons Jr, Ethel Lance, Myra Thompson and Susie Jackson. You can read more about all of them here.
+A Snapchat video apparently recorded at the church bible study group by Sanders shows the gunman sitting calmly alongside those he would go on to attack.
+Vigils have been held in Charleston, and across South Carolina and the US. Chris Singleton, the son of Sharonda Coleman-Singleton, gave a powerful speech in which he talked about how he would carry on after his mother’s death:
+
+
+
+I’m probably going to push myself harder in everything I do. Every time I do something good I’ll probably give her a little wink or something, in the sky.
+Love is always stronger than hate. We just love the way my mom did and the hate won’t be anywhere close to what the love is.
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -432,11 +789,60 @@ Changes kick 50,000 Hoosiers off federal food stamp program
 Latest News
 
 
+=======
+Mourners hold a prayer vigil at the First African Methodist Episcopal Church: Bethel, Harlem, New York City. Photograph: Eric Thayer/Getty Images
+
+
+
+Three people survived the attack, police said. Their condition has not yet been disclosed.
+Roof had earlier been captured without incident in North Carolina, after a local florist who was late for work alerted police to “suspicious activity”. He waived extradition to be returned to Charleston.
+Barack Obama said he felt both sadness and anger at the shootings and said America must come to grips with its record on gun violence.
+The shooting is being investigated as a hate crime. “There is absolutely no doubt in my mind that it is hate crime,” police chief Greg Mullen said. The Department of Justice has launched a federal civil rights investigation into the shooting.
+Daily Show TV host Jon Stewart has won praise for opening his show with a monologue calling the shootings a terrorist attack and questioning whether the US was really prepared to take action against racism.
+
+That’s all from this live blog today. Thank you for reading. The rest of our coverage continues here.
+
+
+ Facebook 
+ Twitter 
+ Google plus 
+
+
+ Share 
+
+
+
+
+Share this post
+
+
+
+Facebook
+ 
+
+
+Twitter
+ 
+
+
+Google plus
+ 
+  close 
+
+
+
+
+ 2.33am ET02:33 
+
+The Daily Show has now published the full version of Jon Stewart’s opening monologue on Charleston and you can watch it here.
+(For a read-only version, try here.)
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 
 CEO of Ashley Madison stepping down after hack that impacted 37 million customers
 
@@ -457,20 +863,71 @@ Jennifer Lawrence and Amy Schumer dance on Billy Joel’s piano at Wrigley Field
 
 
 Calif. man bitten while taking selfie with rattlesnake
+=======
+The Daily Show with Jon Stewart.
 
 
 
 
+ Facebook 
+ Twitter 
+ Google plus 
+
+
+ Share 
+
+
+
+
+Share this post
+
+
+
+Facebook
+ 
+
+
+Twitter
+ 
+
+
+Google plus
+ 
+  close 
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
 
 Court docs: Father of missing Baby Janna put pillow over baby to muffle cries
 
+=======
+ 2.16am ET02:16 
+
+Guardian reporters in Charleston have talked to some of those who have been supporting relatives of the victims.
+By the early hours of Thursday morning, relatives had gathered at the Embassy Suites hotel, close to Emanuel church.
+“Raw emotion was out,” said Tamika Myers, who works for Blind Justice, a local group that assists grieving relatives of shooting victims. “People were crying. Some were passing out.”
+The identifies of only three victims were relayed to families that night, Myers said. She said that by 5am the coroner, Rae H Wooten, had to explain why identification was proving so difficult.
+“What happened in there was brutal,” Myers said. “It was gruesome.”
+
+
+ Facebook 
+ Twitter 
+ Google plus 
+
+
+ Share 
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -494,10 +951,60 @@ Court docs: Father of missing Baby Janna put pillow over baby to muffle cries
 
 
 
+=======
+Share this post
+
+
+
+Facebook
+ 
+
+
+Twitter
+ 
+
+
+Google plus
+ 
+  close 
 
 
 
 
+ 1.56am ET01:56 
+
+The image of suspected killer Dylann Roof in a jacket emblazoned with the flags of two racist states – Rhodesia and apartheid-era South Africa – ties him to those who have made the emblems a symbol of so-called white resistance.
+
+
+— Jon Swaine (@jonswaine)
+June 18, 2015
+That's the flag of apartheid-era South Africa on Dylann Roof's jacket pic.twitter.com/ex4cG15sVA
+
+
+
+My colleague Chris McGreal has this analysis of how the defunct flags have found new life among America’s racists:
+
+The two flags have become popular among groups such as the Aryan Nation, which have embraced a myth of the genocide of whites in southern Africa pushed by South Africans unhappy with their country’s liberation from racist domination …
+They feel no shame for the crimes of apartheid and so have no embarrassment about sporting the old South African flag or that of the former republic of Rhodesia, which existed for just 15 years after its white minority leaders unilaterally declared independence from Britain in 1965 rather than be decolonised under a government run by the black majority. 
+
+
+ Related: Charleston shootings: the apartheid era flags that have found new life with America's racists 
+
+
+Updated at 2.19am ET
+
+ Facebook 
+ Twitter 
+ Google plus 
+
+
+ Share 
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
@@ -508,10 +1015,28 @@ Court docs: Father of missing Baby Janna put pillow over baby to muffle cries
 Crimetracker
  
 News
+=======
+Share this post
+
+
+
+Facebook
+ 
+
+
+Twitter
+ 
+
+
+Google plus
+ 
+  close 
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Four people dead after 11 shootings over 3 days across Indianapolis
 
 
@@ -541,10 +1066,76 @@ News
 Nine people shot in in two days as violent Memorial Day carries into Tuesday
 
 
+=======
+ 1.39am ET01:39 
+
+Walter Jackson – whose mother, Susie Jackson, was, at 87, the oldest of the shooting victims – has told the Guardian that she rarely missed a Sunday service and was an integral part of the church’s gospel choir.
+Not so long ago, she won first prize in the annual church fair for her hot deviled crab cakes. She greatly enjoyed the prize, Jackson said – two days at the Charleston Hayatt.
+Walter Jackson travelled from Cleveland, where he now lives, to rejoin his grieving family in Charleston. He told the Guardian:
+
+
+This is just senseless. To kill innocent people like that. It’s hard on all of us.
+My mother was always there for us – she was always the one people would turn to when they had a problem.
 
 
 
 
+
+Susie Jackson, victim of the shooting at Emanuel Church, Charleston. Photograph: Family Photo
+
+
+
+
+ Facebook 
+ Twitter 
+ Google plus 
+
+
+ Share 
+
+
+
+
+Share this post
+
+
+
+Facebook
+ 
+
+
+Twitter
+ 
+
+
+Google plus
+ 
+  close 
+
+
+
+
+ 1.28am ET01:28 
+
+My colleagues Ed Pilkington, Paul Lewis and Oliver Laughland are in Charleston and have been piecing together the events of Wednesday that culminated in the slaying of nine people in their church.
+Here is a portion of their report:
+
+Dylann Storm Roof walked up the 23 slate grey steps that lead up to the main entrance of the Emanuel African Methodist Episcopal church and asked for the pastor. It was Wednesday, and that meant Bible study night.
+No one, it seemed, thought to turn the young man away. The church in downtown Charleston had a history of opening its doors to strangers that stretched back decades.
+Inside, a dozen regular members of the church were gathered around a table in a meeting room in the basement. Having asked for the pastor, Roof sat down right next to him.
+Before the shooting started, Roof’s youngest victim, 26-year-old student Tywanza Sanders, released a Snapchat video to a friend. The video is grainy and shaky, showing only the briefest glimpse of the scene. The bible group is seen sitting around the table in a large, wood-panelled room that appeared to be in the church’s basement. Books and papers were on the table, and the group were sat on fold-up chairs.
+
+
+
+— CNN Tonight (@CNNTonight)
+June 18, 2015
+"This is chilling to see." @donlemon shares excl new video of bible group with shooter before killings. http://t.co/wX9rFe5gry
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 News
 
 
@@ -552,10 +1143,30 @@ News
 
 Person critical following southeast side shooting
 
+=======
+One still image from the video shows Rev Clementa Pinckney, who also held a position as a South Carolina state senator, in a green shirt, gesturing to the others and possibly smiling. At least three other unidentified black people are in the frame. At the far side of the table was Roof, partially eclipsed by his soon-to-be victims.
+So far only Sanders’ seconds-long Snapchat, supplemented by an equally sketchy indirect account given by one of the three survivors, have surfaced to provide clues to what happened inside that room. What we do know is that for about an hour Roof sat quietly among the worshippers as they studied the Bible.
+Both local police and the FBI have declined to provide details about what happened next. 
+However Sylvia Johnson, a cousin of Pinckney, relayed a harrowing account she said was provided to her by a woman survivor. 
+Johnson told NBC that Roof made his move as the meeting was coming to an end. “At the conclusion of the bible study, from what I understand, they just start hearing loud noises ringing out. The suspect had already wounded a couple of individuals, including my cousin.”
+Johnson said the survivor told her that Roof reloaded his weapon five times and engaged in conversation with his victims as they pleaded with him to stop. 
+The survivor’s son, who was also at the meeting, “was trying to talk him out of doing that act of killing people”, Johnson said.
+She added that Roof replied: “I have to do it. You rape our women and you’re taking over our country. And you have to go.”
+
+
+
+ Facebook 
+ Twitter 
+ Google plus 
+
+
+ Share 
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 Crimetracker
  
@@ -581,10 +1192,76 @@ Five people shot in police-involved shooting at party on city’s near northwest
 
 
 News
+=======
+Share this post
+
+
+
+Facebook
+ 
+
+
+Twitter
+ 
+
+
+Google plus
+ 
+  close 
 
 
 
 
+ 1.11am ET01:11 
+
+Cynthia Taylor, the niece of Susie Jackson who was killed at the Emanuel church, has been talking to Associated Press.
+She says her aunt was a longtime member of the church and sang in the choir.
+Taylor also told AP that she had spoken to a friend, Felecia Sanders, who was at the church and survived the shooting.
+Sanders reportedly played dead to avoid the killer, lying on top of her granddaughter to – successfully – protect her.
+
+
+ Facebook 
+ Twitter 
+ Google plus 
+
+
+ Share 
+
+
+
+
+Share this post
+
+
+
+Facebook
+ 
+
+
+Twitter
+ 
+
+
+Google plus
+ 
+  close 
+
+
+
+
+ 12.57am ET00:57 
+
+Here is a clip of Jon Stewart’s opening monologue from Thursday night’s Daily Show, in which he labelled the Emanuel church massacre a terrorist attack and predicted nothing would be done to change the culture that bred it.
+You can read more of his words here.
+
+
+
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Anderson police seek shooting suspect
 
 
@@ -598,19 +1275,68 @@ News
 
 
 Police search for suspects after man shot while mowing lawn on east side
+=======
+
+    Sorry, your browser is unable to play this video. 
+
+
+
+Jon Stewart opens Daily Show with powerful monologue on Charleston shooting – video.
 
 
 
 
+ Facebook 
+ Twitter 
+ Google plus 
+
+
+ Share 
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 Crimetracker
  
 News
+=======
+Share this post
+
+
+
+Facebook
+ 
+
+
+Twitter
+ 
+
+
+Google plus
+ 
+  close 
 
 
 
 
+ 12.48am ET00:48 
+
+More information emerges, this time via ABC News, that people close to Dylann Roof had concerns about his views and behaviour.
+Dalton Tyler, described by ABC News as Roof’s roommate, reportedly told the channel Roof had been “planning something like that for six months”:
+
+
+He was big into segregation and other stuff. He said he wanted to start a civil war.
+He said he was going to do something like that and then kill himself. 
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Police: Man in dress, wig ambushes girlfriend and her brother
 
 
@@ -628,10 +1354,50 @@ News
 Two killed during five shootings, including 16 year old
 
 
+=======
+ Facebook 
+ Twitter 
+ Google plus 
+
+
+ Share 
 
 
 
 
+Share this post
+
+
+
+Facebook
+ 
+
+
+Twitter
+ 
+
+
+Google plus
+ 
+  close 
+
+
+
+
+ 12.30am ET00:30 
+
+Friday’s Charleston Post and Courier front page reflects the sombre tone of today’s memorials:
+
+
+— Deanna Pan (@DDpan)
+June 19, 2015
+"The unspeakable happened in our city." Friday's front page: #CharlestonShooting pic.twitter.com/0tkkEqvGnB
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 News
 
 
@@ -647,10 +1413,39 @@ Man killed, 3 others shot during violent night around Indianapolis
 
 
  
+=======
+
+ Facebook 
+ Twitter 
+ Google plus 
+
+
+ Share 
 
 
 
 
+Share this post
+
+
+
+Facebook
+ 
+
+
+Twitter
+ 
+
+
+Google plus
+ 
+  close 
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 News
@@ -689,11 +1484,86 @@ Two people shot outside strip club on Indy’s near west side
 
 
 
+=======
+ 12.10am ET00:10 
+Jon Stewart's Daily Show monologue
+
+The Daily Show has opened tonight with a powerful monologue from host Jon Stewart slamming the deaths in Charleston and the culture that seeks to deny that racism is behind such attacks.
+Prior to introducing his guest – Nobel peace prize-winner Malala Yousafzai – Stewart said his show would contain no jokes tonight in the wake of the Charleston massacre.
+This is a lengthy excerpt from his monologue, but this is something that bears reading at length:
+
+
+I have one job … but I didn’t do my job today. I’ve got nothing for you … because of what happened in South Carolina.
+I have nothing other than just sadness that once again we have to peer into the abyss of the depraved violence that we do to each other, and the nexus of a just gaping racial wound that will not heal but we pretend doesn’t exist.
+I’m confident, though, that by acknowledging it, by staring into that and seeing it for what it is, we still won’t do jackshit.
+Yeah. That’s us.
+That’s the part that blows my mind. I don’t want to get into the political argument of the guns … What blows my mind is the disparity of response between when we think people that are foreign are going to kill us and us killing ourselves.
+If this had been what we thought was Islamic terrorism … we invaded two countries and spent trillions of dollars and thousands of American lives, and now fly unmanned death machines over, like, five or six different countries. All to keep Americans safe. We’ve got to do whatever we can. We’ll torture people …
+Nine people. Shot in a church. What about that? <shrugs> Eh. What are you gonna do? Crazy is as crazy is, right?
+That’s the part that I cannot for the life of me wrap my head around.
+And you know it. You know that it’s going to go down the same path: ‘it’s a terrible tragedy’. They’re already using the nuanced language of lack of effort for this.
+This is a terrorist attack. This is a violent attack on the Emanuel church in South Carolina, which is a symbol for the black community …
+To pretend that – I heard someone on the news say, a tragedy has visited this church … this wasn’t a tornado. This was racist. This was a guy with a Rhodesia badge on his sweater …
+This one is black and white. There’s no nuance here.
+And we’re going to keep pretending: I don’t get it, what happened, there’s one guy lost his mind. We are steeped in that culture in this country and we refuse to recognise it, and I cannot believe how hard people are working to discount it.
+In South Carolina, the roads that black people drive on are named for confederate generals who fought to keep black people from being able to drive freely on that road. That’s insanity. That’s racial wallpaper. You can’t allow that.
+Nine people were shot in a black church by a white guy who hated them, who wanted to start some kind of civil war.
+The confederate flag flies over South Carolina. And the roads are named for confederate generals. And the white guy’s the one who feels like his country’s being taken away from him.
 
 
 
 
 
+Daily Show host Jon Stewart. Photograph: Brad Barket/AP
+
+
+
+Updated at 12.37am ET
+
+ Facebook 
+ Twitter 
+ Google plus 
+
+
+ Share 
+
+
+
+
+Share this post
+
+
+
+Facebook
+ 
+
+
+Twitter
+ 
+
+
+Google plus
+ 
+  close 
+
+
+
+
+ 11.42pm ET23:42 
+
+Night has fallen in Charleston, as vigils draw to a close:
+
+
+— Tracy Clemons (@TracyABC13)
+June 19, 2015
+Emanuel AME church #CharlestonShooting pic.twitter.com/3uOGcd8J6o
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
 
 
 
@@ -704,10 +1574,38 @@ Two people shot outside strip club on Indy’s near west side
 
 
 
+=======
+ Facebook 
+ Twitter 
+ Google plus 
+
+
+ Share 
 
 
 
 
+Share this post
+
+
+
+Facebook
+ 
+
+
+Twitter
+ 
+
+
+Google plus
+ 
+  close 
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 Mobile Apps
@@ -718,14 +1616,41 @@ iPhone & iPad App
 
 
 
+=======
+ 11.23pm ET23:23 
+
+As investigators try to piece together the background of Dylann Roof, now in custody in Charleston in connection with the church massacre, a childhood friend has told Associated Press that Roof had talked of the need for something to be done “for the white race”:
+
+Dylann Storm Roof recently reconnected with a childhood buddy he hadn’t seen in five years and started railing about black people “taking over the world” and the need for something to be done for “the white race”, the friend said on Thursday.
+In an interview with the Associated Press, Joseph Meek Jr. said he and Roof had been best friends in middle school but lost touch when Roof moved away about five years ago. The two reconnected a few weeks ago after Roof reached out to Meek on Facebook, Meek said.
+Roof never talked about race years ago when they were friends, but recently made remarks about the killing of unarmed black 17-year-old Trayvon Martin in Florida and the riots in Baltimore over the death of Freddie Gray in police custody, Meek said.
+“He said blacks were taking over the world. Someone needed to do something about it for the white race,” Meek said. “He said he wanted segregation between whites and blacks. I said, ‘That’s not the way it should be.’ But he kept talking about it.”
+He said that when he woke up on Wednesday morning, Roof was at his house, sleeping in his car outside. Later that day, Meek went to a nearby lake with a couple of other people, but Roof hated the outdoors and decided he’d rather go see a movie.
+Meek said he didn’t see his friend again until a surveillance-camera image of a man walking into the church was broadcast on television Thursday morning. Meek said he didn’t think twice about picking up the phone and calling authorities.
+“I didn’t think it was him. I knew it was him,” Meek said.
+
+
+
+ Facebook 
+ Twitter 
+ Google plus 
+
+
+ Share 
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+Share this post
+>>>>>>> origin/master
 
 
 
 Facebook
+<<<<<<< HEAD
 
 
 Twitter
@@ -735,17 +1660,51 @@ About & Contact
 
 
 
+=======
+ 
+
+
+Twitter
+ 
+
+
+Google plus
+ 
+  close 
+
+
+
+
+ 11.10pm ET23:10 
+
+Sharonda Coleman-Singleton was herself a track and field coach at Goose Creek high school, which has mounted a tribute to her:
+
+
+— Lainie Fritz (@lainiefritz)
+June 18, 2015
+Absolutely beautiful memorial to Coach Singleton on the Gator at GCHS stadium. She was a T&F Coach. @WCBD #chsnews pic.twitter.com/4RcffBJ5jz
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
+
+
+=======
+ Facebook 
+ Twitter 
+ Google plus 
+
+
+ Share 
+>>>>>>> origin/master
 
 
 
 
-
-
+<<<<<<< HEAD
 
 
 Online Public File
@@ -770,11 +1729,52 @@ WordPress.com VIP
 
 
 
+=======
+Share this post
+
+
+
+Facebook
+ 
+
+
+Twitter
+ 
+
+
+Google plus
+ 
+  close 
+
+
+
+
+ 10.58pm ET22:58 
+Chris Singleton speaks about his mother
+
+Chris Singleton, the son of Sharonda Coleman-Singleton, one of the victims of the Emanuel AME church massacre, has just been speaking to reporters, surrounded by what he called his “baseball family”, the players and coaches of Charleston Southern University.
+Facing the public barely 24 hours after his mother was murdered, he spoke at length about her, and his reaction to the mass killing:
+
+
+I just want to say thanks to everybody that looked out for me and … reached out to me.
+We are mourning right now but I know we will get through it.
+My mom was a god-fearing woman, she loved everybody with all her heart.
+To the other families: I’m sorry about what happened. Obviously you guys are as devastated as we are.
+
+
+Asked how he would carry on after his mother’s death, Singleton said:
+
+
+I’m probably going to push myself harder in everything I do. Every time I do something good I’ll probably give her a little wink or something, in the sky.
+I just think about her smile. She smiles 24/7.
+My mom was something else when I was playing ball.
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -794,6 +1794,131 @@ Email Alerts
 
 
 
+=======
+Rev Sharonda Coleman-Singleton and her son. Photograph: Facebook
+
+
+Singleton said he had been attending Emanuel AME church since he was in sixth grade:
+
+
+It’s like I’m everyone’s grandson.
+We will get through it, the church will get through it. 
+
+
+And asked about how the Charleston community has responded to the killings, he said:
+
+
+Love is always stronger than hate. We just love the way my mom did and the hate won’t be anywhere close to what the love is.
+Tragedies happen but life is going to go on and it’s going to get better.
+Honestly, my knees are a little weak right now, but I try to stay as strong as I can while I press on.
+
+
+Singleton – who also has a brother and a sister – later tweeted his thanks to those who came to see him speak:
+
+
+— Chris Singleton (@csingleton__2)
+June 19, 2015
+Thanks to everyone that came to Goose Creek tonight to show support to my mom and my family, your thoughts and prayers are appreciated 👼🏾💕☁️
+
+
+
+(With thanks to CS Tyson, whose Periscope feed I relied on to watch the speech.)
+
+
+ Facebook 
+ Twitter 
+ Google plus 
+
+
+ Share 
+
+
+
+
+Share this post
+
+
+
+Facebook
+ 
+
+
+Twitter
+ 
+
+
+Google plus
+ 
+  close 
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+
+
+
+
+=======
+ 10.38pm ET22:38 
+
+The vigils in Charleston are drawing to a close this evening, but we will continue to round up voices and images from those who have come to mourn the nine dead.
+Here, my colleague Oliver Laughland speaks to Pastor Cress Darwin, of Second Presbyterian church.
+
+
+
+The Guardian’s Oliver Laughland interviews Pastor Cress Darwin, of Second Presbyterian church, next to Emanuel church where the shootings took place.
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+
+
+=======
+ Facebook 
+ Twitter 
+ Google plus 
+
+
+ Share 
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+
+
+
+
+
+
+
+=======
+Share this post
+
+
+
+Facebook
+ 
+
+
+Twitter
+ 
+
+
+Google plus
+ 
+  close 
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
@@ -805,51 +1930,58 @@ Email Alerts
 
 
 
+=======
+ 10.18pm ET22:18 
+
+More extraordinary details are emerging about the capture of suspect Dylann Roof and the role of Debbie Dills, the florist who spotted Roof’s car and followed him for 35 miles until he was apprehended – peacefully – by police officers.
+Dills told the local Shelby Star that she had spotted the car on her drive to work around 10.30am on Thursday:
+
+
+I saw the pictures of him with the bowl cut. I said, I’ve seen that car for some reason. I look over, and it’s got a South Carolina tag on it.
+I thought, nah, that’s not his car. Then, I got closer and saw that haircut. I was nervous. I had the worst feeling. Is that him or not him? 
+
+
+Dills called her boss, Todd Frady, who contacted the Kings Mountain Police Department, and kept both callers in touch throughout the pursuit. Dills continued to tail the black car:
+
+
+What if that really was him? … It kept eating at me, and something told me to keep following him.
+
+
+When she saw police officers begin to follow the vehicle, Dills stayed on its tail, also, watching it being pulled over. The driver did not speed up, she told the Shelby Star:
+
+
+He wasn’t doing anything abnormal,. He wasn’t driving slow. He was just driving. He just kept going. 
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
+=======
+Todd Frady, left, and Debbie Dills of Frady’s Florist in Kings Mountain. Photograph: Steve Reed/AP
+>>>>>>> origin/master
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 
 
 Follow
+=======
+ Facebook 
+ Twitter 
+ Google plus 
+
+
+ Share 
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Follow “Fox 59”
 
 
@@ -867,17 +1999,58 @@ Join 2,670 other followers
 
 
 
+=======
+Share this post
+
+
+
+Facebook
+ 
+
+
+Twitter
+ 
+
+
+Google plus
+ 
+  close 
+
+
+
+
+ 10.01pm ET22:01 
+
+The distinctive car driven away from the church by the suspect is being returned to South Carolina.
+Police issued images of the black, four-door sedan, said to have Confederate flag licence plates, as they searched for the gunman.
+Debbie Dills, the North Carolina woman whose call to the police led to the arrest of Dylann Roof, said she had first recognised the car.
+
+
+— Coleen Harry WBTV (@ColeenHarryWBTV)
+June 19, 2015
+Chief @ShelbyPolice say investigators impounded the car #CharlestonShooting suspect was driving; now being towed bk 2 #Charleston @WBTV_News
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
+
+
+=======
+ Facebook 
+ Twitter 
+ Google plus 
+
+
+ Share 
+>>>>>>> origin/master
 
 
 
 
-
-
+<<<<<<< HEAD
 
 Build a website with WordPress.com
 
@@ -886,18 +2059,48 @@ Build a website with WordPress.com
 
 
 
+=======
+Share this post
+
+
+
+Facebook
+ 
+
+
+Twitter
+ 
+
+
+Google plus
+ 
+  close 
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+
+
+
+=======
+ 9.54pm ET21:54 
+
+There are reports of a further bomb threat in Charleston.
+It’s worth remembering that this is the latest in a series of bomb threats that have been made since the shooting on Wednesday night. All so far have resulted in an all-clear. Police are obviously obliged to take them seriously in the meantime.
+
+
+— WCBD (@WCBD)
+June 19, 2015
+JUST IN: Charleston Dispatch confirms @ChasCoSheriff responding to Sheriff Al Cannon Detention Center for bomb threat. #chsnews
+>>>>>>> origin/master
 
 
 
 
 
-
-
-
-
-
-
-
+<<<<<<< HEAD
 
 
 
@@ -914,17 +2117,57 @@ Your Name
 
 Your Email Address
 
+=======
+ Facebook 
+ Twitter 
+ Google plus 
+
+
+ Share 
 
 
 
 
+Share this post
+
+
+
+Facebook
+ 
+
+
+Twitter
+ 
+
+
+Google plus
+ 
+  close 
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 
+=======
+ 9.44pm ET21:44 
+
+The Charleston Regional Business Journal reports that Boeing South Carolina is to donate $100,000 to a fund set up to help relatives of the victims of the Emanuel church shooting.
+In a statement on the aircraft manufacturer’s website, Beverly Wyse, Boeing South Carolina vice-president, says:
+
+
+Our community is experiencing immense grief and mourning as we all try to come to grips with this horrible tragedy.
+But our community is revealing its true character as well, which is rooted in courage, hope and resilience.
+Boeing’s commitment to this community is deep and strong, and we share in its grief. We are also committed to being a part of the healing in the days and weeks to come, and we continue to keep the families and friends of the victims in our thoughts and prayers.
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 Cancel
@@ -942,6 +2185,4000 @@ Cancel
 				Sorry, your blog cannot share posts by email.			
 
 
+=======
+ Facebook 
+ Twitter 
+ Google plus 
+
+
+ Share 
+
+
+
+
+Share this post
+
+
+
+Facebook
+ 
+
+
+Twitter
+ 
+
+
+Google plus
+ 
+  close 
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+
+
+
+
+=======
+ 9.22pm ET21:22 
+Summary
+
+My colleague Amanda Holpuch files this round-up of the latest developments:
+
+Dylann Storm Roof was jailed in Charleston, South Carolina on Thursday night – less than 24 hours after police say he killed nine people in a shooting rampage at a bible study class in what is known as “the holy city”.
+As Roof sat behind bars, mourners gathered across the country to celebrate the lives of those lost. Families of the victims – whose ages ranged from 26 to 87 – gathered outside the historic Emanuel African Methodist Episcopal Church, the scene of the shooting. 
+
+
+The prevailing image of 21-year-old Roof that emerged on Thursday was of a young man in a jacket embellished with patches representing white-ruled Rhodesia and apartheid-era South Africa – two flags now associated with white supremacists, according to the Southern Poverty Law Center.
+But on Thursday night, he was clad in prisoners’ black and white stripes for a flight from North Carolina, where he was caught during a traffic stop. He waived extradition and was sent back to South Carolina. 
+Charleston county sheriff’s office is holding Roof in isolation at a detention center and he faces nine counts of murder, according to Live5 news. 
+“In America, you know, we don’t let bad people like this get away with these dastardly deeds,” Charleston mayor Joseph P Riley Jr said at a press conference. 
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+
+
+
+
+
+
+
+
+=======
+Peggy Blake shows off a sign she made to family members of Susie Jackson, who died in Wednesday’s shooting, as she walks through her neighborhood to a memorial outside the Emanuel AME Church. Photograph: David Goldman/AP
+
+
+
+Meanwhile, the streets outside Emanuel church were crowded with flowers and people who wished to pay their respects to the dead: Cynthia Hurd, 54; Susie Jackson, 87; Ethel Lance, 70; DePayne Middleton-Doctor, 49; Clementa Pickney, 41; Tywanza Sanders, 26; Daniel Simmons, 74; Sharonda Coleman-Singleton, 45, and Myra Thompson, 59. 
+Vigils were also held across the US, including in Nebraska, New York and Florida. 
+Charleston is more than 100 miles from Eastover, where Roof lived. He also had ties to nearby Lexington, where he attended multiple schools. Earlier this year, Roof had been arrested twice: for a drug charge and trespassing. 
+
+
+
+ Facebook 
+ Twitter 
+ Google plus 
+
+
+ Share 
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+
+
+
+
+
+
+
+=======
+Share this post
+
+
+
+Facebook
+ 
+
+
+Twitter
+ 
+
+
+Google plus
+ 
+  close 
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+ 9.07pm ET21:07 
+
+This is the Snapchat video – reportedly filmed by Tywanza Sanders, one of those who was killed – showing the bible study group meeting inside Emanuel AME church on Wednesday evening.
+It was broadcast a short while ago by CNN and shows a brief glimpse of a young white man sitting around the table with the people who would become his victims.
+
+
+— CNN Tonight (@CNNTonight)
+June 18, 2015
+"This is chilling to see." @donlemon shares excl new video of bible group with shooter before killings. http://t.co/wX9rFe5gry
+
+
+
+
+
+ Facebook 
+ Twitter 
+ Google plus 
+
+
+ Share 
+
+
+
+
+Share this post
+
+
+
+Facebook
+ 
+
+
+Twitter
+ 
+
+
+Google plus
+ 
+  close 
+
+
+
+
+ 9.04pm ET21:04 
+
+My colleague Oliver Laughland is with those attending vigils in Charleston tonight.
+The massacre at Emanuel AME church came less than three months after Walter Scott, a 50-year-old black man from North Charleston, was shot eight times in the back by a white police officer in April. The officer has been charged with murder.
+
+
+— Oliver Laughland (@oliverlaughland)
+June 19, 2015
+Tamika Meyers bought this t-shirt after Walter Scott died. She's wearing it again today #CharlestonShooting pic.twitter.com/rVQYPqKEMj
+
+
+
+
+
+ Facebook 
+ Twitter 
+ Google plus 
+
+
+ Share 
+
+
+
+
+Share this post
+
+
+
+Facebook
+ 
+
+
+Twitter
+ 
+
+
+Google plus
+ 
+  close 
+
+
+
+
+ 8.57pm ET20:57 
+Video shows suspect at bible study group
+
+CNN has just broadcast some video – uneventful in any other circumstances, but extraordinary and chilling given what was to unfold.
+The short video – apparently filmed and posted to Snapchat by Tywanza Sanders, one of those who was later shot and killed – shows the bible study group meeting inside Emanuel AME church on Wednesday evening.
+There is a brief glimpse of a young white man, seated around a table with the other members of the group.
+That man is now believed to be Dylann Roof.
+The video, labelled “Bible study knowledge planter”, shows a small group gathered around a table together.
+I will try to bring you the images shortly.
+Update: you can now see the video in this post.
+
+Updated at 9.08pm ET
+
+ Facebook 
+ Twitter 
+ Google plus 
+
+
+ Share 
+
+
+
+
+Share this post
+
+
+
+Facebook
+ 
+
+
+Twitter
+ 
+
+
+Google plus
+ 
+  close 
+
+
+
+
+ 8.47pm ET20:47 
+
+My colleague Ed Pilkington is at the Charleston vigil and sends this dispatch:
+
+About 200 people are gathering outside the Mother Emanuel AME church and laying flowers at the makeshift memorial at the foot of the church steps that is now growing large.
+They were led by a group of pastors in full religious regalia, one carrying a cross.Reverend Sydney Davies, pastor of Zion Olivet Presbyterian church inCharleston, said a brief prayer.
+“The last word is the living God,” he said. “When people ask you what happened here, tell them we go with the love of God.”
+
+
+
+ Facebook 
+ Twitter 
+ Google plus 
+
+
+ Share 
+
+
+
+
+Share this post
+
+
+
+Facebook
+ 
+
+
+Twitter
+ 
+
+
+Google plus
+ 
+  close 
+
+
+
+
+ 8.43pm ET20:43 
+
+Although the view is obscured, this video clip by WCIV reporter Daren Stoltzfus shows the return of suspect Dylann Roof to Charleston:
+
+
+— Daren Stoltzfus (@DarenStoltzfus)
+June 19, 2015
+Dylann Roof's transfer inside Al Cannon Detention Center. Media pushed back- hard to see #CharlestonShooting pic.twitter.com/Lq5d3ALLRY
+
+
+
+As far as we know, charges have not yet been laid against Roof. My colleagues were told by Charleston police around an hour ago that his arrest warrant had not yet been issued.
+
+
+ Facebook 
+ Twitter 
+ Google plus 
+
+
+ Share 
+
+
+
+
+Share this post
+
+
+
+Facebook
+ 
+
+
+Twitter
+ 
+
+
+Google plus
+ 
+  close 
+
+
+
+
+ 8.36pm ET20:36 
+
+My colleague Ed Pilkington is in Charleston and sends these images of the burgeoning memorial outside the Emanuel AME church:
+
+
+— Ed Pilkington (@Edpilkington)
+June 19, 2015
+People leaving flowers at the growing makeshift memorial at Emanuel AME church #Charleston https://t.co/7e0uBY4BPx
+
+
+
+
+
+ Facebook 
+ Twitter 
+ Google plus 
+
+
+ Share 
+
+
+
+
+Share this post
+
+
+
+Facebook
+ 
+
+
+Twitter
+ 
+
+
+Google plus
+ 
+  close 
+
+
+
+
+ 8.25pm ET20:25 
+Summary
+
+
+
+Claire Phipps
+
+Hello, this is Claire Phipps taking over this blog from Jessica Glenza.
+We will continue to bring together coverage from the vigils taking place in Charleston and across the country as mourners remember the nine people who were shot dead in their church on Wednesday night.
+Here is a brief round-up of what we now know:
+
+Suspect Dylann Roof has been booked in Charleston county jail. It is believed he will appear in court at 2pm on Friday.
+The nine people – six women and three men – killed in the historic black church of Emanuel AME church have been identified. They were Rev Clementa Pinckney, Tywanza Sanders, Sharonda Coleman-Singleton, Cynthia Hurd, DePayne Middleton-Doctor, Rev Dr Daniel L Simmons Jr, Ethel Lance, Myra Thompson and Susie Jackson. You can read more about all of them here.
+Roof was captured without incident in North Carolina, after a local florist who was late for work alerted police to “suspicious activity”. he waived extradition to be returned to Charleston.
+Barack Obama said he felt both sadness and anger at the shootings and said America must come to grips with its record on gun violence.
+The shooting is being investigated as a hate crime. “There is absolutely no doubt in my mind that it is hate crime,” police chief Greg Mullen told a news conference without elaborating. The Department of Justice has launched a federal civil rights investigation into the shooting.
+Three people survived the attack, police said. Their condition has not yet been disclosed.
+
+
+
+
+Parishioners in Benton Harbor, Michigan, gather during a vigil to mourn the lives lost at the shooting in Charleston. Photograph: Don Campbell/AP
+
+
+
+Updated at 8.26pm ET
+
+ Facebook 
+ Twitter 
+ Google plus 
+
+
+ Share 
+
+
+
+
+Share this post
+
+
+
+Facebook
+ 
+
+
+Twitter
+ 
+
+
+Google plus
+ 
+  close 
+
+
+
+
+ 8.16pm ET20:16 
+
+With that, I’m going to pass over to Guardian senior live blogger Claire Phipps. 
+
+
+ Facebook 
+ Twitter 
+ Google plus 
+
+
+ Share 
+
+
+
+
+Share this post
+
+
+
+Facebook
+ 
+
+
+Twitter
+ 
+
+
+Google plus
+ 
+  close 
+
+
+
+
+ 8.16pm ET20:16 
+
+Here is more from Charleston residents who have gathered at Emanuel AME Church following the mass shooting that killed nine Wednesday evening. 
+Avis Williamsgrant, 49, a Charleston resident, tells Guardian reporter Oliver Laughland about the Charleston church community there, and how she views the crime committed at Emanuel AME Church.
+
+
+I’m not saying it’s a hate crime, I’m just thinking that the devil stopped in. And I’m praying for the young man also. You know, even though he did what we he did, but god is going to handle that situation.” 
+
+
+
+
+
+
+
+ Facebook 
+ Twitter 
+ Google plus 
+
+
+ Share 
+
+
+
+
+Share this post
+
+
+
+Facebook
+ 
+
+
+Twitter
+ 
+
+
+Google plus
+ 
+  close 
+
+
+
+
+ 8.07pm ET20:07 
+
+Local news outlets are now reporting that Dylann Roof, suspect in the shooting deaths of nine men and women at the Emanuel AME Church, has been booked in Charleston County jail. 
+
+
+— ABC11 EyewitnessNews (@ABC11_WTVD)
+June 19, 2015
+#BreakingNews - #DylannRoof has been booked in Charleston County. http://t.co/xLffSuFWOk pic.twitter.com/3daQviqY0r
+
+
+
+
+
+ Facebook 
+ Twitter 
+ Google plus 
+
+
+ Share 
+
+
+
+
+Share this post
+
+
+
+Facebook
+ 
+
+
+Twitter
+ 
+
+
+Google plus
+ 
+  close 
+
+
+
+
+ 8.04pm ET20:04 
+
+Mourners in Charleston, South Carolina have covered the base of Emanuel AME Church with flowers. 
+
+
+— Melissa Boughton (@mboughtonPC)
+June 19, 2015
+People are bringing flowers to the #CharlestonShooting church #chsnews pic.twitter.com/Q0gBPyh7d2
+
+
+
+
+
+ Facebook 
+ Twitter 
+ Google plus 
+
+
+ Share 
+
+
+
+
+Share this post
+
+
+
+Facebook
+ 
+
+
+Twitter
+ 
+
+
+Google plus
+ 
+  close 
+
+
+
+
+ 7.57pm ET19:57 
+
+President Obama’s comments on the massacre in Charleston weren’t his first on gun control. Over six years, Obama has made dozens of comments during his six years as president. 
+Guardian assistant news editor Erin McCann chronicles those comments here: 
+
+
+ On 3 April 2009, barely two months after Obama was sworn in, 13 people were killed and four wounded at a cultural center in Binghamton, New York.
+Obama’s response was brief, and made no mention of gun violence. It was later revealed the shooter fired 98 shots from two handguns in less than a minute:
+Michelle and I were shocked and deeply saddened to learn about the act of senseless violence in Binghamton, NY today. Our thoughts and prayers go out to the victims, their families and the people of Binghamton.
+
+
+
+
+ Facebook 
+ Twitter 
+ Google plus 
+
+
+ Share 
+
+
+
+
+Share this post
+
+
+
+Facebook
+ 
+
+
+Twitter
+ 
+
+
+Google plus
+ 
+  close 
+
+
+
+
+ 7.52pm ET19:52 
+
+Democratic presidential candidate Hillary Clinton, in comments to the National Conference of Latino Elected Officials in Las Vegas, Nevada, talked about the massacre in Charleston. 
+Clinton visited Trident Technical College in Charleston on Wednesday. 
+
+
+When I got to Las Vegas, I learned about the horrific massacre in the church. You know the shock and pain of this crime of hate strikes deep. Nine people—women and men—cut down at prayer. Murdered in a house of God. It just broke my heart. That of course is the last place we should ever see violence. We shouldn’t see it anywhere. 
+In the days ahead we will once again ask what led to this terrible tragedy and where we as a nation need to go. In order to make sense of it, we have to be honest. We have to face hard truths about race, violence, guns, and division.
+Today, we join our hearts with the people of Charleston and South Carolina — people everywhere — who pray for the victims, who pray for the families, who pray for a community that knows too much sorrow. And we pray for justice. That the people of Charleston find peace and that our country finds unity. 
+
+
+
+
+ Facebook 
+ Twitter 
+ Google plus 
+
+
+ Share 
+
+
+
+
+Share this post
+
+
+
+Facebook
+ 
+
+
+Twitter
+ 
+
+
+Google plus
+ 
+  close 
+
+
+
+
+ 7.45pm ET19:45 
+
+There is incredibly emotional vigil being held at the Ebenezer Baptist Church in Charleston, South Carolina right now. 
+Watch it live with the link below. 
+
+
+— WSB-TV (@wsbtv)
+June 18, 2015
+WATCH LIVE: Ebenezer Baptist Church holding prayer vigil for #CharlestonShooting victims http://t.co/hQxI1GbkWi pic.twitter.com/143AKCjLnw
+
+
+
+
+
+ Facebook 
+ Twitter 
+ Google plus 
+
+
+ Share 
+
+
+
+
+Share this post
+
+
+
+Facebook
+ 
+
+
+Twitter
+ 
+
+
+Google plus
+ 
+  close 
+
+
+
+
+ 7.39pm ET19:39 
+
+This seems like a good moment to talk more about the victims of this mass shooting. Six women and three men were killed, all identified by the Charleston county coroner Rae Wooten this afternoon. 
+Among them was a part-time barber, recent college graduate and poet, 26-year-old Tywanza Sanders. Well-respected, long-time pastor and South Carolina senator Clementa Pinckney was killed, as was high school track coach and mother Sharonda Coleman-Singleton.
+Here is a brief profile on each of the nine victims. 
+
+
+— Lainie Fritz (@lainiefritz)
+June 18, 2015
+Absolutely beautiful memorial to Coach Singleton on the Gator at GCHS stadium. She was a T&F Coach. @WCBD #chsnews pic.twitter.com/4RcffBJ5jz
+
+
+
+
+
+ Facebook 
+ Twitter 
+ Google plus 
+
+
+ Share 
+
+
+
+
+Share this post
+
+
+
+Facebook
+ 
+
+
+Twitter
+ 
+
+
+Google plus
+ 
+  close 
+
+
+
+
+ 7.36pm ET19:36 
+
+As mourners gather at churches around Charleston, and the nation, shooting suspect Dylann Roof arrives in Charleston from Shelby, North Carolina. 
+
+
+— Melissa Boughton (@mboughtonPC)
+June 18, 2015
+It's a full house at Second Presbyterian Church on Meeting St, community prayer service #CharlestonShooting #chsnews pic.twitter.com/LIJfcyQVZ6
+
+
+
+
+
+— William Joy (@WilliamLive5)
+June 18, 2015
+"Satan came to say white and black cannot praise God. It didn't happen to African Americans or the AME church. It happened to all of us"
+
+
+
+William Joy, a reporter for WCSC, is inside the Second Presbyterian Church in Charleston, on Meeting Street. 
+
+
+— Joe Massa (@tvjoe12)
+June 18, 2015
+Suspect in #CharlestonChurchShooting returns to Charleston after his capture in NC @FCN2go @WLTX @StevenDialTV pic.twitter.com/9G6lfFFfNE
+
+
+
+Roof will be held at the Charleston County jail, we’re told by Charleston police. Although there are reports about how Roof will be charged, we’re told by Charleston police that his arrest warrant has not yet been issued. 
+
+
+ Facebook 
+ Twitter 
+ Google plus 
+
+
+ Share 
+
+
+
+
+Share this post
+
+
+
+Facebook
+ 
+
+
+Twitter
+ 
+
+
+Google plus
+ 
+  close 
+
+
+
+
+ 7.21pm ET19:21 
+
+We’ve just tuned into a vigil at the Second Presbyterian Church in Charleston. Here is a link to a live stream, if you’d like to watch it with us. 
+
+
+All of us carry the name Emanuel,” a clergyman tells the crowd. 
+
+
+
+
+— Shawn Drury (@ShawnDrurySC)
+June 18, 2015
+At Second Presbyterian Church. pic.twitter.com/ziBVP5v9KK
+
+
+
+
+
+ Facebook 
+ Twitter 
+ Google plus 
+
+
+ Share 
+
+
+
+
+Share this post
+
+
+
+Facebook
+ 
+
+
+Twitter
+ 
+
+
+Google plus
+ 
+  close 
+
+
+
+
+ 7.03pm ET19:03 
+
+Kieysha Townsell, 30, a resident of Charleston, talks to Oliver Laughland about what happened at Emanuel AME Church. She had never been to the church before, but said she went to “pay my respects.” 
+She called the shooting in Charleston “salt in an open wound” after the shooting of Walter Scott in nearby North Charleston. 
+
+
+
+Kieysha Townsell, a Charleston resident, talks with Guardian reporter Oliver Laughland about the massacre inside of Emanuel AME Church.
+
+
+
+
+ Facebook 
+ Twitter 
+ Google plus 
+
+
+ Share 
+
+
+
+
+Share this post
+
+
+
+Facebook
+ 
+
+
+Twitter
+ 
+
+
+Google plus
+ 
+  close 
+
+
+
+
+ 6.47pm ET18:47 
+
+Vigils have started in New York City, where poetry is reportedly being read. 
+
+
+— Ash J (@AshAgony)
+June 18, 2015
+Poetry being read at #UnionSquare #NYC for #CharlestonShooting vigil! #BlackLivesMatter pic.twitter.com/Y4hoELhPSb
+
+
+
+
+
+ Facebook 
+ Twitter 
+ Google plus 
+
+
+ Share 
+
+
+
+
+Share this post
+
+
+
+Facebook
+ 
+
+
+Twitter
+ 
+
+
+Google plus
+ 
+  close 
+
+
+
+
+ 6.43pm ET18:43 
+
+Hurt is evident in Charleston, South Carolina outside of Emanuel AME Church.
+This community was also shaken when in April, in nearby North Charleston, black American Walter Scott was shot in the back by a white police officer. That officer has since been charged with murder. 
+
+
+— Oliver Laughland (@oliverlaughland)
+June 18, 2015
+Signs outside the Emanuel AME church in Charleston #CharlestonShooting #BlackLivesMatter pic.twitter.com/RQb9f3KVS4
+
+
+
+
+
+ Facebook 
+ Twitter 
+ Google plus 
+
+
+ Share 
+
+
+
+
+Share this post
+
+
+
+Facebook
+ 
+
+
+Twitter
+ 
+
+
+Google plus
+ 
+  close 
+
+
+
+
+ 6.39pm ET18:39 
+
+NBC Nightly News is now reporting that officials also believe Dylann Roof was given a gun for his birthday, as his uncle previously told Reuters. 
+
+
+— NBC Nightly News (@NBCNightlyNews)
+June 18, 2015
+Suspect in Charleston massacre received gun as a gift from his father, officials say. @MarkPotterNBC reports now pic.twitter.com/gUj5KDxhiO
+
+
+
+
+
+ Facebook 
+ Twitter 
+ Google plus 
+
+
+ Share 
+
+
+
+
+Share this post
+
+
+
+Facebook
+ 
+
+
+Twitter
+ 
+
+
+Google plus
+ 
+  close 
+
+
+
+
+ 6.34pm ET18:34 
+
+Vigils around the country will be starting soon. 
+This weekend, several churches have already committed to ring their bells at the same time to commemorate the victims of the Emanuel AME Church shooting in Charleston, South Carolina.
+
+
+#Charleston, South Carolina, is often referred to as the ‘Holy City,’ a place where church steeples — not skyscrapers — dot the skyline. This Sunday at 10 am, our church bells will ring loudly and proudly to proclaim our community’s unity,” the Charleston Area Convention and Visitors Bureau said in a statement. 
+
+
+
+
+
+In Charleston, South Carolina, all the city’s churches have agreed to ring their bells in unison on Sunday, in memory of the nine victims killed at the Emanuel AME Church, Wednesday.
+
+
+
+
+— Charleston Area CVB (@ExploreCHS)
+June 18, 2015
+Every Chuch Bell in Charleston to Ring in Solidarity for Mother Emanuel Church http://t.co/tuONcFvZpy #CharlestonUnited #CharlestonStrong
+
+
+
+
+
+ Facebook 
+ Twitter 
+ Google plus 
+
+
+ Share 
+
+
+
+
+Share this post
+
+
+
+Facebook
+ 
+
+
+Twitter
+ 
+
+
+Google plus
+ 
+  close 
+
+
+
+
+ 6.22pm ET18:22 
+
+Guardian reporter Oliver Laughland is in front of Emanuel AME Church in Charleston, interviewing residents about the massacre that took place Wednesday evening.
+
+
+It’s just mind-boggling, I don’t have the right words to say it – just shocked. I’m in shock you know it even happened, it even happened here, and the way it happened, you know? And the way it happened. 
+These were innocent people. They were godly people.”
+
+
+
+
+
+Guardian reporter Oliver Laughland speaks with resident outside of Emanuel AME Church, after a gunman opened fire inside Wednesday evening, killing nine.
+
+
+
+Updated at 6.34pm ET
+
+ Facebook 
+ Twitter 
+ Google plus 
+
+
+ Share 
+
+
+
+
+Share this post
+
+
+
+Facebook
+ 
+
+
+Twitter
+ 
+
+
+Google plus
+ 
+  close 
+
+
+
+
+ 6.14pm ET18:14 
+
+Dylann Roof is now being walked to a plane that will take him from Shelby, North Carolina to Charleston, South Carolina. He is wearing black and white stripes and a bullet-proof vest.
+
+
+— Live5News (@Live5News)
+June 18, 2015
+LIVE: Charleston shooting suspect at NC airport http://t.co/bDstIRtwHr #chsnews pic.twitter.com/Hqi4NYRWBP
+
+
+
+
+
+ Facebook 
+ Twitter 
+ Google plus 
+
+
+ Share 
+
+
+
+
+Share this post
+
+
+
+Facebook
+ 
+
+
+Twitter
+ 
+
+
+Google plus
+ 
+  close 
+
+
+
+
+ 6.02pm ET18:02 
+
+One of the victims, long-time Charleston librarian Cynthia Hurd, was also a part-time research librarian at the College of Charleston from the early 1990s. 
+
+
+ It is an understatement to say that Cynthia was dependable and an irreplaceable asset to our campus and to the countless library patrons she assisted over the years. She was a protector and lover of books and a fountain of knowledge whose loss will be felt by our entire College community.
+Cynthia worked tirelessly to serve and improve her beloved city and its people. She was an advocate for education and life-long learning. Prior to becoming manager of the St. Andrews branch, Cynthia was a branch manager of John L. Dart Branch Library from 1990 to 2011,” the college said in a statement. 
+
+
+You can read the rest of the college’s statement here, and about eight more victims of the shooting here.
+
+
+ Facebook 
+ Twitter 
+ Google plus 
+
+
+ Share 
+
+
+
+
+Share this post
+
+
+
+Facebook
+ 
+
+
+Twitter
+ 
+
+
+Google plus
+ 
+  close 
+
+
+
+
+ 5.38pm ET17:38 
+
+Guardian reporter Oliver Laughland (@oliverlaughland) is in Charleston, in front of the Emanuel AME church now. We’ll bring you some of his interviews shortly. 
+
+
+— Oliver Laughland (@oliverlaughland)
+June 18, 2015
+At the memorial outside Emanuel AME church in Charleston #CharlestonShooting pic.twitter.com/CkRlwljaUP
+
+
+
+
+
+ Facebook 
+ Twitter 
+ Google plus 
+
+
+ Share 
+
+
+
+
+Share this post
+
+
+
+Facebook
+ 
+
+
+Twitter
+ 
+
+
+Google plus
+ 
+  close 
+
+
+
+
+ 5.31pm ET17:31 
+
+Several vigils have been scheduled in Charleston, South Carolina and around the country, many organized under the #PrayForCharleston tag, most in the evening.
+
+
+— Alfred Street BC (@AlfredStreetBC)
+June 18, 2015
+We invite you to join our Social Justice Ministry this evening at 8pm for a call in prayer vigil #PrayForCharleston pic.twitter.com/ye5rFCKj7W
+
+
+
+I’ve seen other vigils scheduled in places as far away as Philadelphia, Pennsylvania and Seattle, Washington, and as near as Greenville, South Carolina. 
+Additionally, we’re waiting on Rev. Al Sharpton to begin broadcasting live from Charleston, at 6pm on MSNBC.
+
+
+— Reverend Al Sharpton (@TheRevAl)
+June 18, 2015
+I am live from Charllrston, SC tonight on Politics Nation w/ Al Sharpton live at 6 pm est on MSNBC.
+
+
+
+
+
+ Facebook 
+ Twitter 
+ Google plus 
+
+
+ Share 
+
+
+
+
+Share this post
+
+
+
+Facebook
+ 
+
+
+Twitter
+ 
+
+
+Google plus
+ 
+  close 
+
+
+
+
+ 5.12pm ET17:12 
+
+WCSC is reporting that suspect Dylann Roof will be transported to Charleston, South Carolina from Shelby, North Carolina (where he was captured) via plane, and that it is an approximately 30 minute flight. Otherwise, Shelby is a little more than four hours from Charleston. 
+Here is a link to the live stream we’re watching which shows the plane that is believed to be transporting Roof. 
+
+
+ Facebook 
+ Twitter 
+ Google plus 
+
+
+ Share 
+
+
+
+
+Share this post
+
+
+
+Facebook
+ 
+
+
+Twitter
+ 
+
+
+Google plus
+ 
+  close 
+
+
+
+
+ 5.01pm ET17:01 
+
+Coleen Harris, a reporter with Charlotte, North Carolina station WBTV has just shared a photo of Dylann Roof’s waiver of extradition, which he signed. 
+
+
+— Coleen Harry WBTV (@ColeenHarryWBTV)
+June 18, 2015
+Just got copy of #CharlestonShooting suspect #DylannRoof waiver of extradition that he signed. @WBTV_News pic.twitter.com/4WCc8oySRs
+
+
+
+
+
+ Facebook 
+ Twitter 
+ Google plus 
+
+
+ Share 
+
+
+
+
+Share this post
+
+
+
+Facebook
+ 
+
+
+Twitter
+ 
+
+
+Google plus
+ 
+  close 
+
+
+
+
+ 4.48pm ET16:48 
+Summary
+
+Here’s an updated summary of what we know so far:
+
+Six women and three men were killed when a white suspect opened fire in the historic black church of Emanuel AME church in Charleston, South Carolina.
+All nine victims have since been identified by the coroner.
+The suspect was identified as 21-year-old Columbia, South Carolina resident Dylann Roof. 
+Roof made his first appearance in court in Shelby, North Carolina, where he waived extradition. Roof is reportedly en route back to Charleston, where he will face charges.
+Roof was captured without incident, after a local florist who was late for work alerted police to “suspicious activity”. 
+Barack Obama said he felt both sadness and anger at the shootings and said America must come to grips with its record on gun violence.
+The shooting is being investigated as a hate crime. “There is absolutely no doubt in my mind that it is hate crime,” police chief Greg Mullen told a news conference without elaborating. The Department of Justice has launched a federal civil rights investigation into the shooting.
+Three people survived the attack, police said. 
+
+That’s it from me for today. Handing over to Jessica Glenza.
+
+
+ Facebook 
+ Twitter 
+ Google plus 
+
+
+ Share 
+
+
+
+
+Share this post
+
+
+
+Facebook
+ 
+
+
+Twitter
+ 
+
+
+Google plus
+ 
+  close 
+
+
+
+
+ 4.38pm ET16:38 
+
+Roof has waived extradition, and is on his way back to Charleston, according to WBTV’s Harry.
+
+
+— Coleen Harry WBTV (@ColeenHarryWBTV)
+June 18, 2015
+attys 4 #CharlestonShooting suspect #DylannRoof were not in court w/him. They say court officials told them he waived extradition.@WBTV_News
+
+
+
+
+
+ Facebook 
+ Twitter 
+ Google plus 
+
+
+ Share 
+
+
+
+
+Share this post
+
+
+
+Facebook
+ 
+
+
+Twitter
+ 
+
+
+Google plus
+ 
+  close 
+
+
+
+
+ 4.37pm ET16:37 
+
+According to Coleen Harry, the WBTV reporter at the courthouse in Shelby, Roof went to court without his attorneys who were waiting for him at the clerk’s office:
+
+
+— Coleen Harry WBTV (@ColeenHarryWBTV)
+June 18, 2015
+Attys waiting at clerk's Ofc were supposed 2 go 2 court w/#CharlestonShootings suspect; he went w/out them.@WBTV_News pic.twitter.com/e2guZjqm7n
+
+
+
+
+
+ Facebook 
+ Twitter 
+ Google plus 
+
+
+ Share 
+
+
+
+
+Share this post
+
+
+
+Facebook
+ 
+
+
+Twitter
+ 
+
+
+Google plus
+ 
+  close 
+
+
+
+
+ 4.35pm ET16:35 
+
+Charleston PD spokesperson said that in theory, Roof’s paperwork for transfer to South Carolina must be approved by the North Carolina courthouse. Once that’s done he should be brought back to Charleston where the court will be set and he will face the charges in Charleston. He should be brought back to Charleston by the Charleston PD or the Charleston County Police. 
+As an administrative matter, it appears that Roof will need to be charged in South Carolina for his crimes, writes my colleague Jessica Glenza. This is per Chapter 9 of the South Carolina legislature’s website, pertaining to extradition. 
+
+
+The person must be charged in the requesting state [South Carolina] in the manner set forth in Section 17-9-10; provided, however, the person need not have been in the requesting state at the time of the commission of the crime in that state and need not have fled from that state.”
+
+
+
+
+ Facebook 
+ Twitter 
+ Google plus 
+
+
+ Share 
+
+
+
+
+Share this post
+
+
+
+Facebook
+ 
+
+
+Twitter
+ 
+
+
+Google plus
+ 
+  close 
+
+
+
+
+ 4.31pm ET16:31 
+
+My colleague Lauren Gambino has confirmed with the Charleston PD spokesperson Charles Francis, that Roof is currently in the custody of Shelby PD and is heading to his first court appearance in Shelby. 
+According to the local CBS affiliate WBTV, he is heading to Cleveland County courthouse in Shelby, but the court will unusually be closed to the public. Only law enforcement officials will be allowed in. 
+
+Updated at 4.32pm ET
+
+ Facebook 
+ Twitter 
+ Google plus 
+
+
+ Share 
+
+
+
+
+Share this post
+
+
+
+Facebook
+ 
+
+
+Twitter
+ 
+
+
+Google plus
+ 
+  close 
+
+
+
+
+ 4.19pm ET16:19 
+
+Charleston officials have given the all clear on the bomb threat at county building: 
+
+
+— The Post and Courier (@postandcourier)
+June 18, 2015
+UPDATE: At 3:50 pm, #Charleston officials said "all clear" on bomb threat at county building. #chsnews #CharlestonShooting @mboughtonPC
+
+
+
+
+Updated at 4.23pm ET
+
+ Facebook 
+ Twitter 
+ Google plus 
+
+
+ Share 
+
+
+
+
+Share this post
+
+
+
+Facebook
+ 
+
+
+Twitter
+ 
+
+
+Google plus
+ 
+  close 
+
+
+
+
+ 4.09pm ET16:09 
+
+The Shelby Starr has profiled the florist who reportedly led police to Dylann Roof. Debbie Dills was running “a little late” to work at Frady’s Florist this morning, when she spotted Roof from her car:
+
+
+I saw the news coverage last night and the picture of the car. I knew it was a black car, and it had a tag on the front. I saw the pictures of him with the bowl cut,” Dills said through tears. “Since it happened I was praying for them and the church. I was in the right place at the right time that the Lord puts you.”
+
+
+
+Updated at 4.23pm ET
+
+ Facebook 
+ Twitter 
+ Google plus 
+
+
+ Share 
+
+
+
+
+Share this post
+
+
+
+Facebook
+ 
+
+
+Twitter
+ 
+
+
+Google plus
+ 
+  close 
+
+
+
+
+ 4.03pm ET16:03 
+
+And another picture of Roof:
+
+
+— Audrina Bigos (@AudrinaBigos)
+June 18, 2015
+#DylannRoof looks around at our cameras while being escorted to patrol car. #CharlestonShooting pic.twitter.com/3QXUEY94ch
+
+
+
+
+
+ Facebook 
+ Twitter 
+ Google plus 
+
+
+ Share 
+
+
+
+
+Share this post
+
+
+
+Facebook
+ 
+
+
+Twitter
+ 
+
+
+Google plus
+ 
+  close 
+
+
+
+
+ 4.01pm ET16:01 
+
+Roof was just seen leaving the Shelby police station, on his way to court for his arraignment: 
+
+
+— WSOCTV (@wsoctv)
+June 18, 2015
+#CharlestonShooting suspect #DylannRoof just walked out of @ShelbyPolice station on his way to court pic.twitter.com/sIiru2UKa7
+
+
+
+
+
+ Facebook 
+ Twitter 
+ Google plus 
+
+
+ Share 
+
+
+
+
+Share this post
+
+
+
+Facebook
+ 
+
+
+Twitter
+ 
+
+
+Google plus
+ 
+  close 
+
+
+
+
+ 3.59pm ET15:59 
+
+The only suspect in the shooting, Dylann Roof does not seem to have a heavy social media presence. Despite this, a picture is beginning to emerge of an “introverted” man with a recent record of criminal behavior, writes my colleague Jessica Glenza:
+
+
+
+Dylann Roof is pictured in this undated booking photo provided by the Lexington County Sheriff’ Department. Photograph: HANDOUT/REUTERS
+
+
+
+
+“I don’t know what was going through his head,” Konzny said. “He was a really sweet kid. He was quiet. He only had a few friends.”
+A high-school contemporary, John Mullins, told the Daily Beast that the young Roof had been “kind of wild”.
+“He used drugs heavily a lot,” Mullins said. “It was obviously harder than marijuana. He was like a pill popper, from what I understood. Like Xanax, and stuff like that.”
+He added: “He made a lot of racist jokes, but you don’t really take them seriously like that. You don’t really think of it like that.” But now, he said, it seemed that “the things he said were kind of not joking”.
+
+
+ Read her profile of Roof here.
+
+Updated at 4.02pm ET
+
+ Facebook 
+ Twitter 
+ Google plus 
+
+
+ Share 
+
+
+
+
+Share this post
+
+
+
+Facebook
+ 
+
+
+Twitter
+ 
+
+
+Google plus
+ 
+  close 
+
+
+
+
+ 3.43pm ET15:43 
+
+A “threat” caused the evacuation of the building where the coroner just spoke:
+
+
+— The Post and Courier (@postandcourier)
+June 18, 2015
+BREAKING: Alarms sounding in #CharlestonCounty Building. Media being evacuated due to reported threat on building at Bridge View Dr.
+
+
+
+
+
+— William Joy (@WilliamLive5)
+June 18, 2015
+There's a threat at Chas council headquarters and we're being evacuated #chsnews
+
+
+
+This would be the second evacuation of the day due to a “threat”.
+
+Updated at 3.45pm ET
+
+ Facebook 
+ Twitter 
+ Google plus 
+
+
+ Share 
+
+
+
+
+Share this post
+
+
+
+Facebook
+ 
+
+
+Twitter
+ 
+
+
+Google plus
+ 
+  close 
+
+
+
+
+ 3.32pm ET15:32 
+All nine victims identified
+
+The names and ages of all the victims are: 
+
+Cynthia Hurd, 54
+Susie Jackson, 87 
+Ethel Lance, 70
+Rev DePayne Middleton-Doctor, 49
+Hon Rev Clementa Pinckney, 41
+Tywanza Sanders, 26
+Rev Daniel Simmons Snr, 74 – (Only victim to die in hospital, at MUSC)
+Rev Sharonda Singleton, 45
+Myra Thompson, 59
+
+
+
+ Facebook 
+ Twitter 
+ Google plus 
+
+
+ Share 
+
+
+
+
+Share this post
+
+
+
+Facebook
+ 
+
+
+Twitter
+ 
+
+
+Google plus
+ 
+  close 
+
+
+
+
+ 3.31pm ET15:31 
+
+Elliott Summey, the Chairman of the city council is now speaking at the press conference and is visibly emotional: Senator Pinckney was a friend and two employees lost their lives in the shooting. 
+He also announced that the city was going to rename the St Andrews library, the Cynthia Hurd Regional Library. Hurd was a library employee for 31 years.
+
+
+ Facebook 
+ Twitter 
+ Google plus 
+
+
+ Share 
+
+
+
+
+Share this post
+
+
+
+Facebook
+ 
+
+
+Twitter
+ 
+
+
+Google plus
+ 
+  close 
+
+
+
+
+ 3.16pm ET15:16 
+
+Wooten has released the names of all nine victims, these will be posted here as soon as we have correct spellings. 
+A full autopsy will be conducted on all victims, per procedure. No further details on memorial services and plans for future services.
+
+
+ Facebook 
+ Twitter 
+ Google plus 
+
+
+ Share 
+
+
+
+
+Share this post
+
+
+
+Facebook
+ 
+
+
+Twitter
+ 
+
+
+Google plus
+ 
+  close 
+
+
+
+
+ 3.10pm ET15:10 
+
+Coroner Rae Wooten is now speaking:
+
+
+ Facebook 
+ Twitter 
+ Google plus 
+
+
+ Share 
+
+
+
+
+Share this post
+
+
+
+Facebook
+ 
+
+
+Twitter
+ 
+
+
+Google plus
+ 
+  close 
+
+
+
+
+ 3.08pm ET15:08 
+
+The shooting of nine black church-goers in Charleston (not far from where Scott was killed) by a white gunman in what police are treating as a “hate crime” marks a doubling down on the nation’s twin pathologies of racism and guns, writes my colleague Gary Younge.
+
+
+Racism isn’t dead. We know this because it keeps killing black people.
+The fact that Clementa Pinckney, a state senator, was among the dead indicates that nobody is safe. The fact that it took place in a church during a prayer meeting indicates that nowhere is safe.
+America does not have a monopoly on racism. But what makes its racism so lethal is the ease with which people can acquire guns. While the new conversation around race will mean the political response to the fact of this attack will be different, the stale conversation around gun control means the legislative response to the nature of this attack will remain the same. Nothing will happen.
+
+
+Read Gary’s piece in full here.
+
+
+ Facebook 
+ Twitter 
+ Google plus 
+
+
+ Share 
+
+
+
+
+Share this post
+
+
+
+Facebook
+ 
+
+
+Twitter
+ 
+
+
+Google plus
+ 
+  close 
+
+
+
+
+ 2.58pm ET14:58 
+
+Charleston County Coroner Rae Wooten will hold a 3pm news conference to identify the nine victims of last night’s shooting.
+
+Updated at 3.01pm ET
+
+ Facebook 
+ Twitter 
+ Google plus 
+
+
+ Share 
+
+
+
+
+Share this post
+
+
+
+Facebook
+ 
+
+
+Twitter
+ 
+
+
+Google plus
+ 
+  close 
+
+
+
+
+ 2.44pm ET14:44 
+
+Richard Cohen, the president of the Southern Poverty Law Center, an organization which tracks hate crimes in the US, has called the Charlestonchurch shooting an “obvious hate crime”: 
+
+
+A white man who admires apartheid walks into a black church and kills nine people. According to an eyewitness, he says that he has “to do it” because black people “rape our women” and are “taking over our country.” It’s an obvious hate crime by someone who feels threatened by our country’s changing demographics and the increasing prominence of African Americans in public life.
+Since 2000, we’ve seen an increase in the number of hate groups in our country — groups that vilify others on the basis of characteristics such as race or ethnicity. Though the numbers have gone down somewhat in the last two years, they are still at historically high levels. The increase has been driven by a backlash to the country’s increasing racial diversity, an increase symbolized, for many, by the presence of an African American in the White House.”
+
+
+Read his full remarks here.
+
+
+ Facebook 
+ Twitter 
+ Google plus 
+
+
+ Share 
+
+
+
+
+Share this post
+
+
+
+Facebook
+ 
+
+
+Twitter
+ 
+
+
+Google plus
+ 
+  close 
+
+
+
+
+ 2.32pm ET14:32 
+
+The Charleston Post & Courier has identified two more victims, killed in Wednesday night’s shooting: 
+5. Ethel Lance, who was identified by her grandson as someone who had worked for 30 years at the church.
+6. Susie Jackson, Lance’s cousin who was named by a relative and was a longtime church member.
+Read here for more on the four victims previously identified.
+
+
+ Facebook 
+ Twitter 
+ Google plus 
+
+
+ Share 
+
+
+
+
+Share this post
+
+
+
+Facebook
+ 
+
+
+Twitter
+ 
+
+
+Google plus
+ 
+  close 
+
+
+
+
+ 2.17pm ET14:17 
+
+Charleston County Sheriffs have now repotedly cleared the bomb threat:
+
+
+— ChasCoSheriff (@ChasCoSheriff)
+June 18, 2015
+Bomb threat at 15 Morris Street is all clear.
+
+
+
+
+
+ Facebook 
+ Twitter 
+ Google plus 
+
+
+ Share 
+
+
+
+
+Share this post
+
+
+
+Facebook
+ 
+
+
+Twitter
+ 
+
+
+Google plus
+ 
+  close 
+
+
+
+
+ 2.16pm ET14:16 
+
+People were reportedly evacuated form the church, and the area surrounding the church was cleared by police. 
+
+
+— CS Tyson (@SamInteractive)
+June 18, 2015
+Police pushing people back away from the church. Only officers allowed in church now. #CHSnews pic.twitter.com/s3xsizB9g3
+
+
+
+
+
+ Facebook 
+ Twitter 
+ Google plus 
+
+
+ Share 
+
+
+
+
+Share this post
+
+
+
+Facebook
+ 
+
+
+Twitter
+ 
+
+
+Google plus
+ 
+  close 
+
+
+
+
+ 2.07pm ET14:07 
+
+Authorities in Charleston are reportedly responding to a bomb threat at the Morris Brown church where a vigil for the victims of the shooting was being held:
+
+
+— WCBD (@WCBD)
+June 18, 2015
+#BREAKING: Authorities responding to bomb threat at Morris Brown AME Church. #CharlestonShooting Details soon on http://t.co/xXpValnPvM
+
+
+
+
+
+— CS Tyson (@SamInteractive)
+June 18, 2015
+And I've just been told by police that there's a bomb threat at the church. #CHSnews
+
+
+
+
+
+ Facebook 
+ Twitter 
+ Google plus 
+
+
+ Share 
+
+
+
+
+Share this post
+
+
+
+Facebook
+ 
+
+
+Twitter
+ 
+
+
+Google plus
+ 
+  close 
+
+
+
+
+ 1.58pm ET13:58 
+
+My colleagues in London have drawn up an interactive, with a detailed view of everything we know so far about the shooting, namely: what we know about the suspect, who has died and some facts on the numbers of hate crimes in the US.
+
+ Related: What happened at the Charleston, South Carolina, church shooting? 
+
+
+Updated at 2.05pm ET
+
+ Facebook 
+ Twitter 
+ Google plus 
+
+
+ Share 
+
+
+
+
+Share this post
+
+
+
+Facebook
+ 
+
+
+Twitter
+ 
+
+
+Google plus
+ 
+  close 
+
+
+
+
+ 1.48pm ET13:48 
+
+A view from inside the Morris Brown AME Church vigil: 
+
+
+— CS Tyson (@SamInteractive)
+June 18, 2015
+The atmosphere is nearly jubilant as they hold hands and sing. pic.twitter.com/W2SREEgTKE
+
+
+
+
+
+— Dave MacQueen (@DaveMacQueen1)
+June 18, 2015
+"We shall overcome" #CharlestonShooting @ABCNews4 pic.twitter.com/9xwWJ67WVN
+
+
+
+
+
+ Facebook 
+ Twitter 
+ Google plus 
+
+
+ Share 
+
+
+
+
+Share this post
+
+
+
+Facebook
+ 
+
+
+Twitter
+ 
+
+
+Google plus
+ 
+  close 
+
+
+
+
+ 1.36pm ET13:36 
+Summary
+
+Here’s an updated summary of what we know so far:
+
+Six women and three men were killed when a white suspect opened fire in the historic black church of Emanuel AME church in Charleston, South Carolina.
+Four victims have so far been identified: two men, Tywanza Sanders and Senator Clementa Pinckney; and two women, Cynthia Hurd and Sharonda Coleman-Singleton. 
+The suspect was identified as 21-year-old Columbia, South Carolina resident Dylann Roof. Roof is now in custody, after a North Carolinian alerted the police to “suspicious activity”. Roof was peacefully captured.
+Barack Obama said he felt both sadness and anger at the shootings and said America must come to grips with its record on gun violence.
+The shooting is being investigated as a hate crime. “There is absolutely no doubt in my mind that it is hate crime,” police chief Greg Mullen told a news conference without elaborating. The Department of Justice has launched a federal civil rights investigation into the shooting.
+Three people survived the attack, police said. There are unconfirmed reports that the suspect allowed one of the survivors to leave the church so she could report what happened. The police are continuing to interview survivors.
+
+
+Updated at 1.47pm ET
+
+ Facebook 
+ Twitter 
+ Google plus 
+
+
+ Share 
+
+
+
+
+Share this post
+
+
+
+Facebook
+ 
+
+
+Twitter
+ 
+
+
+Google plus
+ 
+  close 
+
+
+
+
+ 1.20pm ET13:20 
+Four victims identified: what we know so far
+
+Dr Lady June Cole, the president of Allen University in Columbia, South Carolina. has issued a statement confirming that two of its alumni were killed in Wednesday night’s shooting:
+1 . Tywanza Sanders, a 2014 graduate of the Division of Business Administration. 
+
+“He was a quiet, well known student who was committed to his education. He presented a warm and helpful spirit as he interacted with his colleagues. Mr. Sanders was participating in the Bible Study session at Mother Emanuel church at the time of the shooting.”
+
+2. Senator Clementa Pinckney, 41, pastor of Mother Emmanuel AME church
+
+“Senator Pinckney was a brilliant young pastor and leader who always possessed an empowering and healing message. Most recently, he was Allen University’s 2015 Founders’ Day speaker. The death of Senator Pinckney is a significant loss for the State of South Carolina and the African Methodist Episcopal church. He has impacted the lives of those in his congregation as well as members of the South Carolina Legislature and beyond.
+
+Two other victims have also been identified:
+3 . Cynthia Hurd: Charleston County Public Library has confirmed that its manager was also killed in the Mother Emmanuel Church shooting, according to WCBD, an NBC affiliate in Charleston.
+4. Sharonda Coleman-Singleton, the mother of Chris Singleton, a rising sophomore at Charleston Southern University and a member of the college’s baseball team, CSU said in a statement:
+
+“Chris’s mother was just that parent that as a coach you are proud to have as part of your program. What she brought to our team is immeasurable,” said head coach Stuart Lake.
+
+
+
+ Facebook 
+ Twitter 
+ Google plus 
+
+
+ Share 
+
+
+
+
+Share this post
+
+
+
+Facebook
+ 
+
+
+Twitter
+ 
+
+
+Google plus
+ 
+  close 
+
+
+
+
+ 12.50pm ET12:50 
+Obama: Mother Emmanuel Church 'is a sacred place' for Charleston and America
+
+In a statement to reporters on Thursday, the president expressed both sadness and anger at the shootings which killed nine overnight. But he also said that the country needed to come to grips with its continuing record of gun violence:
+
+
+“I’ve had to make statements like this too many times. Communities like this have had to endure tragedies like this too many times.
+“We don’t have all the facts, but we do know that once again, innocent people were killed in part because someone who wanted to inflict harm had no trouble getting their hand on a gun.”
+“Now is the time for mourning and for healing. But let’s be clear. At some point, we as a country will have to reckon with the fact that this type of mass violence does not happen in other advanced countries. It doesn’t happen in other places with this kind of frequency.
+
+
+According to some reporters, this is the 14th time Obama has had to make a statement on a shooting incident.
+
+Updated at 12.56pm ET
+
+ Facebook 
+ Twitter 
+ Google plus 
+
+
+ Share 
+
+
+
+
+Share this post
+
+
+
+Facebook
+ 
+
+
+Twitter
+ 
+
+
+Google plus
+ 
+  close 
+
+
+
+
+ 12.29pm ET12:29 
+
+Obama said the fact that the incident happened in a black church recalls a dark chapter of American history. 
+Mother Emmanuel Church has risen before to give hopes to generations of Charlestonians and will rise again, Obama said, as a place of peace.
+
+Updated at 12.36pm ET
+
+ Facebook 
+ Twitter 
+ Google plus 
+
+
+ Share 
+
+
+
+
+Share this post
+
+
+
+Facebook
+ 
+
+
+Twitter
+ 
+
+
+Google plus
+ 
+  close 
+
+
+
+
+ 12.25pm ET12:25 
+
+At some point it’s going to be important for the American people to come to terms with this and to “shift how we think about the issue of gun violence” in this country, Obama said. 
+
+Updated at 12.30pm ET
+
+ Facebook 
+ Twitter 
+ Google plus 
+
+
+ Share 
+
+
+
+
+Share this post
+
+
+
+Facebook
+ 
+
+
+Twitter
+ 
+
+
+Google plus
+ 
+  close 
+
+
+
+
+ 12.25pm ET12:25 
+
+Obama said he doesn’t need to be constrained by the emotions that tragedies like this bring up. 
+He said he has made countless statements like this because of repeated mass shootings in the country. 
+“Now’s the time for mourning but, let’s be clear, at some point we as a country will have to reconcile the fact that these types of mass violence don’t happen in other advanced countries, with this type of frequency,” he said.
+
+Updated at 12.32pm ET
+
+ Facebook 
+ Twitter 
+ Google plus 
+
+
+ Share 
+
+
+
+
+Share this post
+
+
+
+Facebook
+ 
+
+
+Twitter
+ 
+
+
+Google plus
+ 
+  close 
+
+
+
+
+ 12.23pm ET12:23 
+
+The president said he knew several people in the church community, including Clementa Pinckney. 
+There is something particularly heartbreaking about death happening in a place in which we seek solace, and peace, in a place of worship, Obama said.
+Mother Emmanuel is more than a church, Obama said, recalling its importance in history of the civil rights movement.
+
+
+This is a sacred place in the history of Charleston and in the history of America.
+
+
+
+Updated at 12.27pm ET
+
+ Facebook 
+ Twitter 
+ Google plus 
+
+
+ Share 
+
+
+
+
+Share this post
+
+
+
+Facebook
+ 
+
+
+Twitter
+ 
+
+
+Google plus
+ 
+  close 
+
+
+
+
+ 12.21pm ET12:21 
+
+Barack Obama is now speaking about the Charleston shooting.
+
+Updated at 12.22pm ET
+
+ Facebook 
+ Twitter 
+ Google plus 
+
+
+ Share 
+
+
+
+
+Share this post
+
+
+
+Facebook
+ 
+
+
+Twitter
+ 
+
+
+Google plus
+ 
+  close 
+
+
+
+
+ 12.10pm ET12:10 
+
+Barack Obama will be speaking about the tragedy shortly. You can watch his statement live below.
+
+
+
+
+
+ Facebook 
+ Twitter 
+ Google plus 
+
+
+ Share 
+
+
+
+
+Share this post
+
+
+
+Facebook
+ 
+
+
+Twitter
+ 
+
+
+Google plus
+ 
+  close 
+
+
+
+
+ 12.00pm ET12:00 
+
+Mullen gave some details on the arrest, but would not elaborate further:
+
+Roof was in the car when he was apprehended
+Roof was cooperative towards the Shelby PD officer who stopped him
+There’s no reason to believe he wasn’t acting alone
+
+
+Updated at 12.05pm ET
+
+ Facebook 
+ Twitter 
+ Google plus 
+
+
+ Share 
+
+
+
+
+Share this post
+
+
+
+Facebook
+ 
+
+
+Twitter
+ 
+
+
+Google plus
+ 
+  close 
+
+
+
+
+ 11.56am ET11:56 
+
+Mullen said the suspect was stopped because a citizen alerted law enforcement to “suspicious activity” .
+
+
+ Facebook 
+ Twitter 
+ Google plus 
+
+
+ Share 
+
+
+
+
+Share this post
+
+
+
+Facebook
+ 
+
+
+Twitter
+ 
+
+
+Google plus
+ 
+  close 
+
+
+
+
+ 11.55am ET11:55 
+
+The outpouring of emotion from this country has been overwhelming.
+“We allow ourselves to grieve, we allow ourselves to pray, we allow ourselves to question and then we allow ourselves to heal.”
+
+
+ Facebook 
+ Twitter 
+ Google plus 
+
+
+ Share 
+
+
+
+
+Share this post
+
+
+
+Facebook
+ 
+
+
+Twitter
+ 
+
+
+Google plus
+ 
+  close 
+
+
+
+
+ 11.53am ET11:53 
+
+Haley said, her voice breaking: “We woke up today and the heart and soul of South Carolina was broken.”
+
+
+ Facebook 
+ Twitter 
+ Google plus 
+
+
+ Share 
+
+
+
+
+Share this post
+
+
+
+Facebook
+ 
+
+
+Twitter
+ 
+
+
+Google plus
+ 
+  close 
+
+
+
+
+ 11.52am ET11:52 
+
+Governor Nikki Haley is now speaking.
+
+Updated at 11.56am ET
+
+ Facebook 
+ Twitter 
+ Google plus 
+
+
+ Share 
+
+
+
+
+Share this post
+
+
+
+Facebook
+ 
+
+
+Twitter
+ 
+
+
+Google plus
+ 
+  close 
+
+
+
+
+ 11.51am ET11:51 
+
+“In America, we don’t let bad people like this get away with these dastardly deeds,” Riley said.
+
+
+ Facebook 
+ Twitter 
+ Google plus 
+
+
+ Share 
+
+
+
+
+Share this post
+
+
+
+Facebook
+ 
+
+
+Twitter
+ 
+
+
+Google plus
+ 
+  close 
+
+
+
+
+ 11.50am ET11:50 
+
+Riley announced the creation of a Mother Emmanuel Hope Fund for those interested in donating to help the community in the wake of the shooting
+
+
+ Facebook 
+ Twitter 
+ Google plus 
+
+
+ Share 
+
+
+
+
+Share this post
+
+
+
+Facebook
+ 
+
+
+Twitter
+ 
+
+
+Google plus
+ 
+  close 
+
+
+
+
+ 11.49am ET11:49 
+
+Riley said that both vice-president Joe Biden and president Barack Obama called him to offer support. Obama said that he would make all federal resources available for the investigation.
+
+Updated at 11.51am ET
+
+ Facebook 
+ Twitter 
+ Google plus 
+
+
+ Share 
+
+
+
+
+Share this post
+
+
+
+Facebook
+ 
+
+
+Twitter
+ 
+
+
+Google plus
+ 
+  close 
+
+
+
+
+ 11.48am ET11:48 
+
+Riley said that the “awful person”, that “terrible human being” who would go into a place of worship where people were praying and kill them, “is now in custody where he will always remain.”
+The arrest of this man, he said, “[is] important for everyone wounded by this act, which of the church family members, community members and people of America.”
+
+Updated at 11.49am ET
+
+ Facebook 
+ Twitter 
+ Google plus 
+
+
+ Share 
+
+
+
+
+Share this post
+
+
+
+Facebook
+ 
+
+
+Twitter
+ 
+
+
+Google plus
+ 
+  close 
+
+
+
+
+ 11.45am ET11:45 
+
+Mayor Joe Riley is now speaking.
+
+Updated at 11.47am ET
+
+ Facebook 
+ Twitter 
+ Google plus 
+
+
+ Share 
+
+
+
+
+Share this post
+
+
+
+Facebook
+ 
+
+
+Twitter
+ 
+
+
+Google plus
+ 
+  close 
+
+
+
+
+ 11.45am ET11:45 
+
+Mullen has said the cooperation between all law enforcement divisions has been “unparalleled”. The investigation is ongoing he said. “The solicitor’s office and the Attorney General’s office has been in contact all day and last night, and they are prepared to partner with us in the prosecution stage.”
+
+
+ Facebook 
+ Twitter 
+ Google plus 
+
+
+ Share 
+
+
+
+
+Share this post
+
+
+
+Facebook
+ 
+
+
+Twitter
+ 
+
+
+Google plus
+ 
+  close 
+
+
+
+
+ 11.43am ET11:43 
+Suspect Dylann Roof arrested in Shelby North Carolina
+
+Charleston police chief Greg Mullen has confirmed the arrest of the suspect at a press conference.
+
+Updated at 11.48am ET
+
+ Facebook 
+ Twitter 
+ Google plus 
+
+
+ Share 
+
+
+
+
+Share this post
+
+
+
+Facebook
+ 
+
+
+Twitter
+ 
+
+
+Google plus
+ 
+  close 
+
+
+
+
+ 11.39am ET11:39 
+
+US attorney general Loretta Lynch has confirmed that there is ‘a suspect’ in custody.
+
+
+— The Associated Press (@AP)
+June 18, 2015
+BREAKING: Attorney General Lynch: `I can confirm that there is a suspect in custody' in church shooting.
+
+
+
+The FBI has also confirmed a suspect is in custody: 
+
+
+— FBI (@FBI)
+June 18, 2015
+Subject arrested in #Charleston shooting. Our sincere thanks to the public and our law enforcement partners.
+
+
+
+
+Updated at 11.48am ET
+
+ Facebook 
+ Twitter 
+ Google plus 
+
+
+ Share 
+
+
+
+
+Share this post
+
+
+
+Facebook
+ 
+
+
+Twitter
+ 
+
+
+Google plus
+ 
+  close 
+
+
+
+
+ 11.35am ET11:35 
+
+The Morris Brown Church in Charleston is already filling up ahead of the noon prayer vigil: 
+
+
+— CS Tyson (@SamInteractive)
+June 18, 2015
+Morris Brown AME filling up ahead of noon service. 11:30 presser live on http://t.co/J7FeZpnNo2 #chsnews pic.twitter.com/wbNA9jmSsh
+
+
+
+Police are stationed at the church and checking people’s bags, according to a Post & Courier reporter: 
+
+
+— brenda rindge (@brindge)
+June 18, 2015
+Police are checking bags of people entering Morris Brown AME. #chs #CHSShooting pic.twitter.com/VorqJvyxOd
+
+
+
+
+
+ Facebook 
+ Twitter 
+ Google plus 
+
+
+ Share 
+
+
+
+
+Share this post
+
+
+
+Facebook
+ 
+
+
+Twitter
+ 
+
+
+Google plus
+ 
+  close 
+
+
+
+
+ 11.27am ET11:27 
+
+Local media are reporting that the suspect has been arrested in Shelby, North Carolina,  but this has not yet been confirmed.
+Charleston PD said they will be holding a press conference in 10 minutes.
+
+Updated at 11.29am ET
+
+ Facebook 
+ Twitter 
+ Google plus 
+
+
+ Share 
+
+
+
+
+Share this post
+
+
+
+Facebook
+ 
+
+
+Twitter
+ 
+
+
+Google plus
+ 
+  close 
+
+
+
+
+ 11.20am ET11:20 
+
+Tributes to slain Democratic state senator Clementa Pinckney have been pouring in from his fellow state senators: 
+
+
+— Todd Rutherford (@RepRutherford)
+June 18, 2015
+Just received a call from President Obama. He conveyed his condolences to Sen Pinckney's family, congregation, & the people of Charleston.
+
+
+
+
+
+— Vincent Sheheen (@vincentsheheen)
+June 18, 2015
+A memorial on my seat mate's State Senate desk, Clementa Pinckney. RIP my friend. #EmmanuelAME pic.twitter.com/mTyipyQfNL
+
+
+
+
+
+— Katrina Shealy (@KatrinaShealy)
+June 18, 2015
+Saddest Day ever in the SC Senate. Rest in Peace Senator. You were a role model to many and loved by all. We will miss you!
+
+
+
+Pinckney’s death has also been felt across all levels of government, writes my colleague Sam Thielman:
+
+
+“We need to put today’s meeting in context with a tragedy that happened last night in Charleston, SC,” said Federal Communications Commission (FCC) Chairman Tom Wheeler. “To many of us, that is a news item; to one of us, it is very personal. If it were not for this, meeting Commissioner Clyburn would be in Charleston today, mourning with her community.”
+
+
+
+FCC Commissioner Mignon Clyburn, her voice breaking, thanked Wheeler and offered a tearful tribute to Pinckney, who, she said, “is part of the reason I’m sitting here before you today” because of his support in her early career.
+“It is an emotional day for anybody who was born in Charleston”, she said. “Or anybody who has a heart. I met Clementa Pinckney when he was a representative, and I was running for the [Public Service Commission]. I needed 50% plus one. Those of you who know me know that I can have a little bit of an aggressive demeanor. I asked and he was a little bit coy, and I asked again, and I could tell I was irritating him quite a bit. But in the end, he voted for me.
+“I apologize to you for the cracking in my voice. I apologize to you for the emotion I am displaying before you today. You think you have a handle on all that the world has for you and then something like this happens. Clementa and his sister deserved so much better. I hope we will be able to be beacons of light for our community in the way of that church, joined in weekly prayer.”
+
+
+Updated at 11.23am ET
+
+ Facebook 
+ Twitter 
+ Google plus 
+
+
+ Share 
+
+
+
+
+Share this post
+
+
+
+Facebook
+ 
+
+
+Twitter
+ 
+
+
+Google plus
+ 
+  close 
+
+
+
+
+ 11.16am ET11:16 
+
+The White House has said that President Obama will make a statement on the South Carolina mass shooting around 11.45am.
+
+
+ Facebook 
+ Twitter 
+ Google plus 
+
+
+ Share 
+
+
+
+
+Share this post
+
+
+
+Facebook
+ 
+
+
+Twitter
+ 
+
+
+Google plus
+ 
+  close 
+
+
+
+
+ 11.15am ET11:15 
+
+US Attorney General Loretta Lynch briefly addressed the Charleston shooting this morning:
+“Acts like this one have no place in our country and no place in a civilized society,” Lynch said before extending her thoughts and prayers to families of victims.
+Lynch encouraged local law enforcement to continue circulating the photos of the suspect, who she did not name, and encouraged citizens to report any tips to the FBI tip line.
+
+
+ Facebook 
+ Twitter 
+ Google plus 
+
+
+ Share 
+
+
+
+
+Share this post
+
+
+
+Facebook
+ 
+
+
+Twitter
+ 
+
+
+Google plus
+ 
+  close 
+
+
+
+
+ 11.03am ET11:03 
+
+In an interview with Reuters, Roof’s uncle Carson Cowles said his “introverted” nephew was given a gun by his father as a 21st birthday present in April:
+
+
+Cowles said he recognized Roof in a photo released by police, and described him as quiet and soft-spoken. Roof’s father gave him a .45-caliber pistol for his birthday this year, Cowles said. 
+“Nobody in my family had seen anything like this coming,” Cowles said. “I said, if it is him, and when they catch him, he’s got to pay for this.” 
+He said he had told his sister, Roof’s mother, several years ago that Roof was too introverted. 
+“I said he was like 19 years old, he still didn’t have a job, a driver’s license or anything like that and he just stayed in his room a lot of the time,” Cowles said. 
+
+
+
+Updated at 11.03am ET
+
+ Facebook 
+ Twitter 
+ Google plus 
+
+
+ Share 
+
+
+
+
+Share this post
+
+
+
+Facebook
+ 
+
+
+Twitter
+ 
+
+
+Google plus
+ 
+  close 
+
+
+
+
+ 10.56am ET10:56 
+
+A photograph from a Facebook profile page believed to belong to the suspect shows him wearing a jacket with two flags on the front: one is Rhodesia’s (now Zimbabwe) and the other is Apartheid-era South Africa’s.
+(via my colleague Enjoli Liston)
+
+
+
+Dylann Roof, the possible suspect in shooting at Emanuel Church, Charleston Photograph: Facebook
+
+
+
+
+
+ Facebook 
+ Twitter 
+ Google plus 
+
+
+ Share 
+
+
+
+
+Share this post
+
+
+
+Facebook
+ 
+
+
+Twitter
+ 
+
+
+Google plus
+ 
+  close 
+
+
+
+
+ 10.55am ET10:55 
+Charleston PD confirms Dylann Roof is church shooting suspect
+
+The suspect is not yet in custody, the Charleston PD have told the Guardian.
+The Lexington County Solicitor’s office has also confirmed that Roof was arrested on 2 March for possession of a controlled substance.
+
+
+ Facebook 
+ Twitter 
+ Google plus 
+
+
+ Share 
+
+
+
+
+Share this post
+
+
+
+Facebook
+ 
+
+
+Twitter
+ 
+
+
+Google plus
+ 
+  close 
+
+
+
+
+ 10.24am ET10:24 
+Suspect reportedly identified
+
+The suspect in the shooting has been identified as 21-year-old Dylann Roof of Columbia, South Carolina by Lexington PD and Berkeley County. The FBI has confirmed to Reuters that Roof is the suspect. 
+Reuters is also reporting that the suspect’s uncle recognized his nephew from the photo released. “The more I look at him, the more I’m convinced, that’s him,” said Carson Cowles, 56, in a phone interview.
+However, a spokesman for the Charleston PD has said that a suspect has been identified but has not been confirmed. A spokeswoman for Charleston County said the suspect would be identified by the police department on Twitter imminently.
+
+
+— Berkeley County SC (@BerkeleySCGov)
+June 18, 2015
+Suspect in #Charleston shooting identified as 21 yr old Dylann Roof. If you know his whereabouts, call 1-800-CALL-FBI pic.twitter.com/EmFL5gLMCL
+
+
+
+
+
+— Lexington SC Police (@LexingtonPD)
+June 18, 2015
+It is confirmed through open source reports that the subject Dylann Storm Roof is from Lexington County. Call... http://t.co/7QEstJ1lsk
+
+
+
+
+Updated at 10.24am ET
+
+ Facebook 
+ Twitter 
+ Google plus 
+
+
+ Share 
+
+
+
+
+Share this post
+
+
+
+Facebook
+ 
+
+
+Twitter
+ 
+
+
+Google plus
+ 
+  close 
+
+
+
+
+ 10.00am ET10:00 
+
+A DoJ spokesperson confirmed to the Guardian that a federal investigation is under way: 
+“The Justice Department’s Civil Rights Division, the FBI, and the US Attorney’s Office for the District of South Carolina are opening a hate crime investigation into the shooting that took place at Emanuel AME Church in Charleston, SC. The investigation is parallel to and cooperative with the state’s investigation.”
+
+
+ Facebook 
+ Twitter 
+ Google plus 
+
+
+ Share 
+
+
+
+
+Share this post
+
+
+
+Facebook
+ 
+
+
+Twitter
+ 
+
+
+Google plus
+ 
+  close 
+
+
+
+
+ 9.57am ET09:57 
+
+Information about the alleged suspect is circulating on social media. We will not be publishing unconfirmed details on the suspect’s identity.
+
+
+ Facebook 
+ Twitter 
+ Google plus 
+
+
+ Share 
+
+
+
+
+Share this post
+
+
+
+Facebook
+ 
+
+
+Twitter
+ 
+
+
+Google plus
+ 
+  close 
+
+
+
+
+ 9.49am ET09:49 
+
+Deanna Pan of the Charleston Post & Courier points out that with nine dead, this would be the deadliest mass shooting at a house of worship in the US since 1982 (per Mother Jones’ data on mass shootings). 
+In 2012, a shooting at a Sikh Temple in Wisconsin killed seven people and injured three.
+
+
+ Facebook 
+ Twitter 
+ Google plus 
+
+
+ Share 
+
+
+
+
+Share this post
+
+
+
+Facebook
+ 
+
+
+Twitter
+ 
+
+
+Google plus
+ 
+  close 
+
+
+
+
+ 9.41am ET09:41 
+
+ South Carolina House Minority Leader Todd Rutherford on his longtime friend Clementa Pinckney who was killed during the shooting: 
+
+
+— Todd Rutherford (@RepRutherford)
+June 18, 2015
+Senator Pinckney was my friend for over 20 years. I’m speechless, heartbroken and angry. God grant his family some peace right now.
+
+
+
+
+
+ Facebook 
+ Twitter 
+ Google plus 
+
+
+ Share 
+
+
+
+
+Share this post
+
+
+
+Facebook
+ 
+
+
+Twitter
+ 
+
+
+Google plus
+ 
+  close 
+
+
+
+
+ 9.34am ET09:34 
+
+Rev Al Sharpton – who will reportedly be leading a prayer vigil for at noon in Charleston – has expressed “shock and outrage” at the killings, in a statement issued through his National Action Network (full text):
+
+
+What has our society come to when people in a prayer meeting in the sacred halls of a church can be shot in what is deemed a possible hate crime?
+The Pastor of the church, Reverend Clementa Pinckney, worked closely with our National Action Network Chapter leader and our Vice President of Religious Affairs, Rev. Nelson Rivers. It is chilling to me that just over two months ago while I was in North Charleston over the police shooting of Walter Scott, I’m reminded that Rev. Pinckney was among the clergy who stood with me at that occasion and now he has fallen victim to senseless violence.
+We must do what we can to apprehend the killer and we must support the families involved in this tragedy. Demagoguery, increasing tension, and talk of violence will only make a mockery of what we face.” 
+
+
+
+
+ Facebook 
+ Twitter 
+ Google plus 
+
+
+ Share 
+
+
+
+
+Share this post
+
+
+
+Facebook
+ 
+
+
+Twitter
+ 
+
+
+Google plus
+ 
+  close 
+
+
+
+
+ 9.21am ET09:21 
+Summary
+
+Hello. Here’s an updated summary of what we know so far:
+
+Six women and three men were killed when a white suspect opened fired in the historic black church of Emanuel AME church in Charleston, South Carolina.
+Police are still hunting for a suspect, described as a “highly dangerous” white male, aged between 21 and 25. They have released CCTV images of the suspect and his car. The suspect was in the church for about hour before opening fire
+The shooting is being investigated as a hate crime. “There is absolutely no doubt in my mind that it is hate crime,” Police Chief Greg Mullen told a news conference without elaborating.
+The DoJ has launched a federal civil rights investigation into the shooting
+One of those killed has been named as Clementa Pinckney, Emanuel church’s pastor and a Democratic member of the South Carolina Senate. He had campaigned for police to wear body cameras. The police said they did not know if anyone was specifically targeted in the killing
+Eight people were dead when police arrived on the scene, following an emergency call on Wednesday evening just after 9pm local time. A ninth person died later in hospital.
+Three people survived the attack, police said. There are unconfirmed reports that the suspect allowed one of the survivors to leave the church so she could report what happened. The police are continuing to interview survivors.
+Questions are being asked about racial tensions in the state, where Walter Scott, a black man, was shot dead by a police officer in April, and the confederate flag still flies in the grounds of the state building. The NAACP said it was outraged at what it described as a senseless and cowardly killing
+
+For earlier updates, here is our previous live blog, now closed. 
+
+Updated at 9.58am ET
+
+ Facebook 
+ Twitter 
+ Google plus 
+
+
+ Share 
+
+
+
+
+Share this post
+
+
+
+Facebook
+ 
+
+
+Twitter
+ 
+
+
+Google plus
+ 
+  close 
+
+
+
+
+
+
+
+
+Topics
+
+
+
+Charleston shooting
+
+
+
+
+South Carolina
+
+
+
+
+Gun crime
+
+
+
+
+US crime
+
+
+
+
+
+
+
+
+
+
+Share on Facebook
+
+
+
+
+
+
+
+Share on Twitter
+
+
+
+
+
+
+
+Share via Email
+
+
+
+
+
+
+
+Share on Pinterest
+
+
+
+
+
+
+
+Share on LinkedIn
+
+
+
+
+
+
+
+Share on Google+
+
+
+
+
+
+
+
+Share on WhatsApp
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+More on this story
+
+
+
+
+
+
+
+
+
+
+
+
+
+Charleston shootings: NRA blames victims as reactions echo Newtown
+
+
+An NRA board member suggested worshippers ‘might be alive’ if they had guns themselves, while Obama and gun control groups repeat calls for reform
+
+
+
+
+
+
+
+
+
+
+
+Published: 20 Jun 2015
+
+
+
+
+Charleston shootings: NRA blames victims as reactions echo Newtown
 
 
 
@@ -964,6 +6201,9 @@ Cancel
 
 
 
+Sorry, your browser is unable to play this video.
+Please install Adobe Flash™ and try again.
+Alternatively upgrade to a modern browser.
 
 
 
@@ -977,3 +6217,1061 @@ Cancel
 
 
 
+
+
+
+
+
+
+
+
+
+Michelle Obama on Charleston: 'Too many tragedies like this' - video
+
+
+Michelle Obama spoke about the deadly church shooting in Charleston, South Carolina.
+
+
+
+
+
+
+
+
+
+
+
+Published: 19 Jun 2015
+
+
+
+
+Michelle Obama on Charleston: 'Too many tragedies like this' - video
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Rick Perry calls Charleston church shooting an 'accident'
+
+
+Republican presidential candidate says ‘real issue’ raised by case is drugs and accuses Obama of seeking to use shooting to take away Americans’ guns
+
+
+
+
+
+
+
+
+
+
+
+Published: 19 Jun 2015
+
+
+
+
+Rick Perry calls Charleston church shooting an 'accident'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+View all comments >
+
+
+
+
+
+
+
+comments 
+Sign in
+or create your Guardian account to join the discussion.
+
+This discussion is closed for comments.
+
+We’re doing some maintenance right now. You can still read comments, but please come back later to add your own.
+
+
+Commenting has been disabled for this account (why?)
+
+
+
+
+
+
+
+Order by 
+
+
+newest
+
+
+oldest
+
+
+
+
+Show 25
+
+
+25
+
+
+50
+
+
+100
+
+
+All
+
+
+
+
+Threads 
+
+
+collapsed
+
+
+expanded
+
+
+unthreaded
+
+
+
+
+
+Loading comments… Trouble loading?
+
+
+
+
+View more comments
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+more on this story
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Charleston shootings: NRA blames victims as reactions echo Newtown
+
+
+An NRA board member suggested worshippers ‘might be alive’ if they had guns themselves, while Obama and gun control groups repeat calls for reform
+
+
+
+
+
+
+
+
+
+
+
+Published: 20 Jun 2015
+
+
+
+
+Charleston shootings: NRA blames victims as reactions echo Newtown
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sorry, your browser is unable to play this video.
+Please install Adobe Flash™ and try again.
+Alternatively upgrade to a modern browser.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Michelle Obama on Charleston: 'Too many tragedies like this' - video
+
+
+Michelle Obama spoke about the deadly church shooting in Charleston, South Carolina.
+
+
+
+
+
+
+
+
+
+
+
+Published: 19 Jun 2015
+
+
+
+
+Michelle Obama on Charleston: 'Too many tragedies like this' - video
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Rick Perry calls Charleston church shooting an 'accident'
+
+
+Republican presidential candidate says ‘real issue’ raised by case is drugs and accuses Obama of seeking to use shooting to take away Americans’ guns
+
+
+
+
+
+
+
+
+
+
+
+Published: 19 Jun 2015
+
+
+
+
+Rick Perry calls Charleston church shooting an 'accident'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sorry, your browser is unable to play this video.
+Please install Adobe Flash™ and try again.
+Alternatively upgrade to a modern browser.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+No decision has been made on death penalty in Charleston church shooting, says prosecutor – video
+
+
+Prosecutor Scarlett Wilson says 'now is not the time' to discuss whether suspected gunman Dylann Roof will face the death penalty
+
+
+
+
+
+
+
+
+
+
+
+Published: 19 Jun 2015
+
+
+
+
+No decision has been made on death penalty in Charleston church shooting, says prosecutor – video
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Representatives of Charleston shooting victims 'forgive' Dylann Roof
+
+
+
+
+
+
+
+
+
+
+
+
+
+Published: 19 Jun 2015
+
+
+
+
+Representatives of Charleston shooting victims 'forgive' Dylann Roof
+
+
+
+
+
+
+
+
+Analysis
+
+11 myths about the future of gun control, debunked after the Charleston shooting
+
+
+
+
+
+
+
+
+
+
+
+
+
+Published: 20 Jun 2015
+
+
+
+
+11 myths about the future of gun control, debunked after the Charleston shooting
+
+
+
+
+
+
+
+
+
+
+Charleston killings leave US reckoning with race and guns amid 'broken peace'
+
+
+
+
+
+
+
+
+
+
+
+
+
+Published: 18 Jun 2015
+
+
+
+
+Charleston killings leave US reckoning with race and guns amid 'broken peace'
+
+
+
+
+
+
+
+
+
+
+The Charleston shooting victims: a poet, a politician, a librarian, women of faith
+
+
+
+
+
+
+
+
+
+
+
+
+
+Published: 18 Jun 2015
+
+
+
+
+The Charleston shooting victims: a poet, a politician, a librarian, women of faith
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+More more on this story
+
+
+
+
+
+
+
+
+
+
+
+popular
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+The Guardian
+
+
+
+
+
+
+
+
+back to top
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+home
+
+
+
+
+US
+selected
+
+
+
+
+world
+
+
+
+
+opinion
+
+
+
+
+sports
+
+
+
+
+soccer
+
+
+
+
+tech
+
+
+
+
+arts
+
+
+
+
+lifestyle
+
+
+
+
+fashion
+
+
+
+
+business
+
+
+
+
+travel
+
+
+
+
+environment
+
+
+
+
+science
+
+
+
+
+
+
+
+all sections
+close
+
+
+
+
+
+
+
+home
+
+
+
+
+US
+selected
+
+
+
+
+world
+
+
+
+
+UK
+
+
+
+
+europe
+
+
+
+
+americas
+
+
+
+
+asia
+
+
+
+
+middle east
+
+
+
+
+africa
+
+
+
+
+australia
+
+
+
+
+cities
+
+
+
+
+development
+
+
+
+
+
+
+opinion
+
+
+
+
+sports
+
+
+
+
+soccer
+
+
+
+
+MLS
+
+
+
+
+NFL
+
+
+
+
+MLB
+
+
+
+
+NBA
+
+
+
+
+NHL
+
+
+
+
+
+
+soccer
+
+
+
+
+live scores
+
+
+
+
+tables
+
+
+
+
+competitions
+
+
+
+
+results
+
+
+
+
+fixtures
+
+
+
+
+clubs
+
+
+
+
+
+
+tech
+
+
+
+
+arts
+
+
+
+
+movies
+
+
+
+
+tv & radio
+
+
+
+
+music
+
+
+
+
+games
+
+
+
+
+books
+
+
+
+
+art & design
+
+
+
+
+stage
+
+
+
+
+classical
+
+
+
+
+
+
+lifestyle
+
+
+
+
+food
+
+
+
+
+health & fitness
+
+
+
+
+love & sex
+
+
+
+
+family
+
+
+
+
+women
+
+
+
+
+home & garden
+
+
+
+
+
+
+fashion
+
+
+
+
+business
+
+
+
+
+economics
+
+
+
+
+sustainable business
+
+
+
+
+diversity & equality in business
+
+
+
+
+small business
+
+
+
+
+
+
+travel
+
+
+
+
+USA
+
+
+
+
+europe
+
+
+
+
+UK
+
+
+
+
+
+
+environment
+
+
+
+
+climate change
+
+
+
+
+wildlife
+
+
+
+
+energy
+
+
+
+
+pollution
+
+
+
+
+
+
+science
+
+
+
+
+media
+
+
+
+
+crosswords
+
+
+
+
+video
+
+
+
+
+
+
+
+
+
+
+
+US News
+
+
+
+
+›
+Charleston shooting
+
+
+
+
+
+
+
+
+jobs
+
+subscribe
+all topics
+all contributors
+
+
+report technical issue
+
+
+
+about us
+
+contact us
+
+complaints & corrections
+terms & conditions
+privacy policy
+cookie policy
+securedrop
+
+
+© 2015 Guardian News and Media Limited or its affiliated companies. All rights reserved.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+>>>>>>> origin/master

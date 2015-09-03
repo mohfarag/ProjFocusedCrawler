@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Charleston mourns deaths of nine people in church shooting – in pictures | US news | The Guardian
 
 
@@ -6,6 +7,17 @@ Charleston mourns deaths of nine people in church shooting – in pictures | US 
 
 
 
+=======
+Police investigating officer- involved shooting in St. Louis | FOX2now.com 
+Police investigating officer- involved shooting in St. Louis | FOX2now.com
+
+
+
+
+
+
+GoSearch
+>>>>>>> origin/master
 
 
 
@@ -13,6 +25,42 @@ Charleston mourns deaths of nine people in church shooting – in pictures | US 
 
 
 
+<<<<<<< HEAD
+
+
+
+=======
+ Replay: FOX 2 News 
+
+FOX 2 TV Schedule 
+
+
+ Search
+ Contact Us
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
+
+
+=======
+FOX2now.com
+
+ Menu
+
+News
+Links
+AM Show
+Sports
+Traffic
+Contests
+STLMoms
+Events
+>>>>>>> origin/master
 
 
 
@@ -20,33 +68,40 @@ Charleston mourns deaths of nine people in church shooting – in pictures | US 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 
 
 
 
 Close
+=======
+Weather 
+
+82°
+
+
+
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+
+
+=======
+82°
+
+
+Low 76°
+High 95°
+>>>>>>> origin/master
 
 
 
 
 
-
-
-
-
-
-
+<<<<<<< HEAD
 
 
 
@@ -266,6 +321,40 @@ switch to the
 
 Australia edition
 
+=======
+Mon
+
+
+					76°  96°
+					
+
+
+Tue
+
+
+					77°  93°
+					
+
+
+Wed
+
+
+					75°  90°
+					
+
+
+See complete forecast
+
+ Severe weather alert
+
+
+
+
+ 
+
+
+
+>>>>>>> origin/master
 
 
 
@@ -273,6 +362,7 @@ Australia edition
 
 
 
+<<<<<<< HEAD
 
 
 switch to the 
@@ -285,6 +375,56 @@ beta
 
 
 
+=======
+ 
+
+
+
+
+
+
+
+Police investigating officer- involved shooting in St. Louis
+
+Posted 12:17 pm, April 27, 2015, by Danielle Scruggs 
+
+FacebookTwitterRedditPinterestLinkedInEmail 
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
+
+=======
+ST. LOUIS (KTVI) – St. Louis Police wound a suspected car thief who they say fired at them first.
+The trouble began just before noon in the Academy neighborhood of North St. Louis, as police responded to an OnStar alert about a stolen car parked for about an hour in the 5200 block of Ridge Avenue.
+Chief Sam Dotson offered the following account:
+The first officer to arrive, a female African-American with two years on the force, was approaching the car when she saw two men near it take off running.
+She called for backup and ran after them on foot.
+Two officers responded to the call for backup; one of them an African-American with seven years on the force, and the other a white officer with nine years on the force. Together the three of them were chasing the two African American suspects down the alley when one of the suspects pulled a gun.
+‘He said, `I am going to kill you` towards the officer,’ Dotson said.
+‘The suspect running with a gun, turns, pulls the trigger, gun misfires, clears the action in the gun, begins to fire live rounds at the officers,’ Dotson said.
+The suspect, who is 41, is in stable condition. He was hit in the face, arm and leg.
+A small group of protesters converged on the scene, chanting anti-police slogans.
+The wounded suspect is an African-American man, and is believed to be the same person police have been looking for in connection to four armed robberies in the same area over the past month.
+Dotson says the silver .25 caliber semi-automatic pistol the suspect used to fire at the officers matches the description of the gun used in those robberies.
+The other suspect got away.
+He is described as an African-American man in his 20s, last seen wearing a red jacket.
+
+38.662380
+-90.265621
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+Joe Millitzer
+April 27, 20152:26 pm
+>>>>>>> origin/master
 
 
 
@@ -294,75 +434,126 @@ beta
 
 
 
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 The Guardian
 
 
 
+=======
+
+Joe Millitzer
+April 27, 20152:02 pm
+
+
+Full video of St. Louis Police Chief Sam Dotson’s press conference to be posted shortly.
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
+=======
+Danielle Scruggs
+April 27, 20152:02 pm
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+Crowd forming at Ridge and Academy pic.twitter.com/UDs6KtS3Cf
+— Search4Swag (@search4swag) April 27, 2015
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+Danielle Scruggs
+April 27, 20151:59 pm
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+Protesters and bystanders  on the scene 63113 Ridge & Academy pic.twitter.com/Eon0fNCxFu
+— Search4Swag (@search4swag) April 27, 2015
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+Danielle Scruggs
+April 27, 20151:53 pm
+>>>>>>> origin/master
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 
 
 home
+=======
+Protesters are chanting, "Hey hey, ho ho, these killer cops have got to go," and "Hey hey, ho ho, these racist cops have got to go."
+— Christine Byers (@ChristineDByers) April 27, 2015
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 ›
 
 
 US
+=======
+Danielle Scruggs
+April 27, 20151:51 pm
+
+
+
+
+Kevin Ahlbrand of the Ferguson Commission also has a commission meeting tonight pic.twitter.com/CREJTvKEX5
+— Search4Swag (@search4swag) April 27, 2015
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+
+
+=======
+Joe Millitzer
+April 27, 20151:50 pm
+
+
+There are about 15 protesters on the scene.
+>>>>>>> origin/master
 
 
 
 
 
-
-
+<<<<<<< HEAD
 
 
 
@@ -373,47 +564,105 @@ home
 
 
 
+=======
+Joe Millitzer
+April 27, 20151:44 pm
+
+
+Officers responded to a report of a stolen vehicle from onSTAR.  When they got on the scene they saw two suspicious people standing around the vehicle.
+The suspects saw police officers and ran.  The suspect tried to fire shots at the officer but the gun jammed and started yelling at the officers.
+Three officers fired shots at the suspect. The suspect has non-life threatening injuries.  
+One suspect is on the loose.  Police are still looking for the suspect.
 
 
 
 
 
+Joe Millitzer
+April 27, 20151:38 pm
+
+
+Police Chief Dotson to release more information about the shooting now: Watch LIVE Here  
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
 US
 
 selected
 
 
 
+=======
+Danielle Scruggs
+April 27, 20151:32 pm
+
+
+
+
+Yellow markers on the lawn of 5077 Ridge 63113 pic.twitter.com/2MHMGkRbrh
+— Search4Swag (@search4swag) April 27, 2015
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 world
+=======
+Joe Millitzer
+April 27, 20151:30 pm
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+One suspect is still at large. The gun police believe the suspect used to fire at police officers is lying in the street at the scene.
+— Christine Byers (@ChristineDByers) April 27, 2015
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 opinion
 
 
 
 
+=======
+
+
+Joe Millitzer
+April 27, 20151:29 pm
+
+
+Chief Dotson expected to speak soon.  Watch LIVE Here  
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 sports
 
+=======
+
+Joe Millitzer
+April 27, 20151:28 pm
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -421,62 +670,126 @@ soccer
 
 
 
+=======
+Source tell me suspect shot by SLMPD today was hit in leg and arm and expected to survive. Police believe he fired at least once at officer
+— Christine Byers (@ChristineDByers) April 27, 2015
 
 
 
 
+
+
+Danielle Scruggs
+April 27, 20151:27 pm
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 tech
+=======
+Officers still searching the field with metal detectors pic.twitter.com/4szncjhFK1
+— Search4Swag (@search4swag) April 27, 2015
+
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 
 
 
 arts
+=======
+Joe Millitzer
+April 27, 20151:24 pm
+
+
+Police work the scene of the shooting:
+
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 
 
 
 lifestyle
 
+=======
+Danielle Scruggs
+April 27, 20151:24 pm
+
+
+
+
+Protesters bystanders police officers all at the scene pic.twitter.com/aut2T7NvI3
+— Search4Swag (@search4swag) April 27, 2015
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 
 fashion
 
+=======
+Joe Millitzer
+April 27, 20151:23 pm
+
+
+Police chief Sam Dotson on the scene:
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 
 business
 
 
 
+=======
+Danielle Scruggs
+April 27, 20151:23 pm
+
+
+
+
+Protesters bystanders police officers all at the scene pic.twitter.com/aut2T7NvI3
+— Search4Swag (@search4swag) April 27, 2015
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 travel
 
+=======
+
+Joe Millitzer
+April 27, 20151:20 pm
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -484,114 +797,229 @@ environment
 
 
 
+=======
+Stl PD at Academy and Ridge. Officer involved shooting. Awaiting word from Chief. pic.twitter.com/FjbI92RtQY
+— Paul Schankman (@PaulSchankmanTV) April 27, 2015
 
 
 
 
+
+
+Danielle Scruggs
+April 27, 20151:19 pm
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 science
+=======
+Officers talking to neighbors that may have witnessed the shooting 63113 pic.twitter.com/I8pZsLVKqi
+— Search4Swag (@search4swag) April 27, 2015
+
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
+=======
+Danielle Scruggs
+April 27, 20151:14 pm
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+Officer scanning with metal detector pic.twitter.com/DpSV5eUMpO
+— Search4Swag (@search4swag) April 27, 2015
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 browse 
 all
  sections
 
 
 close
+=======
+
+
+Joe Millitzer
+April 27, 20151:13 pm
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+SCENE OF police shooting 5000 block of Ridge 63113 pic.twitter.com/iElTvGnhsy
+— Search4Swag (@search4swag) April 27, 2015
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+Joe Millitzer
+April 27, 20151:12 pm
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+5077 Ridge 63113 scene of the police shooting pic.twitter.com/u82kfur2mS
+— Search4Swag (@search4swag) April 27, 2015
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+Danielle Scruggs
+April 27, 20151:11 pm
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+Officers scanning field with metal detector pic.twitter.com/IYvfMT46zF
+— Search4Swag (@search4swag) April 27, 2015
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+Danielle Scruggs
+April 27, 20151:10 pm
+>>>>>>> origin/master
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 
 
 Charleston shooting
+=======
+Police source tells me it was "an arm and leg shot" in North St. Louis officer-involved shooting today. Hope he survives it.
+— Chris King (@chriskingstl) April 27, 2015
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 
 Charleston mourns deaths of nine people in church shooting – in pictures
 
+=======
+Danielle Scruggs
+April 27, 20151:09 pm
+
+
+
+
+The scene of the police shooting on reg 63113 pic.twitter.com/N1GLtHgHry
+— Search4Swag (@search4swag) April 27, 2015
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+Danielle Scruggs
+April 27, 20151:07 pm
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+Chief Dotson is on the scene pic.twitter.com/cv65OWiP5H
+— Search4Swag (@search4swag) April 27, 2015
+>>>>>>> origin/master
 
 
 
 
 
 
-
-
-
-
+<<<<<<< HEAD
 
 
 The African American church in the South Carolina city where nine people were shot dead by a white gunman on Wednesday reopened for services on Sunday, as locals led a remembrance march for the victims
 
 
+=======
+Joe Millitzer
+April 27, 20151:02 pm
+
+
+
+
+Here at Academy and Ridge Kevin Ahlbrand of SLMPD and the #FergusonCommission works the scene: pic.twitter.com/syOpHlKm8M
+— Bob Hudgins (@Bob_Hudgins) April 27, 2015
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+Joe Millitzer
+April 27, 201512:59 pm
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+Ridge and Academy 63113 pic.twitter.com/OosJ7ZjhoP
+— Search4Swag (@search4swag) April 27, 2015
+>>>>>>> origin/master
 
 
 
 
 
 
-
-
-
-
+<<<<<<< HEAD
 
 
 Mark Wohlwender
@@ -605,21 +1033,71 @@ Sunday 21 June 2015
 
 
 
+=======
+Danielle Scruggs
+April 27, 201512:59 pm
+
+
+
+
+Everything blocked off pic.twitter.com/HHnLLe0iOg
+— Silverback  (@CrownRoyal_K) April 27, 2015
 
 
 
 
 
 
+Danielle Scruggs
+April 27, 201512:57 pm
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+Authorities say man wounded in cop shooting hospitalized & in serious condition http://t.co/kum1aQcLNX via @stltoday pic.twitter.com/ugEEI1JOgE
+— Lynden Steele (@manofsteele) April 27, 2015
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
 
 
 
 Share on Facebook
 
+=======
+Danielle Scruggs
+April 27, 201512:55 pm
+
+
+
+
+Authorities say make wounded in police shooting hospitalized in serious condition. No other details available yet. #STL
+— joelcurrier (@joelcurrier) April 27, 2015
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
+
+
+=======
+Joe Millitzer
+April 27, 201512:54 pm
+
+
+Images from the scene of the shooting:
+>>>>>>> origin/master
 
 
 
@@ -627,51 +1105,97 @@ Share on Facebook
 
 
 
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 Share on Twitter
 
 
 
 
+=======
+
+
+Joe Millitzer
+April 27, 201512:51 pm
+
+
+Watch LIVE video from the scene
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+Joe Millitzer
+April 27, 201512:50 pm
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 Share via Email
+=======
+SLMPD officer involved shooting. Ridge & Academy. Kingshighway closed @ Ridge
+— Maria Keena (@kmoxmaria) April 27, 2015
+
+
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+Joe Millitzer
+April 27, 201512:42 pm
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+Officer-involved shooting scene in #STL. Still awaiting info from police. pic.twitter.com/U7UqtNK3Ia
+— joelcurrier (@joelcurrier) April 27, 2015
+>>>>>>> origin/master
 
 
 
 
 
 
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 
 
 Share on Pinterest
 
 
+=======
+Danielle Scruggs
+April 27, 201512:42 pm
+
+
+
+
+At the scene of an officer-involved shooting in the 5000 blk of Ridge. No officers are injured. 1 suspect has been conveyed to a hospital.
+— St. Louis, MO Police (@SLMPD) April 27, 2015
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+Joe Millitzer
+April 27, 201512:40 pm
+>>>>>>> origin/master
 
 
 
@@ -680,13 +1204,10 @@ Share on Pinterest
 
 
 
-
-
-
-
-
-
+<<<<<<< HEAD
 Share on Google+
+=======
+>>>>>>> origin/master
 
 
 
@@ -698,15 +1219,28 @@ Share on Google+
 
 
 
+<<<<<<< HEAD
+=======
+ 
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 Share on WhatsApp
 
 
 
+=======
+
+Joe Millitzer
+April 27, 201512:38 pm
+
+
+A view from the scene from a live stream
+>>>>>>> origin/master
 
 
 
@@ -717,6 +1251,80 @@ Share on WhatsApp
 
 
 
+<<<<<<< HEAD
+=======
+Joe Millitzer
+April 27, 201512:35 pm
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+Good to know protesters are heading to a reported officer-involved shooting now at Ridge and Academy in North #STL. #PolicingThePolice
+— Rasheen Aldridge (@SheenBean32) April 27, 2015
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+Joe Millitzer
+April 27, 201512:30 pm
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+Bruh it's 49 cop cars over here
+— Silverback  (@CrownRoyal_K) April 27, 2015
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+Joe Millitzer
+April 27, 201512:28 pm
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+.@slmpd officer-involved shooting near Academy/Ridge in #STL. No officers hurt. I'm headed to the scene now.
+— joelcurrier (@joelcurrier) April 27, 2015
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+Joe Millitzer
+April 27, 201512:21 pm
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+BREAKING: Officer-involved shooting at Ridge and Academy in north #StLouis. @kmoxnews has a reporter headed to the scene.
+— Michael Calhoun (@michaelcalhoun) April 27, 2015
+>>>>>>> origin/master
 
 
 
@@ -724,75 +1332,67 @@ Share on WhatsApp
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 Marchers stop in front of the Daughters of the Confederacy building during a vigil in memory of the Emanuel AME church shooting victims on Saturday
 
 
 Photograph: David Goldman/AP
+=======
+
+
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 Facebook
 
 
+=======
+
+
+Filed in: News 
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Twitter
+=======
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 Pinterest
 
 
 
+=======
+
+
+
+ 
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 Share
+=======
+Events Calendar
+See what’s happening  in your neighborhood.
+>>>>>>> origin/master
 
 
 
@@ -800,6 +1400,7 @@ Share
 
 
 
+<<<<<<< HEAD
 
 
 Share this post
@@ -820,11 +1421,38 @@ Facebook
 
 
 Twitter
+=======
+ 
+
+ 
+
+
+Popular
+
+
+
+Teen suspect shot three times by St. Louis police officer
+
+
+
+Michael Brown exhibit opened in Chicago
+
+
+
+Child abuse charges re-filed after disturbing photos go viral on Facebook
+
+
+
+Driver hits 4 women in dramatic East St. Louis hit-and-run caught on video
+
+
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -841,6 +1469,37 @@ Pinterest
 
 close
 
+=======
+ 
+
+
+Latest News
+
+
+
+PICTURES: Slide the City St Louis 2015 part2
+
+
+
+PICTURES: Slide the City St Louis 2015 part1
+
+
+
+Contestants cry foul, attendees go hungry at Budweiser burger fest
+
+
+
+Jefferson County resident apply for disaster assistance from recent flooding and storms
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
+=======
+ 
+>>>>>>> origin/master
 
 
 
@@ -853,11 +1512,7 @@ close
 
 
 
-
-
-
-
-
+<<<<<<< HEAD
 
 
 
@@ -907,23 +1562,110 @@ Pinterest
 
 
 Share
+=======
+News
+
+Teen suspect shot three times by St. Louis police officer
+
+
+News
+
+St. Louis police officer arrested after investigation finds guns, heroin & cash
+
+
+News
+
+Homicide in North St. Louis highlights ”We Must Stop Killing Each Other” campaign
+
+
+Trending
+
+Dashcam video shows Arizona officer intentionally running over suspect
+
+
+News
+
+Slain police: Separated by thousands of miles, united by common dangers
+
+
+
+ 
+
+
+Trending
+
+Teen speaks out after recording viral pool party video
+
+
+News
+
+St. Louis police probe jail stabbing
+
+
+News
+
+Cameras roll while police actions go wrong — and right
+
+
+News
+
+Police looking for 3 suspects in home invasion
+
+
+News
+
+Shooting wounds two in north St. Louis Saturday night
+
+
+
+ 
+
+
+News
+
+Los Angeles officers who killed Ezell Ford violated policy, civilian board finds
+
+
+News
+
+NYPD officer Brian Moore, who was shot in head, dies
+
+
+News
+
+Family of woman shot by police disputes their story
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 
 
 
 Share this post
 
 
+=======
+ 
+
+
+
+
+
+Mobile AppsAndroid App
+Android Weather App
+iPhone & iPad App
+iPhone Weather App
+>>>>>>> origin/master
 
 
 
 
 Facebook
+<<<<<<< HEAD
 
 
 
@@ -934,6 +1676,11 @@ Facebook
 
 
 Twitter
+=======
+Twitter
+Email Alerts
+About & Contact
+>>>>>>> origin/master
 
 
 
@@ -941,6 +1688,7 @@ Twitter
 
 
 
+<<<<<<< HEAD
 
 
 Pinterest
@@ -966,6 +1714,23 @@ close
 
 
 
+=======
+Online Public File • 				Terms of Service •
+		Privacy Policy  •
+		2250 Ball Drive St. Louis MO 63146  •
+		Copyright © 2015, KTVI		 • A Tribune Broadcasting Station •
+		Powered by WordPress.com VIP 
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
+=======
+×
+Email Alerts
+>>>>>>> origin/master
 
 
 
@@ -981,21 +1746,22 @@ close
 
 
 
-
-
-
-
-
+<<<<<<< HEAD
 Flowers lie on the street as marchers pass by
 
 
 Photograph: David Goldman/AP
+=======
+
+
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 Facebook
 
 
@@ -1013,6 +1779,8 @@ Twitter
 Pinterest
 
 
+=======
+>>>>>>> origin/master
 
 
 
@@ -1020,7 +1788,10 @@ Pinterest
 
 
 
+<<<<<<< HEAD
 Share
+=======
+>>>>>>> origin/master
 
 
 
@@ -1030,6 +1801,7 @@ Share
 
 
 
+<<<<<<< HEAD
 Share this post
 
 
@@ -1051,23 +1823,45 @@ Twitter
 
 
 
+=======
+
+
+Send to Email Address
+
+Your Name
+
+Your Email Address
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 Pinterest
 
 
 
+=======
+Cancel
+
+				Post was not sent - check your email addresses!			
+
+				Email check failed, please try again			
+
+				Sorry, your blog cannot share posts by email.			
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 close
+=======
+>>>>>>> origin/master
 
 
 
@@ -1079,6 +1873,7 @@ close
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -4685,3 +5480,5 @@ securedrop
 
 
 
+=======
+>>>>>>> origin/master

@@ -1,7 +1,14 @@
+<<<<<<< HEAD
 Police investigating deadly shooting in Newark | New York's PIX11 / WPIX-TV 
 
 
 Police investigating deadly shooting in Newark | New York's PIX11 / WPIX-TV
+=======
+Charleston shooting | US news | The Guardian
+
+Charleston shooting | US news | The Guardian
+
+>>>>>>> origin/master
 
 
 
@@ -16,8 +23,12 @@ Police investigating deadly shooting in Newark | New York's PIX11 / WPIX-TV
 
 
 
+<<<<<<< HEAD
 Go
 Search
+=======
+Close
+>>>>>>> origin/master
 
 
 
@@ -26,6 +37,13 @@ Search
 
 
 
+<<<<<<< HEAD
+
+=======
+Skip to main content
+
+ 
+>>>>>>> origin/master
 
 
 
@@ -33,7 +51,7 @@ Search
 
 
 
-
+<<<<<<< HEAD
  Replay: 
 PIX11 News 
 
@@ -41,16 +59,30 @@ PIX11 News
 
 PIX11 TV Schedule 
 
+=======
+
+
+
+
+sign in
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
  Search
 
 
  Contact Us
 
+=======
+
+
+
+subscribe
+>>>>>>> origin/master
 
 
 
@@ -58,23 +90,37 @@ PIX11 TV Schedule
 
 
 
+<<<<<<< HEAD
+=======
+search
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 New York's PIX11 / WPIX-TV
+=======
+jobs
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
  
 Menu
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 NEWS
 
 
@@ -97,6 +143,32 @@ Traffic
 
 
 Events
+=======
+more
+
+
+from the guardian:
+
+
+jobs
+
+
+
+change edition:
+
+
+
+switch to the  UK  edition
+
+
+switch to the  AU  edition
+
+
+switch to the 
+INT
+beta
+ edition
+>>>>>>> origin/master
 
 
 
@@ -105,6 +177,7 @@ Events
 
 
 
+<<<<<<< HEAD
 
 
 Weather 
@@ -115,6 +188,31 @@ Weather
 77°
 
 
+=======
+US edition
+
+
+
+
+switch to the 
+UK edition
+
+
+
+
+switch to the 
+Australia edition
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+switch to the 
+International
+beta
+>>>>>>> origin/master
 
 
 
@@ -125,23 +223,28 @@ Weather
 
 
 
-
-
-
-
+<<<<<<< HEAD
 77°
+=======
+The Guardian
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 Low 
 68°
 
 
 High 
 81°
+=======
+
+
+>>>>>>> origin/master
 
 
 
@@ -150,16 +253,27 @@ High
 
 
 
+<<<<<<< HEAD
 
 
 
 
 Sat
+=======
+home
+
+
+›
+US
+
+
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 					71° 
  86°
 					
@@ -171,17 +285,34 @@ Sat
 
 Sun
 
+=======
+
+
+
+home
 
 
 
 
+US
+selected
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 					74° 
  90°
 					
+=======
+world
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 Mon
@@ -194,15 +325,93 @@ Mon
  92°
 					
 
+=======
+opinion
 
 
 
 
+sports
+
+
+
+
+soccer
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 See complete forecast
 
 
 
+=======
+tech
+
+
+
+
+arts
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+
+
+
+ 
+
+=======
+lifestyle
+
+
+
+
+fashion
+
+
+
+
+business
+
+
+
+
+travel
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+environment
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+science
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+browse all sections
+close
+
+>>>>>>> origin/master
 
 
 
@@ -220,50 +429,44 @@ See complete forecast
 
 
 
+<<<<<<< HEAD
+
+
+=======
+Charleston shooting
+
+Thursday
+
+18
+June
+2015
+>>>>>>> origin/master
 
 
 
 
 
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 Police investigating deadly shootings in Newark
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Posted 6:01 AM, August 20, 2015, by 
 Andrea Cavallier
 , 
 Updated at 06:05am, August 20, 2015
  
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Facebook
 Twitter
 Reddit
@@ -271,18 +474,30 @@ Pinterest
 Email
 Google
  
+=======
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+
+
+
+=======
+Analysis
+
+Obama on gun violence: six years of statements but change remains elusive
+
+
+ ‘We have been through this too many times.’ In his seven years in office, most legislative efforts to reform America’s gun laws have failed because of Congress
+>>>>>>> origin/master
 
 
 
 
 
-
-
-
-
-
-
-
+<<<<<<< HEAD
 NEWARK, N.J. — Police are investigating deadly shootings that happened Wednesday in Newark.
 
 
@@ -306,10 +521,28 @@ No arrests have been made.
 
 
 Anyone with information is asked to contact the Essex County Prosecutor’s Office Homicide/Major Crimes Task Force at 1-877-847-7432 or 1-877-TIPS-4-EC.
+=======
+
+
+
+Obama on gun violence: six years of statements but change remains elusive
 
 
 
 
+
+
+
+
+
+
+
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
@@ -320,20 +553,37 @@ New Jersey
 , 
 News
  
+=======
+Dylann Roof: the cold stare of a killer with a history of drug abuse and racism
+
+
+A picture has emerged of the 21-year-old man captured after allegedly killing nine black churchgoers: withdrawn to the woods – and potentially racist
+
+
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+Dylann Roof: the cold stare of a killer with a history of drug abuse and racism
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 ×
 
 
 Report a Typo
+=======
+
+
+>>>>>>> origin/master
 
 
 
@@ -343,11 +593,19 @@ Report a Typo
 
 
 
+<<<<<<< HEAD
 
 
 
 Name
 (required)
+=======
+The Charleston shooting victims: a poet, a politician, a librarian, women of faith
+
+
+Six women and three men were killed when a gunman attacked the Emanuel African Methodist Episcopal church. These are their stories
+
+>>>>>>> origin/master
 
 
 
@@ -355,9 +613,14 @@ Name
 
 
 
+<<<<<<< HEAD
 
 Typo
 (required)
+=======
+The Charleston shooting victims: a poet, a politician, a librarian, women of faith
+
+>>>>>>> origin/master
 
 
 
@@ -372,18 +635,33 @@ Typo
 
 
 
+<<<<<<< HEAD
 
 
 
 
  
+=======
+Republican candidates reaffirm gun rights support after Charleston shooting
+
+
+‘Everybody’s for the second amendment,’ Rand Paul said at conservative conference that coincided with Obama’s speech denouncing US gun violence
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Cancel
 
 
+=======
+
+
+Republican candidates reaffirm gun rights support after Charleston shooting
+>>>>>>> origin/master
 
 
 
@@ -400,6 +678,10 @@ Cancel
 
 
 
+<<<<<<< HEAD
+=======
+Charleston killings leave US reckoning with race and guns amid 'broken peace'
+>>>>>>> origin/master
 
 
 
@@ -410,7 +692,11 @@ Cancel
 
 
 
+<<<<<<< HEAD
  
+=======
+Charleston killings leave US reckoning with race and guns amid 'broken peace'
+>>>>>>> origin/master
 
 
 
@@ -424,11 +710,30 @@ Cancel
 
 
 
+<<<<<<< HEAD
 
 Watch NJ Lottery drawings live
 
 
 Winning numbers and daily results
+=======
+The Charleston shooter killed mostly black women. This wasn't about 'rape'
+
+Rebecca Carroll
+
+
+>>>>>>> origin/master
+
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+The Charleston shooter killed mostly black women. This wasn't about 'rape'
+>>>>>>> origin/master
 
 
 
@@ -438,27 +743,33 @@ Winning numbers and daily results
 
 
 
-
-
-
-
-
-
-
+<<<<<<< HEAD
  
 
 
 
 
  
+=======
+
+Charleston church shooting: Obama calls for gun control in wake of tragedy
+
+
+
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 Popular
 
+=======
+
+Charleston church shooting: Obama calls for gun control in wake of tragedy
+>>>>>>> origin/master
 
 
 
@@ -466,16 +777,25 @@ Popular
 
 
 
+<<<<<<< HEAD
 NBA great Darryl Dawkins has died at 58 years old
+=======
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 
 
 Video showing shootings of WDBJ crew posted under Bryce Williams Twitter, Facebook accounts
+=======
+Obama on Charleston: shootings have happened 'too many times' – video
+
+
+>>>>>>> origin/master
 
 
 
@@ -484,7 +804,11 @@ Video showing shootings of WDBJ crew posted under Bryce Williams Twitter, Facebo
 
 
 
+<<<<<<< HEAD
 Reporter, photographer shot to death on air in Virginia
+=======
+Obama on Charleston: shootings have happened 'too many times' – video
+>>>>>>> origin/master
 
 
 
@@ -493,7 +817,19 @@ Reporter, photographer shot to death on air in Virginia
 
 
 
+<<<<<<< HEAD
 ‘Dead’ teen ‘wakes up’ screaming, banging inside coffin; family smashes tomb
+=======
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
+=======
+Police arrest suspect Dylann Roof in South Carolina shooting - video
+>>>>>>> origin/master
 
 
 
@@ -504,29 +840,38 @@ Reporter, photographer shot to death on air in Virginia
 
 
 
-
-
-
-
-
+<<<<<<< HEAD
 
  
+=======
+Police arrest suspect Dylann Roof in South Carolina shooting - video
+
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 Latest News
+=======
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 
 
 One man’s poop is another’s medicine
+=======
+US justice department launches hate crime inquiry in Charleston shooting - video
+
+
+>>>>>>> origin/master
 
 
 
@@ -535,7 +880,11 @@ One man’s poop is another’s medicine
 
 
 
+<<<<<<< HEAD
 Calif. man bitten while taking selfie with rattlesnake
+=======
+US justice department launches hate crime inquiry in Charleston shooting - video
+>>>>>>> origin/master
 
 
 
@@ -544,7 +893,10 @@ Calif. man bitten while taking selfie with rattlesnake
 
 
 
+<<<<<<< HEAD
 CEO of Ashley Madison parent company steps down after hack
+=======
+>>>>>>> origin/master
 
 
 
@@ -553,9 +905,15 @@ CEO of Ashley Madison parent company steps down after hack
 
 
 
+<<<<<<< HEAD
 WATCH IT: Sinkhole swallows 5 people in China is captured on video
 
 
+=======
+
+
+Charleston church shooting: 21-year-old suspect captured as 'holy city' mourns
+>>>>>>> origin/master
 
 
 
@@ -566,7 +924,11 @@ WATCH IT: Sinkhole swallows 5 people in China is captured on video
 
 
 
+<<<<<<< HEAD
  
+=======
+Charleston church shooting: 21-year-old suspect captured as 'holy city' mourns
+>>>>>>> origin/master
 
 
 
@@ -580,6 +942,13 @@ WATCH IT: Sinkhole swallows 5 people in China is captured on video
 
 
 
+<<<<<<< HEAD
+
+=======
+Terrorism in Charleston demands the government act like black lives matter
+
+The Rev Broderick Greer
+>>>>>>> origin/master
 
 
 
@@ -589,15 +958,22 @@ WATCH IT: Sinkhole swallows 5 people in China is captured on video
 
 
 
-
+<<<<<<< HEAD
 
 
 
 New Jersey
+=======
+Terrorism in Charleston demands the government act like black lives matter
+
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Authorities seeking person who shot, killed taxi driver in Newark
 
 
@@ -606,10 +982,20 @@ Authorities seeking person who shot, killed taxi driver in Newark
 
 
 New Jersey
+=======
+
+
+
+Charleston shooting church has rich history from slave revolts to civil rights
+
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Family of teen slain on Mother’s Day condemn violence, social media posts
 
 
@@ -618,17 +1004,30 @@ Family of teen slain on Mother’s Day condemn violence, social media posts
 
 
 New Jersey
+=======
+
+
+
+Charleston shooting church has rich history from slave revolts to civil rights
+
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 1 killed, 3 hurt at annual Mother’s Day bike blessing in Newark
+=======
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 New Jersey
  
 News
@@ -637,18 +1036,33 @@ News
 
 
 Elizabeth man accused of killing 7 people in 2 different states
+=======
+The nine people killed in Charleston are victims of America's racist present
+
+Steven W Thrasher
+
+
+
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 News
+=======
+The nine people killed in Charleston are victims of America's racist present
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Victim of deadly Mother’s Day shooting in Newark identified as 15-year-old boy
+=======
+>>>>>>> origin/master
 
 
 
@@ -657,114 +1071,198 @@ Victim of deadly Mother’s Day shooting in Newark identified as 15-year-old bo
 
 
 
+<<<<<<< HEAD
  
 
+=======
+
+Harry Reid on Charleston church shooting: 'ultimate act' of hatred - video
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 New Jersey
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Woman, 19, shot and killed on steps of Newark home
 
+=======
+
+Harry Reid on Charleston church shooting: 'ultimate act' of hatred - video
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 New Jersey
  
 News
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Four teens arrested in Mother’s Day killing of boy, 15, in Newark
 
+=======
+
+Charleston church shooting: police release image of suspect – as it happened
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 News
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Four charged in Mother’s Day murder of teen in Newark
 
+=======
+
+Charleston church shooting: police release image of suspect – as it happened
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 News
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 SEE IT: Video shows police shoot hammer attack suspect near Penn Station
+=======
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 Northern Suburbs
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Knife-wielding suspect fatally shot by officers in Beacon
 
 
 
+=======
+
+
+Charleston church shooting: Without gun control, racism will keep killing black people
+
+Gary Younge
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
  
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 News
+=======
+Charleston church shooting: Without gun control, racism will keep killing black people
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Arrests made in Crown Heights stabbing death of 17-year-old
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 News
+=======
+South Carolina church shooting: police hunt gunman after 'hate crime' attack
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Newark man in wheelchair beaten to death: prosecutor
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 News
+=======
+South Carolina church shooting: police hunt gunman after 'hate crime' attack
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 New Jersey man who recently returned from Liberia dies from Lassa fever
+=======
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+Charleston shooting: state senator Clementa Pinckney among victims
+>>>>>>> origin/master
 
 
 
@@ -775,11 +1273,11 @@ New Jersey man who recently returned from Liberia dies from Lassa fever
 
 
 
-
-
-
-
+<<<<<<< HEAD
  
+=======
+Charleston shooting: state senator Clementa Pinckney among victims
+>>>>>>> origin/master
 
 
 
@@ -792,11 +1290,17 @@ New Jersey man who recently returned from Liberia dies from Lassa fever
 
 
 
+<<<<<<< HEAD
 Mobile Apps
 Android App
 
 
 iPhone & iPad App
+=======
+
+Charleston church shooting: we will direct all our energy and resources towards catching suspect, says police - video
+
+>>>>>>> origin/master
 
 
 
@@ -806,6 +1310,7 @@ iPhone & iPad App
 
 
 
+<<<<<<< HEAD
 
 Facebook
 
@@ -817,6 +1322,26 @@ Instagram
 
 
 About & Contact
+=======
+Charleston church shooting: we will direct all our energy and resources towards catching suspect, says police - video
+
+
+
+
+
+
+
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+Charleston church shooting: gunman sought after reports of fatalities and injuries in South Carolina – video
+>>>>>>> origin/master
 
 
 
@@ -827,12 +1352,7 @@ About & Contact
 
 
 
-
-
-
-
-
-
+<<<<<<< HEAD
 Online Public File
  • 				
 Terms of Service
@@ -852,6 +1372,8 @@ WordPress.com VIP
  
 
 
+=======
+Charleston church shooting: gunman sought after reports of fatalities and injuries in South Carolina – video
 
 
 
@@ -860,12 +1382,255 @@ WordPress.com VIP
 
 
 
+Older
+Newer
+
+
+
+
+
+
+Topics
+
+
+
+South Carolina
+
+
+
+
+Gun crime
+
+
+
+
+US crime
+
+
+
+
+Race issues
+
+
+
+
+US gun control
+
+
+
+More…
+
+
+
+Barack Obama
+
+
+
+
+Obama administration
+
+
+
+
+Religion
+
+
+
+
+US politics
+
+
+
+
+Republicans
+
+
+
+
+Washington DC
+
+
+
+
+Ted Cruz
+
+
+
+
+Rand Paul
+
+
+
+
+Women
+
+
+
+
+US policing
+
+
+
+
+Newtown shooting
+
+
+
+
+Aurora shooting
+
+
+
+
+US elections 2016
+
+
+
+
+Christianity
+
+
+
+
+US Congress
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Guardian
+
+
+
+
+
+
+
+
+back to top
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+home
+
+
+
+
+US
+selected
+
+
+
+
+world
+
+
+
+
+opinion
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+sports
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 ×
 
 
 Email Alerts
+=======
+soccer
+
+
+
+
+tech
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+arts
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+lifestyle
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+fashion
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+business
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+travel
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+environment
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+science
+>>>>>>> origin/master
 
 
 
@@ -873,6 +1638,11 @@ Email Alerts
 
 
 
+<<<<<<< HEAD
+=======
+all sections
+close
+>>>>>>> origin/master
 
 
 
@@ -880,105 +1650,143 @@ Email Alerts
 
 
 
+<<<<<<< HEAD
+=======
+home
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+US
+selected
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+world
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+UK
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+europe
+>>>>>>> origin/master
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 Follow
+=======
+americas
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Follow “New York's PIX11 / WPIX-TV”
+=======
+asia
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Get every new post delivered to your Inbox.
+=======
+middle east
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Join 5,004 other followers
+=======
+africa
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+australia
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+cities
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+development
+>>>>>>> origin/master
 
 
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 Build a website with WordPress.com
+=======
+opinion
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+sports
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+soccer
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+MLS
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 Send to Email Address
@@ -994,16 +1802,39 @@ Your Name
 Your Email Address
 
 
+=======
+NFL
+
+
+
+
+MLB
+
+
+
+
+NBA
+
+
+
+
+NHL
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+soccer
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 Cancel
@@ -1020,6 +1851,288 @@ Cancel
 
 				Sorry, your blog cannot share posts by email.			
 
+=======
+live scores
+
+
+
+
+tables
+
+
+
+
+competitions
+
+
+
+
+results
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+fixtures
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+clubs
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+tech
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+arts
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+movies
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+tv & radio
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+music
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+games
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+books
+
+
+
+
+art & design
+
+
+
+
+stage
+
+
+
+
+classical
+
+
+
+
+
+
+lifestyle
+
+
+
+
+food
+
+
+
+
+health & fitness
+
+
+
+
+love & sex
+
+
+
+
+family
+
+
+
+
+women
+
+
+
+
+home & garden
+
+
+
+
+
+
+fashion
+
+
+
+
+business
+
+
+
+
+economics
+
+
+
+
+sustainable business
+
+
+
+
+diversity & equality in business
+
+
+
+
+small business
+
+
+
+
+
+
+travel
+
+
+
+
+USA
+
+
+
+
+europe
+
+
+
+
+UK
+
+
+
+
+
+
+environment
+
+
+
+
+climate change
+
+
+
+
+wildlife
+
+
+
+
+energy
+
+
+
+
+pollution
+
+
+
+
+
+
+science
+
+
+
+
+media
+
+
+
+
+crosswords
+
+
+
+
+video
+
+
+
+
+
+
+
+
+
+
+
+
+
+jobs
+
+subscribe
+all topics
+all contributors
+
+
+report technical issue
+
+
+
+about us
+
+contact us
+
+complaints & corrections
+terms & conditions
+privacy policy
+cookie policy
+securedrop
+
+
+© 2015 Guardian News and Media Limited or its affiliated companies. All rights reserved.
 
 
 
@@ -1037,24 +2150,6 @@ Cancel
 
 
 
+ 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+>>>>>>> origin/master

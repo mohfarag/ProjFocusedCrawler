@@ -1,7 +1,14 @@
+<<<<<<< HEAD
 Police in Greensboro investigate overnight shooting | myfox8.com 
 
 
 Police in Greensboro investigate overnight shooting | myfox8.com
+=======
+Charleston shooting: Emanuel AME church reopens for first service | US news | The Guardian
+
+Charleston shooting: Emanuel AME church reopens for first service | US news | The Guardian
+
+>>>>>>> origin/master
 
 
 
@@ -16,8 +23,12 @@ Police in Greensboro investigate overnight shooting | myfox8.com
 
 
 
+<<<<<<< HEAD
 Go
 Search
+=======
+Close
+>>>>>>> origin/master
 
 
 
@@ -26,6 +37,13 @@ Search
 
 
 
+<<<<<<< HEAD
+
+=======
+Skip to main content
+
+ 
+>>>>>>> origin/master
 
 
 
@@ -33,7 +51,7 @@ Search
 
 
 
-
+<<<<<<< HEAD
  Watch Now: 
 12 p.m. News 
 
@@ -41,16 +59,30 @@ Search
 
 FOX8 TV Schedule 
 
+=======
+
+
+
+
+sign in
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
  Search
 
 
  Contact Us
 
+=======
+
+
+
+subscribe
+>>>>>>> origin/master
 
 
 
@@ -58,23 +90,37 @@ FOX8 TV Schedule
 
 
 
+<<<<<<< HEAD
+=======
+search
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 myfox8.com
+=======
+jobs
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
  
 Menu
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 News
 
 
@@ -97,6 +143,32 @@ Contests
 
 
 Events
+=======
+more
+
+
+from the guardian:
+
+
+jobs
+
+
+
+change edition:
+
+
+
+switch to the  UK  edition
+
+
+switch to the  AU  edition
+
+
+switch to the 
+INT
+beta
+ edition
+>>>>>>> origin/master
 
 
 
@@ -105,6 +177,7 @@ Events
 
 
 
+<<<<<<< HEAD
 
 
 Weather 
@@ -115,6 +188,31 @@ Weather
 78°
 
 
+=======
+US edition
+
+
+
+
+switch to the 
+UK edition
+
+
+
+
+switch to the 
+Australia edition
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+switch to the 
+International
+beta
+>>>>>>> origin/master
 
 
 
@@ -125,23 +223,28 @@ Weather
 
 
 
-
-
-
-
+<<<<<<< HEAD
 78°
+=======
+The Guardian
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 Low 
 64°
 
 
 High 
 85°
+=======
+
+
+>>>>>>> origin/master
 
 
 
@@ -150,16 +253,27 @@ High
 
 
 
+<<<<<<< HEAD
 
 
 
 
 Sat
+=======
+home
+
+
+›
+US
+
+
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 					64° 
  87°
 					
@@ -171,17 +285,34 @@ Sat
 
 Sun
 
+=======
+
+
+
+home
 
 
 
 
+US
+selected
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 					66° 
  88°
 					
+=======
+world
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 Mon
@@ -194,47 +325,100 @@ Mon
  88°
 					
 
+=======
+opinion
 
 
 
 
+sports
+
+
+
+
+soccer
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 See complete forecast
 
 
 
+=======
+tech
 
 
 
 
-
-
-
- 
-
-
+arts
+>>>>>>> origin/master
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 
 
 
  
 
+=======
+lifestyle
+
+
+
+
+fashion
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+business
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+travel
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+environment
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+science
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
+ 
+
+=======
+
+browse all sections
+close
+>>>>>>> origin/master
 
 
 
@@ -243,6 +427,10 @@ See complete forecast
 
 
 
+<<<<<<< HEAD
+=======
+ 
+>>>>>>> origin/master
 
 
 
@@ -250,11 +438,15 @@ See complete forecast
 
 
 
+<<<<<<< HEAD
 Police in Greensboro investigate overnight shooting
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Posted 9:51 am, August 15, 2015, by 
 Web Staff
  
@@ -269,6 +461,14 @@ Pinterest
 Reddit
 Email
  
+=======
+Charleston shooting
+
+
+
+Charleston shooting: Emanuel AME church reopens for first service
+
+>>>>>>> origin/master
 
 
 
@@ -278,8 +478,14 @@ Email
 
 
 
+<<<<<<< HEAD
 
  
+=======
+First service at church held as authorities investigate website 
+Opening follows Columbia rally against Confederate flag
+
+>>>>>>> origin/master
 
 
 
@@ -288,23 +494,36 @@ Email
 
 
 
+<<<<<<< HEAD
 ×
 
 
 Police in Greensboro investigate overnight shooting
+=======
+
+
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
  
 
 
+=======
+
+
+Parishioners mourn inside the Emanuel African Methodist Episcopal (AME) Church in Charleston, South Carolina.
+Photograph: DAVID GOLDMAN / POOL/EPA
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 GREENSBORO, N.C. — Police are investigating after one person was shot in the 3000 block of Greensboro early Saturday morning.
 
 
@@ -326,6 +545,16 @@ The investigation is ongoing. Anyone with any information can call Greensboro po
 
 
 -79.742974
+=======
+Paul Lewis in Charleston, 
+Amanda Holpuch in Columbia and
+Jessica Glenza in New York
+
+
+Sunday 21 June 2015 10.07 EDT
+
+
+Last modified on Sunday 21 June 2015 11.46 EDT
 
 
 
@@ -333,6 +562,19 @@ The investigation is ongoing. Anyone with any information can call Greensboro po
 
 
 
+Share on Facebook
+
+
+
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+Share on Twitter
+>>>>>>> origin/master
 
 
 
@@ -340,10 +582,18 @@ The investigation is ongoing. Anyone with any information can call Greensboro po
 
 
 
+<<<<<<< HEAD
+=======
+Share via Email
+>>>>>>> origin/master
 
 
 
 
+
+
+
+<<<<<<< HEAD
 
 
 Filed in:
@@ -354,20 +604,35 @@ Topics:
  
 shooting
  
+=======
+Share on Pinterest
+
+
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
+=======
+Share on LinkedIn
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 ×
 
 
 Report a Typo
+=======
+
+
+Share on Google+
+>>>>>>> origin/master
 
 
 
@@ -375,13 +640,20 @@ Report a Typo
 
 
 
+<<<<<<< HEAD
+=======
+Share on WhatsApp
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 Name
 (required)
+=======
+>>>>>>> origin/master
 
 
 
@@ -390,8 +662,35 @@ Name
 
 
 
+<<<<<<< HEAD
 Typo
 (required)
+=======
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
+
+=======
+ Related: What happened at the Charleston, South Carolina, church shooting? 
+
+The South Carolina church where nine people died in a gun attack by an alleged white supremacist less than a week ago reopened to worshippers on Sunday.
+Worshippers attended the first service at Charleston’s historic Emanuel African Methodist Episcopal church since Wednesday, when Dylann Roof, 21, is alleged to have pulled a gun on members of a Bible study group. The church pastor, the Reverend Clementa Pinckney, a state senator, was among the nine people who were killed.
+Uniformed police officers were posted on both levels of the sanctuary. The service began with prayer and songs and a message of love, recovery and healing. The proceedings then became more solemn as the victims’ names were read and the music’s tempo slowed.
+At 10am, church bells rang out across Charleston, which is known as the “Holy City”.
+“We still believe that prayer changes things. Can I get a witness?” the Reverend Norvel Goff said, to which the congregated responded “Yes.”
+“But prayer not only changes things, it changes us,” he said.
+“It’s been rough,” Goff said of the days since the shooting. “We some of us have been downright angry But through it all, God has sustained us and encouraged us. Let us not grow weary.”
+Goff vowed that he and others would “pursue justice and we’re going to be vigilant and we are going to hold our elected officials accountable to do the right thing”.
+Despite the grim circumstances the congregation had faced, the welcoming spirit Roof exploited before the shooting was still alive, church members said.
+On Saturday, Harold Washington, 75, said he expected the sanctuary to host many newcomers after the shooting shattered the group’s sense of peace and security.
+“We’re gonna have people come by that we’ve never seen before and will probably never see again, and that’s OK,” he said. “It’s a church of the Lord, you don’t turn nobody down.”
+Also on Saturday, authorities said they were investigating a website that contained a racist manifesto apparently written by Roof, who is white. All nine people who died were black. The provenance of the website, which contained a cache of photographs of the 21-year-old in which he was seen holding a pistol or standing beside the Confederate flag, was unclear.
+As news of the website emerged, hundreds of people rallied at South Carolina’s state house in Columbia on Saturday night to demand that lawmakers remove the Confederate flag from its grounds.
+>>>>>>> origin/master
 
 
 
@@ -400,12 +699,7 @@ Typo
 
 
 
-
-
-
-
-
-
+<<<<<<< HEAD
 
 
 
@@ -426,26 +720,103 @@ Cancel
 
 
 
+=======
+    Sorry, your browser is unable to play this video. 
+
+
+
+ Facebook 
+ Twitter 
+ Pinterest 
+
+
+Protesters in South Carolina call for removal of Confederate flag
+
+
+
+ Related: The Charleston shooting victims: a poet, a politician, a librarian, women of faith 
+
+In the wake of the shooting, prominent Republicans and Democrats have called for the flag – to many, a potent symbol of America’s racist past – to be taken down. Former Republican presidential candidate Mitt Romney added his voice to the calls on Saturday. President Barack Obama said on Friday that the flag deserved to be in a museum, not flying in the state capital.
+At the rally in Columbia, Stephanie Bradley, a black woman and mother of three young children, told the Guardian that because of the shooting she had to explain to them for the first time what the Confederate flag meant.
+To her the flag has always immediately brought to mind racism inflicted on black people throughout the course of US history. 
+“I see the KKK, I see burning crosses, I see burning churches, I see raping, lynching, I see all of that,” she said.
+On Sunday, events to show solidarity with the victims were planned throughout the city and beyond, including the synchronised ringing of church bells at 10am ET (1400 GMT). South Carolina’s governor, Nikki Haley, and her family were to attend the service at Emanuel.
+The investigation into the shooting was continuing. In a statement, the FBI said it was investigating the website apparently written by Roof. “Charleston police and the Federal Bureau of Investigation are aware of postings on a website allegedly attributed to Dylann Roof, the suspect in the 17 June 2015 shootings at Emanuel AME Church … We are taking steps to verify the authenticity of these postings.
+
+
+
+ Facebook 
+ Twitter 
+ Pinterest 
+
+
+The Reverend Norvel Goff speaks inside the Emanuel African Methodist Episcopal Church in Charleston. Photograph: David Goldman/Pool/EPA
+
+
+
+ Related: Charleston shooting suspect Dylann Roof 'wanted to ignite civil war' 
+
+“Because this is an ongoing investigation, neither the Charleston police nor the Federal Bureau of Investigation are able to release further details at this time.”
+The site began circulating on the internet on Saturday. It contains a 2,444-word statement that, if penned by Roof, would shed light on the racist ideology that led him to the Emanuel AME church in Charleston on Wednesday.
+The accompanying photographs reveal that Roof toured historical sites across South Carolina that have links to the civil war era and slavery, including graveyards and plantation sites.
+However, data encoded into the images, which may have provided clues as to when they were taken, appears to be unreliable.
+The website was created in February by a registrant who listed his or her name as Dylann Roof. Under a section entitled “An Explanation”, the website appears to allude to the forthcoming massacre.
+“I have no choice,” it states. “I am not in the position to, alone, go into the ghetto and fight. I chose Charleston because it is most historic city in my state, and at one time had the highest ratio of blacks to whites in the country.”
+The statement adds: “We have no skinheads, no real KKK, no one doing anything but talking on the internet. Well someone has to have the bravery to take it to the real world, and I guess that has to be me.”
+Roof’s former stepmother, meanwhile, said the 21-year-old had been affected by “internet evil”.
+“He was locked in his room looking up bad stuff on his computer,” Paige Mann, who is divorced from Roof’s father, told NBC News. “Something on the computer drew him in – this is internet evil.”
+The Associated Press contributed to this report.
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+
+
+
+=======
+More news 
+Topics
+
+
+
+Charleston shooting
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+US crime
+>>>>>>> origin/master
 
 
 
 
-
-
-
+<<<<<<< HEAD
 
 
 
  
 
+=======
+Gun crime
+
+
+
+
+South Carolina
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+Race issues
+>>>>>>> origin/master
 
 
 
@@ -455,14 +826,26 @@ Cancel
 
 
 
-
-
-
-
+<<<<<<< HEAD
 You Decide 2016
 
 
 FOX8’s comprehensive election coverage
+=======
+
+Share on Facebook
+
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+Share on Twitter
+>>>>>>> origin/master
 
 
 
@@ -470,29 +853,39 @@ FOX8’s comprehensive election coverage
 
 
 
-
-
-
-
-
-
+<<<<<<< HEAD
 
 
 
  
+=======
+Share via Email
+
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
  
+=======
+Share on Pinterest
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 Popular
 
+=======
+
+Share on LinkedIn
+>>>>>>> origin/master
 
 
 
@@ -500,7 +893,11 @@ Popular
 
 
 
+<<<<<<< HEAD
 After shooting, Virginia gunman details grievances in ‘suicide note’ faxed to ABC News
+=======
+Share on Google+
+>>>>>>> origin/master
 
 
 
@@ -508,8 +905,13 @@ After shooting, Virginia gunman details grievances in ‘suicide note’ faxed t
 
 
 
+<<<<<<< HEAD
 
 Va. shooter posted tweets, video of shooting on social media
+=======
+Share on WhatsApp
+
+>>>>>>> origin/master
 
 
 
@@ -518,7 +920,10 @@ Va. shooter posted tweets, video of shooting on social media
 
 
 
+<<<<<<< HEAD
 Va. reporter, photographer killed on-air during live news interview, shooter kills himself
+=======
+>>>>>>> origin/master
 
 
 
@@ -527,7 +932,10 @@ Va. reporter, photographer killed on-air during live news interview, shooter kil
 
 
 
+<<<<<<< HEAD
 Iowa teachers sing ‘One Day More’ before students return to school — and it’s awesome
+=======
+>>>>>>> origin/master
 
 
 
@@ -539,11 +947,17 @@ Iowa teachers sing ‘One Day More’ before students return to school — and i
 
 
 
+<<<<<<< HEAD
+=======
+View all comments >
+
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
  
 
 
@@ -552,21 +966,46 @@ Iowa teachers sing ‘One Day More’ before students return to school — and i
 
 
 Latest News
+=======
+
+comments 
+Sign in
+or create your Guardian account to join the discussion.
+
+This discussion is closed for comments.
+
+We’re doing some maintenance right now. You can still read comments, but please come back later to add your own.
+
+
+Commenting has been disabled for this account (why?)
+
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 
 
 Middle school teacher welcomes students back to magical Harry Potter-themed classroom
 
 
+=======
+Order by 
+
+
+newest
+
+
+oldest
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 Greesnsboro police searching for man who exposed himself in front of children at Lawndale Target
@@ -588,11 +1027,51 @@ Father allegedly robs bank to pay for daughter’s chemotherapy
 
 
 Calif. man bitten while taking selfie with rattlesnake
+=======
+Show 25
+
+
+25
+
+
+50
+
+
+100
+
+
+All
+
+
+
+
+Threads 
+
+
+collapsed
+
+
+expanded
+
+
+unthreaded
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
+=======
+Loading comments… Trouble loading?
+
+
+
+
+View more comments
+
+
+>>>>>>> origin/master
 
 
 
@@ -610,6 +1089,10 @@ Calif. man bitten while taking selfie with rattlesnake
 
 
 
+<<<<<<< HEAD
+=======
+popular
+>>>>>>> origin/master
 
 
 
@@ -622,46 +1105,75 @@ Calif. man bitten while taking selfie with rattlesnake
 
 
 
+<<<<<<< HEAD
+=======
+ 
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 News
 
 
 
 
 Two injured after shooting at Greensboro home
+=======
+
+
+
+The Guardian
+
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 News
 
 
 
 
 Man arranges meeting to sell shoes in Greensboro, gets shot and injured
+=======
+
+back to top
+
+
+
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 News
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Greensboro police identify person killed in shooting at apartment complex
 
+=======
+
+home
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 News
 
@@ -682,19 +1194,53 @@ News
 
 Gunshot wound victim found lying in Greensboro intersection
 
+=======
+US
+selected
 
 
 
 
+world
+
+
+
+
+opinion
+
+
+
+
+sports
+
+
+
+
+soccer
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
  
 
+=======
+tech
 
 
 
 
+arts
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 News
 
@@ -715,23 +1261,59 @@ News
 
 One person injured in shooting reported on South Holden Road in Greensboro
 
+=======
+lifestyle
 
 
 
 
+fashion
+
+
+
+
+business
+
+
+
+
+travel
+
+
+
+
+environment
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 News
+=======
+science
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Greensboro man arrested in Fourth of July shooting
 
 
+=======
+
+
+all sections
+close
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 News
 
 
@@ -751,19 +1333,51 @@ News
 
 Two men shot near Greensboro motel, both taken to hospital with injuries
 
+=======
+
+
+
+home
 
 
 
 
+US
+selected
+
+
+
+
+world
+
+
+
+
+UK
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
  
 
+=======
+europe
 
 
 
 
+americas
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 News
 
@@ -784,43 +1398,98 @@ News
 
 911 calls give few clues to Greensboro shooting
 
+=======
+asia
 
 
 
 
+middle east
+
+
+
+
+africa
+
+
+
+
+australia
+
+
+
+
+cities
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 News
+=======
+development
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 2 men shot in fight on MLK Jr Drive in Greensboro
 
+=======
+
+opinion
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+sports
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+soccer
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
  
 
 
 
+=======
+MLS
 
 
 
 
+NFL
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+MLB
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 Mobile Apps
 Android App
@@ -836,10 +1505,26 @@ iPhone & iPad App
 
 
 
+=======
+NBA
 
 
 
 
+NHL
+
+
+
+
+
+
+soccer
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
@@ -857,20 +1542,47 @@ Pinterest
 
 About & Contact
 
+=======
+live scores
+
+
+
+
+tables
+
+
+
+
+competitions
+
+
+
+
+results
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+fixtures
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+clubs
+>>>>>>> origin/master
 
 
 
 
 
 
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 
 Online Public File
  • 				
@@ -889,137 +1601,259 @@ A Tribune Broadcasting Station
 		Powered by 
 WordPress.com VIP
  
+=======
+tech
 
 
 
 
+arts
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+movies
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+tv & radio
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 ×
 
 
 Email Alerts
 
 
+=======
+music
+
+
+
+
+games
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+books
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+art & design
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+stage
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+classical
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+lifestyle
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+food
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+health & fitness
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+love & sex
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+family
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+women
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+home & garden
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+fashion
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+business
+>>>>>>> origin/master
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 Follow
+=======
+economics
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Follow “myfox8.com”
+=======
+sustainable business
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Get every new post delivered to your Inbox.
+=======
+diversity & equality in business
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Join 54,924 other followers
+=======
+small business
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+travel
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+USA
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+europe
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Build a website with WordPress.com
+=======
+UK
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+environment
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+climate change
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+wildlife
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 Send to Email Address
@@ -1028,23 +1862,46 @@ Send to Email Address
 
 
 Your Name
+=======
+energy
 
 
 
 
+pollution
+
+
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Your Email Address
+=======
+science
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+media
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+crosswords
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 Cancel
@@ -1060,6 +1917,74 @@ Cancel
 
 
 				Sorry, your blog cannot share posts by email.			
+=======
+video
+
+
+
+
+
+
+
+
+
+
+
+US News
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+›
+Charleston shooting
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+
+
+
+
+
+
+
+
+
+
+=======
+jobs
+
+subscribe
+all topics
+all contributors
+
+
+report technical issue
+
+
+
+about us
+
+contact us
+
+complaints & corrections
+terms & conditions
+privacy policy
+cookie policy
+securedrop
+
+
+© 2015 Guardian News and Media Limited or its affiliated companies. All rights reserved.
+>>>>>>> origin/master
 
 
 
@@ -1075,25 +2000,10 @@ Cancel
 
 
 
+<<<<<<< HEAD
+=======
 
 
+ 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+>>>>>>> origin/master

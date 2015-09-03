@@ -1,7 +1,16 @@
+<<<<<<< HEAD
 Dylann Storm Roof arrested in North Carolina, according to report | FOX2now.com 
 
 
 Dylann Storm Roof arrested in North Carolina, according to report | FOX2now.com
+=======
+
+	Shooting erupts at church in Charleston, South Carolina - Breaking News - Jerusalem Post
+
+
+	Shooting erupts at church in Charleston, South Carolina - Breaking News - Jerusalem Post
+
+>>>>>>> origin/master
 
 
 
@@ -16,8 +25,11 @@ Dylann Storm Roof arrested in North Carolina, according to report | FOX2now.com
 
 
 
+<<<<<<< HEAD
 Go
 Search
+=======
+>>>>>>> origin/master
 
 
 
@@ -34,22 +46,34 @@ Search
 
 
 
+<<<<<<< HEAD
  Watch Now: 
 FOX 2 News  
 
 
 
 FOX 2 TV Schedule 
+=======
+
+
+
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
  Search
 
 
  Contact Us
+=======
+
+Follow
+
+>>>>>>> origin/master
 
 
 
@@ -58,6 +82,7 @@ FOX 2 TV Schedule
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -121,6 +146,60 @@ Weather
 
 
 
+=======
+CHANNELS: 
+
+
+Front Page  
+
+
+Breaking news  
+
+
+Israel News  
+
+
+Arab-Israeli Conflict  
+
+
+Diaspora  
+
+
+Middle East  
+
+
+Opinion  
+
+
+Not Just News  
+
+
+Christian News  
+
+
+ALIYAH WITH Nefesh B’Nefesh   
+
+
+Green Israel  
+
+
+Jerusalem Report  
+
+
+Magazine  
+
+
+In Jerusalem  
+
+
+Metro  
+
+
+Experts  
+
+
+Ivrit  
+>>>>>>> origin/master
 
 
 
@@ -129,12 +208,18 @@ Weather
 
 
 
+<<<<<<< HEAD
 77°
 
+=======
+
+Israel News
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 Low 
 66°
@@ -144,29 +229,51 @@ High
 84°
 
 
+=======
+Politics & Diplomacy
 
 
 
 
 
+With looming budget cuts, Kahlon, haredim clash over promises
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
+=======
+Ariel pulls Prawer bill from Knesset discussion as Joint List threatens 'war'
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
 Sat
+=======
+Yesh Atid files suit against Netanyahu
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 					65° 
  87°
 					
+=======
+Ministers move Begin’s ‘Jewish State bill’ to another ministerial committee
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 Sun
@@ -236,25 +343,59 @@ See complete forecast
  
 
 
+=======
+Culture
 
 
 
 
 
+Israeli filmmakers explore Internet addiction in China
 
 
 
 
 
+Concert Review: Mashina
 
 
 
 
+
+Irish dance competition canceled due to BDS pressure
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
+=======
+John Turturro does the right thing in Jerusalem
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+Sports
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
 Dylann Storm Roof arrested in North Carolina, according to report
+=======
+Philip Stein’s Sox repeat as softball champions
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Posted 7:53 am, June 18, 2015, by 
 CNN Wires
  and 
@@ -275,6 +416,25 @@ Email
  
 
 
+=======
+
+Beersheba brings in Radi; Beitar preps for Charleroi
+
+
+
+
+
+Yellow-and-blue continues overhaul with Brazilian Faverani
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
+=======
+Maccabi Tel Aviv, Hapoel Jerusalem learn fates in European draws
+>>>>>>> origin/master
 
 
 
@@ -282,11 +442,7 @@ Email
 
 
 
-
-
-
-
-
+<<<<<<< HEAD
 CHARLESTON, S.C. — Dylann Roof, 21, of Lexington, South Carolina, is the suspect in Wednesday’s deadly shooting at the Emanuel AME Church in Charleston, the Charleston police said Thursday. He may be driving a black Hyundai with vehicle tag LGF330, police said.
 
 
@@ -354,6 +510,39 @@ Wednesday night’s attack at the Emanuel African Methodist Episcopal Church is 
 
 
 UPDATES:
+=======
+
+
+
+
+Israeli filmmakers explore Internet addiction in China
+
+
+
+
+
+With looming budget cuts, Kahlon, haredim clash over promises
+
+
+
+
+
+Philip Stein’s Sox repeat as softball champions
+
+
+
+
+
+Beersheba brings in Radi; Beitar preps for Charleroi
+
+
+
+
+
+
+
+
+Arab-Israeli Conflict
 
 
 
@@ -363,6 +552,30 @@ UPDATES:
 
 
 
+
+
+
+
+
+
+
+PA leader forms committee to investigate possible crimes by Israel in last year's conflict
+
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+Terrorist who ran down 4 Border Police officers, civilian, sentenced to 25 years in prison
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
 
 Joe Millitzer
 
@@ -371,11 +584,21 @@ June 18, 2015
 11:20 am
 
 
+=======
+Video: B'tselem releases footage of IDF commander shooting Palestinian stone-thrower
 
 
 
 
 
+Security officials: Rocket alert sirens in North likely false alarm
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
 
 
 
@@ -391,6 +614,18 @@ June 18, 2015
 
 
 
+=======
+IDF 'heavily involved' in Israeli efforts to reach long-term arrangement with Hamas
+
+
+
+
+
+
+
+
+Diaspora
+>>>>>>> origin/master
 
 
 
@@ -402,6 +637,7 @@ June 18, 2015
 
 
 
+<<<<<<< HEAD
 Joe Millitzer
 
 
@@ -410,11 +646,20 @@ June 18, 2015
 
 
 
+=======
 
 
 
 
 
+NY governor vetoes bill to block haredi annexation of land
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
 
 
 Here's the scene from Shelby where Roof was captured, courtesy 
@@ -428,16 +673,30 @@ pic.twitter.com/IIRy5wTBPj
 — CS Tyson (@SamInteractive) 
 June 18, 2015
 
+=======
+Hate mail won’t stop Mayim Bialik: ‘Coming to Israel is a political act’
 
 
 
 
 
+Jewish organizations call on Samsung to denounce accusations of Jewish cabal blocking deal
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
+=======
+Ambassador to Germany slams al-Quds day protest in Berlin
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
 
 
 
@@ -449,6 +708,8 @@ June 18, 2015
 
 
 
+=======
+France jails Islamic group leader after raids reveal plans targeting Jews
 
 
 
@@ -456,12 +717,27 @@ June 18, 2015
 
 
 
+
+Middle East
+>>>>>>> origin/master
+
+
+
+
+
+
+
+<<<<<<< HEAD
 Amazing Grace being sung by 200 people outside Morris Brown AME Church 
 pic.twitter.com/gsjXcpQxdg
 
 
 — schuyler kropf (@skropf47) 
 June 18, 2015
+=======
+
+
+>>>>>>> origin/master
 
 
 
@@ -469,11 +745,16 @@ June 18, 2015
 
 
 
+<<<<<<< HEAD
+=======
+Analysis: It took three decades, but in 10 years Iran will be able to run, not sneak, to A-bomb
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 
 
 Joe Millitzer
@@ -482,15 +763,29 @@ Joe Millitzer
 June 18, 2015
 11:16 am
 
+=======
+US considering drones in North Africa to monitor Islamic State
 
 
 
 
 
+Senators warn Kerry of 'hard sell' at home over Iran nuclear deal
+>>>>>>> origin/master
 
 
 
 
+
+<<<<<<< HEAD
+=======
+Nobel winner Malala opens school for Syrian refugees
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Subject arrested in 
 #Charleston
  shooting. Our sincere thanks to the public and our law enforcement partners.
@@ -498,6 +793,11 @@ Subject arrested in
 
 — FBI (@FBI) 
 June 18, 2015
+=======
+
+Kosovo cuts off water to thousands after police arrest three in ISIS poison 'plot'
+
+>>>>>>> origin/master
 
 
 
@@ -505,10 +805,15 @@ June 18, 2015
 
 
 
+<<<<<<< HEAD
+=======
+Business & Innovation
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -517,21 +822,39 @@ Joe Millitzer
 
 June 18, 2015
 11:15 am
+=======
+Health & Science
 
 
 
 
 
+BGU researchers communicate with Inca-style knots
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
+=======
+Studying for finals? Involve more senses for optimal recall
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
+=======
+Advice for parents: If the school bag and shoe fit, wear them
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
 
 
 
@@ -540,15 +863,29 @@ Danielle Scruggs
 
 June 18, 2015
 11:09 am
+=======
+Don’t wake the sleeping virus
+
+
+
+
+Environment
+
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+COP-21 climate agreement must be seen as ‘in the interest’ of the people, expert says
+>>>>>>> origin/master
 
 
 
 
 
-
-
-
-
+<<<<<<< HEAD
 
 Official: Dylann Roof's dad bought him a 45-caliber gun for his 21st birthday, which was on April 3. 
 http://t.co/4Z8oXzQP3K
@@ -558,15 +895,29 @@ http://t.co/4Z8oXzQP3K
 June 18, 2015
 
 
+=======
+Transportation Ministry to build 150-km. bike path 'autostrada' network in Gush Dan
 
 
 
 
 
+Agriculture minister calls for camera installations at all slaughterhouses
+>>>>>>> origin/master
 
 
 
 
+
+<<<<<<< HEAD
+=======
+Environment Ministry indicts three Israel Oil Refineries factories
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
@@ -575,16 +926,30 @@ Danielle Scruggs
 
 June 18, 2015
 11:08 am
+=======
+Tech
 
 
 
 
 
+New Iranian video game lets players shoot missiles at Israel
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
+=======
+Scientists call to cancel biometric ID system
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
 “We don’t have any reason to believe there was anybody else involved,” police chief says on 
 #CharlestonShooting
  
@@ -596,6 +961,15 @@ June 18, 2015
 
 
 
+=======
+TAU collaborates with IATA on aviation technology and security
+
+
+
+
+
+Google's Waze to start carpooling pilot program in Israel
+>>>>>>> origin/master
 
 
 
@@ -607,6 +981,7 @@ June 18, 2015
 
 
 
+<<<<<<< HEAD
 Danielle Scruggs
 
 
@@ -615,11 +990,21 @@ June 18, 2015
 
 
 
+=======
+Ariel presents reforms to reduce food prices
 
 
 
 
 
+COP-21 climate agreement must be seen as ‘in the interest’ of the people, expert says
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
 
 
 #CharlestonShooting
@@ -630,6 +1015,15 @@ http://t.co/4Z8oXzQP3K
 — CNN Breaking News (@cnnbrk) 
 June 18, 2015
 
+=======
+Transportation Ministry to build 150-km. bike path 'autostrada' network in Gush Dan
+
+
+
+
+
+BGU researchers communicate with Inca-style knots
+>>>>>>> origin/master
 
 
 
@@ -638,16 +1032,25 @@ June 18, 2015
 
 
 
+<<<<<<< HEAD
+=======
+Opinion
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 Danielle Scruggs
 
 
 June 18, 2015
 11:00 am
+=======
+
+
+>>>>>>> origin/master
 
 
 
@@ -657,6 +1060,7 @@ June 18, 2015
 
 
 
+<<<<<<< HEAD
 
 Gov. 
 @nikkihaley
@@ -668,16 +1072,30 @@ pic.twitter.com/Zl8TpfvP0Y
 June 18, 2015
 
 
+=======
+No to another Schalit deal
 
 
 
 
 
+July 13: Civil unions
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
+=======
+Think About It: Deputy ministers and ministers
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
 
 
 Danielle Scruggs
@@ -686,6 +1104,15 @@ Danielle Scruggs
 June 18, 2015
 11:00 am
 
+=======
+Reality Check: Apologizing is also heroic behavior
+
+
+
+
+
+Israeli deterrence in the eye of the hurricane
+>>>>>>> origin/master
 
 
 
@@ -694,6 +1121,7 @@ June 18, 2015
 
 
 
+<<<<<<< HEAD
 
 Charleston police chief says shooting suspect was cooperative with officer who stopped him: 
 http://t.co/yc9CEU2GQ6
@@ -704,33 +1132,60 @@ http://t.co/yc9CEU2GQ6
 — Reuters Top News (@Reuters) 
 June 18, 2015
 
+=======
+Premium
+
+
+
+
+Jpost Epaper
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+The Jerusalem Report
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
+=======
+The People and the Book: People of the tent
+>>>>>>> origin/master
 
 
 
 
-
-
-
-
+<<<<<<< HEAD
 Danielle Scruggs
 
 
 June 18, 2015
 10:59 am
+=======
+
+Necessary Stories: Icks factor
+
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+Crossing Death Valley
+>>>>>>> origin/master
 
 
 
 
 
-
-
-
-
+<<<<<<< HEAD
 
 Gov. 
 @nikkihaley
@@ -743,16 +1198,29 @@ pic.twitter.com/MewjmVFH3Z
 — FOX Business (@FoxBusiness) 
 June 18, 2015
 
+=======
+The reborn Jews of Indonesia
+
+
+
+
+Magazine
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
+=======
+Restoring a Jewish grandfather’s legacy
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -761,15 +1229,29 @@ Danielle Scruggs
 
 June 18, 2015
 10:56 am
+=======
+The Tisch: What we don't know
 
 
 
 
 
+Don't believe everything you read
+>>>>>>> origin/master
 
 
 
 
+
+<<<<<<< HEAD
+=======
+Armed struggle
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 .
 @nikkihaley
@@ -783,16 +1265,30 @@ pic.twitter.com/92R7h4INRO
 June 18, 2015
 
 
+=======
+In Jerusalem
 
 
 
 
 
+Ariel's wordplay
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
+=======
+This week in Jerusalem
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
 
 
 Danielle Scruggs
@@ -801,23 +1297,42 @@ Danielle Scruggs
 June 18, 2015
 10:54 am
 
+=======
+Winds of change
 
 
 
 
+
+Spreading the good word
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 President Obama to deliver statement about 
 #
 CharlestonShooting
+=======
+Metro
+
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+Star Catcher: Astrology for the week of July 10, 2015
+>>>>>>> origin/master
 
 
 
 
 
-
-
-
-
+<<<<<<< HEAD
 
 
 
@@ -826,15 +1341,29 @@ Danielle Scruggs
 
 June 18, 2015
 10:54 am
+=======
+Grapevine: An Eyal Golan fan
 
 
 
 
 
+The cat, the Rav-Kav and Jewish values
+>>>>>>> origin/master
 
 
 
 
+
+<<<<<<< HEAD
+=======
+Three Ladies, Three Lattes: Driving to shul
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 JUST IN: 
 #CharlestonShooting
@@ -848,16 +1377,30 @@ pic.twitter.com/bbcHL4XZ9K
 June 18, 2015
 
 
+=======
+IVRIT
 
 
 
 
 
+מִשִירֵי רָחֵל: אֶל אַרְצִי
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
+=======
+מִתְנַדְבִים מִיִשְׂרָאֵל
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
 
 
 Danielle Scruggs
@@ -866,6 +1409,15 @@ Danielle Scruggs
 June 18, 2015
 10:53 am
 
+=======
+שִירַת רַבִּים 3
+
+
+
+
+
+‘נְתִיבֵי יִשְׂרָאֵל’
+>>>>>>> origin/master
 
 
 
@@ -875,6 +1427,7 @@ June 18, 2015
 
 
 
+<<<<<<< HEAD
 This photo is excruciating. 
 #CharlestonShooting
  
@@ -883,25 +1436,44 @@ pic.twitter.com/WomxMbydyG
 
 — Yamiche Alcindor (@Yamiche) 
 June 18, 2015
+=======
+
+
+The path to aliya- Indian style
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
+=======
+The journey of Ukraine’s embattled Jews to Israel
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
+=======
+A historic win, but no slam dunk
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Danielle Scruggs
 
 
 June 18, 2015
 10:52 am
+=======
+
+Art is for everyone, everywhere
+
+>>>>>>> origin/master
 
 
 
@@ -909,6 +1481,7 @@ June 18, 2015
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -918,6 +1491,14 @@ pic.twitter.com/jPiFwm69nd
 
 — Fox News (@FoxNews) 
 June 18, 2015
+=======
+Blogs
+
+
+
+
+
+>>>>>>> origin/master
 
 
 
@@ -929,6 +1510,7 @@ June 18, 2015
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -937,16 +1519,30 @@ Danielle Scruggs
 
 June 18, 2015
 10:49 am
+=======
+Don't Give Up
 
 
 
 
 
+Matot: Jewish Custom
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
+=======
+Why and How The Israel Philharmonic Orchestra
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
 BREAKING: Suspect in church shooting was arrested in North Carolina traffic stop, police chief says.
 
 
@@ -955,6 +1551,15 @@ June 18, 2015
 
 
 
+=======
+Why and How The Israel Philharmonic Orchestra
+
+
+
+
+
+Letters to a Lost Soldier - Bombing Japan in July, 1945
+>>>>>>> origin/master
 
 
 
@@ -963,6 +1568,7 @@ June 18, 2015
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -971,6 +1577,14 @@ Danielle Scruggs
 
 June 18, 2015
 10:49 am
+=======
+Christian News
+
+
+
+
+
+>>>>>>> origin/master
 
 
 
@@ -981,26 +1595,41 @@ June 18, 2015
 
 
 
+<<<<<<< HEAD
 Official: Dylann Roof was carrying a gun when arrested in Shelby, N.C. 
 http://t.co/gs33ynIIs5
 
 
 — CNN Breaking News (@cnnbrk) 
 June 18, 2015
+=======
+
+Three youths arrested on suspicion of setting Galilee church on fire
+
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+Pope decries Capitalism, calls against sacrificing humans 'on the altar of money'
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
+=======
+Pope Francis demands end to 'genocide' of Middle East Christians
+>>>>>>> origin/master
 
 
 
 
 
-
-
-
-
+<<<<<<< HEAD
 Danielle Scruggs
 
 
@@ -1009,6 +1638,15 @@ June 18, 2015
 
 
 
+=======
+Knesset denies tax benefits to Messianic Jewish NGO
+
+
+
+
+
+Pope Francis to leave for South America in 'homecoming' trip
+>>>>>>> origin/master
 
 
 
@@ -1016,6 +1654,7 @@ June 18, 2015
 
 
 
+<<<<<<< HEAD
 MORE: 
 #CharlestonShooting
  suspect arrested twice and was jailed in March, according to report. 
@@ -1029,16 +1668,30 @@ June 18, 2015
 
 
 
+=======
+
+Green Israel
+
+
+
+
+Community
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
+=======
+New Hadid Single Dedicated in Ben Shemen Forest
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 
 Joe Millitzer
 
@@ -1047,11 +1700,21 @@ June 18, 2015
 10:27 am
 
 
+=======
+Eucalyptus Park in Beit Shean Inaugurated
 
 
 
 
 
+Tranquil Weekend in Nes Harim for Gaza Border Families
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
 
 
 
@@ -1064,20 +1727,38 @@ Attorney for
 
 — Stacy Jacobson (@StacyJacobsonTV) 
 June 18, 2015
+=======
+Australian and Israeli Teenagers Meet in Merhav Am
+
+
+
+
+International Cooperation
+
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+Italy’s National Day at EXPO 2015
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
+=======
+The Ambassadors’ Club of Israel Tours the Galilee with KKL-JNF
+>>>>>>> origin/master
 
 
 
 
 
-
-
-
-
+<<<<<<< HEAD
 Joe Millitzer
 
 
@@ -1086,10 +1767,20 @@ June 18, 2015
 
 
 
+=======
+The International Solidarity Mission Says Goodbye in Jerusalem
 
 
 
 
+
+Chinese Ambassador Visits the Israel-China Friendship Fores
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
@@ -1099,20 +1790,38 @@ Lots of reports of an arrest, we’re still waiting on confirmation.
 
 — Jason Emory Parker (@jaspar) 
 June 18, 2015
+=======
+Ecology
 
 
 
 
 
+New Bio-filters Purify Surface Runoff Water for Reuse
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
+=======
+Future Tour Guides Discover the Negev with KKL-JNF
+>>>>>>> origin/master
 
 
 
 
+
+<<<<<<< HEAD
+=======
+The Shamir Drilling Project
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Joe Millitzer
 
 
@@ -1121,11 +1830,21 @@ June 18, 2015
 
 
 
+=======
+
+Graduation Ceremony for Rosh HaAyin’s Volunteer Firefighters
+
+
+
+
+KKL- JNF WorldWide
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 
 
 Mayor just arrived back at command post
@@ -1134,16 +1853,30 @@ Mayor just arrived back at command post
 — Christina Elmore (@celmorePC) 
 June 18, 2015
 
+=======
+$100 Million JNF Boruchin Israel Education Advocacy Center Opens
 
 
 
 
 
+JNF Canada Pays Tribute to the Honourable John Baird
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
+=======
+From Sunny Israel to Cold Canada
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
 
 
 
@@ -1152,15 +1885,29 @@ Joe Millitzer
 
 June 18, 2015
 10:25 am
+=======
+Walking for Water with KKL France in the Mountains of Eilat
+
+
+
+
+Innovative Research
+
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+LDA Conference: Science and Technology for Forests
+>>>>>>> origin/master
 
 
 
 
 
-
-
-
-
+<<<<<<< HEAD
 
 Presser expected in a few minutes. Follow on periscope for updates
 
@@ -1169,6 +1916,24 @@ Presser expected in a few minutes. Follow on periscope for updates
 June 18, 2015
 
 
+=======
+The Negev Conference on Agricultural Research and Development
+
+
+
+
+
+Arava Open Day: Food Security for Israel and the Entire World
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
+=======
+Living Green in Israel: the Contest and the Winners
+>>>>>>> origin/master
 
 
 
@@ -1176,11 +1941,7 @@ June 18, 2015
 
 
 
-
-
-
-
-
+<<<<<<< HEAD
 Joe Millitzer
 
 
@@ -1188,11 +1949,19 @@ June 18, 2015
 10:24 am
 
 
+=======
+
+
+
+
+LDA Conference: Science and Technology for Forests
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -1206,6 +1975,24 @@ pic.twitter.com/wSIjL20zOq
 
 — brenda rindge (@brindge) 
 June 18, 2015
+=======
+New Hadid Single Dedicated in Ben Shemen Forest
+
+
+
+
+
+Eucalyptus Park in Beit Shean Inaugurated
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
+=======
+Tranquil Weekend in Nes Harim for Gaza Border Families
+>>>>>>> origin/master
 
 
 
@@ -1214,11 +2001,7 @@ June 18, 2015
 
 
 
-
-
-
-
-
+<<<<<<< HEAD
 
 Joe Millitzer
 
@@ -1226,22 +2009,39 @@ Joe Millitzer
 June 18, 2015
 10:23 am
 
+=======
+Aliyah With NBN
+
+
+
+
+Oleh Spotlight
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 A senior law enforcement official confirmed to CNN the suspect has been taken into custody in North Carolina.
+=======
+An Olah Reports From Nepal
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
+=======
+How One Oleh is Helping to Transform the Way People Drink Water
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 
 
 Danielle Scruggs
@@ -1250,15 +2050,29 @@ Danielle Scruggs
 June 18, 2015
 10:22 am
 
+=======
+From Think Tank to Environmental Consultant
 
 
 
 
 
+Award Winning Designer Launches Career as Wedding Dressmaker
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+Working In Israel
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
 #BREAKING
 : Dylann Storm Roof has been caught in Shelby, NC 
 pic.twitter.com/TjQclkVCD5
@@ -1269,16 +2083,30 @@ June 18, 2015
 
 
 
+=======
+How Natalie Edwards Built a Successful Career in Israel’s Startup Industry
 
 
 
 
 
+5 Tips to Land a Job in Israel
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
+=======
+Starting Your Own Business in Israel: Real Life Examples
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
 
 Danielle Scruggs
 
@@ -1286,15 +2114,28 @@ Danielle Scruggs
 June 18, 2015
 10:17 am
 
+=======
+5 Strategies for Finding Your Professional Place in Israel
+
+
+
+
+Family Life
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
+=======
+36 Hours in Southern Israel
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 SUSPECT IN 
 #CharlestonChurchShooting
  caught in Shelby, NC. He's believed to have killed 9 ppl last night at a church 
@@ -1303,19 +2144,33 @@ pic.twitter.com/EZOKHYjMcU
 
 — Megan Rivers (@MegMRivers) 
 June 18, 2015
+=======
+
+Food Shopping In Israel
+
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+How Women Can Have it All in Israel
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
+=======
+The Eisenberg’s Long Journey Home
+>>>>>>> origin/master
 
 
 
 
-
-
-
-
+<<<<<<< HEAD
 
 Danielle Scruggs
 
@@ -1324,23 +2179,42 @@ June 18, 2015
 10:15 am
 
 
+=======
+Retiring In Israel
 
 
 
 
+
+Why Retirees are Thriving in Israel
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 BREAKING: 
 Roof has been captured in Shelby, NC
 
+=======
+
+Thanks to Aliyah video
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
+=======
+6 Frequently Asked Questions about Israeli Healthcare
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 
 Joe Millitzer
 
@@ -1348,33 +2222,60 @@ Joe Millitzer
 June 18, 2015
 10:15 am
 
+=======
+Starting Over in Israel
+
+
+
+
+Live Love Israel
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
+=======
+Sam Eisenberg: From Nativ to Aliyah
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 My brother says dylann often that talked about shooting up a school and then killing himself.
 
 
 — young pharaoh   (@BobTrillan) 
 June 18, 2015
+=======
+
+WATCH: Why Olim #LiveLoveIsrael
+
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+5 Ways that Olim Kick Back
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
+=======
+VIDEO: Are you ready for the South?
+>>>>>>> origin/master
 
 
 
 
-
-
-
-
+<<<<<<< HEAD
 
 Joe Millitzer
 
@@ -1383,23 +2284,43 @@ June 18, 2015
 10:15 am
 
 
+=======
+NBN News
 
 
 
 
+
+Make yourself at home… in Israel
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 The suspect’s uncle, Carson Cowles, 56, told Reuters that he recognized the man in the surveillance photo distributed by police as his nephew.
 
 
 “The more I look at him, the more I’m convinced, that’s him,” Carson Cowles, 56, told Reuters in a phone interview.
+=======
+
+NBN Announces Bonei Zion Prize Recipients for 2015
+
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+NefeshB’Nefesh Provides Services to Bnot Sherut
+>>>>>>> origin/master
 
 
 
 
 
-
-
-
-
+<<<<<<< HEAD
 
 
 
@@ -1408,12 +2329,21 @@ Danielle Scruggs
 
 June 18, 2015
 10:01 am
+=======
+How Doctors Are Impacting Israel’s South
+
+
+
+
+
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 Woman says Charleston shooter spared her to ‘tell everyone’ what happened
 
 
@@ -1421,29 +2351,52 @@ http://go.fox2now.com/1ImA2tq
 
 
 
+=======
+Sam Eisenberg: From Nativ to Aliyah
 
 
 
 
 
+How Natalie Edwards Built a Successful Career in Israel’s Startup Industry
+>>>>>>> origin/master
 
 
 
 
+
+<<<<<<< HEAD
+=======
+An Olah Reports From Nepal
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Joe Millitzer
 
 
 June 18, 2015
 9:50 am
+=======
+
+WATCH: Why Olim #LiveLoveIsrael
+
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 Heard over the police scanner: Franklin County police put out APB for Dylann Storm Roof  
 
 – Likely part of a national manhunt.
+=======
+
+>>>>>>> origin/master
 
 
 
@@ -1456,18 +2409,28 @@ Heard over the police scanner: Franklin County police put out APB for Dylann Sto
 
 
 
+<<<<<<< HEAD
 Joe Millitzer
 
 
 June 18, 2015
 9:35 am
 
+=======
+
+
+
+07.13.2015 | 26 Tammuz, 5775
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 The FBI says Roof’s car is a black Hyundai with vehicle tag LGF330. The suspect could still be driving, authorities said on Thursday.
+=======
+>>>>>>> origin/master
 
 
 
@@ -1480,29 +2443,48 @@ The FBI says Roof’s car is a black Hyundai with vehicle tag LGF330. The suspec
 
 
 
+<<<<<<< HEAD
 Joe Millitzer
 
 
 June 18, 2015
 9:35 am
+=======
+
+
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 
 A woman who survived the shooting says the gunman said he was letting her live so that she could tell people what happened, Charleston NAACP President Dot Scott told CNN.
 
 
 
+=======
+  
 
 
 
 
+  
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+  
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 Joe Millitzer
 
@@ -1510,39 +2492,72 @@ Joe Millitzer
 June 18, 2015
 9:34 am
 
+=======
+  
 
 
 
 
+  
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 The shooting victims at Charleston’s Emanuel AME Church “were killed because they were black,” Charleston police spokesman Charles Francis told CNN’s Nick Valencia on Thursday. Francis said this after Valencia asked them what is leading authorities to investigate the shooting as a hate crime.
 
 
 
+=======
+  
+
+
+
+
+  
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+  
+>>>>>>> origin/master
 
 
 
 
 
-
-
-
-
+<<<<<<< HEAD
 Joe Millitzer
 
 
 June 18, 2015
 9:32 am
 
+=======
+
+
+
+07.13.2015 | 26 Tammuz, 5775
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
+=======
+  
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 According to Lexington Dist. 1 — Roof attended high school at White Knoll for 1 yr.
 #CharlestonShooting
  
@@ -1553,18 +2568,35 @@ pic.twitter.com/Wr8RJWVm21
 June 18, 2015
 
 
+=======
+  
 
 
 
 
+  
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+  
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+  
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Joe Millitzer
 
 
@@ -1572,11 +2604,23 @@ June 18, 2015
 9:32 am
 
 
+=======
+  
 
 
 
 
+  
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
  According to Lexington County School District One, Roof attended White Knoll High School in Lexington, South Carolina for one year, WCSC is reporting. 
+=======
+  
+>>>>>>> origin/master
 
 
 
@@ -1589,18 +2633,26 @@ June 18, 2015
 
 
 
+<<<<<<< HEAD
 Joe Millitzer
 
 
 June 18, 2015
 9:30 am
+=======
+
+
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
  Witnesses told officials Roof reportedly said he was at the church to shoot black people, a source told CNN.
+=======
+>>>>>>> origin/master
 
 
 
@@ -1609,6 +2661,7 @@ June 18, 2015
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -1618,22 +2671,43 @@ Joe Millitzer
 
 June 18, 2015
 9:29 am
+=======
+Jerusalem Post
+
+
+Breaking News
+
+
+
+Shooting erupts at church in Charleston, South Carolina
+
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 The uncle of the suspect told Reuters he recognized his nephew in the photo released by police. He also said Roof received a .45 caliber pistol as a birthday present in April.
 
 
 
+=======
+
+
+
+
+                Breaking News
+            
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -1644,11 +2718,33 @@ June 18, 2015
 9:29 am
 
 
+=======
+
+                    By 
+                    REUTERS \
+                
+
+                    06/18/2015 05:18
+                
 
 
 
 
+
+
+
+
+                        Shooting erupts at church in Charleston, South Carolina
+                    
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 According to The Post and Courier, Roof is currently out on bond in connection with multiple recent arrests on drug and trespassing charges.
+=======
+>>>>>>> origin/master
 
 
 
@@ -1661,6 +2757,11 @@ According to The Post and Courier, Roof is currently out on bond in connection w
 
 
 
+<<<<<<< HEAD
+=======
+Share on Facebook
+Share on Twitter
+>>>>>>> origin/master
 
 
 
@@ -1669,10 +2770,16 @@ According to The Post and Courier, Roof is currently out on bond in connection w
 
 
 
+<<<<<<< HEAD
+=======
+
+                        A shooting erupted on Wednesday at a church in Charleston, South Carolina, with reports of possible fatalities, North Carolina television station WGHP, a Fox affiliate, reported on its website.The Charleston Police Department, in a message on Twitter, confirmed a shooting occurred at the address of the church. "No info yet on victims," the police Twitter message said.
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Filed in:
  
 News
@@ -1715,32 +2822,65 @@ Name
 
 Typo
 (required)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+=======
  
 
+  
 
 
 
+Share on Facebook
+Twitter
+Google Plus
+
+
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+
+ 
+=======
+ Islamic State says Afghanistan leader still alive
+
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Cancel
 
 
+=======
+
+
+By REUTERS \
+7/13/2015 4:49:17 AM
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+ US considering drones in North Africa to monitor Islamic State
+>>>>>>> origin/master
 
 
 
@@ -1748,6 +2888,19 @@ Cancel
 
 
 
+<<<<<<< HEAD
+=======
+By REUTERS \
+7/13/2015 3:58:16 AM
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+ French deny EU report of possible loan for Greece
+>>>>>>> origin/master
 
 
 
@@ -1755,19 +2908,20 @@ Cancel
 
 
 
+<<<<<<< HEAD
+=======
+By REUTERS \
+7/13/2015 2:21:20 AM
+>>>>>>> origin/master
 
 
 
 
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
  
+=======
+ Car bombs and suicide bomber kill 28 in Baghdad
+>>>>>>> origin/master
 
 
 
@@ -1775,6 +2929,11 @@ Cancel
 
 
 
+<<<<<<< HEAD
+=======
+By REUTERS \
+7/13/2015 12:37:52 AM
+>>>>>>> origin/master
 
 
 
@@ -1782,6 +2941,7 @@ Cancel
 
 
 
+<<<<<<< HEAD
 Antenna TV
 
 
@@ -1789,6 +2949,14 @@ KTVI’s digital channel 2.2 shows hit movies and classic TV.
 
 
 
+=======
+
+
+
+
+
+ Iran nuclear deal close, but depends on Tehran
+>>>>>>> origin/master
 
 
 
@@ -1796,44 +2964,82 @@ KTVI’s digital channel 2.2 shows hit movies and classic TV.
 
 
 
+<<<<<<< HEAD
+=======
+By REUTERS \
+7/12/2015 11:44:17 PM
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
  
+=======
+ Suicide car bomb kills 25 in east Afghanistan near US base
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
  
 
+=======
+
+By REUTERS \
+7/12/2015 10:53:51 PM
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 Popular
+=======
+ Rocket attack kills four in Libya's Benghazi city
+
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 
 
 Suspect under arrest in Jamyla Bolden murder
 
 
+=======
+By REUTERS \
+7/12/2015 10:48:27 PM
+
+
+
+
+ Iran: no announcement of possible nuclear deal to be made on Sunday
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 3-year-old injured during shoot-out in north St. Louis
 
+=======
+
+By REUTERS \
+7/12/2015 9:35:25 PM
+>>>>>>> origin/master
 
 
 
@@ -1841,16 +3047,43 @@ Suspect under arrest in Jamyla Bolden murder
 
 
 
+<<<<<<< HEAD
 Suspected gunman kills self after killing journalists on air, police say
+=======
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 
 
 
 Reporter, photographer murdered after gunman opens fire during live shot
+=======
+ US, allies target Islamic State with 27 air strikes in Syria, Iraq
+
+
+
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+By REUTERS \
+7/12/2015 9:12:35 PM
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+ Djokovic downs Federer to win third Wimbledon crown
+>>>>>>> origin/master
 
 
 
@@ -1858,33 +3091,46 @@ Reporter, photographer murdered after gunman opens fire during live shot
 
 
 
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 
  
+=======
+By REUTERS \
+7/12/2015 7:39:37 PM
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 Latest News
+=======
+ Iranian news agency: Technical aspects of possible Iran nuclear deal nearly complete
+
+
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 
 
 
 One man’s poop is another’s medicine
 
+=======
+By REUTERS \
+7/12/2015 5:46:01 PM
+
+
+
+
+ ISNA: Iran nuclear deal logistically impossible on Sunday
+>>>>>>> origin/master
 
 
 
@@ -1892,7 +3138,12 @@ One man’s poop is another’s medicine
 
 
 
+<<<<<<< HEAD
 STLMoms: Shop for a Cause at Macy’s to benefit March of Dimes
+=======
+By REUTERS \
+7/12/2015 4:57:37 PM
+>>>>>>> origin/master
 
 
 
@@ -1901,32 +3152,66 @@ STLMoms: Shop for a Cause at Macy’s to benefit March of Dimes
 
 
 
+<<<<<<< HEAD
 Zip Rzeppa visits FOX 2
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+ Security officials: Rocket alert sirens likely false alarm
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 St. Louis Polo Charity Match to benefit the Endangered Wolf Center
 
 
 
+=======
+
+
+
+By YAAKOV LAPPIN \
+7/12/2015 4:53:49 PM
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+ Rocket alert sirens sound in Tiberius and Safed in the North
+>>>>>>> origin/master
 
 
 
 
 
-
-
-
-
+<<<<<<< HEAD
  
 
 
 
+=======
+
+
+By JPOST.COM STAFF \
+7/12/2015 4:42:04 PM
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+ Sen. McConnell: Any Iran nuclear deal has tough road in US Congress
+>>>>>>> origin/master
 
 
 
@@ -1934,6 +3219,19 @@ St. Louis Polo Charity Match to benefit the Endangered Wolf Center
 
 
 
+<<<<<<< HEAD
+=======
+By REUTERS \
+7/12/2015 4:32:38 PM
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+ US: 'Major issues remain to be resolved' in Iran nuclear talks
+>>>>>>> origin/master
 
 
 
@@ -1941,37 +3239,47 @@ St. Louis Polo Charity Match to benefit the Endangered Wolf Center
 
 
 
+<<<<<<< HEAD
+
+News
+=======
+By MICHAEL WILNER \
+7/12/2015 4:18:22 PM
+
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+Who is the Charleston church shooting suspect?
+=======
+>>>>>>> origin/master
 
 
 
 
 
 
-
-
-
+<<<<<<< HEAD
 News
 
 
 
 
 Who is the Charleston church shooting suspect?
+=======
+
+ Blast in Aleppo does major damage to citadel wall
+
+
+
+>>>>>>> origin/master
 
 
 
 
-
-
-News
-
-
-
-
-Who is the Charleston church shooting suspect?
-
-
-
-
+<<<<<<< HEAD
 
 
 News
@@ -1980,11 +3288,23 @@ News
 
 
 Dylann Roof to face hate crime charges in Charleston shooting
+=======
+By REUTERS \
+7/12/2015 3:35:13 PM
+
+
+
+
+ France's Fabius says hopes Iran nuclear talks in final phase
+
+
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 
 News
 
@@ -1992,18 +3312,37 @@ News
 
 
 Dylann Roof pleads not guilty to federal charges in Charleston church attack
+=======
+By REUTERS \
+7/12/2015 3:09:44 PM
+
+
+
+
+ Saudi-led air strikes kill at least 10 people in Yemen
+
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 News
+=======
+By REUTERS \
+7/12/2015 2:20:25 PM
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Charleston shooting suspect charged with 9 counts of murder
+=======
+ Kurds announce they will attack Turkey dam construction sites
+>>>>>>> origin/master
 
 
 
@@ -2011,26 +3350,41 @@ Charleston shooting suspect charged with 9 counts of murder
 
 
 
+<<<<<<< HEAD
 
  
+=======
+By REUTERS \
+7/12/2015 2:18:39 PM
+
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 News
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Charleston church shooting: Suspect confesses, says he sought race war
 
+=======
+
+ Iranian official: Iran nuclear deal within reach on Sunday
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 News
 
 
@@ -2039,10 +3393,22 @@ News
 Woman says Charleston shooter spared her to ‘tell everyone’ what happened
 
 
+=======
+
+
+By REUTERS \
+7/12/2015 12:52:44 PM
 
 
 
 
+ Kerry says hopeful on Iran nuclear deal, but issues remain
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 News
 
 
@@ -2056,62 +3422,117 @@ Dylann Roof says he almost backed out because everyone at church was ‘so nice
 
 
 News
+=======
+
+
+
+By REUTERS \
+7/12/2015 12:50:33 PM
 
 
 
 
+ Russian foreign minister plans to take part in Iran talks on Sunday
+
+
+
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Shooting suspect in custody after Charleston church massacre
+=======
+By REUTERS \
+7/12/2015 11:35:39 AM
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 News
+=======
+ Chinese Muslims 'on way to Jihad' deported from Thailand
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Confederate flag displays banned in schools in Charleston
 
+=======
+
+By REUTERS \
+7/12/2015 11:34:54 AM
+>>>>>>> origin/master
 
 
 
 
 
 
+
+<<<<<<< HEAD
+ 
+=======
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
+News
+=======
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+﻿Worshippers return to Charleston’s Emanuel AME on Sunday
+=======
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
+
+News
+=======
+ Your comment must be approved by a moderator before being published on JPost.com.   
+Disqus users can post comments automatically.
 
  
+Comments must adhere to  our Talkback policy. If you believe that a comment has breached the Talkback policy, please press the flag icon to bring it to the attention of our moderation team.
+>>>>>>> origin/master
 
 
 
 
-
-
-News
-
-
-
-
-﻿Worshippers return to Charleston’s Emanuel AME on Sunday
-
-
-
-
-
-
-News
-
-
-
-
+<<<<<<< HEAD
 Timeline of Charleston church shooting
 
+=======
+
+ Please enable JavaScript to view the comments powered by Disqus. 
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 News
 
 
@@ -2120,6 +3541,19 @@ News
 $225K raised in wake of Charleston church shooting
 
 
+=======
+
+
+Sign up for our newsletter
+
+
+
+Submit
+Please insert a valid email address
+By signing up to The Jpost mailing list, I hereby
+
+Accept the terms and conditions
+>>>>>>> origin/master
 
 
 
@@ -2132,7 +3566,19 @@ $225K raised in wake of Charleston church shooting
 
 
 
+<<<<<<< HEAD
  
+=======
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
+=======
+Tweets from https://twitter.com/Jerusalem_Post/lists/jpost-reporters
+>>>>>>> origin/master
 
 
 
@@ -2140,11 +3586,7 @@ $225K raised in wake of Charleston church shooting
 
 
 
-
-
-
-
-
+<<<<<<< HEAD
 Mobile Apps
 Android App
 
@@ -2156,10 +3598,19 @@ iPhone & iPad App
 
 
 iPhone Weather App
+=======
 
 
 
 
+
+
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
@@ -2176,6 +3627,29 @@ Email Alerts
 
 
 About & Contact
+=======
+Tags
+
+
+
+                        Israel news
+
+
+
+                        jerusalem post
+
+
+
+                        operation protective edge
+
+
+
+                        world news
+
+
+
+
+>>>>>>> origin/master
 
 
 
@@ -2192,6 +3666,7 @@ About & Contact
 
 
 
+<<<<<<< HEAD
 Online Public File
  • 				
 Terms of Service
@@ -2208,6 +3683,8 @@ A Tribune Broadcasting Station
  •
 		Powered by 
 WordPress.com VIP
+=======
+>>>>>>> origin/master
  
 
 
@@ -2215,6 +3692,7 @@ WordPress.com VIP
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -2256,6 +3734,106 @@ Email Alerts
 
 
 
+=======
+Information
+
+
+
+                        About Us
+
+
+
+                        Feedback
+
+
+
+                        Staff E-mails
+
+
+
+                        Copyright
+
+
+
+                        Advertise with Us
+
+
+
+                        Statistics
+
+
+
+                        Ad Specs
+
+
+
+                        Terms Of Service
+
+
+
+                        Privacy Policy
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=======
+The Jerusalem Post Group
+
+
+
+                        Learn Hebrew
+
+
+
+                        The Jerusalem Report
+
+
+
+                        Our Magazines
+
+
+
+                        Edition Francaise
+
+
+
+                        Green Israel
+
+
+
+                        Jerusalem Post Lite
+
+
+
+                        Ulpan Online
+
+
+
+                        Magazines Terms
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
@@ -2274,34 +3852,50 @@ Email Alerts
 
 
 
+=======
+Tools and services
+
+
+
+                        JPost Mobile Apps
+
+
+
+                        JPost Premium
+
+
+
+                        JPost Newsletter
+
+
+
+                        JPost News Ticker
+
+
+
+                        JPost RSS feeds
+
+
+
+                        JPost.com Archive
+
+
+
+                        JPost Archives
+
+
+
+                        JPost Alert
+
+
+
+                        Find us on Google+
+>>>>>>> origin/master
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 
 
 
@@ -2347,6 +3941,57 @@ Cancel
 
 
 				Sorry, your blog cannot share posts by email.			
+=======
+Conferences
+
+
+
+                        NYC Conference
+
+
+
+                        Diplomatic Conference
+
+
+
+
+Sites Of Interest
+
+
+
+                        Inbal Jerusalem Hotel
+
+
+
+                        Jerusalem Hotels
+
+
+
+                        KKL-JNF
+
+
+
+                        Poalim Online
+
+
+
+                        Old City Tours
+
+
+
+                        car rental Israel
+
+
+
+                        Dealspotr: Deals and coupon codes
+
+
+
+                        Jewish Jewelry, Gifts & Judaica
+
+
+
+                        itraveljerusalem.com
 
 
 
@@ -2354,6 +3999,25 @@ Cancel
 
 
 
+
+Now Available On iphone, ipad and android
+
+
+
+
+>>>>>>> origin/master
+
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+Copyright © 2015 Jpost Inc. All rights reserved • Terms of Use • Privacy Policy
+ Ux Design & Strategy        •    
+>>>>>>> origin/master
 
 
 

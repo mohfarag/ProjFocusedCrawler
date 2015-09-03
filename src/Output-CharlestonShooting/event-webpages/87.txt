@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Charleston church shooting: Without gun control, racism will keep killing black people | Gary Younge | Comment is free | The Guardian
 
 
@@ -20,6 +21,11 @@ Charleston church shooting: Without gun control, racism will keep killing black 
 
 
 
+=======
+Charleston shooting | US news | The Guardian
+
+Charleston shooting | US news | The Guardian
+>>>>>>> origin/master
 
 
 
@@ -44,6 +50,7 @@ Close
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -59,6 +66,10 @@ Skip to main content
 
 
 
+=======
+Skip to main content
+
+>>>>>>> origin/master
  
 
 
@@ -71,6 +82,10 @@ Skip to main content
 
 
 
+<<<<<<< HEAD
+=======
+sign in
+>>>>>>> origin/master
 
 
 
@@ -79,6 +94,10 @@ Skip to main content
 
 
 
+<<<<<<< HEAD
+=======
+subscribe
+>>>>>>> origin/master
 
 
 
@@ -86,10 +105,15 @@ Skip to main content
 
 
 
+<<<<<<< HEAD
+=======
+search
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 sign in
 
 
@@ -101,6 +125,9 @@ sign in
 
 
 
+=======
+jobs
+>>>>>>> origin/master
 
 
 
@@ -109,6 +136,7 @@ sign in
 
 
 
+<<<<<<< HEAD
 subscribe
 
 
@@ -127,59 +155,16 @@ subscribe
 
 
 search
-
-
-
-
-
-
-
-
-
-
-jobs
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+=======
 
 
 more
 
 
-
-
-
-
 from the guardian:
 
 
-
-
-
-
 jobs
-
-
-
-
-
 
 
 
@@ -187,9 +172,124 @@ change edition:
 
 
 
+switch to the  UK  edition
+
+
+switch to the  AU  edition
+
+
+switch to the 
+INT
+beta
+ edition
+>>>>>>> origin/master
 
 
 
+
+
+
+
+
+<<<<<<< HEAD
+
+
+jobs
+
+
+=======
+US edition
+
+
+
+
+switch to the 
+UK edition
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+switch to the 
+Australia edition
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+switch to the 
+International
+beta
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+
+
+more
+=======
+The Guardian
+
+
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
+from the guardian:
+=======
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
+jobs
+
+
+
+
+=======
+
+
+home
+
+
+›
+US
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+change edition:
+=======
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
 
 
 switch to the 
@@ -197,17 +297,31 @@ switch to the
  edition
 
 
+=======
+home
 
 
 
 
+US
+selected
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 switch to the 
  AU 
  edition
+=======
+world
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 switch to the 
@@ -220,61 +334,120 @@ beta
 
 
  edition
+=======
+opinion
 
 
 
 
+sports
 
 
 
 
+soccer
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+tech
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+arts
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+lifestyle
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 US edition
 
 
 
+=======
+fashion
 
 
 
 
+business
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 switch to the 
 
 
 UK edition
+=======
+travel
+
+
+
+
+environment
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+science
+>>>>>>> origin/master
 
 
 
 
 
 
-
-
-
-
+<<<<<<< HEAD
 switch to the 
 
 
 Australia edition
+=======
+browse all sections
+close
+
+
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+ 
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 switch to the 
 
 
@@ -285,6 +458,20 @@ beta
 
 
 
+=======
+
+
+
+
+
+Charleston shooting
+
+Wednesday
+
+8
+July
+2015
+>>>>>>> origin/master
 
 
 
@@ -304,9 +491,56 @@ beta
 
 
 
+<<<<<<< HEAD
 The Guardian
 
 
+=======
+Slew of amendments hamper South Carolina push to ditch Confederate flag
+
+
+Tempers begin to fray during marathon session as Republicans launch dozens of proposed amendments 
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+Slew of amendments hamper South Carolina push to ditch Confederate flag
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+Older
+Newer
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
+
+
+
+=======
+Topics
+
+
+
+South Carolina
+>>>>>>> origin/master
 
 
 
@@ -316,44 +550,36 @@ The Guardian
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 home
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 ›
 
 
 opinion
+=======
+The Guardian
 
 
 
 
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+back to top
+>>>>>>> origin/master
 
 
 
@@ -373,6 +599,7 @@ home
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -383,6 +610,10 @@ US
 
 
 
+=======
+US
+selected
+>>>>>>> origin/master
 
 
 
@@ -392,6 +623,7 @@ world
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -405,6 +637,10 @@ selected
 
 
 
+=======
+opinion
+
+>>>>>>> origin/master
 
 
 
@@ -413,82 +649,109 @@ sports
 
 
 
+<<<<<<< HEAD
 
 
 
 
+=======
+>>>>>>> origin/master
 soccer
 
 
 
 
+<<<<<<< HEAD
 
 
 
 
+=======
+>>>>>>> origin/master
 tech
 
 
 
 
+<<<<<<< HEAD
 
 
 
 
+=======
+>>>>>>> origin/master
 arts
 
 
 
 
+<<<<<<< HEAD
 
 
 
 
+=======
+>>>>>>> origin/master
 lifestyle
 
 
 
 
+<<<<<<< HEAD
 
 
 
 
+=======
+>>>>>>> origin/master
 fashion
 
 
 
 
+<<<<<<< HEAD
 
 
 
 
+=======
+>>>>>>> origin/master
 business
 
 
 
 
+<<<<<<< HEAD
 
 
 
 
+=======
+>>>>>>> origin/master
 travel
 
 
 
 
+<<<<<<< HEAD
 
 
 
 
+=======
+>>>>>>> origin/master
 environment
 
 
 
 
+<<<<<<< HEAD
 
 
 
 
+=======
+>>>>>>> origin/master
 science
 
 
@@ -497,12 +760,18 @@ science
 
 
 
+<<<<<<< HEAD
+=======
+all sections
+close
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 browse 
 all
  sections
@@ -513,145 +782,279 @@ close
 
 
 
+=======
+
+home
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+US
+selected
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+world
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+UK
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+europe
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+americas
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+asia
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+middle east
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+africa
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+australia
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 US gun control
 
 
+=======
+cities
 
 
 
 
+development
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Comment is free
 
 
+=======
+
+
+opinion
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 Charleston church shooting: Without gun control, racism will keep killing black people
 
 
 
+=======
+sports
 
 
 
 
+soccer
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+MLS
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Gary Younge
+=======
+NFL
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+MLB
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+NBA
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+NHL
+>>>>>>> origin/master
 
 
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 America does not have a monopoly on racism. But what makes its racism so lethal is the ease with which people can acquire guns
+=======
+soccer
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+live scores
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+tables
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+competitions
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+results
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+fixtures
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+clubs
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+tech
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+arts
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+movies
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+tv & radio
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+music
+>>>>>>> origin/master
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 Sorry, your browser is unable to play this video.
 
 Please install 
@@ -663,14 +1066,27 @@ upgrade
 
 
 
+=======
+games
 
 
 
 
+books
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+art & design
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 Charleston’s police chief, Gregory Mullen, confirms that nine people were killed when a gunman entered a church in Charleston, South Carolina, and opened fire. 
 
@@ -683,23 +1099,52 @@ Contact author
 
 
 
+=======
+stage
+
+
+
+
+classical
 
 
 
 
 
 
+lifestyle
+>>>>>>> origin/master
 
 
+
+
+<<<<<<< HEAD
+=======
+food
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 @garyyounge
 
 
 
+=======
+health & fitness
 
 
 
 
+love & sex
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 Thursday 18 June 2015 
@@ -712,52 +1157,104 @@ Thursday 18 June 2015
 Last modified on Saturday 20 June 2015 
 12.23 EDT
 
+=======
+family
+
+
+
+
+women
+
+
+
+
+home & garden
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+fashion
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+business
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 Share on Facebook
 
 
 
+=======
+economics
+
+
+
+
+sustainable business
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+diversity & equality in business
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+small business
+>>>>>>> origin/master
 
 
 
 
 
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 Share on Twitter
 
+=======
+
+travel
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+USA
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+europe
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -765,38 +1262,86 @@ Share via Email
 
 
 
+=======
+UK
 
 
 
 
 
 
+environment
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+climate change
+>>>>>>> origin/master
 
 
+
+
+<<<<<<< HEAD
+=======
+wildlife
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 Share on Pinterest
 
 
 
+=======
+energy
+
+
+
+
+pollution
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+science
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 
 Share on LinkedIn
 
+=======
+media
+
+
+
+
+crosswords
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+video
+>>>>>>> origin/master
 
 
 
@@ -808,10 +1353,7 @@ Share on LinkedIn
 
 
 
-
-
-
-
+<<<<<<< HEAD
 Share on Google+
 
 
@@ -3148,6 +3690,33 @@ securedrop
 
 
 
+=======
+
+
+jobs
+
+subscribe
+all topics
+all contributors
+
+
+report technical issue
+
+
+
+about us
+
+contact us
+
+complaints & corrections
+terms & conditions
+privacy policy
+cookie policy
+securedrop
+
+
+© 2015 Guardian News and Media Limited or its affiliated companies. All rights reserved.
+>>>>>>> origin/master
 
 
 
@@ -3167,5 +3736,8 @@ securedrop
 
  
 
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> origin/master

@@ -1,7 +1,14 @@
+<<<<<<< HEAD
 Mother killed during attempted robbery while unloading bags from car | Fox 59 
 
 
 Mother killed during attempted robbery while unloading bags from car | Fox 59
+=======
+'I forgive you': Charleston church victims' families confront suspect | US news | The Guardian
+
+'I forgive you': Charleston church victims' families confront suspect | US news | The Guardian
+
+>>>>>>> origin/master
 
 
 
@@ -16,8 +23,12 @@ Mother killed during attempted robbery while unloading bags from car | Fox 59
 
 
 
+<<<<<<< HEAD
 Go
 Search
+=======
+Close
+>>>>>>> origin/master
 
 
 
@@ -26,6 +37,13 @@ Search
 
 
 
+<<<<<<< HEAD
+
+=======
+Skip to main content
+
+ 
+>>>>>>> origin/master
 
 
 
@@ -34,7 +52,7 @@ Search
 
 
 
-
+<<<<<<< HEAD
 FOX59 TV Schedule 
 
 
@@ -49,6 +67,11 @@ FOX59 TV Schedule
 
 
 
+=======
+
+
+
+sign in
 
 
 
@@ -57,20 +80,42 @@ FOX59 TV Schedule
 
 
 
+subscribe
+>>>>>>> origin/master
 
 
 
+
+
+
+
+<<<<<<< HEAD
+=======
+search
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Fox 59
+=======
+jobs
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
  
 Menu
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 News
 
 
@@ -96,15 +141,77 @@ On-Air
 
 
 HealthTrax
+=======
+
+
+more
+
+
+from the guardian:
+
+
+jobs
+
+
+
+change edition:
+
+
+
+switch to the  UK  edition
+
+
+switch to the  AU  edition
+
+
+switch to the 
+INT
+beta
+ edition
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
  
 
 
+=======
+
+
+US edition
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+switch to the 
+UK edition
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+switch to the 
+Australia edition
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+switch to the 
+International
+beta
+>>>>>>> origin/master
 
 
 
@@ -113,21 +220,15 @@ HealthTrax
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
  
 
 
+=======
+
+
+The Guardian
+>>>>>>> origin/master
 
 
 
@@ -142,6 +243,7 @@ HealthTrax
 
 
 
+<<<<<<< HEAD
 Mother killed during attempted robbery while unloading bags from car
 
 
@@ -154,10 +256,20 @@ Zach Myers
 , 
 Updated at 06:40pm, June 1, 2015
  
+=======
+
+
+home
+
+
+›
+US
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Facebook
 Twitter
 Google
@@ -165,40 +277,69 @@ LinkedIn
 Pinterest
 Email
  
+=======
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+home
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
  
+=======
+US
+selected
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+world
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 ×
 
 
 Mother killed during attempted robbery while unloading bags from car
 
 
+=======
+opinion
 
 
 
 
+sports
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
  
+=======
+soccer
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 INDIANAPOLIS, Ind. (June 1, 2015) – A woman was fatally shot early Monday morning in the 1400 block of South East Street during an attempted robbery.
@@ -250,6 +391,52 @@ Riddle said several witnesses who were in the area have given investigators help
 
 
 Detectives urge anyone with information to call Crime Stoppers of Central Indiana at (317) 262-TIPS (8477). Callers may also text “INDYCS” plus tip information to 274637 (CRIMES).
+=======
+tech
+
+
+
+
+arts
+
+
+
+
+lifestyle
+
+
+
+
+fashion
+
+
+
+
+business
+
+
+
+
+travel
+
+
+
+
+environment
+
+
+
+
+science
+
+
+
+
+
+
+browse all sections
+close
+>>>>>>> origin/master
 
 
 
@@ -258,11 +445,14 @@ Detectives urge anyone with information to call Crime Stoppers of Central Indian
 
 
 
+<<<<<<< HEAD
 Filed in:
  
 Crimetracker
 , 
 News
+=======
+>>>>>>> origin/master
  
 
 
@@ -274,12 +464,21 @@ News
 
 
 
+<<<<<<< HEAD
 ×
 
 
 Report a Typo
 
 
+=======
+
+Charleston shooting
+
+
+
+'I forgive you': Charleston church victims' families confront suspect
+>>>>>>> origin/master
 
 
 
@@ -290,8 +489,13 @@ Report a Typo
 
 
 
+<<<<<<< HEAD
 Name
 (required)
+=======
+Relatives address Dylann Roof in emotional video court appearance
+Granddaughter of murdered retired pastor says: ‘Hate won’t win’
+>>>>>>> origin/master
 
 
 
@@ -300,8 +504,11 @@ Name
 
 
 
+<<<<<<< HEAD
 Typo
 (required)
+=======
+>>>>>>> origin/master
 
 
 
@@ -319,12 +526,20 @@ Typo
 
 
 
+<<<<<<< HEAD
 
  
+=======
+Sorry, your browser is unable to play this video.
+Please install Adobe Flash™ and try again.
+Alternatively upgrade to a modern browser.
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Cancel
 
 
@@ -333,6 +548,21 @@ Cancel
 
 
 
+=======
+Dylann Roof makes a court appearance via video link.
+
+
+
+Oliver Laughland and 
+Paul Lewis in Charleston, and 
+Raya Jalabi in New York
+
+
+Friday 19 June 2015 19.02 EDT
+
+
+Last modified on Saturday 20 June 2015 12.23 EDT
+>>>>>>> origin/master
 
 
 
@@ -340,6 +570,10 @@ Cancel
 
 
 
+<<<<<<< HEAD
+=======
+Share on Facebook
+>>>>>>> origin/master
 
 
 
@@ -347,6 +581,10 @@ Cancel
 
 
 
+<<<<<<< HEAD
+=======
+Share on Twitter
+>>>>>>> origin/master
 
 
 
@@ -354,7 +592,11 @@ Cancel
 
 
 
+<<<<<<< HEAD
  
+=======
+Share via Email
+>>>>>>> origin/master
 
 
 
@@ -362,6 +604,10 @@ Cancel
 
 
 
+<<<<<<< HEAD
+=======
+Share on Pinterest
+>>>>>>> origin/master
 
 
 
@@ -369,11 +615,26 @@ Cancel
 
 
 
+<<<<<<< HEAD
  
 Download/Update your FOX59 News App!
 
 
 Download or update your FOX59 News app in your App Store or Google Play. There are plenty of new features to explore! 
+=======
+Share on LinkedIn
+
+
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
+=======
+Share on Google+
+>>>>>>> origin/master
 
 
 
@@ -381,27 +642,33 @@ Download or update your FOX59 News app in your App Store or Google Play. There a
 
 
 
+<<<<<<< HEAD
+=======
+Share on WhatsApp
+>>>>>>> origin/master
 
 
 
 
-
-
-
-
-
+<<<<<<< HEAD
  
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
  
+=======
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 Popular
 
 
@@ -413,23 +680,95 @@ Popular
 
 Police discover 3 bodies, including 2 children, inside Henry County home
 
+=======
+
+
+
+“I forgive you,” said the daughter of 70-year-old Ethel Lance to the 21-year-old man who allegedly murdered her mother in church and appeared at an emotionally charged video court appearance in Charleston on Friday afternoon, two days after a horrific mass shooting here.
+
+ Related: Representatives of Charleston shooting victims 'forgive' Dylann Roof 
+
+Relatives of the Emanuel church victims stood up one by one in the courtroom, offering forgiveness to the man accused of murdering their sons, mothers and grandfathers in cold blood, as a nation continued to call for justice.
+Dylann Roof appeared at his bond hearing via videolink from the Charleston detention center, where he is being held in isolation. Officials later confirmed he is being detained in the same jail unit as Michael Slager, the white police officer who just 10 weeks ago stood in the same court, charged with the murder of Walter Scott, whom he shot five times from behind as the unarmed black man ran away.
+“You took something very precious from me, but I forgive you,” Lance’s daughter said through tears. “It hurts me. You hurt a lot of people, but may God forgive you.”
+Speaking of her son Tywanza Sanders, who was also killed on Wednesday night trying to shield his great aunt from gunfire, Felicia Sanders said to the suspect: “We welcomed you Wednesday night in our Bible study with open arms. You have killed some of the most beautifullest people that I know. Every fiber in my body hurts. I will never be the same.”
+
+ Related: 'He was my hero': Charleston mother hails 26-year-old killed shielding others 
+
+She continued: “Tywanza was my hero. But as they say in the Bible study, we enjoyed you, but may God have mercy on your soul.”
+Roof stood still, in an oversized black-and-gray striped inmate’s uniform, as Judge James Gosnell requested a representative from each family to declare if they wished to make a formal statement.
+The 21-year-old was flanked by two heavily armored officers throughout the hearing. He uttered very few words, confirming his age, employment status and address in a timid baritone. As successive relatives stood to offer him forgiveness, he expressed no emotion, staring down and occasionally into the camera inside a cell.
+Court officials later confirmed that Roof could see into the courtroom and heard each of the speeches, but he could not see the relatives who stood a few feet away from the judge, out of his view.
+Alanna Simmons, the granddaughter of 74-year-old retired pastor Daniel Simmons, stood after Sanders.
+“Although my grandfather and the other victims died at the hands of hate, this is proof that they lived and loved,” she said. “Hate won’t win.”
+In all, five representatives of the nine people killed in the massacre spoke at the hearing, with President Barack Obama tweeting shortly after the hearing that the “decency and goodness of the American people shines through in these families”. 
+
+ Related: Barack Obama on Charleston shooting: 'I refuse to act as if this is the new normal' 
+
+In an address later on Friday in San Francisco, Obama made a renewed call to action on gun control, saying he had “faith we will eventually do the right thing” despite political gridlock in Washington.
+“The apparent motivations of the shooter remind us that racism remains a blight that we have to combat together,” he said.
+The small courthouse in Charleston was packed full of relatives and friends who had arrived earlier in the afternoon in small groups, walking through the sweltering 95-degree heat, flanked by sheriff’s deputies and taking no questions from media. In an opening statement Judge Gosnell asked that Roof’s family be acknowledged as they were also victims of his crimes.
+“We would like you to take this opportunity to repent,” said Anthony Thompson, grandson of 59-year-old Myra Thompson as the family’s statements continued. “Repent. Confess. Give your life to the one who matters the most, Christ, so he can change your ways no matter what happens to you and you’ll be OK.
+Roof’s family later issued its first public statement since the shooting: “We have all been touched by the moving words from the victims’ families offering God’s forgiveness and love in the face of such horrible suffering,” the family said.
+Immediately after the hearing, court officials released Roof’s arrest warrants, which provided chilling new details on how all nine were shot during a prayer group meeting at the historic Emanuel AME church in downtown Charleston.
+Roof was seen on security camera footage entering the church on Wednesday night, at 8:06pm, the warrants said. He spent an hour studying with the dozen parishioners in the Bible study room and then opened fire, striking each victim “multiple times”.
+“Prior to leaving the Bible study room he stood over a witness to be named later and uttered a racially inflammatory statement to the witness,” the warrant states.
+After a manhunt, Roof was identified to police by both his father and uncle, who recognized him and his car from photographs distributed to the public by police. Roof’s father confirmed to police that his son owned a .45 caliber handgun, which he was seen carrying out of the church shortly after 9pm on Wednesday. Investigators stated in the warrant that .45 caliber shell casings were recovered in the church.
+On Friday afternoon, the US justice department announced it is investigating whether the church shooting could be a hate crime or an act of domestic terror.
+On Thursday, the attorney general, Loretta Lynch, had described the massacre as a “barbaric crime”, and said it was being looked at as a hate crime. “Acts like this have no place in our country and in a civilized society,” Lynch said in Washington.
+Roof’s homicide charges make him eligible for the death penalty, for which South Carolina’s Governor Nikki Haley advocated during a visit to Charleston on Friday.
+Earlier in the day, the NAACP national president, Cornell William Brooks, condemned the church attack as a hate crime.
+“This was an act of racial terrorism and must be treated as such,” Brooks said in an emotional press conference of his own.
+Brooks, who spent time in Charleston as a child as both his grandfather and uncle owned barbershops nearby, said the state and the US as a whole needed to examine the underlying racial hatred that fuelled Roof’s crime.
+He made particular note of the Confederate flag flying above the South Carolina state house.
+“Some will assert that the Confederate flag is merely a symbol of years gone by, a symbol of heritage, not hate. But when we see that symbol lifted up as an emblem of hate … as an inspiration of violence, that symbol has to come down.” Tensions over the flag have been renewed since the shooting, and local politicians were preparing legislation to have it removed.
+On Friday morning, the Republican presidential candidate and South Carolina senator Lindsey Graham attempted to distance Roof’s actions from the flag’s prominent position in South Carolina politics.
+“We’re not going to give this guy an excuse about a book he might have read or a movie he watched or a song he listened to or a symbol out anywhere. It’s him … not the flag,” Graham told CNN.
+The senator was present at a vigil, later on Friday, when hundreds of people cheered and applauded at repeated calls for the flag to be removed from state buildings.
+There was a loud expression of support from Nelson B Rivers, from the National Action Network civil rights group, who compared calls for the flag to be taken down for the legislation to introduce body cameras in the aftermath of Walter Scott’s death.
+“Walter Scott got killed and the paradigm shifted, and then all of a sudden what couldn’t be done became a done deal,” he said.
+Amid a rising a cacophony of supportive shouting, Rivers called on lawmakers in the auditorium: “You will take that flag down, you will taken it down!”
+Graham, who sat impassively, later told the Guardian he welcomed the debate, although declined to take a firm position. “There are graveyards of confederate soldiers all over the state – what do we do? How much of revisiting ones past is going to take before we can move forward?”
+Graham and South Carolina’s other senator, Tim Scott – also a Republican – both remained seated during standing ovations following calls for a “rational conversation” about gun rights in America.
+Charleston’s mayor, Joseph P Riley, said he did not want to inject any kind of politics into the situation, but added: “Nine people died, because of this crazed man, with obviously easy access to a handgun,”
+“It is complicated, and the right to bear arms is ingrained in the Constitution and life in America, but we can’t just forget about this and we must encourage a national discussion. There has got to be a better way.”
+He added: “We don’t want to live in a country where you need a security guard for Bible study.”
+Further vigils to mourn the nine murdered church members were planned to continue in Charleston and throughout the US through the weekend.
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 
 ‘Hi, babies!’: Twins immediately pretend they’re asleep after hearing mom on baby monitor
+=======
+More news 
+Topics
+
+
+
+Charleston shooting
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+Barack Obama
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Police: Gunman in Virginia TV crew shooting died from self-inflicted gunshot
+=======
+South Carolina
+>>>>>>> origin/master
 
 
 
@@ -438,9 +777,15 @@ Police: Gunman in Virginia TV crew shooting died from self-inflicted gunshot
 
 
 
+<<<<<<< HEAD
 Changes kick 50,000 Hoosiers off federal food stamp program
 
 
+=======
+
+
+Share on Facebook
+>>>>>>> origin/master
 
 
 
@@ -448,6 +793,10 @@ Changes kick 50,000 Hoosiers off federal food stamp program
 
 
 
+<<<<<<< HEAD
+=======
+Share on Twitter
+>>>>>>> origin/master
 
 
 
@@ -455,15 +804,24 @@ Changes kick 50,000 Hoosiers off federal food stamp program
 
 
 
+<<<<<<< HEAD
  
+=======
+Share via Email
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 Latest News
 
+=======
+
+Share on Pinterest
+>>>>>>> origin/master
 
 
 
@@ -471,7 +829,11 @@ Latest News
 
 
 
+<<<<<<< HEAD
 CEO of Ashley Madison stepping down after hack that impacted 37 million customers
+=======
+Share on LinkedIn
+>>>>>>> origin/master
 
 
 
@@ -479,17 +841,28 @@ CEO of Ashley Madison stepping down after hack that impacted 37 million custome
 
 
 
+<<<<<<< HEAD
 
 Jennifer Lawrence and Amy Schumer dance on Billy Joel’s piano at Wrigley Field concert
+=======
+Share on Google+
+
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 
 
 Calif. man bitten while taking selfie with rattlesnake
+=======
+Share on WhatsApp
+
+
+>>>>>>> origin/master
 
 
 
@@ -498,7 +871,10 @@ Calif. man bitten while taking selfie with rattlesnake
 
 
 
+<<<<<<< HEAD
 Court docs: Father of missing Baby Janna put pillow over baby to muffle cries
+=======
+>>>>>>> origin/master
 
 
 
@@ -520,6 +896,10 @@ Court docs: Father of missing Baby Janna put pillow over baby to muffle cries
 
 
 
+<<<<<<< HEAD
+=======
+popular
+>>>>>>> origin/master
 
 
 
@@ -532,50 +912,77 @@ Court docs: Father of missing Baby Janna put pillow over baby to muffle cries
 
 
 
+<<<<<<< HEAD
+=======
+ 
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 News
 
 
 
 
 Armed robbery suspect killed by self-inflicted gunshot wound, says IMPD
+=======
+
+
+The Guardian
+
+
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 Crimetracker
  
 News
+=======
+back to top
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 CVS employees stop robbery suspect, pin him down until police arrive
+=======
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 Crimetracker
  
 News
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Nine people shot in in two days as violent Memorial Day carries into Tuesday
+=======
+home
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 News
@@ -586,31 +993,62 @@ News
 Police: Robbery motive in northeast side shooting
 
 
+=======
+US
+selected
 
 
 
 
+world
+
+
+
+
+opinion
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Crimetracker
  
 News
+=======
+sports
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 New details emerge about woman found shot in tub at east side home
+=======
+soccer
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+tech
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
  
+=======
+arts
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 News
@@ -621,38 +1059,72 @@ News
 Police searching for suspect who beat, robbed 86-year-old veteran
 
 
+=======
+lifestyle
 
 
 
 
+fashion
+
+
+
+
+business
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Crimetracker
  
 News
+=======
+travel
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Police: Man in dress, wig ambushes girlfriend and her brother
+=======
+environment
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 Crimetracker
  
 News
+=======
+science
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Suspect sought in Carmel attempted robbery
 
+=======
+
+all sections
+close
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 Crimetracker
  
 News
@@ -663,29 +1135,57 @@ News
 Suspect faces a dozen charges after police chase, fatal crash
 
 
+=======
+
+
+home
 
 
 
 
+US
+selected
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 News
+=======
+world
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Police search for shooters in two morning shootings
+=======
+UK
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+europe
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
  
+=======
+americas
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 Crimetracker
@@ -698,55 +1198,108 @@ News
 Man wanted in connection with at least two central Indiana bank robberies
 
 
+=======
+asia
 
 
 
 
+middle east
+
+
+
+
+africa
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Crimetracker
  
 News
+=======
+australia
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Victim takes suspect’s gun in early morning shooting
+=======
+cities
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 News
+=======
+development
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Man killed, 3 others shot during violent night around Indianapolis
+=======
+opinion
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+sports
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+soccer
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
  
 
 
+=======
+MLS
 
 
 
 
+NFL
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+MLB
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 Mobile Apps
@@ -754,16 +1307,29 @@ Android App
 
 
 iPhone & iPad App
+=======
+NBA
+
+
+
+
+NHL
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+soccer
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Facebook
 
 
@@ -771,22 +1337,43 @@ Twitter
 
 
 About & Contact
+=======
+live scores
 
 
 
 
+tables
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+competitions
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+results
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+fixtures
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Online Public File
  • 		
 EEO Report
@@ -806,166 +1393,309 @@ A Tribune Broadcasting Station
 		Powered by 
 WordPress.com VIP
  
+=======
+clubs
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+tech
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+arts
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 ×
 
 
 Email Alerts
 
 
+=======
+movies
+
+
+
+
+tv & radio
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+music
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+games
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+books
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+art & design
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+stage
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+classical
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+lifestyle
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+food
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+health & fitness
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+love & sex
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+family
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+women
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+home & garden
+>>>>>>> origin/master
 
 
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 Follow
+=======
+fashion
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Follow “Fox 59”
+=======
+business
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Get every new post delivered to your Inbox.
+=======
+economics
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Join 2,670 other followers
+=======
+sustainable business
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+diversity & equality in business
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+small business
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+travel
+>>>>>>> origin/master
 
 
 
 
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 Build a website with WordPress.com
+=======
+USA
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+europe
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+UK
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+environment
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+climate change
+>>>>>>> origin/master
 
 
 
 
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 Send to Email Address
+=======
+wildlife
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Your Name
+=======
+energy
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Your Email Address
+=======
+pollution
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+science
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+media
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Cancel
 
 
@@ -979,6 +1709,47 @@ Cancel
 
 
 				Sorry, your blog cannot share posts by email.			
+=======
+crosswords
+
+
+
+
+video
+
+
+
+
+
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+US News
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+›
+Charleston shooting
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
 
 
 
@@ -989,6 +1760,31 @@ Cancel
 
 
 
+=======
+jobs
+
+subscribe
+all topics
+all contributors
+
+
+report technical issue
+
+
+
+about us
+
+contact us
+
+complaints & corrections
+terms & conditions
+privacy policy
+cookie policy
+securedrop
+
+
+© 2015 Guardian News and Media Limited or its affiliated companies. All rights reserved.
+>>>>>>> origin/master
 
 
 
@@ -998,6 +1794,8 @@ Cancel
 
 
 
+<<<<<<< HEAD
+=======
 
 
 
@@ -1006,13 +1804,6 @@ Cancel
 
 
 
+ 
 
-
-
-
-
-
-
-
-
-
+>>>>>>> origin/master

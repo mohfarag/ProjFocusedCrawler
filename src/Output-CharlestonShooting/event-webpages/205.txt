@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 Police Officer Hurt In Fatal Shooting On South Side « CBS Chicago
 
 Police Officer Hurt In Fatal Shooting On South Side « CBS Chicago
+=======
+Charleston shooting | US news | The Guardian
+
+Charleston shooting | US news | The Guardian
+>>>>>>> origin/master
 
 
 
@@ -16,14 +22,22 @@ Police Officer Hurt In Fatal Shooting On South Side « CBS Chicago
 
 
 
+<<<<<<< HEAD
 
 
 
 Chicago
+=======
+Close
+
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Radio.com
 
 
@@ -347,11 +361,20 @@ View Comments
 
 (CBS)
 
+=======
+
+Skip to main content
+
+ 
+
+
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 Related Tags:
 
 
@@ -366,17 +389,28 @@ shooting
 South Side
 
 
+=======
+
+
+
+
+sign in
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 Featured & Trending:
 
 
+=======
 
 
+subscribe
+>>>>>>> origin/master
 
 
 
@@ -384,10 +418,18 @@ Featured & Trending:
 
 
 
+<<<<<<< HEAD
+=======
+search
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+jobs
+>>>>>>> origin/master
 
 
 
@@ -398,6 +440,7 @@ Featured & Trending:
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -412,20 +455,32 @@ Featured & Trending:
 
 
 
+=======
+more
 
 
+from the guardian:
 
 
+jobs
 
 
 
+change edition:
 
 
 
+switch to the  UK  edition
 
 
+switch to the  AU  edition
 
 
+switch to the 
+INT
+beta
+ edition
+>>>>>>> origin/master
 
 
 
@@ -434,18 +489,38 @@ Featured & Trending:
 
 
 
+<<<<<<< HEAD
+=======
+US edition
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+switch to the 
+UK edition
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+switch to the 
+Australia edition
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+switch to the 
+International
+beta
+>>>>>>> origin/master
 
 
 
@@ -456,6 +531,10 @@ Featured & Trending:
 
 
 
+<<<<<<< HEAD
+=======
+The Guardian
+>>>>>>> origin/master
 
 
 
@@ -472,10 +551,16 @@ Featured & Trending:
 
 
 
+<<<<<<< HEAD
 
 
+=======
+home
 
 
+›
+US
+>>>>>>> origin/master
 
 
 
@@ -486,51 +571,132 @@ Featured & Trending:
 
 
 
+<<<<<<< HEAD
+=======
+home
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+US
+selected
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+world
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+opinion
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+sports
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+soccer
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+tech
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+arts
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+lifestyle
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+fashion
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+business
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+travel
+>>>>>>> origin/master
 
+
+
+
+<<<<<<< HEAD
+=======
+environment
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+science
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+browse all sections
+close
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
 Latest News Headlines:
 
 
@@ -575,33 +741,10 @@ Wentworth Area detectives and the Independent Police Review Authority, which inv
 
 
 © Sun-Times Media Wire Chicago Sun-Times 2011. All Rights Reserved. This material may not be published, broadcast, rewritten, or redistributed.
+=======
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-View Comments
  
 
 
@@ -612,6 +755,24 @@ View Comments
 
 
 
+Charleston shooting
+
+Tuesday
+
+30
+June
+2015
+
+
+
+
+
+
+
+
+
+
+>>>>>>> origin/master
 
 
 
@@ -623,17 +784,85 @@ View Comments
 
 
 
+
+<<<<<<< HEAD
+
+
+=======
+The west has normalised racist wars - but you can’t solve complex problems with 1,000lb bombs
+
+Frankie Boyle
+
+‘Radicalisation’ is our new dirty word in the US and UK, yet radical change is needed. Here’s an idea: stop trying to fix the world with high explosives
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+The west has normalised racist wars - but you can’t solve complex problems with 1,000lb bombs
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+View Comments
+ 
+=======
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+
+
+=======
+Obama's 'Amazing Grace' is a sign of music's powerful role in black churches
+
+Guthrie P Ramsey
+
+Obama united his audience – mostly black church-goers – with their history, and joined himself to that history
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Listen Live
+=======
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+Obama's 'Amazing Grace' is a sign of music's powerful role in black churches
+>>>>>>> origin/master
 
 
 
 
 
 
-
-
-
-
+<<<<<<< HEAD
  
 
 
@@ -663,10 +892,15 @@ Eight Wounded In Thursday Shootings Across Chicago
 Most recently, two men were shot late Thursday in the West Side Austin neighborhood. The men, ages 19 and 20, were standing outside in the 1500 block of North Linder about 10:25 p.m. when shots were fired in their direction from a group of males standing on the corner across the street, according to Chicago Police.
  
 80
+=======
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Follow 
 CBS Chicago
 
@@ -674,6 +908,27 @@ CBS Chicago
 
 
 
+=======
+
+
+
+Nikki Haley and the Confederate flag: the latest battle in career that defies the odds
+
+
+The 43-year-old Indian American governor, one of the Republican party’s unlikeliest stars, finds herself squarely in the spotlight again for her call to remove the Confederate flag from the South Carolina statehouse grounds
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+Nikki Haley and the Confederate flag: the latest battle in career that defies the odds
+>>>>>>> origin/master
 
 
 
@@ -685,15 +940,10 @@ CBS Chicago
 
 
 
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 Follow @CBSChicago
+=======
+>>>>>>> origin/master
 
 
 
@@ -701,48 +951,89 @@ Follow @CBSChicago
 
 
 
+<<<<<<< HEAD
 
 
 
 
 
 Like us on foursquare
+=======
+These lone wolf terrorists are not holy warriors
+
+Nabila Ramdani
+
+Nowadays any vengeful inadequate can claim a link with global terror. All it takes is a selfie and a flag for instant international infamy
+
+
+
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
+=======
+These lone wolf terrorists are not holy warriors
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+Older
+Newer
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+
+
+
+=======
+Topics
+
+
+
+Race issues
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+Military
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+US politics
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+Obama administration
+>>>>>>> origin/master
 
 
 
 
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 Follow More Stations and Personalities
 
 
@@ -806,18 +1097,53 @@ dodgerman
 
  
 
+=======
+Islam
+
+
+
+More…
+
+
+
+US military
 
 
 
 
+South Carolina
 
 
 
 
+Islamic State
 
 
 
 
+Europe
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+France
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+US crime
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
@@ -842,6 +1168,29 @@ New Podcast Network
 Download Our New Weather App!
  
 
+=======
+Middle East and North Africa
+
+
+
+
+Gun crime
+
+
+
+
+Al-Qaida
+
+
+
+
+David Cameron
+
+
+
+
+Tunisia
+>>>>>>> origin/master
 
 
 
@@ -851,17 +1200,25 @@ Download Our New Weather App!
 
 
 
+<<<<<<< HEAD
  
+=======
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+The Guardian
+>>>>>>> origin/master
 
 
 
 
 
 
-
-
-
-
+<<<<<<< HEAD
 News
 
 
@@ -886,10 +1243,31 @@ Weather
 
 
 Traffic
+=======
+
+
+back to top
 
 
 
 
+
+
+
+
+
+
+
+
+
+
+home
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 Sports
@@ -918,15 +1296,49 @@ Podcasts
 Blogs
 
 
+=======
+US
+selected
 
 
 
 
+world
+
+
+
+
+opinion
+
+
+
+
+sports
+
+
+
+
+soccer
+
+
+
+
+tech
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Scores & Stats
+=======
+arts
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 NFL Football
 
 
@@ -939,15 +1351,33 @@ NBA Basketball
 NHL Hockey
 
 
+=======
+lifestyle
 
 
 
 
+fashion
+
+
+
+
+business
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Contact Us
+=======
+travel
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 CBS 2
 
 
@@ -968,10 +1398,31 @@ Mobile
 
 
 Corporate
+=======
+environment
 
 
 
 
+science
+
+
+
+
+
+
+
+all sections
+close
+
+
+
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 About Us
 
 
@@ -990,19 +1441,47 @@ Mobile
 Connect
 
 
+=======
+home
 
 
 
 
+US
+selected
 
 
 
 
+world
+
+
+
+
+UK
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+europe
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Chicago Business Listings
+=======
+americas
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Restaurants
 
 
@@ -1016,14 +1495,32 @@ Professional Services
 
 
 Search Listings
+=======
+asia
 
 
 
 
+middle east
 
 
 
 
+africa
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+australia
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 By viewing our video content, you are accepting the terms of our 
 Video Services Policy
 
@@ -1073,14 +1570,59 @@ WordPress.com VIP
 
 
  
+=======
+cities
+
+
+
+
+development
 
 
 
 
 
 
+opinion
 
 
+
+
+sports
+
+
+
+
+soccer
+
+
+
+
+MLS
+
+
+
+
+NFL
+
+
+
+
+MLB
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+NBA
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 Facebook
@@ -1090,10 +1632,21 @@ Twitter
 
 
 RSS
+=======
+NHL
 
 
 
 
+
+
+soccer
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 Other CBS Local Cities 
@@ -1174,14 +1727,89 @@ CBS Tampa
 
 
 CBS Washington
+=======
+live scores
+
+
+
+
+tables
+
+
+
+
+competitions
+
+
+
+
+results
+
+
+
+
+fixtures
+
+
+
+
+clubs
 
 
 
 
 
 
+tech
 
 
+
+
+arts
+
+
+
+
+movies
+
+
+
+
+tv & radio
+
+
+
+
+music
+
+
+
+
+games
+
+
+
+
+books
+
+
+
+
+art & design
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+stage
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 ©2015 CBS Local Media,
@@ -1189,18 +1817,32 @@ CBS Washington
 a division of CBS Radio Inc.
  
 All rights reserved.
+=======
+classical
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+lifestyle
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+food
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Buy Tickets
 Order Food
  
@@ -1219,24 +1861,45 @@ Email Alerts
 Daily Deals
 50% Off From ATE Accessories
  
+=======
+health & fitness
+
+
+
+
+love & sex
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+family
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+women
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+home & garden
+>>>>>>> origin/master
 
 
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 
 
 Log In
@@ -1256,47 +1919,99 @@ Twitter
 
 
 Youtube
+=======
+fashion
+
+
+
+
+business
+
+
+
+
+economics
+
+
+
+
+sustainable business
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+diversity & equality in business
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+small business
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+travel
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+USA
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+europe
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+UK
+>>>>>>> origin/master
 
 
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 
 
 Listen Live
 
 
+=======
+environment
 
 
 
 
+climate change
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 AM/FM Stations
@@ -1322,15 +2037,45 @@ B96
 WBBM NewsRadio
 
 
+=======
+wildlife
 
 
 
 
+energy
+
+
+
+
+pollution
+
+
+
+
+
+
+science
+
+
+
+
+media
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Featured Shows & Multimedia
+=======
+crosswords
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Play.It
 
 
@@ -1341,6 +2086,15 @@ CBS Sports Radio
 
 
 Radio.com
+=======
+video
+
+
+
+
+
+
+>>>>>>> origin/master
 
 
 
@@ -1348,6 +2102,7 @@ Radio.com
 
 
 
+<<<<<<< HEAD
 
 Advertise On Our Streams
 
@@ -1363,6 +2118,31 @@ Advertise On Our Streams
 
 
 
+=======
+jobs
+
+subscribe
+all topics
+all contributors
+
+
+report technical issue
+
+
+
+about us
+
+contact us
+
+complaints & corrections
+terms & conditions
+privacy policy
+cookie policy
+securedrop
+
+
+© 2015 Guardian News and Media Limited or its affiliated companies. All rights reserved.
+>>>>>>> origin/master
 
 
 
@@ -1382,6 +2162,7 @@ Advertise On Our Streams
 
  
 
+<<<<<<< HEAD
 
 
 
@@ -1419,3 +2200,5 @@ Advertise On Our Streams
 
 
 
+=======
+>>>>>>> origin/master

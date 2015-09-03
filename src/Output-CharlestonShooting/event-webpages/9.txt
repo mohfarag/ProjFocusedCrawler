@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Shooting at historic black church in Charleston, South Carolina.
 
 
@@ -1336,10 +1337,55 @@ How and When Will the Sun Die?
 
 
  
+=======
+9 people dead in shooting at historically black church in Charleston | WJHL
+9 people dead in shooting at historically black church in Charleston | WJHL
+
+
+
+HomeNews
+
+WJHL Live Stream
+Local News
+Watch and Win
+Regional News
+National News
+International News
+Strange News
+Consumer
+Entertainment
+Habitat Home
+Community Events
+Top Videos
+4th of July
+Watch Live: CBS News
+Watch CBS Shows
+Sign up for text alerts!
+Upload your pics and videos!
+
+
+Weather
+
+Mark’s Weather Blog
+Closings
+Current Conditions
+Forecast
+Radar
+Satellite
+SatRad
+Severe
+Weather Alerts
+General Shale Skycams
+Pal’s Photo in a Flash
+Umbrella Giveaway
+Sign up for text alerts!
+Upload your weather pics and videos
+>>>>>>> origin/master
 
 
 Sports
 
+<<<<<<< HEAD
 
 
 
@@ -1421,6 +1467,40 @@ It Took 22 Years for the Women’s 1,500-Meters Record to Fall. What's the Faste
 
 
 
+=======
+High School Sports
+College Sports
+Pro & National Sports
+NASCAR and Motor sports
+Bristol Motor Speedway
+
+
+Investigations
+Daytime
+
+Buddy Check 11
+
+
+Health Corner
+More
+
+Contact Us
+About
+
+WJHL: Celebrating 60 Years
+
+
+Meet Our Team
+Advertise with us!
+
+Advertising Terms and Conditions and Credit Policy
+
+
+WJHL TV Listings
+Children’s Programming
+Closed Captioning
+Media General Terms and Conditions of Use
+>>>>>>> origin/master
 
 
 
@@ -1431,6 +1511,7 @@ It Took 22 Years for the Women’s 1,500-Meters Record to Fall. What's the Faste
 
 
 
+<<<<<<< HEAD
 
 Slate
 
@@ -1497,6 +1578,13 @@ Consumer Reports'
 5.
  
 Why the Hillary Doubters Are Wrong
+=======
+ 
+
+
+
+
+>>>>>>> origin/master
 
 
 
@@ -1509,15 +1597,25 @@ Why the Hillary Doubters Are Wrong
 
 
 
+<<<<<<< HEAD
 Most Shared
 
 
+=======
+72° F
+
+Broken Clouds
+
+Hi: 85° F
+Lo: 68° F
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 1.
  
 The Story Behind the One-Pan, Nine-Minute Pasta Recipe That Took Over the Internet
@@ -1526,20 +1624,59 @@ The Story Behind the One-Pan, Nine-Minute Pasta Recipe That Took Over the Intern
 
 
 
+=======
+Radar
+Forecast
+Current Conditions
+ 
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 2.
  
 Home Schooling Is Shockingly Underregulated. This Small but Fierce Lobbying Group Is Why.
+=======
+Menu
+Skip to content
+ 
+Home
+News
+
+
+News
+
+WJHL Live Stream
+Local News
+Watch and Win
+Regional News
+National News
+International News
+Strange News
+Consumer
+Entertainment
+Habitat Home
+Community Events
+Top Videos
+4th of July
+Watch Live: CBS News
+Watch CBS Shows
+Sign up for text alerts!
+Upload your pics and videos!
+
+ 
+Latest Headlines
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -1550,6 +1687,16 @@ Why Do New York Bagel Places Put So Much Cream Cheese on Their Bagels? A
 Slate
  Investigation.
 
+=======
+Asian stocks rise but Greece uncertainty lingers
+
+
+	Updated: 7 mins ago
+
+
+
+TOKYO (AP) — Asian stock markets were higher Monday, extending a recovery from turmoil last week, but attention remained nervously focused o…
+>>>>>>> origin/master
 
 
 
@@ -1559,6 +1706,7 @@ Slate
 
 
 
+<<<<<<< HEAD
 4.
  
 Walmart Will Stop Selling Assault Rifles
@@ -1567,11 +1715,22 @@ Walmart Will Stop Selling Assault Rifles
 
 
 
+=======
+Miss Oklahoma wins Miss USA contest
+
+
+	Updated: 7 mins ago
+
+
+
+BATON ROUGE, La. (AP) — Olivia Jordan of Oklahoma was crowned Miss USA on Sunday, beating out 50 other contestants and overcoming weeks of c…
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 5.
  
 “Porn Addiction” Is Often Just an Attempt to Medicalize Religious Dogma
@@ -1580,6 +1739,43 @@ Walmart Will Stop Selling Assault Rifles
 
 
 
+=======
+
+
+
+Big League District 5 takes state championship
+
+
+	Updated: 17 mins ago
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
+
+
+=======
+Nintendo President Satoru Iwata dies of tumor
+
+
+	Updated: 57 mins ago
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
+
+
+=======
+D’Army Bailey, National Civil Rights Museum founder, dies
+
+
+	Updated: 7 mins ago
+>>>>>>> origin/master
 
 
 
@@ -1587,45 +1783,68 @@ Walmart Will Stop Selling Assault Rifles
 
 
 
+<<<<<<< HEAD
 
 
 
 
+=======
+Weather
+
+
+Weather
+
+Mark’s Weather Blog
+Closings
+Current Conditions
+Forecast
+Radar
+Satellite
+SatRad
+Severe
+Weather Alerts
+General Shale Skycams
+Pal’s Photo in a Flash
+Umbrella Giveaway
+Sign up for text alerts!
+Upload your weather pics and videos
+
+ 
+Current Conditions
+>>>>>>> origin/master
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 No Photos, Please
 
 
 
 
 
+=======
 
 
+72° F
+Broken Clouds
 
 
 
+Feels Like: 72° F
+Wind:  6
+Humidity: 94%
+Dewpoint: 70° F
+Sunrise: 6:21 AM
+Sunset: 8:48 PM
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -1654,45 +1873,168 @@ No Photos, Please
 
 
 
+=======
+Tri-Cities Weather
 
 
 
+Forecast
 
 
 
+Radar
 
 
 
 
+Currently
 
 
 
+Skycams
 
+ Sponsored by: 
 
 
+Sports
 
+High School Sports
+College Sports
+Pro & National Sports
+NASCAR and Motor sports
+Bristol Motor Speedway
 
 
+Investigations
+Daytime
 
+Buddy Check 11
 
 
+Health Corner
+More
 
+Contact Us
+About
 
+WJHL: Celebrating 60 Years
 
 
+Meet Our Team
+Advertise with us!
 
+Advertising Terms and Conditions and Credit Policy
 
 
+WJHL TV Listings
+Children’s Programming
+Closed Captioning
+Media General Terms and Conditions of Use
 
 
+ 
 
+Search for:
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+Search the site
+>>>>>>> origin/master
 
+
+
+
+
+
+
+<<<<<<< HEAD
+
+
+=======
+72° F
+
+Broken Clouds
+
+Hi: 85° F
+Lo: 68° F
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+
+
+
+
+=======
+9 people dead in shooting at historically black church in Charleston
+
+
+WCBD News Staff
+
+	Published: June 17, 2015, 11:23 pm
+
+	Updated: June 18, 2015, 4:33 pm
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+Click to share on Twitter (Opens in new window)
+Click to share on Google+ (Opens in new window)
+Share on Facebook (Opens in new window)
+Click to share on Pinterest (Opens in new window)
+>>>>>>> origin/master
+
+
+
+
+
+
+
+<<<<<<< HEAD
 
 FOLLOW SLATE
+=======
+CHARLESTON, SC (WCBD) – A gunman remains at large after nine people were fatally shot just after 9 P.M. on Wednesday night, during a bible study session at Emanuel AME Church in downtown Charleston. Officials are calling the shooting a hate crime. The church where the shooting occurred is one of the nation’s oldest and most prominent African-American churches.
+
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
+=======
+Worshippers gather to pray down the street from the Emanuel AME Church following a shooting Wednesday, June 17, 2015, in Charleston, S.C. (AP Photo/David Goldman) Click here to see more photos. 
+According to officials, 8 people died at the scene and 2 others were injured. Two of the wounded were rushed to the hospital and one of those victims later died. Among the victims was the church’s pastor, the Rev. Clementa C. Pinckney, 41, a Democratic member of the state Senate.
+At a press conference on Wednesday night with Mayor Joseph P. Riley Jr., City of Charleston Police Chief Gregory Mullen said “I do believe this was a hate crime.” The Charleston Police Department said that the shooting took place at 110 Calhoun St. Authorities are searching for a white male in his 20’s.  We’re told the suspect was wearing a gray sweatshirt (possibly a hoodie) and Timberland boots. Chief Mullen said that a reward will be offered and the suspect is “extremely dangerous.”
+Chief Mullen addressed the recent violence in Charleston and said “We need the community to look at this and say: We have had enough of this violence and if we stand up together, we can stop this violence. And that’s what we need the community to do. I understand that people might be angry and I understand that people might be upset. And that is certainly emotions that we all understand but what we need to do is come together and help us, to one support the families, support our community and catch this person so he doesn’t hurt somebody else.”
+“This is the most unspeakable and heartbreaking tragedy,” Mayor Joe Riley Jr. said early Thursday, saying the gunman had to be a “hate-filled person.”
+CPD has released images of the suspect. If you have any information on his whereabouts, please call 1-800-225-5324
+Two press conferences were held on Thursday morning by the City of Charleston Police Chief Gregory Mullen and Charleston Mayor Joseph P. Riley Jr. At the 6:00 A.M. press conference, details about the suspect were released along with pictures of the suspect leaving the church and pictures of his vehicle. Those images are attached to this article. If you know anything about this suspect or his whereabouts, you are asked to call 1-800-225-5324.
+Another press conference was held at 7:00 A.M. with Charleston Officials including SLED, Mayor Riley and Chief Mullen. Chief Mullen said as soon as police arrived at the scene, they found 8 deceased victims and 2 injured victims. One of the injured victims died in the hospital and the condition of the second victim has not been released. The names of the deceased victims will come from the Coroner’s office as soon as the family members are notified. Three of the victims were male and 6 were female that died from gunshot wounds. He said the suspect was in the church participating in the event for one hour before he opened fire. He said there were three survivors in the church after the shooting. The survivors’ names or condition have not been released just yet.
+Chief Mullen also stressed that the suspect is a very dangerous individual and stressed for individuals TO NOT APPROACH SUSPECT if they see him but to call 1-800-225-5324.
+At the press conference, Mayor Riley said the suspect is “a no good, horrible person and we will see that he pays the price. We want to put our arms around that church and that church family.”
+The Rev. Norvel Goff, presiding elder of the Edisto District of the state conference of the AME Church, said a prayer vigil would be held at noon Thursday.Our crews on scene tell us about 30 emergency responders are on scene. Of those responders, The Federal Bureau of Investigation and the Federal Bureau of Alcohol, Tobacco, Firearms and Explosives are assisting in the investigation and the search for the gunman. The City of Charleston Police Department has kept the public updated on their twitter account. At 7:10 A.M. they asked for help to find the suspect in the shooting at 110 Calhoun Street and attached a picture of the suspect leaving the church.
+>>>>>>> origin/master
 
 
 
@@ -1700,11 +2042,7 @@ FOLLOW SLATE
 
 
 
-
-
-
-
-
+<<<<<<< HEAD
 SLATE ON
 
 
@@ -1718,34 +2056,81 @@ ANDROID
 
 
 KINDLE
+=======
 
 
 
 
+
+
+
+
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 REPRINTS
 
 
 ADVERTISE WITH US
+=======
+Republican presidential candidate Jeb Bush, who had been scheduled to campaign Thursday in Charleston, canceled the events “due to the tragic events unfolding in South Carolina tonight,” his campaign said.
+Democratic presidential candidate Hillary Clinton was in South Carolina campaigning earlier Wednesday but left the state before the shooting took place. “Heartbreaking news from Charleston – my thoughts and prayers are with you all,” she said in a Tweet.
+Both Governor Nikki Haley and Senator Tim Scott have already released statements on shooting.
+Gov. Haley said, “Michael, Rena, Nalin and I are praying for the victims and families touched by tonight’s senseless tragedy at Emanuel AME Church. While we do not yet know all of the details, we do know that we’ll never understand what motivates anyone to enter one of our places of worship and take the life of another. Please join us in lifting up the victims and their families with our love and prayers.”
+Senator Scott said, “My heart is breaking for Charleston and South Carolina tonight. This senseless tragedy at a place of worship – where we come together to laugh, love and rejoice in God’s name – is absolutely despicable and can never be understood. Tonight we stand together in prayer for Pastor Pinckney and his congregation at Emanuel AME , and for the families who are enduring unimaginable pain at the loss of their loved ones. We will come together as a city and as a state to lift up those who need us most right now. I hope for their sake, and for the people of Charleston, that the perpetrators of this terrible crime are swiftly brought to justice.”
+
+PHOTOS: Mass shooting at Charleston church 
+Shelby Police Department Press Release on Dylann Roof’s capture (.pdf)
+
+
+
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
+
+
+=======
+ 
+Previous story
+Authorities in Charleston, South Carolina are responding to what’s being called a mass shooting at a church. Sources said multiple people were shot and that a suspect is not in custody.
+
+According to the Charleston Police Department’s Twitter, it happened about 9:00pm Wednesday at a Emmanuel AME on Calhoun Street.
+At least six ambulances were spotted in the area of the shooting. We’re told the FBI and the chaplain service are also on the scene.
+News Channel 11 also received video of police arresting someone who could potentially be a suspect.
+CPD officials have not released any information yet on any victims.
+Copyright 2015 WJHL. All rights reserved.
+Share this:Click to share on Twitter (Opens in new window)Share on Facebook (Opens in new window)Click to share on Google+ (Opens in new window)Click to share on Reddit (Opens in new window)Click to print (Opens in new window)Click to email this to a friend (Opens in new window)MoreClick to share on LinkedIn (Opens in new window)Click to share on Pinterest (Opens in new window)Click to share on Pocket (Opens in new window)
+
+Advertisement
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
+
+
+=======
+Post navigation
+
+
+Previous post in this category
+>>>>>>> origin/master
 
 
 
 
-
-
-
-
+<<<<<<< HEAD
 ABOUT US
 
 
@@ -1754,10 +2139,21 @@ CONTACT US
 
 WORK WITH US
 
+=======
+20 charged after numerous drugs, money seized in Southwest VA
+
+Crime
 
 
 
 
+Next post in this category
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 USER AGREEMENT
 
@@ -1766,16 +2162,31 @@ PRIVACY POLICY
 
 
 FAQ
+=======
+Selfie posted to Facebook lands Knoxville felon behind bars
+
+Crime
+
+
+
+
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 FEEDBACK
 
 
 CORRECTIONS
+=======
+
+
+blog comments powered by Disqus
+>>>>>>> origin/master
 
 
 
@@ -1783,23 +2194,159 @@ CORRECTIONS
 
 
 
+<<<<<<< HEAD
+
+=======
+Advertisement
+
+Trending on WJHL.com   
+>>>>>>> origin/master
 
 
 
 
-
+<<<<<<< HEAD
 Slate is published by The Slate Group, a Graham Holdings Company. All contents ©
           2015 The Slate Group
           LLC. All rights reserved.
+=======
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+ 
+=======
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+
+
+=======
+My TweetsSearch stories by date 
+June 2015
+
+
+S
+M
+T
+W
+T
+F
+S
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+« May
+ 
+Jul »
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=======
+ 123456
+
+
+78910111213
+
+
+14151617181920
+
+
+21222324252627
+
+
+282930
+ 
+
+
+Advertisement
+
+
+Advertisement 
+
+
+Advertisement
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
+
+
+
+
+
+Slate
+
+=======
+WJHL
+Copyright 2015 WJHL. All rights reserved.
+Powered by WordPress.com VIP
+
+
+BusinessContact Us
+Media General Terms and Conditions of Use
+Advertising Terms and Conditions and Credit Policy
+Work With Us
+FCC Public File
+EEO Public Filings
+Children’s Programming
+Closed Captioning
+SectionsNews
+Weather
+Sports
+Daytime Tri-Cities
+Investigative
+Just For Kids
  
 
 
+Follow
+
+
+Subscribe via RSS
+Follow us on Twitter
+Join us on Facebook
+Follow us on YouTube
+Follow us on Google+
+Follow us on Instagram
+>>>>>>> origin/master
 
 
 
@@ -1815,34 +2362,10 @@ Slate is published by The Slate Group, a Graham Holdings Company. All contents �
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 Slate
+=======
+>>>>>>> origin/master
 
 
 
@@ -1853,23 +2376,7 @@ Slate
 
 
 
-
-
-
-
-
-
-Slate
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 Sign In
 
 
@@ -1879,6 +2386,68 @@ Sign Up
 
 
 
+=======
+
+
+
+
+
+Follow
+
+Follow “WJHL”
+
+Get every new post delivered to your Inbox.
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+Build a website with WordPress.com
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+
+
+=======
+Send to Email Address
+
+Your Name
+
+Your Email Address
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
+
+
+
+=======
+Cancel
+
+				Post was not sent - check your email addresses!			
+
+				Email check failed, please try again			
+
+				Sorry, your blog cannot share posts by email.			
+>>>>>>> origin/master
 
 
 
@@ -1902,32 +2471,8 @@ Sign Up
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
+=======
+ 
+>>>>>>> origin/master
 

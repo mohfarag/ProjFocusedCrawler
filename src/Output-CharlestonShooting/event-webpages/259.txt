@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Jerame Reid's family calls for federal investigation into fatal police shooting | US news | The Guardian
 
 
@@ -20,6 +21,11 @@ Jerame Reid's family calls for federal investigation into fatal police shooting 
 
 
 
+=======
+Charleston shooting: we need prayer, but also an end to this political genocide | Comment is free | The Guardian
+
+Charleston shooting: we need prayer, but also an end to this political genocide | Comment is free | The Guardian
+>>>>>>> origin/master
 
 
 
@@ -44,6 +50,13 @@ Close
 
 
 
+<<<<<<< HEAD
+
+=======
+Skip to main content
+
+ 
+>>>>>>> origin/master
 
 
 
@@ -53,13 +66,49 @@ Close
 
 
 
-
+<<<<<<< HEAD
 Skip to main content
 
 
 
 
  
+=======
+
+
+sign in
+
+
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+subscribe
+>>>>>>> origin/master
+
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+search
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+jobs
+>>>>>>> origin/master
 
 
 
@@ -70,23 +119,7 @@ Skip to main content
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 
 
 
@@ -102,45 +135,99 @@ sign in
 
 
 
+=======
+more
 
 
-
-
-
-
-
-subscribe
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-search
-
-
-
-
-
-
-
-
+from the guardian:
 
 
 jobs
 
 
 
+change edition:
+
+
+
+switch to the  UK  edition
+
+
+switch to the  AU  edition
+
+
+switch to the 
+INT
+beta
+ edition
+>>>>>>> origin/master
+
+
+
+
+
+
+
+<<<<<<< HEAD
+subscribe
+
+=======
+
+US edition
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+switch to the 
+UK edition
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+switch to the 
+Australia edition
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+
+
+
+search
+=======
+switch to the 
+International
+beta
+
+
+
+>>>>>>> origin/master
+
+
+
+
+
+
+
+<<<<<<< HEAD
+
+
+
+jobs
+=======
+The Guardian
+
+
+
+>>>>>>> origin/master
 
 
 
@@ -154,12 +241,24 @@ jobs
 
 
 
+<<<<<<< HEAD
+
+
+=======
+home
+
+
+›
+opinion
+>>>>>>> origin/master
 
 
 
 
 
 
+
+<<<<<<< HEAD
 more
 
 
@@ -169,28 +268,59 @@ more
 
 from the guardian:
 
+=======
+
+
+
+home
 
 
 
 
+US
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 jobs
 
 
 
+=======
+world
 
 
 
 
+opinion
+selected
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 change edition:
 
 
 
+=======
+sports
 
 
 
 
+soccer
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 switch to the 
  UK 
@@ -205,10 +335,24 @@ switch to the
  AU 
  edition
 
+=======
+tech
 
 
 
 
+arts
+
+
+
+
+lifestyle
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 switch to the 
 
@@ -221,29 +365,58 @@ beta
 
  edition
 
+=======
+fashion
+
+
+
+
+business
+
+
+
+
+travel
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+environment
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+science
+>>>>>>> origin/master
 
 
 
 
 
 
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 
 
 US edition
+=======
+browse all sections
+close
+
+
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -251,12 +424,21 @@ switch to the
 
 
 UK edition
+=======
+ 
+
+
+
+
+
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -265,6 +447,17 @@ switch to the
 
 
 Australia edition
+=======
+Charleston shooting
+
+
+Comment is free
+
+
+
+Charleston shooting: we need prayer, but also an end to this political genocide
+
+>>>>>>> origin/master
 
 
 
@@ -273,6 +466,7 @@ Australia edition
 
 
 
+<<<<<<< HEAD
 
 
 switch to the 
@@ -282,6 +476,15 @@ International
 
 
 beta
+=======
+After the killings, there was urgency about arresting Dylann Roof, but where’s the urgency to address the conditions that led to the tragedy?
+
+
+
+
+
+
+>>>>>>> origin/master
 
 
 
@@ -294,6 +497,7 @@ beta
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -305,6 +509,31 @@ beta
 
 
 The Guardian
+=======
+People gather outside Emanuel Church a day after the mass shooting. Photograph: Brian Snyder/Reuters
+
+
+
+Rev 
+Jesse Jackson
+
+
+Saturday 20 June 2015 18.03 EDT
+
+
+Last modified on Sunday 21 June 2015 04.19 EDT
+
+
+
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+Share on Facebook
+>>>>>>> origin/master
 
 
 
@@ -312,6 +541,10 @@ The Guardian
 
 
 
+<<<<<<< HEAD
+=======
+Share on Twitter
+>>>>>>> origin/master
 
 
 
@@ -319,6 +552,10 @@ The Guardian
 
 
 
+<<<<<<< HEAD
+=======
+Share via Email
+>>>>>>> origin/master
 
 
 
@@ -326,6 +563,10 @@ The Guardian
 
 
 
+<<<<<<< HEAD
+=======
+Share on Pinterest
+>>>>>>> origin/master
 
 
 
@@ -333,23 +574,40 @@ The Guardian
 
 
 
-
-
-
-
+<<<<<<< HEAD
 
 
 home
+=======
+Share on LinkedIn
+
+
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 
 ›
 
 
 US
+=======
+Share on Google+
+
+
+
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+Share on WhatsApp
+>>>>>>> origin/master
 
 
 
@@ -364,70 +622,126 @@ US
 
 
 
-
-
-
-
+<<<<<<< HEAD
 home
 
 
 
+=======
+
+
+
+Not unlike the four little girls killed in a church bombing in Birmingham, Alabama, in 1963, the nation and the world are saddened and outraged at the hatred and senseless killing of nine African Americans in the historic Emanuel AME Church in Charleston, South Carolina. The dead include its pastor and a state senator. Over three decades ago Operation Push – the organisation I founded in 1971 to improve the economic status of African Americans – held its national convention in this church.
+And, not unlike the economic and political context of Birmingham, the nation and its leadership are still failing to see, understand and come to grips with the underlying economic and political circumstances that led to such a tragedy. This young white man responsible for the killings, Dylann Roof, did not originate terrorism. He is merely reflecting decades and centuries of institutional and active political terrorism. There were 164 lynchings of African Americans between 1877 and 1950 in South Carolina.
+The shooting in Charleston is the result of institutionalised racism, centuries of dehumanisation and the current denial of economic and political equality of opportunity. Today everyone is outraged at the killings, but there is not the same outrage that African Americans have the highest rates of infant mortality, unemployment, of being denied access to capital and bank loans, of imprisonment, segregated housing and home foreclosures, segregated and underfunded public schools, poverty, heart disease, liver disease, diabetes, mental health issues, HIV/Aids and more. We ignore this institutionalised state of terror and the resulting racial fears at our peril.
+There was an urgency to identify and arrest Roof before he hurt anyone else, but there is not the same urgency to identify and arrest the current economic and political conditions – the institutional racism and structural injustices – before anyone else gets hurt. Today in South Carolina a historically black university, South Carolina State, is on the verge of closing, but I don’t see the same urgency to save it by the governor and the South Carolina legislature. Governor Nikki Haley appropriately asked South Carolinians to pray for the victims of these killings and their families and decried violence at religious institutions. But she denies poor people access to healthcare by refusing to accept Medicaid monies under the Affordable Care Act – which is jeopardising the economic viability of the state’s hospitals and costing South Carolinians thousands of jobs – and she still flies the Confederate flag on the Capitol grounds.
+But these injustices and indifferences are not limited to South Carolina. They’re national in scope. We need a White House Conference on racial justice and urban policy to make sure no one else is being hurt because of economic, political and leadership indifference or lack of vision about what needs to be done. Racism deserves a remedy.
+We need the president, the congress, the 50 governors and state legislatures to all put the same effort, resources and energy into ending the crime of racism, economic injustice and political denial throughout the nation. We’ve had enough Michael Brown, Eric Garner, Tamir Rice and Walter Scott killings. We’ve had enough infant mortality deaths. We’ve had enough unemployment –always at least twice the rate of white unemployment.
+We’ve had enough of segregated and inadequately funded educational opportunities. We’ve had enough of a lack of access to capital and health care. We’ve had enough of homelessness and home foreclosures. We need prayer and we need hope, but we also need a political commitment and a financial budget committed to ending this protracted political genocide.
+We need leadership with a vision for racial justice. We need an investment for economic justice – the current rising tide hasn’t lifted all boats. And we need fairness in political representation. That’s what we need if we are ever going to put an end to the protracted “political genocide” of which African Americans have been the victims for nearly 400 years in the United States. We deserve equal economic and political opportunity. We deserve equal justice under the law.
+Jesse Jackson is the founder and president of the Rainbow Push Coalition, and one of America’s leading civil rights activists
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 US
 
 selected
+=======
+More comment 
+Topics
+
+
+
+Charleston shooting
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+Race issues
+>>>>>>> origin/master
 
 
 
 
 
-
-
-
-
+<<<<<<< HEAD
 world
+=======
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 
 
 
 opinion
+=======
+Share on Facebook
+
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+Share on Twitter
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 sports
 
 
 
+=======
+
+
+
+Share via Email
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 soccer
 
 
+=======
+
+
+Share on Pinterest
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 tech
 
+=======
+
+Share on LinkedIn
+>>>>>>> origin/master
 
 
 
@@ -435,7 +749,11 @@ tech
 
 
 
+<<<<<<< HEAD
 arts
+=======
+Share on Google+
+>>>>>>> origin/master
 
 
 
@@ -443,8 +761,13 @@ arts
 
 
 
+<<<<<<< HEAD
 
 lifestyle
+=======
+Share on WhatsApp
+
+>>>>>>> origin/master
 
 
 
@@ -453,7 +776,10 @@ lifestyle
 
 
 
+<<<<<<< HEAD
 fashion
+=======
+>>>>>>> origin/master
 
 
 
@@ -462,7 +788,10 @@ fashion
 
 
 
+<<<<<<< HEAD
 business
+=======
+>>>>>>> origin/master
 
 
 
@@ -471,15 +800,23 @@ business
 
 
 
+<<<<<<< HEAD
 travel
 
 
 
+=======
+
+
+
+View all comments >
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 environment
 
 
@@ -490,19 +827,46 @@ environment
 
 
 science
+=======
+
+
+comments 
+Sign in
+or create your Guardian account to join the discussion.
+
+This discussion is closed for comments.
+
+We’re doing some maintenance right now. You can still read comments, but please come back later to add your own.
+
+
+Commenting has been disabled for this account (why?)
+
+
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 
 
 
 
+=======
+Order by 
+
+
+newest
+
+
+oldest
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 browse 
 all
  sections
@@ -515,6 +879,61 @@ close
 
 
 
+=======
+Show 25
+
+
+25
+
+
+50
+
+
+100
+
+
+All
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+
+
+
+
+
+
+=======
+Threads 
+
+
+collapsed
+
+
+expanded
+
+
+unthreaded
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
+=======
+Loading comments… Trouble loading?
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+View more comments
+>>>>>>> origin/master
 
 
 
@@ -524,6 +943,10 @@ close
 
 
 
+<<<<<<< HEAD
+=======
+ 
+>>>>>>> origin/master
 
 
 
@@ -533,29 +956,17 @@ close
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 
 
 
 New Jersey
+=======
+popular
+
+
+
+>>>>>>> origin/master
 
 
 
@@ -563,9 +974,15 @@ New Jersey
 
 
 
+<<<<<<< HEAD
 Jerame Reid's family calls for federal investigation into fatal police shooting
 
 
+=======
+
+
+ 
+>>>>>>> origin/master
 
 
 
@@ -574,6 +991,10 @@ Jerame Reid's family calls for federal investigation into fatal police shooting
 
 
 
+<<<<<<< HEAD
+=======
+The Guardian
+>>>>>>> origin/master
 
 
 
@@ -582,8 +1003,13 @@ Jerame Reid's family calls for federal investigation into fatal police shooting
 
 
 
+<<<<<<< HEAD
 
 ‘We want justice and peace’: Relatives push for civil rights case after grand jury decided against charges for New Jersey officers in Reid’s death
+=======
+back to top
+
+>>>>>>> origin/master
 
 
 
@@ -597,32 +1023,59 @@ Jerame Reid's family calls for federal investigation into fatal police shooting
 
 
 
+<<<<<<< HEAD
+=======
+home
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+US
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+world
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+opinion
+selected
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 A woman wears a shirt with a photograph of Jerame Reid on it as she listens during a news conference in Bridgeton, New Jersey.
 Photograph: Mel Evans/AP
 
 
+=======
+sports
 
 
 
 
+soccer
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 Associated Press in Bridgeton, New Jersey
 
@@ -634,23 +1087,61 @@ Sunday 23 August 2015
 09.18 EDT
 
 
+=======
+tech
 
 
 
 
+arts
 
 
 
 
+lifestyle
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+fashion
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+business
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 Share on Facebook
 
 
+=======
+travel
+
+
+
+
+environment
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+science
+>>>>>>> origin/master
 
 
 
@@ -658,135 +1149,251 @@ Share on Facebook
 
 
 
-
-
-
-
+<<<<<<< HEAD
 
 
 
 Share on Twitter
+=======
+all sections
+close
+
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+home
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+US
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+world
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Share via Email
+=======
+UK
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+europe
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+americas
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+asia
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Share on Pinterest
+=======
+middle east
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+africa
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+australia
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+cities
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Share on LinkedIn
+=======
+development
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+opinion
+selected
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+sports
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 Share on Google+
 
 
+=======
+soccer
 
 
 
 
+MLS
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+NFL
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+MLB
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 Share on WhatsApp
 
 
+=======
+NBA
+
+
+
+
+NHL
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+soccer
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+live scores
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+tables
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+competitions
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+results
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+fixtures
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+clubs
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 The family of a man shot and killed by police in southern 
 New Jersey
  during a traffic stop in December 2014 is calling for a federal probe into the shooting.
@@ -821,146 +1428,308 @@ Reid ignored the orders and exited the vehicle with his hands up. Both officers 
 
 
 Community activist Walter Hudson said he would seek a federal civil rights investigation, according to the newspaper, and intended to contact New Jersey’s top federal prosecutor.
+=======
+
+
+tech
 
 
 
 
+arts
 
 
 
 
+movies
+
+
+
+
+tv & radio
+
+
+
+
+music
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+games
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 More news 
 
 
 Topics
+=======
+books
 
 
 
 
+art & design
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
 New Jersey
 
+=======
+stage
+
+
+
+
+classical
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 
 US policing
 
 
 
+=======
+lifestyle
 
 
 
 
+food
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+health & fitness
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+love & sex
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+family
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 Share on Facebook
 
 
+=======
+women
+
+
+
+
+home & garden
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+fashion
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+business
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Share on Twitter
+=======
+economics
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+sustainable business
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+diversity & equality in business
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+small business
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Share via Email
 
 
+=======
+
+
+travel
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+USA
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+europe
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 Share on Pinterest
+=======
+UK
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+environment
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+climate change
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+wildlife
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Share on LinkedIn
+=======
+energy
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+pollution
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+science
+>>>>>>> origin/master
 
 
 
 
-
-
-
-
+<<<<<<< HEAD
 
 
 Share on Google+
 
 
+=======
+media
+
+
+
+
+crosswords
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+video
+>>>>>>> origin/master
 
 
 
@@ -971,12 +1740,22 @@ Share on Google+
 
 
 
-
-
-
-
+<<<<<<< HEAD
 Share on WhatsApp
 
+=======
+
+Opinion
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+›
+Charleston shooting
+>>>>>>> origin/master
 
 
 
@@ -985,10 +1764,7 @@ Share on WhatsApp
 
 
 
-
-
-
-
+<<<<<<< HEAD
 
 
 
@@ -2308,6 +3084,31 @@ securedrop
 
 
 
+=======
+jobs
+
+subscribe
+all topics
+all contributors
+
+
+report technical issue
+
+
+
+about us
+
+contact us
+
+complaints & corrections
+terms & conditions
+privacy policy
+cookie policy
+securedrop
+
+
+© 2015 Guardian News and Media Limited or its affiliated companies. All rights reserved.
+>>>>>>> origin/master
 
 
 
@@ -2327,5 +3128,8 @@ securedrop
 
  
 
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> origin/master

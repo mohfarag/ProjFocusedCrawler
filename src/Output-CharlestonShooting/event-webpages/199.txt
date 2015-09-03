@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 Man Shot And Killed By Police On South Side « CBS Chicago
 
 Man Shot And Killed By Police On South Side « CBS Chicago
+=======
+Charleston shooting | US news | The Guardian
+
+Charleston shooting | US news | The Guardian
+>>>>>>> origin/master
 
 
 
@@ -16,6 +22,7 @@ Man Shot And Killed By Police On South Side « CBS Chicago
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -110,6 +117,24 @@ SIGN UP FOR NEWSLETTERS
 
 
 
+=======
+Close
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+
+=======
+Skip to main content
+
+ 
+>>>>>>> origin/master
 
 
 
@@ -121,19 +146,45 @@ SIGN UP FOR NEWSLETTERS
 
 
 
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 
 
 
 Sponsored By
+=======
+sign in
+
+
+
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
+=======
+subscribe
+>>>>>>> origin/master
+
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+search
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+jobs
+>>>>>>> origin/master
 
 
 
@@ -144,22 +195,7 @@ Sponsored By
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 
 
 
@@ -184,6 +220,32 @@ YouTube
 
 
 
+=======
+more
+
+
+from the guardian:
+
+
+jobs
+
+
+
+change edition:
+
+
+
+switch to the  UK  edition
+
+
+switch to the  AU  edition
+
+
+switch to the 
+INT
+beta
+ edition
+>>>>>>> origin/master
 
 
 
@@ -192,14 +254,24 @@ YouTube
 
 
 
+<<<<<<< HEAD
+=======
+US edition
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+switch to the 
+UK edition
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 Home
@@ -248,6 +320,16 @@ Circulars
 
 
 Autos
+=======
+switch to the 
+Australia edition
+
+
+
+
+switch to the 
+International
+beta
 
 
 
@@ -256,6 +338,40 @@ Autos
 
 
 
+
+
+The Guardian
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+home
+
+
+›
+US
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
 Local
 
 
@@ -284,37 +400,88 @@ World
 
 
 Photos
+=======
+
+
+home
 
 
 
 
+US
+selected
 
 
 
 
+world
+
+
+
+
+opinion
+
+
+
+
+sports
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+soccer
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
  
+=======
+tech
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
  
+=======
+arts
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+lifestyle
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+fashion
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Local
+=======
+business
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 Man Shot And Killed By Police On South Side
@@ -323,16 +490,33 @@ Man Shot And Killed By Police On South Side
 
 
 July 8, 2012 10:30 AM
+=======
+travel
+
+
+
+
+environment
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+science
+>>>>>>> origin/master
 
 
 
 
 
 
-
-
-
-
+<<<<<<< HEAD
+=======
+browse all sections
+close
+>>>>>>> origin/master
 
 
 
@@ -344,6 +528,7 @@ July 8, 2012 10:30 AM
  
 
 
+<<<<<<< HEAD
 File Photo Of Police Tape (AP)
 
 
@@ -403,6 +588,8 @@ Featured & Trending:
 
 
 
+=======
+>>>>>>> origin/master
 
 
 
@@ -410,10 +597,18 @@ Featured & Trending:
 
 
 
+<<<<<<< HEAD
 
 
+=======
+Charleston shooting
 
+Wednesday
 
+24
+June
+2015
+>>>>>>> origin/master
 
 
 
@@ -433,10 +628,15 @@ Featured & Trending:
 
 
 
+<<<<<<< HEAD
 
 
+=======
+Alabama governor orders Confederate flag removal from state capitol – big picture
 
 
+As South Carolina lawmakers agree to debate the confederate flag, and retailers pull the flag from sale, Alabama’s governor unilaterally ordered its removal from the capitol
+>>>>>>> origin/master
 
 
 
@@ -445,6 +645,10 @@ Featured & Trending:
 
 
 
+<<<<<<< HEAD
+=======
+Alabama governor orders Confederate flag removal from state capitol – big picture
+>>>>>>> origin/master
 
 
 
@@ -460,10 +664,15 @@ Featured & Trending:
 
 
 
+<<<<<<< HEAD
 
 
+=======
+Confederate flag is tainted by racism
 
 
+Letters: It does not matter what the Confederate flag signifies besides white supremacy and the murder and enslavement of millions of people – the fact that it is associated with the latter should outweigh the former
+>>>>>>> origin/master
 
 
 
@@ -472,6 +681,10 @@ Featured & Trending:
 
 
 
+<<<<<<< HEAD
+=======
+Confederate flag is tainted by racism
+>>>>>>> origin/master
 
 
 
@@ -487,10 +700,15 @@ Featured & Trending:
 
 
 
+<<<<<<< HEAD
 
 
+=======
+American hatred: the most informative books about the far-right
 
 
+Books on US rightwing extremists are few and far between, but those that exist paint a worrying picture of groups and ideologies that inspire Dylann Roof
+>>>>>>> origin/master
 
 
 
@@ -499,6 +717,10 @@ Featured & Trending:
 
 
 
+<<<<<<< HEAD
+=======
+American hatred: the most informative books about the far-right
+>>>>>>> origin/master
 
 
 
@@ -514,10 +736,15 @@ Featured & Trending:
 
 
 
+<<<<<<< HEAD
 
 
+=======
+Gun control push fails to materialize in Congress after Charleston shooting
 
 
+While debate has raged over the flying of the Confederate flag, discussion about tighter gun laws has not come to the forefront as it did after other mass killings
+>>>>>>> origin/master
 
 
 
@@ -526,19 +753,40 @@ Featured & Trending:
 
 
 
+<<<<<<< HEAD
+=======
+Gun control push fails to materialize in Congress after Charleston shooting
+>>>>>>> origin/master
 
 
 
 
 
 
+
+
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
 
 
 Latest News Headlines:
+=======
+South Carolina lines up to pay respects to Clementa Pinckney at state capitol
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
  
 Water Main Break Closes Streets In West Loop
  
@@ -586,6 +834,38 @@ The police officers were not injured, Camden says.
 
 
 The Independent Police Review Authority was investigating the shooting.
+=======
+
+
+
+
+South Carolina lines up to pay respects to Clementa Pinckney at state capitol
+
+
+
+
+
+
+
+
+
+
+Racism is alive in the US north too – just without southern accents and flags
+
+
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+Racism is alive in the US north too – just without southern accents and flags
+>>>>>>> origin/master
 
 
 
@@ -599,14 +879,7 @@ The Independent Police Review Authority was investigating the shooting.
 
 
 
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 
 
 
@@ -681,6 +954,21 @@ CBS Chicago
 
 
 
+=======
+The decision to forgive is rooted in faith. The desire to forget is rooted in racism
+
+Anthea Butler
+
+
+
+
+
+
+
+
+
+The decision to forgive is rooted in faith. The desire to forget is rooted in racism
+>>>>>>> origin/master
 
 
 
@@ -691,6 +979,10 @@ CBS Chicago
 
 
 
+<<<<<<< HEAD
+=======
+Hillary Clinton denounces Charleston shooting as act of 'racist terrorism'
+>>>>>>> origin/master
 
 
 
@@ -701,8 +993,13 @@ CBS Chicago
 
 
 
+<<<<<<< HEAD
 
 Follow @CBSChicago
+=======
+Hillary Clinton denounces Charleston shooting as act of 'racist terrorism'
+
+>>>>>>> origin/master
 
 
 
@@ -715,8 +1012,14 @@ Follow @CBSChicago
 
 
 
+<<<<<<< HEAD
 Like us on foursquare
 
+=======
+Calling Dylann Roof a 'terrorist' doesn't erase the privilege of his race
+
+Yassir Morsi
+>>>>>>> origin/master
 
 
 
@@ -726,6 +1029,10 @@ Like us on foursquare
 
 
 
+<<<<<<< HEAD
+=======
+Calling Dylann Roof a 'terrorist' doesn't erase the privilege of his race
+>>>>>>> origin/master
 
 
 
@@ -734,23 +1041,41 @@ Like us on foursquare
 
 
 
+<<<<<<< HEAD
+=======
+Older
+Newer
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+
+
+
+=======
+Topics
+
+
+
+Race issues
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+South Carolina
+>>>>>>> origin/master
 
 
 
 
-
-
-
+<<<<<<< HEAD
 
 Follow More Stations and Personalities
 
@@ -815,18 +1140,63 @@ dodgerman
 
  
 
+=======
+Gun crime
 
 
 
 
+US politics
 
 
 
 
+Barack Obama
+
+
+
+More…
+
+
+
+US crime
 
 
 
 
+Bernie Sanders
+
+
+
+
+Americas
+
+
+
+
+US gun control
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+Democrats
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+Islam
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
@@ -851,19 +1221,55 @@ New Podcast Network
 Download Our New Weather App!
  
 
+=======
+The far right
 
 
 
 
+American civil war
 
 
 
 
+US elections 2016
+
+
+
+
+Christianity
+
+
+
+
+Missouri
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+Hillary Clinton
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
  
 
 
 
+=======
+Religion
+
+
+
+
+Internet
+>>>>>>> origin/master
 
 
 
@@ -871,11 +1277,15 @@ Download Our New Weather App!
 
 
 
+<<<<<<< HEAD
 News
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Local
 
 
@@ -895,17 +1305,37 @@ Weather
 
 
 Traffic
+=======
+
+
+The Guardian
 
 
 
 
 
 
+
+
+back to top
+
+
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
 Sports
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Bears
 
 
@@ -927,15 +1357,41 @@ Podcasts
 Blogs
 
 
+=======
+
+
+home
 
 
 
 
+US
+selected
+
+
+
+
+world
+
+
+
+
+opinion
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Scores & Stats
+=======
+sports
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 NFL Football
 
 
@@ -948,15 +1404,33 @@ NBA Basketball
 NHL Hockey
 
 
+=======
+soccer
 
 
 
 
+tech
+
+
+
+
+arts
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Contact Us
+=======
+lifestyle
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 CBS 2
 
 
@@ -970,10 +1444,24 @@ Connect
 
 
 Mobile
+=======
+fashion
 
 
 
 
+business
+
+
+
+
+travel
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 Corporate
@@ -999,6 +1487,13 @@ Mobile
 Connect
 
 
+=======
+environment
+
+
+
+
+science
 
 
 
@@ -1006,12 +1501,40 @@ Connect
 
 
 
+all sections
+close
 
+
+
+
+
+
+
+home
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+US
+selected
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Chicago Business Listings
+=======
+world
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Restaurants
 
 
@@ -1025,14 +1548,32 @@ Professional Services
 
 
 Search Listings
+=======
+UK
 
 
 
 
+europe
 
 
 
 
+americas
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+asia
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 By viewing our video content, you are accepting the terms of our 
 Video Services Policy
 
@@ -1082,14 +1623,59 @@ WordPress.com VIP
 
 
  
+=======
+middle east
+
+
+
+
+africa
+
+
+
+
+australia
+
+
+
+
+cities
+
+
+
+
+development
 
 
 
 
 
 
+opinion
 
 
+
+
+sports
+
+
+
+
+soccer
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+MLS
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 Facebook
@@ -1101,15 +1687,33 @@ Twitter
 RSS
 
 
+=======
+NFL
 
 
 
 
+MLB
+
+
+
+
+NBA
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Other CBS Local Cities 
+=======
+NHL
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 CBS Atlanta
 
 
@@ -1183,14 +1787,81 @@ CBS Tampa
 
 
 CBS Washington
+=======
+
+
+soccer
+
+
+
+
+live scores
+
+
+
+
+tables
+
+
+
+
+competitions
+
+
+
+
+results
+
+
+
+
+fixtures
+
+
+
+
+clubs
 
 
 
 
 
 
+tech
 
 
+
+
+arts
+
+
+
+
+movies
+
+
+
+
+tv & radio
+
+
+
+
+music
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+games
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 ©2015 CBS Local Media,
@@ -1200,14 +1871,27 @@ a division of CBS Radio Inc.
 All rights reserved.
 
 
+=======
+books
 
 
 
 
+art & design
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+stage
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 Buy Tickets
@@ -1228,33 +1912,64 @@ Email Alerts
 Daily Deals
 50% Off From ATE Accessories
  
+=======
+classical
 
 
 
 
 
 
+lifestyle
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+food
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+health & fitness
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+love & sex
+>>>>>>> origin/master
 
 
+
+
+<<<<<<< HEAD
+=======
+family
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Log In
 Register
  
+=======
+women
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Follow Us
 
 
@@ -1265,49 +1980,96 @@ Twitter
 
 
 Youtube
+=======
+home & garden
 
 
 
 
 
 
+fashion
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+business
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+economics
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+sustainable business
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+diversity & equality in business
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+small business
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+travel
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+USA
+>>>>>>> origin/master
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 Listen Live
+=======
+europe
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+UK
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 AM/FM Stations
 
 
@@ -1329,17 +2091,44 @@ B96
 
 
 WBBM NewsRadio
+=======
+
+
+environment
 
 
 
 
+climate change
+
+
+
+
+wildlife
+
+
+
+
+energy
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 Featured Shows & Multimedia
+=======
+pollution
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Play.It
 
 
@@ -1352,13 +2141,79 @@ CBS Sports Radio
 Radio.com
 
 
+=======
+science
 
 
 
 
+media
+
+
+
+
+crosswords
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 Advertise On Our Streams
+=======
+video
+
+
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+
+
+
+
+
+
+
+
+
+
+=======
+jobs
+
+subscribe
+all topics
+all contributors
+
+
+report technical issue
+
+
+
+about us
+
+contact us
+
+complaints & corrections
+terms & conditions
+privacy policy
+cookie policy
+securedrop
+
+
+© 2015 Guardian News and Media Limited or its affiliated companies. All rights reserved.
+>>>>>>> origin/master
 
 
 
@@ -1372,34 +2227,17 @@ Advertise On Our Streams
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
+ 
+=======
+>>>>>>> origin/master
 
 
 
 
  
 
-
-
-
- 
-
+<<<<<<< HEAD
 
 
 
@@ -1432,3 +2270,5 @@ Advertise On Our Streams
 
 
 
+=======
+>>>>>>> origin/master

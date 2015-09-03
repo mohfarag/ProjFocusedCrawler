@@ -1,7 +1,22 @@
+<<<<<<< HEAD
 $225K raised in wake of Charleston church shooting | FOX2now.com 
 
 
 $225K raised in wake of Charleston church shooting | FOX2now.com
+=======
+Charleston Church Shooting | FOX40 
+Charleston Church Shooting | FOX40
+
+
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+GoSearch
+>>>>>>> origin/master
 
 
 
@@ -10,10 +25,7 @@ $225K raised in wake of Charleston church shooting | FOX2now.com
 
 
 
-
-
-
-
+<<<<<<< HEAD
 
 
 Go
@@ -49,6 +61,12 @@ FOX 2 TV Schedule
  Search
 
 
+=======
+FOX40 TV Schedule 
+
+
+ Search
+>>>>>>> origin/master
  Contact Us
 
 
@@ -56,6 +74,7 @@ FOX 2 TV Schedule
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -96,11 +115,24 @@ Contests
 STLMoms
 
 
+=======
+FOX40
+
+ Menu
+
+News
+Morning
+Sports
+Traffic
+Seen on FOX40
+Contests
+>>>>>>> origin/master
 Events
 
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -115,17 +147,34 @@ Weather
 77°
 
 
+=======
+Weather 
+
+73°
+
+
+
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+
+
+=======
+73°
+
+
+Low 60°
+High 87°
+>>>>>>> origin/master
 
 
 
 
 
-
-
-
-
-
-
+<<<<<<< HEAD
 
 
 
@@ -199,11 +248,35 @@ Mon
 
 
 
+=======
+Mon
+
+
+					59°  92°
+					
+
+
+Tue
+
+
+					60°  91°
+					
+
+
+Wed
+
+
+					65°  98°
+					
+
+
+>>>>>>> origin/master
 See complete forecast
 
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -233,6 +306,8 @@ See complete forecast
 
 
 
+=======
+>>>>>>> origin/master
  
 
 
@@ -247,6 +322,7 @@ See complete forecast
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -268,10 +344,13 @@ Reddit
 Pinterest
 LinkedIn
 Email
+=======
+>>>>>>> origin/master
  
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -297,10 +376,40 @@ $225K raised in wake of Charleston church shooting
 
 
 
+=======
+						Charleston Church Shooting					
+
+
+
+National and World News
+
+Obama Eulogizes Pastor in Charleston Shooting
+
+
+National and World News
+
+Viral Photo Shows Love in Aftermath of Charleston Tragedy
+
+
+National and World News
+
+Charleston Shooting Suspect Hears Victim’s Family Say, ‘I Forgive You’
+
+
+National and World News
+
+Dylann Roof and Michael Slager are Jail Neighbors, Police Confirm
+
+
+National and World News
+
+Charleston Victims: 9 Lives Lost to Family and Community
+>>>>>>> origin/master
 
 
 
  
+<<<<<<< HEAD
 A police officer removes crime scene tape near a memorial in front of Emanuel African American Episcopal Church in Charleston, South Carolina on June 20, 2015.
 
 
@@ -377,27 +486,77 @@ By Joseph Pereira
 
 
 
+=======
+
+
+National and World News
+
+Charleston Church Shooting: Suspect Confesses, Says He Sought Race War
+
+
+National and World News
+
+Lives of Promise: Charleston Victims Identified
+
+
+National and World News
+
+Woman Says Charleston Shooter Spared Her to ‘Tell Everyone’ What Happened
+
+
+National and World News
+
+Dylann Storm Roof: Police Name Suspect in Charleston Church Shooting
 
 
 
 
+
+
+
+Mobile AppsAndroid App
+iPhone & iPad App
+Breaking News Alerts
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 Filed in:
  
 News
  
+=======
+Facebook
+Twitter
+Instagram
+About & Contact
+
+
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
+=======
+Online Public File • 				Terms of Service •
+		Privacy Policy  •
+		4655 Fruitridge Road Sacramento, CA 95820  •
+		Copyright © 2015, KTXL		 • A Tribune Broadcasting Station •
+		Powered by WordPress.com VIP 
+>>>>>>> origin/master
 
 
 
 
 
 ×
+<<<<<<< HEAD
 
 
 Report a Typo
@@ -409,12 +568,18 @@ Report a Typo
 
 
 
+=======
+Email Alerts
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Name
 (required)
+=======
+>>>>>>> origin/master
 
 
 
@@ -423,8 +588,11 @@ Name
 
 
 
+<<<<<<< HEAD
 Typo
 (required)
+=======
+>>>>>>> origin/master
 
 
 
@@ -443,8 +611,14 @@ Typo
 
 
 
+<<<<<<< HEAD
  
 
+=======
+
+Add your thoughts here... (optional)
+Post to
+>>>>>>> origin/master
 
 
 
@@ -456,6 +630,7 @@ Cancel
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -477,6 +652,8 @@ Cancel
 
 
 
+=======
+>>>>>>> origin/master
  
 
 
@@ -492,6 +669,7 @@ Cancel
 
 
 
+<<<<<<< HEAD
 Events Calendar
 
 
@@ -1081,6 +1259,8 @@ Cancel
 
 
 
+=======
+>>>>>>> origin/master
 
 
 

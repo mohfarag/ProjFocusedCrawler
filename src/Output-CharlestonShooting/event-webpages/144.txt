@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 Charleston Church Shooting Suspect Escorted From Police Station - NBC News
 
 Charleston Church Shooting Suspect Escorted From Police Station - NBC News
+=======
+Mourners gather in Charleston and across US after church shooting – in pictures | US news | The Guardian
+
+Mourners gather in Charleston and across US after church shooting – in pictures | US news | The Guardian
+>>>>>>> origin/master
 
 
 
@@ -16,6 +22,10 @@ Charleston Church Shooting Suspect Escorted From Police Station - NBC News
 
 
 
+<<<<<<< HEAD
+=======
+Close
+>>>>>>> origin/master
 
 
 
@@ -24,6 +34,7 @@ Charleston Church Shooting Suspect Escorted From Police Station - NBC News
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -242,6 +253,11 @@ Today
 
 
  Dateline
+=======
+Skip to main content
+
+ 
+>>>>>>> origin/master
 
 
 
@@ -253,15 +269,26 @@ Today
 
 
 
+<<<<<<< HEAD
+=======
+sign in
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 Secondary Navigation
 
 
 
+=======
+
+
+
+subscribe
+>>>>>>> origin/master
 
 
 
@@ -269,11 +296,16 @@ Secondary Navigation
 
 
 
+<<<<<<< HEAD
 Sections
+=======
+search
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 U.S.
 
 
@@ -317,6 +349,8 @@ Asian America
 
 
 NBCBLK
+=======
+jobs
 
 
 
@@ -327,34 +361,105 @@ NBCBLK
 
 
 
+more
 
 
+from the guardian:
+
+
+jobs
+
+
+
+change edition:
+
+
+
+switch to the  UK  edition
+
+
+switch to the  AU  edition
+
+
+switch to the 
+INT
+beta
+ edition
+
+
+
+
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+US edition
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+switch to the 
+UK edition
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Top Ongoing
+=======
+switch to the 
+Australia edition
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 Hurricane Katrina Anniversary
+=======
+switch to the 
+International
+beta
+
+
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 Europe's Border Crisis
 
 
+=======
+
+
+The Guardian
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 TV
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Nightly News
 
 
@@ -370,10 +475,26 @@ Today
 
 
 Featured
+=======
 
 
 
 
+
+
+
+
+home
+
+
+›
+US
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 The Freshman Year Experience
 
 
@@ -395,14 +516,39 @@ Flashback
 Debunker
 
 
+=======
 
 
 
 
 
 
+home
 
 
+
+
+US
+selected
+
+
+
+
+world
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+opinion
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 Multimedia
@@ -414,15 +560,33 @@ Video
 
 
 Photo
+=======
+sports
 
 
 
 
+soccer
+
+
+
+
+tech
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 More From NBC
+=======
+arts
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Sports
 
 
@@ -453,6 +617,57 @@ Next Steps for Vets
 Parent Toolkit
 
 
+=======
+lifestyle
+
+
+
+
+fashion
+
+
+
+
+business
+
+
+
+
+travel
+
+
+
+
+environment
+
+
+
+
+science
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+browse all sections
+close
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+ 
+>>>>>>> origin/master
 
 
 
@@ -464,20 +679,7 @@ Parent Toolkit
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 
 
 
@@ -485,6 +687,26 @@ Parent Toolkit
 
  NBC News works best with JavaScript turned on
             
+=======
+Charleston shooting
+
+
+
+Mourners gather in Charleston and across US after church shooting – in pictures
+
+
+>>>>>>> origin/master
+
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+Mourners gather across the US to pay their respects to the nine people murdered on 17 June in Charleston, South Carolina
+>>>>>>> origin/master
 
 
 
@@ -494,16 +716,15 @@ Parent Toolkit
 
 
 
-
-
-
-
-
-
-
+<<<<<<< HEAD
  Feedback
 
 
+=======
+
+
+Saturday 20 June 2015 18.49 EDT
+>>>>>>> origin/master
 
 
 
@@ -511,6 +732,10 @@ Parent Toolkit
 
 
 
+<<<<<<< HEAD
+=======
+Share on Facebook
+>>>>>>> origin/master
 
 
 
@@ -518,7 +743,11 @@ Parent Toolkit
 
 
 
+<<<<<<< HEAD
 advertisement
+=======
+Share on Twitter
+>>>>>>> origin/master
 
 
 
@@ -526,6 +755,10 @@ advertisement
 
 
 
+<<<<<<< HEAD
+=======
+Share via Email
+>>>>>>> origin/master
 
 
 
@@ -533,6 +766,7 @@ advertisement
 
 
 
+<<<<<<< HEAD
 
 
 advertisement
@@ -542,6 +776,8 @@ advertisement
 
 
 
+=======
+Share on Pinterest
 
 
 
@@ -549,13 +785,29 @@ advertisement
 
 
 
+Share on Google+
+>>>>>>> origin/master
 
 
 
 
 
 
+
+<<<<<<< HEAD
+=======
+Share on WhatsApp
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
 NBC News Video
+=======
+>>>>>>> origin/master
 
 
 
@@ -563,8 +815,11 @@ NBC News Video
 
 
 
+<<<<<<< HEAD
                   Sponsored By
                 
+=======
+>>>>>>> origin/master
 
 
 
@@ -579,22 +834,44 @@ NBC News Video
 
 
 
+<<<<<<< HEAD
 
 
 
 
 
 
+=======
+Mourners arrive in Charleston from around the United States to pay their respects to nine black churchgoers killed this week, with services planned throughout the day ahead of a rally in the state capital later in the evening
+Photograph: Carlo Allegri/Reuters
+
+
+Facebook
+
+
+Twitter
+
+
+Pinterest
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Follow 
 NBC News
+=======
+Share
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+Share this post
+>>>>>>> origin/master
 
 
 Facebook
@@ -602,25 +879,40 @@ Facebook
 
 
 
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> origin/master
 Twitter
 
 
 
 
+<<<<<<< HEAD
 
 
 Google Plus
 
 
 
+=======
+Pinterest
+
+
+
+
+close
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 Newsletter
+=======
+>>>>>>> origin/master
 
 
 
@@ -629,6 +921,7 @@ Newsletter
 
 
 
+<<<<<<< HEAD
 More
 
 
@@ -640,36 +933,79 @@ More
 
 RSS
 
+=======
+
+
+
+Family members of a victim walk away after paying their respects at the Emanuel African Methodist Episcopal church
+Photograph: Carlo Allegri/Reuters
+
+
+Facebook
+
+
+Twitter
+
+
+Pinterest
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+Share
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 Youtube
 
+=======
+Share this post
+
+
+Facebook
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+Twitter
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 Tumblr
 
 
 
+=======
+Pinterest
+
+
+
+
+close
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 Instagram
+=======
+>>>>>>> origin/master
 
 
 
@@ -681,39 +1017,79 @@ Instagram
 
 
 
+<<<<<<< HEAD
 
 
 
 
 
 
+=======
+A woman cries during a memorial service at the St John’s Reformed Episcopal church
+Photograph: Carlo Allegri/Reuters
+
+
+Facebook
+
+
+Twitter
+
+
+Pinterest
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+Share
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+
+
+=======
+Share this post
+
+
+Facebook
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+Twitter
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+Pinterest
+>>>>>>> origin/master
 
 
 
 
-
-
+<<<<<<< HEAD
 
 
 
  Sorry, this video needs JavaScript turned on
                     
+=======
+close
+
+
+
+>>>>>>> origin/master
 
 
 
@@ -727,6 +1103,7 @@ Instagram
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -738,6 +1115,72 @@ Instagram
 
 Play
 
+=======
+A child lies in her mother’s arms during the memorial service
+Photograph: Carlo Allegri/Reuters
+
+
+Facebook
+
+
+Twitter
+
+
+Pinterest
+
+
+
+
+Share
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+
+
+=======
+Share this post
+
+
+Facebook
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+Twitter
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+Pinterest
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+close
+>>>>>>> origin/master
+
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+ 
+>>>>>>> origin/master
 
 
 
@@ -749,31 +1192,7 @@ Play
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 
 Charleston Church Shooting Suspect Escorted From Police Station
 
@@ -784,6 +1203,64 @@ Charleston Church Shooting Suspect Escorted From Police Station
 
                   Suspected Charleston church gunman Dylann Roof is escorted from Shelby Police Station into patrol car.
                 
+=======
+Pamela Gentry of New York tears up during a closing prayer at a rally held by the Greater Allen AME cathedral of New York in the Queens borough 
+Photograph: Craig Ruttle/AP
+
+
+Facebook
+
+
+Twitter
+
+
+Pinterest
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+Share
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+
+
+=======
+Share this post
+
+
+Facebook
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+Twitter
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+Pinterest
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+close
+>>>>>>> origin/master
 
 
 
@@ -798,28 +1275,7 @@ Charleston Church Shooting Suspect Escorted From Police Station
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 Charleston Church Shooting Suspect Escorted From Police Station
 
 
@@ -830,33 +1286,74 @@ Charleston Church Shooting Suspect Escorted From Police Station
 
 
 Gunman Called Himself a "Human Powder Keg" in Alleged Manifesto
+=======
+
+
+A man kneels in prayer as people around him lay flowers and messages of hope and faith at the memorial 
+Photograph: Stephen B. Morton/AP
+
+
+Facebook
+
+
+Twitter
+
+
+Pinterest
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+Share
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Alison Parker's boyfriend, station manager honor slain WDBJ journalists
 
 
+=======
+Share this post
+
+
+Facebook
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 Watch these adorable twins pretend to be sleeping
 
 
+=======
+Twitter
 
 
 
 
+Pinterest
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 Husband of WDBJ shooting survivor: 'She remembers everything that happened'
+=======
+close
+
+
+>>>>>>> origin/master
 
 
 
@@ -865,13 +1362,17 @@ Husband of WDBJ shooting survivor: 'She remembers everything that happened'
 
 
 
+<<<<<<< HEAD
 Details emerge about gunman Vester Flanagan
+=======
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 
 
 Tamron Hall volleys with Serena Williams, Roger Federer
@@ -879,15 +1380,33 @@ Tamron Hall volleys with Serena Williams, Roger Federer
 
 
 
+=======
+People gather at the New York rally
+Photograph: Craig Ruttle/AP
+
+
+Facebook
+
+
+Twitter
+
+
+Pinterest
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Alison Parker's Dad Remembers Slain WDBJ Reporter
+=======
+Share
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -895,14 +1414,30 @@ Alison Parker's Dad Remembers Slain WDBJ Reporter
 Alison Parker and Adam Ward Remembered By Loved Ones and Coworkers
 
 
+=======
+Share this post
+
+
+Facebook
 
 
 
 
+Twitter
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+Pinterest
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 Previous
@@ -918,6 +1453,8 @@ Expand
 
 
 Collapse
+=======
+close
 
 
 
@@ -927,6 +1464,7 @@ Collapse
 
 
 
+>>>>>>> origin/master
 
 
 
@@ -934,22 +1472,84 @@ Collapse
 
 
 
+<<<<<<< HEAD
 
 
 
 
 
 
+=======
+Monte Talmadge walks past the memorial on the sidewalk
+Photograph: Joe Raedle/Getty Images
+
+
+Facebook
+
+
+Twitter
+
+
+Pinterest
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+Share
+>>>>>>> origin/master
 
+
+
+
+<<<<<<< HEAD
+
+
+=======
+Share this post
+
+
+Facebook
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 advertisement
 
 
 
+=======
+Twitter
+
+
+
+
+Pinterest
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+close
+>>>>>>> origin/master
+
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+ 
+>>>>>>> origin/master
 
 
 
@@ -961,17 +1561,7 @@ advertisement
 
 
 
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
                                     Latest video
                                 
 
@@ -980,33 +1570,72 @@ advertisement
 
 
 
+=======
+Carolyn Wright-Porcher (right) is hugged by her sister Cynthia Wright-Murphy
+Photograph: Joe Raedle/Getty Images
+
+
+Facebook
+
+
+Twitter
+
+
+Pinterest
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+Share
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+
+
+=======
+Share this post
+
+
+Facebook
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+Twitter
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+Pinterest
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+close
+>>>>>>> origin/master
 
 
 
 
-
-
+<<<<<<< HEAD
 A Photojournalist Reflects on His Katrina Experience
+=======
+>>>>>>> origin/master
 
 
 
@@ -1015,11 +1644,15 @@ A Photojournalist Reflects on His Katrina Experience
 
 
 
+<<<<<<< HEAD
 Remembering Emmett Till's Murder, 60 Years Later
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -1027,10 +1660,24 @@ Remembering Emmett Till's Murder, 60 Years Later
 Mardi Gras Indians Museum Keeps Heritage Alive in the Ninth Ward
 
 
+=======
+Maria Bornhorst (right), Patricia Bailey and Carol Reid embrace as they mourn together outside the church
+Photograph: Chip Somodevilla/AP
+
+
+Facebook
+
+
+Twitter
+
+
+Pinterest
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 Rubio Delivers Tough Talk Toward China
@@ -1038,20 +1685,43 @@ Rubio Delivers Tough Talk Toward China
 
 
 
+=======
+Share
 
 
 
 
+Share this post
+
+
+Facebook
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 George W. Bush Reflects on Hurricane Katrina 10 Years Later
+=======
+Twitter
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+Pinterest
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 It's time to Give It Away! See which viewers won
+=======
+close
+>>>>>>> origin/master
 
 
 
@@ -1060,7 +1730,10 @@ It's time to Give It Away! See which viewers won
 
 
 
+<<<<<<< HEAD
 Insuring Your Gadgets: Do The Math
+=======
+>>>>>>> origin/master
 
 
 
@@ -1069,6 +1742,7 @@ Insuring Your Gadgets: Do The Math
 
 
 
+<<<<<<< HEAD
 Texas Lets You Literally Have a Shotgun Wedding
 
 
@@ -1081,31 +1755,71 @@ Texas Lets You Literally Have a Shotgun Wedding
 TV Shooting Survivor Has 'Vivid Memory' of Ordeal, Spokesperson Says
 
 
+=======
+People mourn at the memorial site outside the Emanuel African Methodist Episcopal church
+Photograph: John Taggart/EPA
+
+
+Facebook
+
+
+Twitter
+
+
+Pinterest
 
 
 
 
+Share
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 Why Joe Biden's Decision Comes Down to More Than Money or Polling
+=======
+Share this post
+
+
+Facebook
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+Twitter
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Felon Fights for Return His Firearms
+=======
+Pinterest
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+close
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Tick tock! Better not be late if you're meeting Kathie Lee…
+=======
+>>>>>>> origin/master
 
 
 
@@ -1114,11 +1828,15 @@ Tick tock! Better not be late if you're meeting Kathie Lee…
 
 
 
+<<<<<<< HEAD
 KLG to Hoda: 'I don't like to bite things!'
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -1126,10 +1844,24 @@ KLG to Hoda: 'I don't like to bite things!'
 Al Roker cooks shrimp with New Orleans chef Leah Chase
 
 
+=======
+New York City Mayor Bill de Blasio, centre, embraces Rev Floyd Flake of the Greater Allen AME cathedral before addressing people at a rally in Queens
+Photograph: Craig Ruttle/AP
+
+
+Facebook
+
+
+Twitter
+
+
+Pinterest
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 Uzo Aduba: 'I could not believe' being cast in 'The Wiz'
@@ -1137,20 +1869,43 @@ Uzo Aduba: 'I could not believe' being cast in 'The Wiz'
 
 
 
+=======
+Share
 
 
 
 
+Share this post
+
+
+Facebook
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Facebook celebrates 1 billion logons in one day
+=======
+Twitter
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+Pinterest
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Study: Firstborn women likelier to be overweight
+=======
+close
+>>>>>>> origin/master
 
 
 
@@ -1159,7 +1914,10 @@ Study: Firstborn women likelier to be overweight
 
 
 
+<<<<<<< HEAD
 Day care accused of drugging babies
+=======
+>>>>>>> origin/master
 
 
 
@@ -1168,6 +1926,7 @@ Day care accused of drugging babies
 
 
 
+<<<<<<< HEAD
 FDA approves new cholesterol drugs
 
 
@@ -1180,31 +1939,71 @@ FDA approves new cholesterol drugs
 Justin Bieber teases new single 'What Do You Mean'
 
 
+=======
+Jimm Hitt of South Carolina kneels and prays 
+Photograph: Carlo Allegri/Reuters
+
+
+Facebook
+
+
+Twitter
+
+
+Pinterest
 
 
 
 
+Share
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 Darius Rucker to TODAY: 'Any time you call me I'm excited'
+=======
+Share this post
+
+
+Facebook
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+Twitter
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Transforming Transformers birthday cake dazzles TODAY anchors
+=======
+Pinterest
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+close
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Tian Tian, You Are the Pandas' Father
+=======
+>>>>>>> origin/master
 
 
 
@@ -1213,11 +2012,15 @@ Tian Tian, You Are the Pandas' Father
 
 
 
+<<<<<<< HEAD
 To Run or Not to Run Is Question for Biden
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -1225,10 +2028,24 @@ To Run or Not to Run Is Question for Biden
 Rescuers Battle to Resuscitate Migrants off Libyan Coast
 
 
+=======
+Patricia Bailey says a prayer at a memorial 
+Photograph: Brendan Smialowski/Getty Images
+
+
+Facebook
+
+
+Twitter
+
+
+Pinterest
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 Savannah and Rafael Nadal face off on tennis court
@@ -1236,20 +2053,43 @@ Savannah and Rafael Nadal face off on tennis court
 
 
 
+=======
+Share
 
 
 
 
+Share this post
+
+
+Facebook
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Keith Morrison Previews 'Someone Was Out There'
+=======
+Twitter
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+Pinterest
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Back-to-school sanity savers: Hairstyles, nighttime prep, lunches
+=======
+close
+>>>>>>> origin/master
 
 
 
@@ -1258,7 +2098,10 @@ Back-to-school sanity savers: Hairstyles, nighttime prep, lunches
 
 
 
+<<<<<<< HEAD
 Seinfeld lemonade stand shut down by police
+=======
+>>>>>>> origin/master
 
 
 
@@ -1267,6 +2110,7 @@ Seinfeld lemonade stand shut down by police
 
 
 
+<<<<<<< HEAD
 New 'Star Wars' trailer: Get a first look
 
 
@@ -1279,58 +2123,122 @@ New 'Star Wars' trailer: Get a first look
 Oops! Man drops engagement ring in ocean mid-proposal
 
 
+=======
+A man prays during a prayer vigil 
+Photograph: John Taggart/EPA
+
+
+Facebook
+
+
+Twitter
+
+
+Pinterest
 
 
 
 
+Share
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 New additions to dictionary: 'Awesome sauce,' 'wine o' clock'
+=======
+Share this post
+
+
+Facebook
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+Twitter
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 PTA to parents: Don't bake cupcakes - give us money!
+=======
+Pinterest
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+close
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Wife of French-American train hero: He said 'I'm hit'
+=======
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 
 
 Boy Scout, 13, saves his dad's life after boulder accident
 
+=======
+Topics
+
+
+
+Charleston shooting
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 
 How safe is the chip in your new credit card?
 
+=======
+Gun crime
 
 
 
 
+South Carolina
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
 St. Paul's rape trial verdict could come today
+=======
+Race issues
+
+
+
+>>>>>>> origin/master
 
 
 
@@ -1339,25 +2247,62 @@ St. Paul's rape trial verdict could come today
 
 
 
+<<<<<<< HEAD
 10 years after Katrina, Al Roker returns to New Orleans
+=======
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 
 
 
 Watch: Lava flows from Hawaii's Kilauea volcano
+=======
+More galleries
+
+
+
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 
 
 
 Food truck explodes in Florida
+=======
+ 
+
+
+
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
+=======
+popular
+>>>>>>> origin/master
+
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+ 
+>>>>>>> origin/master
 
 
 
@@ -1366,6 +2311,10 @@ Food truck explodes in Florida
 
 
 
+<<<<<<< HEAD
+=======
+The Guardian
+>>>>>>> origin/master
 
 
 
@@ -1374,23 +2323,18 @@ Food truck explodes in Florida
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 
 
 
                                     Shows
                                 
+=======
+back to top
+
+
+
+>>>>>>> origin/master
 
 
 
@@ -1402,45 +2346,121 @@ Food truck explodes in Florida
 
 
 
+<<<<<<< HEAD
+=======
+home
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+US
+selected
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 
 Watch the day’s top stories and analysis to help wrap up your day.
 
+=======
+world
 
 
 
 
+opinion
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+sports
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
 Watch Chuck Todd interview newsmakers from around the world.
 
+=======
+soccer
 
 
 
 
+tech
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+arts
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
 Watch episodes of Dateline NBC, story-telling at its best.
 
+=======
+lifestyle
+
+
+
+
+fashion
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+business
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+travel
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+environment
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+science
+>>>>>>> origin/master
 
 
 
@@ -1448,23 +2468,12 @@ Watch episodes of Dateline NBC, story-telling at its best.
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 U.S. News
+=======
+all sections
+close
+>>>>>>> origin/master
 
 
 
@@ -1472,14 +2481,24 @@ U.S. News
 
 
 
+<<<<<<< HEAD
+=======
+home
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+US
+selected
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -1491,64 +2510,129 @@ Gallery
                                     
 
 
+=======
+world
 
 
 
 
+UK
+
+
+
+
+europe
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 Hurricane Katrina Anniversary
 
 
+=======
+americas
 
 
 
 
+asia
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+middle east
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+africa
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+australia
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
                                       Hurricane Gave Katrinas Everywhere a Bad Name
                                     
 
+=======
+cities
+
+
+
+
+development
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 
 Hurricane Katrina Anniversary
 
 
 
+=======
+opinion
 
 
 
 
+sports
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+soccer
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+MLS
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+NFL
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 Video
 
@@ -1556,43 +2640,83 @@ Video
 
                                       Remembering Emmett Till's Murder, 60 Years Later
                                     
+=======
+MLB
 
 
 
 
+NBA
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+NHL
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 NBCBLK
 
 
+=======
+
+
+soccer
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+live scores
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+tables
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+competitions
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 
                                       Stock Market Extends Gains After Monster Rally
                                     
 
+=======
+results
 
 
 
 
+fixtures
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
@@ -1600,22 +2724,45 @@ Markets
 
 
 
+=======
+clubs
 
 
 
 
 
 
+tech
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+arts
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+movies
+>>>>>>> origin/master
 
 
+
+
+<<<<<<< HEAD
+=======
+tv & radio
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 Video
 
@@ -1623,83 +2770,159 @@ Video
 
                                       Texas Lets You Literally Have a Shotgun Wedding
                                     
+=======
+music
 
 
 
 
+games
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+books
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 U.S. news
+=======
+art & design
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+stage
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+classical
+>>>>>>> origin/master
 
 
 
 
 
 
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 
 
 World News
 
 
+=======
+lifestyle
 
 
 
 
+food
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+health & fitness
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+love & sex
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+family
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
                                       My Nuclear Might Ended Standoff, Kim Jong Un Says
                                     
 
 
 
+=======
+women
+
+
+
+
+home & garden
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 North Korea
 
+=======
+
+fashion
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+business
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+economics
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+sustainable business
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+diversity & equality in business
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
                                       Hero Academic Thanks Airman for Saving His Life on Train
                                     
 
@@ -2021,64 +3244,119 @@ AdChoices
 
 
 
+=======
+small business
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+travel
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+USA
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+europe
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+UK
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+environment
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+climate change
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+wildlife
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+energy
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+pollution
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+science
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+media
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+crosswords
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+video
+>>>>>>> origin/master
 
 
 
@@ -2090,10 +3368,19 @@ AdChoices
 
 
 
+<<<<<<< HEAD
+=======
+US News
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+›
+Charleston shooting
+>>>>>>> origin/master
 
 
 
@@ -2102,6 +3389,7 @@ AdChoices
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -2112,16 +3400,31 @@ AdChoices
 
 
 
+=======
+jobs
 
+subscribe
+all topics
+all contributors
 
 
+report technical issue
 
 
 
+about us
 
+contact us
 
+complaints & corrections
+terms & conditions
+privacy policy
+cookie policy
+securedrop
 
 
+© 2015 Guardian News and Media Limited or its affiliated companies. All rights reserved.
+>>>>>>> origin/master
 
 
 
@@ -2129,4 +3432,18 @@ AdChoices
 
 
 
+
+
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+ 
+>>>>>>> origin/master
 

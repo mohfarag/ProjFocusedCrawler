@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 Officers Shoot Suspect When He Points Gun At Them, Police Say « CBS Chicago
 
 Officers Shoot Suspect When He Points Gun At Them, Police Say « CBS Chicago
+=======
+Republican candidates reaffirm gun rights support after Charleston shooting | US news | The Guardian
+
+Republican candidates reaffirm gun rights support after Charleston shooting | US news | The Guardian
+>>>>>>> origin/master
 
 
 
@@ -16,14 +22,22 @@ Officers Shoot Suspect When He Points Gun At Them, Police Say « CBS Chicago
 
 
 
+<<<<<<< HEAD
 
 
 
 Chicago
+=======
+Close
+
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Radio.com
 
 
@@ -107,6 +121,11 @@ Washington
 
 
 SIGN UP FOR NEWSLETTERS
+=======
+
+Skip to main content
+
+ 
 
 
 
@@ -118,6 +137,29 @@ SIGN UP FOR NEWSLETTERS
 
 
 
+sign in
+
+
+
+
+
+
+
+
+subscribe
+
+
+
+
+
+
+
+search
+
+
+
+
+jobs
 
 
 
@@ -128,12 +170,89 @@ SIGN UP FOR NEWSLETTERS
 
 
 
+more
+
+
+from the guardian:
+
+
+jobs
+
+
+
+change edition:
+
+
+
+switch to the  UK  edition
+
+
+switch to the  AU  edition
+
+
+switch to the 
+INT
+beta
+ edition
+>>>>>>> origin/master
 
 
 
 
 
+
+
+
+<<<<<<< HEAD
+=======
+US edition
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+switch to the 
+UK edition
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+switch to the 
+Australia edition
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+switch to the 
+International
+beta
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
 Sponsored By
+=======
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+The Guardian
+>>>>>>> origin/master
 
 
 
@@ -150,6 +269,16 @@ Sponsored By
 
 
 
+<<<<<<< HEAD
+
+
+=======
+home
+
+
+›
+US
+>>>>>>> origin/master
 
 
 
@@ -158,12 +287,7 @@ Sponsored By
 
 
 
-
-
-
-
-
-
+<<<<<<< HEAD
 CBS 2
 Welcome to CBS 2 on CBSChicago.com! CBS 2 is joining forces with the most trusted local CBS RADIO stations in Chicago to give you the best Chicago has to offer as CBS Local. CBS 2 […]
 WBBM Newsradio
@@ -172,34 +296,61 @@ Welcome to WBBM Newsradio 780 & 105.9FM, The Home of Chicago Bears Radio and Chi
 Welcome to 670 The Score, the home of White Sox radio, on CBSChicago.com! The Score is partners with CBS 2 TV and WBBM 780, and they give you the best Chicago has to offer. 670 […]
 
 
+=======
+
+
+home
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Follow Us
 Facebook
 Twitter
 YouTube
+=======
+US
+selected
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+world
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+opinion
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+sports
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+soccer
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 Home
@@ -250,12 +401,59 @@ Circulars
 Autos
 
 
+=======
+tech
+
+
+
+
+arts
+
+
+
+
+lifestyle
+
+
+
+
+fashion
+
+
+
+
+business
+
+
+
+
+travel
+
+
+
+
+environment
+
+
+
+
+science
 
 
 
 
 
 
+browse all sections
+close
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
 Local
 
 
@@ -284,17 +482,7 @@ World
 
 
 Photos
-
-
-
-
-
-
-
-
- 
-
-
+=======
 
 
  
@@ -309,13 +497,61 @@ Photos
 
 
 
+US elections 2016
 
+
+
+Republican candidates reaffirm gun rights support after Charleston shooting
+
+
+>>>>>>> origin/master
+
+
+
+
+
+
+
+<<<<<<< HEAD
+
+ 
+=======
+‘Everybody’s for the second amendment,’ Rand Paul said at conservative conference that coincided with Obama’s speech denouncing US gun violence
+
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+ 
+=======
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
 Local
 
+=======
+
+Marco Rubio declared his steadfast support of the right to bear arms at the Faith and Freedom Coalition conference.
+Photograph: ddp USA/REX Shutterstock/ddp USA/REX Shutterstock
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 Officers Shoot Suspect When He Points Gun At Them, Police Say
 
@@ -323,6 +559,27 @@ Officers Shoot Suspect When He Points Gun At Them, Police Say
 
 
 April 4, 2015 7:35 PM
+=======
+Sabrina Siddiqui and 
+Dan Roberts in Washington
+
+
+Thursday 18 June 2015 16.44 EDT
+
+
+Last modified on Saturday 20 June 2015 12.23 EDT
+
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+Share on Facebook
+>>>>>>> origin/master
 
 
 
@@ -330,17 +587,16 @@ April 4, 2015 7:35 PM
 
 
 
+<<<<<<< HEAD
+=======
+Share on Twitter
+>>>>>>> origin/master
 
 
 
 
 
-
-
-
-
-
-
+<<<<<<< HEAD
  
 
 
@@ -355,11 +611,25 @@ South Rockwell
 
 
 
+=======
+
+
+Share via Email
 
 
 
 
 
+
+
+Share on Pinterest
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
 (STMW) —
  Chicago Police officers shot a man after he pointed a gun at them Saturday afternoon in the Chicago Lawn neighborhood on the Southwest Side.
 
@@ -385,6 +655,27 @@ The Independent Police Review Authority, which investigates all police-involved 
  
 
 
+=======
+
+
+Share on LinkedIn
+
+
+
+
+
+
+
+Share on Google+
+
+
+
+
+
+
+
+Share on WhatsApp
+>>>>>>> origin/master
 
 
 
@@ -402,6 +693,7 @@ The Independent Police Review Authority, which investigates all police-involved 
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -409,12 +701,29 @@ The Independent Police Review Authority, which investigates all police-involved 
 
 
  
+=======
+Less than one day after a white gunman killed nine people at a prayer meeting at a historic black church in Charleston, South Carolina, Republican presidential candidates touted their support for the right to bear arms before a mass gathering of conservatives.
+
+ Related: Charleston church shooting suspect Dylann Roof in custody – latest updates 
+
+Speaking at the Faith and Freedom Coalition conference in Washington DC on Thursday, an annual event that draws a largely evangelical audience, both US senators Marco Rubio and Rand Paul declared their unwavering support for defending second amendment rights in separate speeches.
+“If I am president of the United States, we will appoint justices and we will have an attorney general who will protect our second amendment rights,” Rubio said to thunderous applause.
+“Everybody’s for the second amendment. All 55 candidates running for president are for the second amendment, on our side,” Paul said later in his own speech.
+Although the rousing defenses of gun ownership were not made in reference to the Charleston church massacre – and are routinely part of both candidates’ stump speeches when addressing social conservatives – the comments coincided with what political watchers said was at least the 14th time Barack Obama has been forced to address gun violence in America.
+
+ Related: Charleston church shooting: Obama calls for gun control in wake of tragedy 
+
+Speaking at the White House, Obama said the shooting at Emanuel African Methodist Episcopal (AME) church could “shift how we think about the issue of gun violence”.
+
+
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -433,10 +742,58 @@ Listen Live
 
 
 
+=======
+    Sorry, your browser is unable to play this video. 
+
+
+
+ Facebook 
+ Twitter 
+ Pinterest 
+
+
+Barack Obama says similar shootings have happened ‘too many times.’
+Link to video
+
+
+At the conference across town, Paul did directly address the Charleston killings just a few minutes into his remarks, as did Texas senator Ted Cruz, another Republican presidential candidate who spoke at the event.
+“What kind of a person goes in a church and shoots nine people? There’s a sickness in our country. There’s something terribly wrong,” Paul said. “But it isn’t going to be fixed by the government. It’s people straying away. It’s people not understanding where salvation comes from.”
+Cruz opened his speech by holding a moment of silence for the victims of what he called a “horrific tragedy”.
+“Today the body of Christ is in mourning. A sick and deranged person came and prayed with a historically black congregation for an hour and then murdered nine innocent souls,” Cruz said of the incident at the historically black church. “Christians across our nation, across our world, believers across our world, are lifting up the congregants at Emanuel AME.”
+Rubio did not mention the shooting at all during his remarks, although he tweeted earlier on Thursday that he was “saddened” by the event.
+
+
+— Marco Rubio (@marcorubio)
+June 18, 2015
+Saddened by the news from Charleston. The victims and their families are in my prayers today.
+
+
+
+By contrast, a visibly frustrated Obama reacted to the shooting by pointing out that he has had “to make statements like this too many times”.
+“We don’t have all the facts but we do know that once again innocent people were killed in part because someone who wanted to inflict harm had no trouble getting their hands on a gun,” Obama said. “At some point we will have to deal with the fact that this kind of mass violence doesn’t happen in other countries and it is in our power to do something about it.”
+Republican lawmakers in Washington remain overwhelmingly opposed to gun control and blocked an expansion of background checks in the US Senate shortly after the 2012 mass shooting by 20-year-old Adam Lanza at an elementary school in Newtown, Connecticut, which left 20 children and six educators dead. 
+
+ Related: Charleston church shooting: Without gun control, racism will keep killing black people | Gary Younge 
+
+All of the roughly dozen Republican contenders for president have consistently flaunted their support for the second amendment while on the campaign trail, often warning that the Obama administration is out to grab guns from ordinary citizens.
+
+Democratic presidential candidates struck a more proactive tone than either their Republican rivals or the exasperated-sounding Obama, with Hillary Clinton and Bernie Sanders calling loudly for a renewed debate on both guns and race.
+“As we mourn and as our hearts break a little more, we will not forsake those who have been victimised by gun violence, this time we have to find answers together,” said Clinton, during a scheduled campaign stop in Las Vegas. “Let’s unite in partnership, not just to talk but to act.”
+“We have to face hard truths about race, violence, guns and division,” she added.
+Sanders was blunter still, calling the attack “not just a tragedy” but “an act of terror”.
+“This hateful killing is a horrific reminder that, while we have made important progress in civil rights for all of our people, we are far from eradicating racism,” he added.
+Despite facing criticism for holding a campaign event on pensions within earshot of a Charleston prayer vigil, Sanders’ statement was the first from a leading politician to describe the attack as an act of terrorism.
+
+Clinton was also more outspoken than Obama, saying gun control would have to happen “at some point”.
+
+“We will stand with you as we seek answers and take action,” she told the National Association of Latino Elected and Appointed Officials conference in Las Vegas.
+“How many innocent people in our country from little children, church members to movie theater attendees – how many people do we need to see cut down before we act?” the former secretary of state asked.
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -477,42 +834,95 @@ Follow
 CBS Chicago
 
 
+=======
+Topics
+
+
+
+US elections 2016
+
+
+
+
+US gun control
+
+
+
+
+Republicans
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+US politics
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
 
 
 
+=======
+Marco Rubio
+
+
+
+More…
+
+
+
+Ted Cruz
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+Rand Paul
+>>>>>>> origin/master
 
 
 
 
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 Follow @CBSChicago
+=======
+Barack Obama
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+Gun crime
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+Charleston shooting
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Like us on foursquare
+=======
+South Carolina
+>>>>>>> origin/master
 
 
 
@@ -523,6 +933,10 @@ Like us on foursquare
 
 
 
+<<<<<<< HEAD
+=======
+Share on Facebook
+>>>>>>> origin/master
 
 
 
@@ -530,6 +944,10 @@ Like us on foursquare
 
 
 
+<<<<<<< HEAD
+=======
+Share on Twitter
+>>>>>>> origin/master
 
 
 
@@ -537,6 +955,10 @@ Like us on foursquare
 
 
 
+<<<<<<< HEAD
+=======
+Share via Email
+>>>>>>> origin/master
 
 
 
@@ -544,18 +966,45 @@ Like us on foursquare
 
 
 
+<<<<<<< HEAD
+=======
+Share on Pinterest
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 Follow More Stations and Personalities
 
 
+=======
+
+
+Share on LinkedIn
 
 
 
 
+
+
+
+Share on Google+
+
+
+
+
+
+
+
+Share on WhatsApp
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
  
 Contests & Promotions
 Blue Collar Bears Fan Of The Week
@@ -595,17 +1044,31 @@ dodgerman
  cbsloc.al/1LGzANK
  
 24 minutes ago
+=======
 
 
 
 
 
+
+
+
+
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
 				NOW: Live streaming of CBS2’s newscast. One click and you’re in the loop. Starts now: 
  CBSChicago.com/watch
  
 #LIVE
  
 32 minutes ago
+=======
+>>>>>>> origin/master
 
 
 
@@ -617,6 +1080,10 @@ dodgerman
 
 
 
+<<<<<<< HEAD
+=======
+more on this story
+>>>>>>> origin/master
 
 
 
@@ -627,12 +1094,16 @@ dodgerman
 
 
 
+<<<<<<< HEAD
 News Via Email
  
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Download The Free App
  
 
@@ -647,6 +1118,18 @@ New Podcast Network
 
 Download Our New Weather App!
  
+=======
+
+
+
+Charleston shootings: NRA blames victims as reactions echo Newtown
+
+
+An NRA board member suggested worshippers ‘might be alive’ if they had guns themselves, while Obama and gun control groups repeat calls for reform
+
+
+
+>>>>>>> origin/master
 
 
 
@@ -655,11 +1138,20 @@ Download Our New Weather App!
 
 
 
+<<<<<<< HEAD
 
 
  
 
 
+=======
+Published: 20 Jun 2015
+
+
+
+
+Charleston shootings: NRA blames victims as reactions echo Newtown
+>>>>>>> origin/master
 
 
 
@@ -668,11 +1160,15 @@ Download Our New Weather App!
 
 
 
+<<<<<<< HEAD
 News
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Local
 
 
@@ -692,17 +1188,38 @@ Weather
 
 
 Traffic
+=======
 
 
 
 
 
 
+
+
+
+
+Sorry, your browser is unable to play this video.
+Please install Adobe Flash™ and try again.
+Alternatively upgrade to a modern browser.
+
+
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
 Sports
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Bears
 
 
@@ -722,17 +1239,37 @@ Podcasts
 
 
 Blogs
+=======
 
 
 
 
 
 
+
+
+
+
+Michelle Obama on Charleston: 'Too many tragedies like this' - video
+
+
+Michelle Obama spoke about the deadly church shooting in Charleston, South Carolina.
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
 Scores & Stats
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 NFL Football
 
 
@@ -743,17 +1280,31 @@ NBA Basketball
 
 
 NHL Hockey
+=======
+
+Published: 19 Jun 2015
+
+
+
+
+Michelle Obama on Charleston: 'Too many tragedies like this' - video
+
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 Contact Us
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 CBS 2
 
 
@@ -767,12 +1318,25 @@ Connect
 
 
 Mobile
+=======
+
+
+
+
+Rick Perry calls Charleston church shooting an 'accident'
+
+
+Republican presidential candidate says ‘real issue’ raised by case is drugs and accuses Obama of seeking to use shooting to take away Americans’ guns
+
+
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 Corporate
 
 
@@ -794,6 +1358,24 @@ Mobile
 
 
 Connect
+=======
+
+
+
+Published: 19 Jun 2015
+
+
+
+
+Rick Perry calls Charleston church shooting an 'accident'
+
+
+
+
+
+
+
+>>>>>>> origin/master
 
 
 
@@ -804,11 +1386,15 @@ Connect
 
 
 
+<<<<<<< HEAD
 Chicago Business Listings
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Restaurants
 
 
@@ -822,6 +1408,19 @@ Professional Services
 
 
 Search Listings
+=======
+
+Sorry, your browser is unable to play this video.
+Please install Adobe Flash™ and try again.
+Alternatively upgrade to a modern browser.
+
+
+
+
+
+
+
+>>>>>>> origin/master
 
 
 
@@ -830,6 +1429,7 @@ Search Listings
 
 
 
+<<<<<<< HEAD
 By viewing our video content, you are accepting the terms of our 
 Video Services Policy
 
@@ -879,6 +1479,18 @@ WordPress.com VIP
 
 
  
+=======
+
+
+
+
+
+
+
+No decision has been made on death penalty in Charleston church shooting, says prosecutor – video
+
+
+Prosecutor Scarlett Wilson says 'now is not the time' to discuss whether suspected gunman Dylann Roof will face the death penalty
 
 
 
@@ -889,6 +1501,31 @@ WordPress.com VIP
 
 
 
+
+Published: 19 Jun 2015
+
+
+
+
+No decision has been made on death penalty in Charleston church shooting, says prosecutor – video
+
+
+
+
+
+
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
 Facebook
 
 
@@ -896,12 +1533,20 @@ Twitter
 
 
 RSS
+=======
+Representatives of Charleston shooting victims 'forgive' Dylann Roof
+
+
+
+
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 Other CBS Local Cities 
 
 
@@ -980,6 +1625,16 @@ CBS Tampa
 
 
 CBS Washington
+=======
+
+
+
+Published: 19 Jun 2015
+
+
+
+
+Representatives of Charleston shooting victims 'forgive' Dylann Roof
 
 
 
@@ -988,6 +1643,62 @@ CBS Washington
 
 
 
+Analysis
+
+11 myths about the future of gun control, debunked after the Charleston shooting
+
+
+
+
+
+
+
+
+
+
+
+
+
+Published: 20 Jun 2015
+
+
+
+
+11 myths about the future of gun control, debunked after the Charleston shooting
+
+
+
+
+
+
+
+
+
+
+Charleston killings leave US reckoning with race and guns amid 'broken peace'
+
+
+
+
+
+
+
+
+
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+Published: 18 Jun 2015
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 ©2015 CBS Local Media,
@@ -995,6 +1706,11 @@ CBS Washington
 a division of CBS Radio Inc.
  
 All rights reserved.
+=======
+Charleston killings leave US reckoning with race and guns amid 'broken peace'
+
+
+>>>>>>> origin/master
 
 
 
@@ -1003,10 +1719,15 @@ All rights reserved.
 
 
 
+<<<<<<< HEAD
+=======
+Charleston church shooting: suspect Dylann Roof in custody as community holds vigils
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Buy Tickets
 Order Food
  
@@ -1025,6 +1746,27 @@ Email Alerts
 Daily Deals
 50% Off From ATE Accessories
  
+=======
+
+
+
+
+
+
+
+
+
+Published: 19 Jun 2015
+
+
+
+
+Charleston church shooting: suspect Dylann Roof in custody as community holds vigils
+
+
+
+
+>>>>>>> origin/master
 
 
 
@@ -1036,6 +1778,9 @@ Daily Deals
 
 
 
+<<<<<<< HEAD
+=======
+More more on this story
 
 
 
@@ -1045,13 +1790,32 @@ Daily Deals
 
 
 
+
+popular
+
+
+
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
 Log In
 Register
+=======
+>>>>>>> origin/master
  
 
 
 
 
+<<<<<<< HEAD
 Follow Us
 
 
@@ -1062,6 +1826,25 @@ Twitter
 
 
 Youtube
+=======
+
+
+
+
+The Guardian
+
+
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+back to top
+>>>>>>> origin/master
 
 
 
@@ -1076,33 +1859,50 @@ Youtube
 
 
 
+<<<<<<< HEAD
+=======
+home
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+US
+selected
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+world
+>>>>>>> origin/master
 
 
 
 
-
-
-
-
-
-
+<<<<<<< HEAD
 
 
 Listen Live
 
 
+=======
+opinion
 
 
 
 
+sports
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 AM/FM Stations
@@ -1126,10 +1926,34 @@ B96
 
 
 WBBM NewsRadio
+=======
+soccer
 
 
 
 
+tech
+
+
+
+
+arts
+
+
+
+
+lifestyle
+
+
+
+
+fashion
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 Featured Shows & Multimedia
@@ -1147,6 +1971,24 @@ CBS Sports Radio
 
 
 Radio.com
+=======
+business
+
+
+
+
+travel
+
+
+
+
+environment
+
+
+
+
+science
+>>>>>>> origin/master
 
 
 
@@ -1154,8 +1996,398 @@ Radio.com
 
 
 
+<<<<<<< HEAD
 
 Advertise On Our Streams
+=======
+all sections
+close
+
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+home
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+US
+selected
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+world
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+UK
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+europe
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+americas
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+ 
+=======
+asia
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+ 
+
+=======
+middle east
+
+
+
+
+africa
+
+
+
+
+australia
+
+
+
+
+cities
+
+
+
+
+development
+
+
+
+
+
+
+opinion
+
+
+
+
+sports
+
+
+
+
+soccer
+
+
+
+
+MLS
+
+
+
+
+NFL
+
+
+
+
+MLB
+
+
+
+
+NBA
+
+
+
+
+NHL
+
+
+
+
+
+
+soccer
+
+
+
+
+live scores
+
+
+
+
+tables
+
+
+
+
+competitions
+
+
+
+
+results
+
+
+
+
+fixtures
+
+
+
+
+clubs
+
+
+
+
+
+
+tech
+
+
+
+
+arts
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+movies
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+tv & radio
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+music
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+games
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+books
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+art & design
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+stage
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+classical
+
+
+
+
+
+
+lifestyle
+
+
+
+
+food
+
+
+
+
+health & fitness
+
+
+
+
+love & sex
+
+
+
+
+family
+
+
+
+
+women
+
+
+
+
+home & garden
+
+
+
+
+
+
+fashion
+
+
+
+
+business
+
+
+
+
+economics
+
+
+
+
+sustainable business
+
+
+
+
+diversity & equality in business
+
+
+
+
+small business
+
+
+
+
+
+
+travel
+
+
+
+
+USA
+
+
+
+
+europe
+
+
+
+
+UK
+
+
+
+
+
+
+environment
+
+
+
+
+climate change
+
+
+
+
+wildlife
+
+
+
+
+energy
+
+
+
+
+pollution
+
+
+
+
+
+
+science
+
+
+
+
+media
+
+
+
+
+crosswords
+
+
+
+
+video
 
 
 
@@ -1167,8 +2399,44 @@ Advertise On Our Streams
 
 
 
+US News
 
 
+
+
+›
+US elections 2016
+
+
+
+
+
+
+
+
+jobs
+
+subscribe
+all topics
+all contributors
+
+
+report technical issue
+
+
+
+about us
+
+contact us
+
+complaints & corrections
+terms & conditions
+privacy policy
+cookie policy
+securedrop
+
+
+© 2015 Guardian News and Media Limited or its affiliated companies. All rights reserved.
 
 
 
@@ -1188,40 +2456,4 @@ Advertise On Our Streams
 
  
 
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+>>>>>>> origin/master

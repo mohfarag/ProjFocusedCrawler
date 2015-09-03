@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 Police Shoots Suspect Holding ‘Cutting Instrument’ In South Chicago « CBS Chicago
 
 Police Shoots Suspect Holding ‘Cutting Instrument’ In South Chicago « CBS Chicago
+=======
+Charleston shooting | US news | The Guardian
+
+Charleston shooting | US news | The Guardian
+>>>>>>> origin/master
 
 
 
@@ -16,6 +22,7 @@ Police Shoots Suspect Holding ‘Cutting Instrument’ In South Chicago « CBS C
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -332,6 +339,9 @@ June 25, 2014 6:08 AM
 
 
 
+=======
+Close
+>>>>>>> origin/master
 
 
 
@@ -340,12 +350,17 @@ June 25, 2014 6:08 AM
 
 
 
+<<<<<<< HEAD
+=======
+Skip to main content
+>>>>>>> origin/master
 
  
 
 
 
 
+<<<<<<< HEAD
 Related Tags:
 
 
@@ -360,11 +375,16 @@ Police-Involved Shooting
 Resisting Arrest
 , 
 South Chicago
+=======
+
+
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -394,6 +414,31 @@ The Independent Police Review Authority is investigating the shooting.
 
 
 (Source: Sun-Times Media Wire © Chicago Sun-Times 2014. All Rights Reserved. This material may not be published, broadcast, rewritten, or redistributed.)
+=======
+sign in
+
+
+
+
+
+
+
+
+subscribe
+
+
+
+
+
+
+
+search
+
+
+
+
+jobs
+>>>>>>> origin/master
 
 
 
@@ -404,6 +449,7 @@ The Independent Police Review Authority is investigating the shooting.
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -421,27 +467,77 @@ The Independent Police Review Authority is investigating the shooting.
 
 
  
+=======
+more
+
+
+from the guardian:
+
+
+jobs
+
+
+
+change edition:
+
+
+
+switch to the  UK  edition
+
+
+switch to the  AU  edition
+
+
+switch to the 
+INT
+beta
+ edition
+
+
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+US edition
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+switch to the 
+UK edition
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+switch to the 
+Australia edition
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 Listen Live
+=======
+switch to the 
+International
+beta
+
+
+>>>>>>> origin/master
 
 
 
@@ -450,6 +546,7 @@ Listen Live
 
 
 
+<<<<<<< HEAD
 
 
  
@@ -487,6 +584,13 @@ Most recently, two men were shot late Thursday in the West Side Austin neighborh
 
 Follow 
 CBS Chicago
+=======
+The Guardian
+
+
+
+
+>>>>>>> origin/master
 
 
 
@@ -499,6 +603,16 @@ CBS Chicago
 
 
 
+<<<<<<< HEAD
+
+
+=======
+home
+
+
+›
+US
+>>>>>>> origin/master
 
 
 
@@ -509,63 +623,115 @@ CBS Chicago
 
 
 
-
-
+<<<<<<< HEAD
 Follow @CBSChicago
+=======
+home
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+US
+selected
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+world
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Like us on foursquare
+=======
+opinion
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+sports
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+soccer
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+tech
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+arts
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+lifestyle
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+fashion
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+business
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+travel
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Follow More Stations and Personalities
+=======
+environment
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
  
@@ -607,11 +773,26 @@ dodgerman
  cbsloc.al/1LGzANK
  
 24 minutes ago
+=======
+science
 
 
 
 
 
+
+browse all sections
+close
+
+
+
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
 				NOW: Live streaming of CBS2’s newscast. One click and you’re in the loop. Starts now: 
  CBSChicago.com/watch
  
@@ -623,6 +804,30 @@ dodgerman
 
 
  
+=======
+ 
+
+
+
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
+
+
+=======
+Charleston shooting
+
+Friday
+
+3
+July
+2015
+>>>>>>> origin/master
 
 
 
@@ -631,60 +836,84 @@ dodgerman
 
 
 
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 News Via Email
  
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Download The Free App
  
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 New Podcast Network
  
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Download Our New Weather App!
  
 
 
 
 
+=======
+
+
+A view from the south: let the Confederate flag go
+
+Barbara Kingsolver
+
+The Confederate emblem was about pride as well as hatred, but racists have twisted its meaning
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
  
 
 
 
+=======
+
+
+A view from the south: let the Confederate flag go
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 
 News
+=======
+Older
+Newer
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Local
 
 
@@ -704,17 +933,42 @@ Weather
 
 
 Traffic
+=======
+
+Topics
+
+
+
+American civil war
 
 
 
 
+US crime
+
+
+
+
+Gun crime
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 Sports
+=======
+Race issues
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Bears
 
 
@@ -741,10 +995,33 @@ Blogs
 
 
 Scores & Stats
+=======
 
 
 
 
+
+
+
+The Guardian
+
+
+
+
+
+
+
+
+back to top
+
+
+
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 NFL Football
 
 
@@ -756,10 +1033,21 @@ NBA Basketball
 
 NHL Hockey
 
+=======
 
 
 
 
+
+
+
+home
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 Contact Us
 
@@ -809,10 +1097,60 @@ Connect
 
 
 
+=======
+US
+selected
 
 
 
 
+world
+
+
+
+
+opinion
+
+
+
+
+sports
+
+
+
+
+soccer
+
+
+
+
+tech
+
+
+
+
+arts
+
+
+
+
+lifestyle
+
+
+
+
+fashion
+
+
+
+
+business
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
@@ -834,6 +1172,18 @@ Professional Services
 
 
 Search Listings
+=======
+travel
+
+
+
+
+environment
+
+
+
+
+science
 
 
 
@@ -841,6 +1191,17 @@ Search Listings
 
 
 
+all sections
+close
+>>>>>>> origin/master
+
+
+
+
+
+
+
+<<<<<<< HEAD
 
 By viewing our video content, you are accepting the terms of our 
 Video Services Policy
@@ -893,14 +1254,63 @@ WordPress.com VIP
  
 
 
+=======
+home
 
 
 
 
+US
+selected
 
 
 
 
+world
+
+
+
+
+UK
+
+
+
+
+europe
+
+
+
+
+americas
+
+
+
+
+asia
+
+
+
+
+middle east
+
+
+
+
+africa
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+australia
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Facebook
 
 
@@ -908,17 +1318,30 @@ Twitter
 
 
 RSS
+=======
+cities
+
+
+
+
+development
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 Other CBS Local Cities 
+=======
+opinion
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 CBS Atlanta
 
 
@@ -994,14 +1417,84 @@ CBS Tampa
 CBS Washington
 
 
+=======
+sports
+
+
+
+
+soccer
+
+
+
+
+MLS
+
+
+
+
+NFL
+
+
+
+
+MLB
+
+
+
+
+NBA
+
+
+
+
+NHL
 
 
 
 
 
 
+soccer
 
 
+
+
+live scores
+
+
+
+
+tables
+
+
+
+
+competitions
+
+
+
+
+results
+
+
+
+
+fixtures
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+clubs
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 ©2015 CBS Local Media,
  
 a division of CBS Radio Inc.
@@ -1009,14 +1502,24 @@ a division of CBS Radio Inc.
 All rights reserved.
 
 
+=======
+
+
+tech
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+arts
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 Buy Tickets
@@ -1039,22 +1542,48 @@ Daily Deals
  
 
 
+=======
+movies
 
 
 
 
+tv & radio
 
 
 
 
+music
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+games
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+books
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+art & design
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 Log In
@@ -1076,45 +1605,99 @@ Twitter
 Youtube
 
 
+=======
+stage
+
+
+
+
+classical
 
 
 
 
 
 
+lifestyle
+
+
+
+
+food
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+health & fitness
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+love & sex
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+family
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+women
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+home & garden
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+fashion
+>>>>>>> origin/master
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 
 
 Listen Live
 
 
+=======
+business
 
 
 
 
+economics
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 AM/FM Stations
@@ -1140,15 +1723,45 @@ B96
 WBBM NewsRadio
 
 
+=======
+sustainable business
 
 
 
 
+diversity & equality in business
+
+
+
+
+small business
+
+
+
+
+
+
+travel
+
+
+
+
+USA
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Featured Shows & Multimedia
+=======
+europe
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Play.It
 
 
@@ -1159,51 +1772,140 @@ CBS Sports Radio
 
 
 Radio.com
+=======
+UK
 
 
 
 
 
 
+environment
+>>>>>>> origin/master
 
 
+
+
+<<<<<<< HEAD
+=======
+climate change
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Advertise On Our Streams
+=======
+wildlife
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+energy
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+pollution
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+science
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+media
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+crosswords
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+video
+>>>>>>> origin/master
 
 
 
 
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
  
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
  
+=======
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
+
+
+
+
+
+
+
+
+
+
+=======
+jobs
+
+subscribe
+all topics
+all contributors
+
+
+report technical issue
+
+
+
+about us
+
+contact us
+
+complaints & corrections
+terms & conditions
+privacy policy
+cookie policy
+securedrop
+
+
+© 2015 Guardian News and Media Limited or its affiliated companies. All rights reserved.
+>>>>>>> origin/master
 
 
 
@@ -1221,19 +1923,8 @@ Advertise On Our Streams
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
+=======
+ 
+>>>>>>> origin/master
 

@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 Suspect Wounded In Police-Involved Shooting Zion « CBS Chicago
 
 Suspect Wounded In Police-Involved Shooting Zion « CBS Chicago
+=======
+Charleston shooting | US news | The Guardian
+
+Charleston shooting | US news | The Guardian
+>>>>>>> origin/master
 
 
 
@@ -16,6 +22,7 @@ Suspect Wounded In Police-Involved Shooting Zion « CBS Chicago
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -286,17 +293,28 @@ World
 Photos
 
 
+=======
+Close
+
+
+
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
+=======
+Skip to main content
+>>>>>>> origin/master
 
  
 
 
 
 
+<<<<<<< HEAD
  
 
 
@@ -306,10 +324,13 @@ Photos
 
 
 
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Local
 
 
@@ -318,12 +339,26 @@ Local
 
 
 Suspect Wounded In Police-Involved Shooting Zion
+=======
+
+
+
+sign in
+
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 June 3, 2014 10:08 PM
 
+=======
+
+subscribe
+>>>>>>> origin/master
 
 
 
@@ -331,16 +366,25 @@ June 3, 2014 10:08 PM
 
 
 
+<<<<<<< HEAD
+=======
+search
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+jobs
+>>>>>>> origin/master
 
 
 
 
 
 
-
-
-
-
+<<<<<<< HEAD
 View Comments
  
 
@@ -390,6 +434,36 @@ A Zion police officer was struck by the suspect’s vehicle and a total of three
 The Lake County Major Crime Task Force has been called to conduct an independent investigation of the incident. 
 
 
+=======
+
+
+
+
+more
+
+
+from the guardian:
+
+
+jobs
+
+
+
+change edition:
+
+
+
+switch to the  UK  edition
+
+
+switch to the  AU  edition
+
+
+switch to the 
+INT
+beta
+ edition
+>>>>>>> origin/master
 
 
 
@@ -398,18 +472,33 @@ The Lake County Major Crime Task Force has been called to conduct an independent
 
 
 
+<<<<<<< HEAD
+=======
+US edition
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+switch to the 
+UK edition
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+switch to the 
+Australia edition
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -428,6 +517,11 @@ View Comments
 
 
 
+=======
+switch to the 
+International
+beta
+>>>>>>> origin/master
 
 
 
@@ -436,9 +530,15 @@ View Comments
 
 
 
+<<<<<<< HEAD
 Listen Live
 
 
+=======
+
+
+The Guardian
+>>>>>>> origin/master
 
 
 
@@ -447,6 +547,7 @@ Listen Live
 
 
 
+<<<<<<< HEAD
  
 
 
@@ -476,16 +577,30 @@ Eight Wounded In Thursday Shootings Across Chicago
 Most recently, two men were shot late Thursday in the West Side Austin neighborhood. The men, ages 19 and 20, were standing outside in the 1500 block of North Linder about 10:25 p.m. when shots were fired in their direction from a group of males standing on the corner across the street, according to Chicago Police.
  
 80
+=======
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Follow 
 CBS Chicago
 
 
 
 
+=======
+
+
+home
+
+
+›
+US
+>>>>>>> origin/master
 
 
 
@@ -496,73 +611,138 @@ CBS Chicago
 
 
 
+<<<<<<< HEAD
+=======
+home
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+US
+selected
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 Follow @CBSChicago
 
 
+=======
+world
 
 
 
 
+opinion
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+sports
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 Like us on foursquare
 
 
+=======
+soccer
+
+
+
+
+tech
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+arts
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+lifestyle
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+fashion
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+business
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+travel
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+environment
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+science
+>>>>>>> origin/master
 
 
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 Follow More Stations and Personalities
+=======
+browse all sections
+close
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
  
 Contests & Promotions
 Blue Collar Bears Fan Of The Week
@@ -583,11 +763,14 @@ August 3, 2015
 Sign up now for your chance to win a twosome in the 2015 Tito's handmade Vodka golf outing and 19th hole party September 8th at Indian Lakes Resort. 
 Latest Videos
  
+=======
+>>>>>>> origin/master
 
 
  
 
 
+<<<<<<< HEAD
 More Contests & Promotions…
  
 
@@ -613,11 +796,31 @@ dodgerman
 #LIVE
  
 32 minutes ago
+=======
 
 
 
 
+
+
+
+Charleston shooting
+
+Thursday
+
+2
+July
+2015
+
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
  
+=======
+>>>>>>> origin/master
 
 
 
@@ -632,28 +835,45 @@ dodgerman
 
 
 
+<<<<<<< HEAD
 
 
 News Via Email
  
+=======
+Latest black church fire in South Carolina had 'natural' cause, authorities say
+
+
+Officers close investigation in Greeleyville after finding ‘no indicator of criminal intent’
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Download The Free App
  
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 New Podcast Network
  
+=======
+Latest black church fire in South Carolina had 'natural' cause, authorities say
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Download Our New Weather App!
  
+=======
+>>>>>>> origin/master
 
 
 
@@ -664,10 +884,18 @@ Download Our New Weather App!
 
 
 
+<<<<<<< HEAD
  
 
 
 
+=======
+
+Dylann Roof's sister tries to raise funds online to reschedule her wedding
+
+
+GoFundMe page, which has since been removed, had asked for $5,000 in contributions after Charleston church shooting forced cancellation
+>>>>>>> origin/master
 
 
 
@@ -675,6 +903,7 @@ Download Our New Weather App!
 
 
 
+<<<<<<< HEAD
 News
 
 
@@ -699,17 +928,47 @@ Weather
 
 
 Traffic
+=======
+
+Dylann Roof's sister tries to raise funds online to reschedule her wedding
 
 
 
 
+
+
+Older
+Newer
+
+
+
+
+
+
+Topics
+
+
+
+South Carolina
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 Sports
+=======
+Crowdfunding
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Bears
 
 
@@ -736,10 +995,33 @@ Blogs
 
 
 Scores & Stats
+=======
 
 
 
 
+
+
+
+The Guardian
+
+
+
+
+
+
+
+
+back to top
+
+
+
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 NFL Football
 
 
@@ -751,10 +1033,21 @@ NBA Basketball
 
 NHL Hockey
 
+=======
 
 
 
 
+
+
+
+home
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 Contact Us
 
@@ -804,10 +1097,60 @@ Connect
 
 
 
+=======
+US
+selected
 
 
 
 
+world
+
+
+
+
+opinion
+
+
+
+
+sports
+
+
+
+
+soccer
+
+
+
+
+tech
+
+
+
+
+arts
+
+
+
+
+lifestyle
+
+
+
+
+fashion
+
+
+
+
+business
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
@@ -829,6 +1172,18 @@ Professional Services
 
 
 Search Listings
+=======
+travel
+
+
+
+
+environment
+
+
+
+
+science
 
 
 
@@ -836,6 +1191,17 @@ Search Listings
 
 
 
+all sections
+close
+>>>>>>> origin/master
+
+
+
+
+
+
+
+<<<<<<< HEAD
 
 By viewing our video content, you are accepting the terms of our 
 Video Services Policy
@@ -887,14 +1253,63 @@ WordPress.com VIP
 
  
 
+=======
+home
 
 
 
 
+US
+selected
 
 
 
 
+world
+
+
+
+
+UK
+
+
+
+
+europe
+
+
+
+
+americas
+
+
+
+
+asia
+
+
+
+
+middle east
+
+
+
+
+africa
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+australia
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 Facebook
 
@@ -903,11 +1318,21 @@ Twitter
 
 
 RSS
+=======
+cities
+
+
+
+
+development
+
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 
 Other CBS Local Cities 
 
@@ -988,15 +1413,90 @@ CBS Tampa
 
 CBS Washington
 
+=======
+opinion
+
+
+
+
+sports
+
+
+
+
+soccer
+
+
+
+
+MLS
+
+
+
+
+NFL
+
+
+
+
+MLB
+
+
+
+
+NBA
+
+
+
+
+NHL
 
 
 
 
 
 
+soccer
 
 
 
+
+live scores
+
+
+
+
+tables
+
+
+
+
+competitions
+
+
+
+
+results
+
+
+
+
+fixtures
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+clubs
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
 ©2015 CBS Local Media,
  
 a division of CBS Radio Inc.
@@ -1004,14 +1504,23 @@ a division of CBS Radio Inc.
 All rights reserved.
 
 
+=======
+
+tech
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+arts
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 Buy Tickets
@@ -1034,22 +1543,48 @@ Daily Deals
  
 
 
+=======
+movies
 
 
 
 
+tv & radio
 
 
 
 
+music
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+games
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+books
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+art & design
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 Log In
@@ -1071,45 +1606,99 @@ Twitter
 Youtube
 
 
+=======
+stage
+
+
+
+
+classical
 
 
 
 
 
 
+lifestyle
+
+
+
+
+food
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+health & fitness
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+love & sex
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+family
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+women
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+home & garden
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+fashion
+>>>>>>> origin/master
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 
 
 Listen Live
 
 
+=======
+business
 
 
 
 
+economics
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 AM/FM Stations
@@ -1135,15 +1724,45 @@ B96
 WBBM NewsRadio
 
 
+=======
+sustainable business
 
 
 
 
+diversity & equality in business
+
+
+
+
+small business
+
+
+
+
+
+
+travel
+
+
+
+
+USA
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Featured Shows & Multimedia
+=======
+europe
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Play.It
 
 
@@ -1154,51 +1773,140 @@ CBS Sports Radio
 
 
 Radio.com
+=======
+UK
 
 
 
 
 
 
+environment
+>>>>>>> origin/master
 
 
+
+
+<<<<<<< HEAD
+=======
+climate change
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Advertise On Our Streams
+=======
+wildlife
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+energy
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+pollution
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+science
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+media
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+crosswords
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+video
+>>>>>>> origin/master
 
 
 
 
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
  
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
  
+=======
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
+
+
+
+
+
+
+
+
+
+
+=======
+jobs
+
+subscribe
+all topics
+all contributors
+
+
+report technical issue
+
+
+
+about us
+
+contact us
+
+complaints & corrections
+terms & conditions
+privacy policy
+cookie policy
+securedrop
+
+
+© 2015 Guardian News and Media Limited or its affiliated companies. All rights reserved.
+>>>>>>> origin/master
 
 
 
@@ -1216,19 +1924,8 @@ Advertise On Our Streams
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
+=======
+ 
+>>>>>>> origin/master
 

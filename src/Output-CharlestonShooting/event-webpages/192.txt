@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 Police Officer Fatally Shoots Suspect In Park Manor « CBS Chicago
 
 Police Officer Fatally Shoots Suspect In Park Manor « CBS Chicago
+=======
+Charleston shooting | US news | The Guardian
+
+Charleston shooting | US news | The Guardian
+>>>>>>> origin/master
 
 
 
@@ -16,6 +22,7 @@ Police Officer Fatally Shoots Suspect In Park Manor « CBS Chicago
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -286,17 +293,28 @@ World
 Photos
 
 
+=======
+Close
+
+
+
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
+=======
+Skip to main content
+>>>>>>> origin/master
 
  
 
 
 
 
+<<<<<<< HEAD
  
 
 
@@ -306,10 +324,13 @@ Photos
 
 
 
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Local
 
 
@@ -318,12 +339,26 @@ Local
 
 
 Police Officer Fatally Shoots Suspect In Park Manor
+=======
+
+
+
+sign in
+
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 November 8, 2012 6:16 PM
 
+=======
+
+subscribe
+>>>>>>> origin/master
 
 
 
@@ -331,16 +366,25 @@ November 8, 2012 6:16 PM
 
 
 
+<<<<<<< HEAD
+=======
+search
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+jobs
+>>>>>>> origin/master
 
 
 
 
 
 
-
-
-
-
+<<<<<<< HEAD
  
 
 
@@ -391,6 +435,76 @@ Investigators remained on the scene Thursday evening, and the Independent Police
 
 
 A weapon was recovered at the scene, police said.
+=======
+
+
+
+
+more
+
+
+from the guardian:
+
+
+jobs
+
+
+
+change edition:
+
+
+
+switch to the  UK  edition
+
+
+switch to the  AU  edition
+
+
+switch to the 
+INT
+beta
+ edition
+
+
+
+
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+US edition
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+switch to the 
+UK edition
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+switch to the 
+Australia edition
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+switch to the 
+International
+beta
+>>>>>>> origin/master
 
 
 
@@ -401,22 +515,7 @@ A weapon was recovered at the scene, police said.
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
  
 
 
@@ -426,6 +525,9 @@ A weapon was recovered at the scene, police said.
 
 
 
+=======
+The Guardian
+>>>>>>> origin/master
 
 
 
@@ -438,6 +540,7 @@ A weapon was recovered at the scene, police said.
 
 
 
+<<<<<<< HEAD
 Listen Live
 
 
@@ -484,6 +587,22 @@ Most recently, two men were shot late Thursday in the West Side Austin neighborh
 
 Follow 
 CBS Chicago
+=======
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+
+
+=======
+home
+
+
+›
+US
+>>>>>>> origin/master
 
 
 
@@ -494,77 +613,136 @@ CBS Chicago
 
 
 
+<<<<<<< HEAD
+=======
+home
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+US
+selected
+>>>>>>> origin/master
 
 
 
 
-
-
-
-
-
-
+<<<<<<< HEAD
 Follow @CBSChicago
+=======
+world
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+opinion
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+sports
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Like us on foursquare
+=======
+soccer
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+tech
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+arts
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+lifestyle
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+fashion
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+business
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+travel
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+environment
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+science
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Follow More Stations and Personalities
 
 
+=======
+
+
+browse all sections
+close
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
  
 Contests & Promotions
 Blue Collar Bears Fan Of The Week
@@ -604,10 +782,23 @@ dodgerman
  cbsloc.al/1LGzANK
  
 24 minutes ago
+=======
 
 
 
 
+ 
+
+
+
+
+
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 				NOW: Live streaming of CBS2’s newscast. One click and you’re in the loop. Starts now: 
  CBSChicago.com/watch
@@ -620,6 +811,18 @@ dodgerman
 
 
  
+=======
+Charleston shooting
+
+Sunday
+
+12
+July
+2015
+
+
+
+>>>>>>> origin/master
 
 
 
@@ -636,6 +839,7 @@ dodgerman
 
 
 
+<<<<<<< HEAD
 News Via Email
  
 
@@ -644,10 +848,19 @@ News Via Email
 
 Download The Free App
  
+=======
+New Orleans mayor lays out broad plan to rid city of Confederate relics
+
+
+Mitch Landrieu aims to rid city of statues of Jefferson Davis, Robert E Lee, and other Confederate leaders while he calls for the renaming of a major parkway
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 New Podcast Network
  
 
@@ -656,24 +869,45 @@ New Podcast Network
 
 Download Our New Weather App!
  
+=======
+
+
+New Orleans mayor lays out broad plan to rid city of Confederate relics
+
+
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+Older
+Newer
+>>>>>>> origin/master
 
 
 
 
 
 
-
-
-
-
+<<<<<<< HEAD
  
 
 
 
+=======
+Topics
+
+
+
+US politics
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -708,10 +942,45 @@ Traffic
 
 
 Sports
+=======
+Protest
 
 
 
 
+Louisiana
+
+
+
+
+New Orleans
+
+
+
+
+American civil war
+
+
+
+More…
+
+
+
+US crime
+
+
+
+
+Race issues
+
+
+
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Bears
 
 
@@ -733,15 +1002,37 @@ Podcasts
 Blogs
 
 
+=======
 
 
 
 
+
+
+The Guardian
+
+
+
+
+
+
+
+
+back to top
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Scores & Stats
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 NFL Football
 
 
@@ -752,10 +1043,20 @@ NBA Basketball
 
 
 NHL Hockey
+=======
 
 
 
 
+
+
+home
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 Contact Us
@@ -778,15 +1079,44 @@ Connect
 Mobile
 
 
+=======
+US
+selected
 
 
 
 
+world
+
+
+
+
+opinion
+
+
+
+
+sports
+
+
+
+
+soccer
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Corporate
+=======
+tech
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 About Us
 
 
@@ -805,19 +1135,46 @@ Mobile
 Connect
 
 
+=======
+arts
 
 
 
 
+lifestyle
 
 
 
 
+fashion
+
+
+
+
+business
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+travel
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Chicago Business Listings
+=======
+environment
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Restaurants
 
 
@@ -831,12 +1188,26 @@ Professional Services
 
 
 Search Listings
+=======
+science
 
 
 
 
 
 
+
+all sections
+close
+
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
 
 
 By viewing our video content, you are accepting the terms of our 
@@ -888,14 +1259,63 @@ WordPress.com VIP
 
 
  
+=======
+home
 
 
 
 
+US
+selected
 
 
 
 
+world
+
+
+
+
+UK
+
+
+
+
+europe
+
+
+
+
+americas
+
+
+
+
+asia
+
+
+
+
+middle east
+
+
+
+
+africa
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+australia
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 Facebook
@@ -905,10 +1325,21 @@ Twitter
 
 
 RSS
+=======
+cities
 
 
 
 
+development
+
+
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 Other CBS Local Cities 
@@ -989,33 +1420,120 @@ CBS Tampa
 
 
 CBS Washington
+=======
+opinion
+
+
+
+
+sports
+
+
+
+
+soccer
+
+
+
+
+MLS
+
+
+
+
+NFL
+
+
+
+
+MLB
+
+
+
+
+NBA
+
+
+
+
+NHL
 
 
 
 
 
 
+soccer
 
 
 
 
+live scores
+
+
+
+
+tables
+
+
+
+
+competitions
+
+
+
+
+results
+
+
+
+
+fixtures
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+clubs
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
 ©2015 CBS Local Media,
  
 a division of CBS Radio Inc.
  
 All rights reserved.
+=======
+tech
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+arts
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+movies
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Buy Tickets
 Order Food
  
@@ -1036,22 +1554,43 @@ Daily Deals
  
 
 
+=======
+tv & radio
 
 
 
 
+music
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+games
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+books
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+art & design
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 Log In
@@ -1073,45 +1612,99 @@ Twitter
 Youtube
 
 
+=======
+stage
+
+
+
+
+classical
 
 
 
 
 
 
+lifestyle
+
+
+
+
+food
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+health & fitness
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+love & sex
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+family
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+women
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+home & garden
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+fashion
+>>>>>>> origin/master
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 
 
 Listen Live
 
 
+=======
+business
 
 
 
 
+economics
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 AM/FM Stations
@@ -1137,15 +1730,45 @@ B96
 WBBM NewsRadio
 
 
+=======
+sustainable business
 
 
 
 
+diversity & equality in business
+
+
+
+
+small business
+
+
+
+
+
+
+travel
+
+
+
+
+USA
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Featured Shows & Multimedia
+=======
+europe
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Play.It
 
 
@@ -1156,51 +1779,140 @@ CBS Sports Radio
 
 
 Radio.com
+=======
+UK
 
 
 
 
 
 
+environment
+>>>>>>> origin/master
 
 
+
+
+<<<<<<< HEAD
+=======
+climate change
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Advertise On Our Streams
+=======
+wildlife
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+energy
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+pollution
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+science
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+media
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+crosswords
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+video
+>>>>>>> origin/master
 
 
 
 
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
  
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
  
+=======
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
+
+
+
+
+
+
+
+
+
+
+=======
+jobs
+
+subscribe
+all topics
+all contributors
+
+
+report technical issue
+
+
+
+about us
+
+contact us
+
+complaints & corrections
+terms & conditions
+privacy policy
+cookie policy
+securedrop
+
+
+© 2015 Guardian News and Media Limited or its affiliated companies. All rights reserved.
+>>>>>>> origin/master
 
 
 
@@ -1218,19 +1930,8 @@ Advertise On Our Streams
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
+=======
+ 
+>>>>>>> origin/master
 

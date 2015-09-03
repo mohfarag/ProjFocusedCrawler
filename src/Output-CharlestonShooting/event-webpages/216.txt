@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Charleston shooting | US news | The Guardian
 
 
@@ -61,6 +62,16 @@ Skip to main content
 
  
 
+=======
+
+      				South Carolina shooting suspect seemed troubled, drawn to white supremacy
+| Reuters
+
+ 
+
+      				South Carolina shooting suspect seemed troubled, drawn to white supremacy
+| Reuters
+>>>>>>> origin/master
 
 
 
@@ -76,6 +87,31 @@ Skip to main content
 
 
 
+<<<<<<< HEAD
+
+
+=======
+Edition:
+
+U.S.
+
+Africa
+Arabic
+Argentina
+Brazil
+Canada
+China
+France
+Germany
+India
+Italy
+Japan
+Latin America
+Mexico
+Russia
+Spain
+United Kingdom
+>>>>>>> origin/master
 
 
 
@@ -88,8 +124,7 @@ Skip to main content
 
 
 
-
-
+<<<<<<< HEAD
 sign in
 
 
@@ -169,18 +204,28 @@ more
 
 from the guardian:
 
+=======
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 jobs
 
 
+=======
+Home
+
+
+Business
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 change edition:
@@ -197,19 +242,47 @@ switch to the
  edition
 
 
+=======
+Business Home
+
+
+Legal
+
+
+Deals
+
+
+Aerospace & Defense
+
+
+Finance
+
+
+Autos
+
+
+Reuters Summits
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 switch to the 
  AU 
  edition
 
 
+=======
+
+
+Markets
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 switch to the 
 
 
@@ -226,10 +299,32 @@ beta
 
 
 
+=======
+Markets Home
+
+
+U.S. Markets
+
+
+European Markets
+
+
+Asian Markets
+
+
+Global Market Data
+
+
+Indices
+
+
+Stocks
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -243,18 +338,46 @@ US edition
 
 
 
+=======
+Bonds
+
+
+Currencies
+
+
+Comm & Energy
+
+
+Futures
+
+
+Funds
+
+
+Earnings
+
+
+Dividends
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 switch to the 
 
 
 UK edition
+=======
+
+
+World
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -269,10 +392,32 @@ Australia edition
 
 
 
+=======
+World Home
+
+
+U.S.
+
+
+Special Reports
+
+
+Reuters Investigates
+
+
+Euro Zone
+
+
+Middle East
+
+
+China
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 switch to the 
@@ -286,64 +431,137 @@ beta
 
 
 
+=======
+Japan
+
+
+Mexico
+
+
+Brazil
+
+
+Africa
+
+
+Russia
+
+
+India
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+Politics
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 
 
+=======
+Politics Home
+
+
+Tales from the Trail
+
+
+Supreme Court
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 The Guardian
 
 
+=======
+
+
+Tech
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
 
 
 
+=======
+Technology Home
+
+
+Science
+
+
+Top 100 Global Innovators
+
+
+Environment
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+Opinion
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
 
 
 
+=======
+Opinion Home
+
+
+The Great Debate
+
+
+Data Dive
+
+
+Morning Bid
+>>>>>>> origin/master
 
 
 
 
 
 
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 home
+=======
+Breakingviews
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 ›
@@ -419,10 +637,19 @@ sports
 
 soccer
 
+=======
+Breakingviews Home
+
+
+Breakingviews Video
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -446,12 +673,45 @@ arts
 
 lifestyle
 
+=======
+Money
+
+
+
+
+Money Home
+
+
+Retirement
+
+
+Lipper Awards
+
+
+Analyst Research
+
+
+Alerts
+
+
+Watchlist
+
+
+Portfolio
+
+
+Stock Screener
+
+
+Fund Screener
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 
 fashion
 
@@ -475,22 +735,67 @@ travel
 
 
 
+=======
+Life
 
 
 
 
+Health
+
+
+Sports
+
+
+Arts
+
+
+Entertainment
+
+
+Oddly Enough
+
+
+Faithworld
+
+
+
+
+
+
+Pictures
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 environment
 
 
 
+=======
+Pictures Home
+
+
+The Wider Image
+
+
+Photographers
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 science
 
+=======
+
+Video
+>>>>>>> origin/master
 
 
 
@@ -503,12 +808,17 @@ science
 
 
 
+<<<<<<< HEAD
 browse 
 all
  sections
 
 
 close
+=======
+
+
+>>>>>>> origin/master
 
 
 
@@ -541,11 +851,15 @@ close
 
 
 
+<<<<<<< HEAD
 Charleston shooting
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Friday
 
 
@@ -623,6 +937,22 @@ Obama speaks at Clementa Pinckney funeral – read the eulogy in full
 
 
 
+=======
+
+
+US
+ | 
+Thu Jun 18, 2015 6:55pm EDT
+
+Related: 
+
+U.S.
+
+
+South Carolina shooting suspect seemed troubled, drawn to white supremacy
+
+By Emily Flitter and Jonathan Allen
+>>>>>>> origin/master
 
 
 
@@ -640,6 +970,27 @@ Obama speaks at Clementa Pinckney funeral – read the eulogy in full
 
 
 
+<<<<<<< HEAD
+=======
+                                	Dylann Roof is pictured in this undated photo taken from his Facebook account. Roof is suspected of fatally shooting nine people at a historically black South Carolina church in Charleston on June 18, 2015. He can be seen in his Facebook profile picture in a jacket that...
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+His uncle worried he was cooped up in his room too much. The few images of him found easily online suggest he had a fascination with white supremacy, publicly embracing its symbols. And for his birthday this year, his father bought the young man a pistol, the uncle said.Dylann Roof, a 21-year-old white man, was arrested on Thursday on suspicion of having fatally shot nine people at a historic African-American church in South Carolina. The U.S. Department of Justice is investigating Wednesday's attack as a hate crime, motivated by racism or other prejudice. Those who know Roof described a withdrawn, drifting young man. Roof himself told a police officer who was arresting him earlier this year for illegal possession of prescription painkillers that his parents were pressuring him to get a job. Roof's uncle, Carson Cowles, recalled telling his sister, the suspect's mother, several years ago that he was worried about Roof, and that the "quiet, soft-spoken boy" was too introverted. "I said he was like 19 years old, he still didn't have a job, a driver's license or anything like that and he just stayed in his room a lot of the time," Cowles said in a telephone interview. Roof appears to have had difficulties at school. He had to repeat his first year at White Knoll High School but left mid-way through his second attempt, according to the local school district. He then went to Dreher High School in a different district for the final three months of the academic year before leaving in 2010. Neither district had records of him completing high school.Cowles tried to "mentor" his nephew. "He didn't like that, and me and him kind of drifted apart," Cowles said. Cowles, 56, said Roof's father gave him a .45-caliber pistol for his birthday this year."I actually talked to him on the phone briefly for just a few moments and he was saying, 'Well I'm outside target practicing with my new gun,'" Cowles said, describing a phone call around the time of Roof's birthday in April."Nobody in my family had seen anything like this coming," Cowles said, speaking shortly before news of Roof's arrest. "If it is him, and when they catch him, he's got to pay for this."
+MALL INCIDENTSIn February, Roof unnerved employees working at the Columbiana Centre shopping mall in Columbia, South Carolina, by asking what they told police were unusual questions about staffing levels and closing times.A patrolling police officer was called over. Roof, becoming increasingly nervous, told him "his parents were pressuring him to get a job," according to a Columbia Police Department incident report. The officer asked to search him and found an unlabeled bottle filled with strips of Suboxone, a form of the opioid painkiller buprenorphine that is sometimes misused by people addicted to other powerful opioid drugs, such as oxycodone or heroin.The incident report said Roof tried to pass them off as breath-freshening strips before admitting that a friend had given the prescription-only drug to him, and the officer arrested him for possession of a controlled substance. The case appeared to be still pending, according to county court records. 
+Columbiana Centre banned Roof for a year, but two months later, police were called to the mall again. Roof, described as 5 foot 9 inches (1.75 meters) tall and weighing 120 lb (54 kg), was arrested in the parking lot for trespassing. His car was turned over to his mother. The mall increased the ban to three years. It was not immediately clear whether Roof had a lawyer.APARTHEID-ERA, RHODESIAN FLAGSSigns of Roof's embrace of symbols of the white supremacy movement could be seen in a Facebook profile apparently belonging to Roof, which was created earlier this year. The only publicly visible photograph on the page showed him looking glumly at the camera, bowl-cut brown hair falling over his forehead. In the picture, he wears a black jacket that prominently features the flags of Rhodesia, now Zimbabwe, and apartheid-era South Africa from when the two African countries were ruled by the white minority. 
+Roof's profile listed him as having a little over 80 Facebook friends on Thursday morning, but that number appeared to be dropping, perhaps as others chose to sever their online ties with him. A large number of the Facebook friends were black. By the afternoon, the profile appeared to have been removed from Facebook.One of the friends, Derrick Pearson, wrote on his own Facebook page on Thursday morning he did not talk to Roof and, before the arrest, warned people to stay away from Roof if they saw him, writing that it was "obvious lives do not matter to him." Pearson also published a photo that appeared to show Roof sitting on the hood of a black car with a license plate that says "Confederate States of America", a reference to the pro-slavery forces from the U.S. Civil War. "That's his car," Pearson wrote.Roof was born about three years after his parents had divorced and grew up shuttling between his parents' homes in South Carolina, according to his uncle and the parents' divorce papers. His father, Ben Roof, runs his own construction business, and he remarried after divorcing Dylann Roof's mother. Roof and his older sister, Amber, lived part of the time with their father and the father's wife, Paige, until Ben and Paige divorced. Amber Roof, 27, is engaged to be married and a profile on TheKnot.com shows her wedding is scheduled for Sunday in Lexington, South Carolina.(Story refiles to add dropped word 'as' in 14th paragraph, and dropped word 'a' in 19th paragraph) (Reporting by Emily Flitter; Additional reporting by Alana Wise and David Gaffen; Writing by Jonathan Allen; Editing by Frances Kerry)
+>>>>>>> origin/master
 
 
 
@@ -651,16 +1002,7 @@ Obama speaks at Clementa Pinckney funeral – read the eulogy in full
 
 
 
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 Sorry, your browser is unable to play this video.
 
 Please install 
@@ -669,6 +1011,34 @@ Adobe Flash
 Alternatively 
 upgrade
  to a modern browser.
+=======
+
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+Photos of the weekOur top photos from the past week.  Slideshow Slideshow: The families of Srebrenica
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+Trending On Reuters
+>>>>>>> origin/master
 
 
 
@@ -698,23 +1068,7 @@ upgrade
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 Obama says Americans have been 'blind' to gun violence – video
 
 
@@ -723,10 +1077,21 @@ Obama says Americans have been 'blind' to gun violence – video
 
 
 US president Barack Obama said that for too long Americans have been 'blind' to the 'unique mayhem' caused by gun violence across the country
+=======
+
+
+Reuters
+
+
+Back to top
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -738,6 +1103,98 @@ Obama says Americans have been 'blind' to gun violence – video
 
 
 
+=======
+Reuters.com
+Business
+Markets
+World
+Politics
+Technology
+Opinion
+Money
+Pictures
+Videos
+Site Index
+
+
+More from Reuters
+Reuters News Agency
+Brand Attribution Guidelines
+Delivery Options
+
+
+Support & Contact
+Support
+Corrections
+
+
+Account Information
+Register
+Sign In
+
+
+Connect with Reuters
+Twitter
+Facebook
+Linkedin
+RSS
+Podcast
+Newsletters
+Mobile
+
+
+About
+Privacy Policy
+Terms of Use
+Advertise With Us
+AdChoices
+Copyright
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+
+
+
+=======
+Thomson Reuters
+
+
+
+Our Flagship financial information platform incorporating Reuters Insider
+An ultra-low latency infrastructure for electronic trading and data distribution
+A connected approach to governance, risk and compliance
+Our next generation legal research platform
+Our global tax workstation
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+Thomsonreuters.com
+About Thomson Reuters
+Investor Relations
+Careers
+Contact Us
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
+=======
+Thomson Reuters is the world's largest international multimedia news agency, providing investing news, world news, business news, technology news, headline news, small business news, news alerts, personal finance, stock market, and mutual funds information available on Reuters.com, video, mobile, and interactive television platforms. Thomson Reuters journalists are subject to an Editorial Handbook which requires fair presentation and disclosure of relevant interests.
+NYSE and AMEX quotes delayed by at least 20 minutes. Nasdaq delayed by at least 15 minutes. For a complete list of exchanges and delays, please click here.
+>>>>>>> origin/master
 
 
 
@@ -758,26 +1215,7 @@ Obama says Americans have been 'blind' to gun violence – video
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 Sorry, your browser is unable to play this video.
 
 Please install 
@@ -787,12 +1225,18 @@ Alternatively
 upgrade
  to a modern browser.
 
+=======
+
+
+X
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -2300,3 +2744,5 @@ securedrop
 
 
 
+=======
+>>>>>>> origin/master

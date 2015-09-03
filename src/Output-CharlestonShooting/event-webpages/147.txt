@@ -1,6 +1,21 @@
+<<<<<<< HEAD
 Nine Killed at Historic Emanuel Church in Charleston, South Carolina - NBC News
 
 Nine Killed at Historic Emanuel Church in Charleston, South Carolina - NBC News
+=======
+NRA board member blames church shooting victim Clementa Pinckney for Charleston shooting | New York's PIX11 / WPIX-TV 
+NRA board member blames church shooting victim Clementa Pinckney for Charleston shooting | New York's PIX11 / WPIX-TV
+
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
+=======
+GoSearch
+>>>>>>> origin/master
 
 
 
@@ -8,26 +23,48 @@ Nine Killed at Historic Emanuel Church in Charleston, South Carolina - NBC News
 
 
 
+<<<<<<< HEAD
+
+
+
+=======
+ Replay: PIX11 News   
+
+PIX11 TV Schedule 
+
+
+ Search
+ Contact Us
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+
+
+=======
+New York's PIX11 / WPIX-TV
+
+ Menu
+
+NEWS
+Local
+Morning
+Sports
+PIX Team
+Contests
+PIX PLUS
+Traffic
+Events
+>>>>>>> origin/master
 
 
 
 
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 
 
 
@@ -1078,6 +1115,11 @@ autoplay
 
 
 Copy this code to your website or blog
+=======
+Weather 
+
+78°
+>>>>>>> origin/master
 
 
 
@@ -1085,13 +1127,22 @@ Copy this code to your website or blog
 
 
 
+<<<<<<< HEAD
+
+
+=======
+78°
+
+
+Low 73°
+High 87°
+>>>>>>> origin/master
 
 
 
 
 
-
-
+<<<<<<< HEAD
  U.S. Sen. Tim Scott, a Republican who represents South Carolina, called the shooting a "senseless tragedy" and said he was making arrangements to return to the state from Washington, D.C., as soon as possible. 
 
 
@@ -1119,6 +1170,32 @@ KKK Among 19 Hate Groups Operating in S.C.
 
 
  Democratic presidential candidate Hillary Clinton was in South Carolina campaigning earlier Wednesday but left the state before the shooting took place. "Heartbreaking news from Charleston — my thoughts and prayers are with you all," she said in a tweet. 
+=======
+Mon
+
+
+					72°  84°
+					
+
+
+Tue
+
+
+					74°  80°
+					
+
+
+Wed
+
+
+					72°  86°
+					
+
+
+See complete forecast
+
+
+>>>>>>> origin/master
 
 
  
@@ -1132,6 +1209,7 @@ KKK Among 19 Hate Groups Operating in S.C.
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -1259,17 +1337,31 @@ Erin Calabrese
 
 
 
+=======
+ 
+
+
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
+
+
+=======
+NRA board member blames church shooting victim Clementa Pinckney for Charleston shooting
+
+Posted 6:24 PM, June 19, 2015, by Associated Press 
+
+FacebookTwitterRedditPinterestEmailGoogle 
+>>>>>>> origin/master
 
 
 
 
-
-
+<<<<<<< HEAD
 
 
 Jason Cumming
@@ -1293,6 +1385,34 @@ Email
 
 
 
+=======
+HOUSTON — A Houston attorney on the National Rifle Association’s board of directors is blaming the deadly Charleston church shooting on the slain pastor’s opposition to concealed carry legislation as a state senator.
+Charles Cotton confirmed to The Associated Press that he wrote in an online post that “innocent people died” because of Clementa Pinckney’s opposition to the measure in the state Senate. A search of legislative archives could not immediately find any such measure.
+
+
+NRA board member Charles L. Cotton blamed the dead Reverend Clementa Pinckney for the #CharlestonShooting (pic 1). pic.twitter.com/PrYIgcbbbX
+— Jennifer Medina (@JenniferJMedina) June 19, 2015
+
+The online post led to a firestorm of opposition, some asking for the removal of Cotton from his position.
+
+
+#CharlestonShooting #charlescotton needs to resign for his outrageous comments. A pastor preaches peace n love not gun possession u moron
+— Vox Clamantis I D (@VMilaccio) June 19, 2015
+
+
+
+The #NRA could actually be a force for good in this world. Instead they are just the most putrid example of a business lobby. #charlescotton
+— Adam Vadnais… (@TheBlackLight77) June 19, 2015
+
+Nine people were killed Wednesday night after a 21-year-old gunman opened fire during a Bible study at The Emanuel African Methodist Episcopal Church.
+Cotton told the AP he was expressing a personal opinion not reflective of the NRA. He said he was “stumped” his comments were still visible because he’d deleted them after deciding they were inappropriate.
+ 
+
+
+
+Trademark and Copyright 2015 The Associated Press. All rights reserved.
+Filed in: News Topics: Charles Cotton, Clementa Pinckney, National Rifle Association 
+>>>>>>> origin/master
 
 
 
@@ -1302,11 +1422,15 @@ Email
 
 
 
+<<<<<<< HEAD
 F. Brinley Bruton 
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Twitter
 
 
@@ -1317,11 +1441,23 @@ Email
 
 
 
+=======
+ 
 
 
 
 
 
+
+Watch The CW Now!
+See last night’s episodes now on The CW
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
 Contributors
 
 
@@ -1392,6 +1528,32 @@ Nashville Hotel Nixes Conference for Group Cited by Charleston Church Gunman
 
 
 advertisement
+=======
+
+
+ 
+
+ 
+
+
+Popular
+
+
+
+Drug cartel leader Joaquin “El Chapo” Guzman escapes from prison for second time
+
+
+
+Father charged with abandoning 3-year-old daughter at Harlem Subway
+
+
+
+Scientists baffled by mysterious creature with ‘beak’ and ‘fur’ that washed ashore
+
+
+
+North Carolina beach has 2 shark incidents in same day
+>>>>>>> origin/master
 
 
 
@@ -1399,6 +1561,7 @@ advertisement
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -1445,6 +1608,37 @@ advertisement
 
 
 
+=======
+ 
+
+
+Latest News
+
+
+
+Shoppers say goodbye to iconic FAO Schwarz flagship store
+
+
+
+2 teens shot near Brooklyn Museum: NYPD
+
+
+
+Nintendo President Satoru Iwata dies at 55
+
+
+
+Tyson investigating claims of animal abuse at chicken farms
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
+=======
+ 
+>>>>>>> origin/master
 
 
 
@@ -1457,11 +1651,7 @@ advertisement
 
 
 
-
-
-
-
-
+<<<<<<< HEAD
 
 About Us
 
@@ -1533,64 +1723,110 @@ AdChoices
 
 
 
+=======
+News
 
+‘Amazing Grace': President Obama eulogizes Rev. Clementa Pinckney, slain in church massacre  
 
 
+News
 
+Tip from woman heading to work led police to suspected church shooter
 
 
+News
 
+Activist arrested after taking down Confederate Flag at S.C. Capitol grounds
 
 
+News
 
+Charleston church shooting investigated as a hate crime
 
 
+News
 
+Who were the Charleston victims?: 9 lives lost to family and community
 
 
 
+ 
 
 
+News
 
+South Carolina lawmakers to debate Confederate flag on Monday
 
 
+News
 
+Woman says Charleston shooter spared her to ‘tell everyone’ what happened
 
 
+News
 
+Snapchat video allegedly shows Dylann Roof in prayer group just before massacre
 
 
+News
 
+Dylann Storm Roof: FBI names suspect in Charleston church shooting
 
 
+News
 
+Charleston minister: ‘No evildoer, no demon’ can close church
 
 
 
+ 
 
 
+News
 
+President Obama’s approval rating grows to 50 percent after memorable week
 
 
+News
 
+Dylann Roof and Michael Slager are jail neighbors, police confirm
 
 
+Queens
 
+Drive-by shooting in Queens kills rapper Lionel ‘Chinx’ Pickens, critically injures another man
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+ 
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
+=======
+Mobile AppsAndroid App
+iPhone & iPad App
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+Facebook
+Twitter
+Instagram
+About & Contact
+>>>>>>> origin/master
 
 
 
@@ -1598,11 +1834,24 @@ AdChoices
 
 
 
+<<<<<<< HEAD
+=======
+Online Public File • 				Terms of Service •
+		Privacy Policy  •
+		220 East 42nd Street New York, NY 10017 212-949-1100  •
+		Copyright © 2015, WPIX		 • A Tribune Broadcasting Station •
+		Powered by WordPress.com VIP 
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
+=======
+×
+Email Alerts
+>>>>>>> origin/master
 
 
 
@@ -1620,6 +1869,81 @@ AdChoices
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+
+
+
+=======
+Follow
+
+Follow “New York's PIX11 / WPIX-TV”
+
+Get every new post delivered to your Inbox.
+
+Join 4,974 other followers
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+Build a website with WordPress.com
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+
+
+=======
+Send to Email Address
+
+Your Name
+
+Your Email Address
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
+
+
+
+=======
+Cancel
+
+				Post was not sent - check your email addresses!			
+
+				Email check failed, please try again			
+
+				Sorry, your blog cannot share posts by email.			
+>>>>>>> origin/master
 
 
 

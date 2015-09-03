@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Charleston shooting | US news | The Guardian
 
 
@@ -20,6 +21,11 @@ Charleston shooting | US news | The Guardian
 
 
 
+=======
+Charleston church shooting: Without gun control, racism will keep killing black people | Gary Younge | Comment is free | The Guardian
+
+Charleston church shooting: Without gun control, racism will keep killing black people | Gary Younge | Comment is free | The Guardian
+>>>>>>> origin/master
 
 
 
@@ -44,6 +50,7 @@ Close
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -59,6 +66,10 @@ Skip to main content
 
 
 
+=======
+Skip to main content
+
+>>>>>>> origin/master
  
 
 
@@ -71,6 +82,7 @@ Skip to main content
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -90,6 +102,8 @@ Skip to main content
 
 
 
+=======
+>>>>>>> origin/master
 sign in
 
 
@@ -99,6 +113,10 @@ sign in
 
 
 
+<<<<<<< HEAD
+=======
+subscribe
+>>>>>>> origin/master
 
 
 
@@ -106,12 +124,24 @@ sign in
 
 
 
+<<<<<<< HEAD
 
 
 
 subscribe
 
 
+=======
+search
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+jobs
+>>>>>>> origin/master
 
 
 
@@ -122,10 +152,7 @@ subscribe
 
 
 
-
-
-
-
+<<<<<<< HEAD
 search
 
 
@@ -142,44 +169,14 @@ jobs
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+=======
 more
-
-
-
-
 
 
 from the guardian:
 
 
-
-
-
-
 jobs
-
-
-
-
-
 
 
 
@@ -187,29 +184,128 @@ change edition:
 
 
 
+switch to the  UK  edition
+
+
+switch to the  AU  edition
+
+
+switch to the 
+INT
+beta
+ edition
+>>>>>>> origin/master
 
 
 
 
 
+
+
+
+<<<<<<< HEAD
+=======
+US edition
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+switch to the 
+UK edition
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+
+
+more
+
+
+=======
+switch to the 
+Australia edition
+
+
+
+
+switch to the 
+International
+beta
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+from the guardian:
+=======
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
+jobs
+=======
+The Guardian
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+change edition:
+=======
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
 switch to the 
  UK 
  edition
 
 
+=======
+home
+
+
+›
+opinion
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 switch to the 
  AU 
  edition
+=======
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 switch to the 
 
 
@@ -222,59 +318,121 @@ beta
  edition
 
 
+=======
+home
 
 
 
 
+US
 
 
 
 
+world
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+opinion
+selected
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+sports
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
 US edition
 
+=======
+soccer
 
 
 
 
+tech
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+arts
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 switch to the 
 
 
 UK edition
 
 
+=======
+lifestyle
 
 
 
 
+fashion
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+business
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 switch to the 
 
 
 Australia edition
 
 
+=======
+travel
 
 
 
 
+environment
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+science
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 switch to the 
 
 
@@ -282,6 +440,24 @@ International
 
 
 beta
+=======
+
+
+browse all sections
+close
+
+
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+ 
+>>>>>>> origin/master
 
 
 
@@ -293,18 +469,44 @@ beta
 
 
 
-
-
-
-
-
-
+<<<<<<< HEAD
 
 
 
 
 
 The Guardian
+=======
+US gun control
+
+
+Comment is free
+
+
+
+Charleston church shooting: Without gun control, racism will keep killing black people
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
+=======
+Gary Younge
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+America does not have a monopoly on racism. But what makes its racism so lethal is the ease with which people can acquire guns
+>>>>>>> origin/master
 
 
 
@@ -326,19 +528,7 @@ The Guardian
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 home
 
 
@@ -352,25 +542,59 @@ home
 US
 
 
+=======
+
+
+
+Sorry, your browser is unable to play this video.
+Please install Adobe Flash™ and try again.
+Alternatively upgrade to a modern browser.
 
 
 
 
 
+Charleston’s police chief, Gregory Mullen, confirms that nine people were killed when a gunman entered a church in Charleston, South Carolina, and opened fire. 
+
+
+Contact author
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
+=======
+@garyyounge
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+
+
+=======
+Thursday 18 June 2015 07.40 EDT
+
+
+Last modified on Saturday 20 June 2015 12.23 EDT
+>>>>>>> origin/master
 
 
 
 
 
-
+<<<<<<< HEAD
 home
 
 
+=======
+
+
+Share on Facebook
+>>>>>>> origin/master
 
 
 
@@ -378,47 +602,81 @@ home
 
 
 
+<<<<<<< HEAD
 US
 
 selected
+=======
+Share on Twitter
+
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 
 
 
 world
+=======
+Share via Email
+
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+Share on Pinterest
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 opinion
 
 
 
+=======
+
+
+
+Share on LinkedIn
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 sports
 
 
+=======
+
+
+Share on Google+
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 soccer
 
+=======
+
+Share on WhatsApp
+>>>>>>> origin/master
 
 
 
@@ -426,7 +684,10 @@ soccer
 
 
 
+<<<<<<< HEAD
 tech
+=======
+>>>>>>> origin/master
 
 
 
@@ -435,6 +696,7 @@ tech
 
 
 
+<<<<<<< HEAD
 arts
 
 
@@ -445,10 +707,35 @@ arts
 
 
 lifestyle
+=======
+
+
+This time it’s different.
+
+ Related: Charleston church shooting: Obama calls for gun control in wake of tragedy 
+
+Mass shootings have become a banal fact of death in America. (Last year there were 283 incidents in which four or more people were shot.) The nation as a whole, meanwhile, has become newly sensitised to racial violence, with growing activism around police shootings. In April video of a white policeman shooting Walter Scott – an unarmed African American – eight times in the back in as he ran away in North Charleston, South Carolina, went viral.
+But the shooting of nine black church-goers in Charleston (not far from where Scott was killed) by a white gunman in what police are treating as a “hate crime” marks a doubling down on the nation’s twin pathologies of racism and guns. Both are deeply rooted in the nation’s history since its founding: neither are going anywhere soon.
+The timing of this particular tragedy, given the heightened consciousness and activism around the #BlackLivesMatter movement, provides a particular lens through which to view this massacre. When Barack Obama won the South Carolina primary in 2008 a huge multiracial crowd gathered in the state capitol of Columbia and chanted “race doesn’t matter”. 
+
+ Related: Charleston church shooting: 21-year-old suspect captured as 'holy city' mourns 
+
+With each new well-publicised account of racial violence, be it at the hands of the state or the public, claims that the arrival of a black president signals the arrival of a post-racial era collapses under the weight of its own delusion. 
+Racism isn’t dead. We know this because it keeps killing black people.
+The fact that Clementa Pinckney, a state senator, was among the dead indicates that nobody is safe. The fact that it took place in a church during a prayer meeting indicates that nowhere is safe.
+America does not have a monopoly on racism. But what makes its racism so lethal is the ease with which people can acquire guns. While the new conversation around race will mean the political response to the fact of this attack will be different, the stale conversation around gun control means the legislative response to the nature of this attack will remain the same. Nothing will happen.
+
+ Related: Charleston shooting church has rich history from slave revolts to civil rights 
+
+After Adam Lanza shot 20 primary school children and six adults in Sandy Hook, Connecticut, in 2012 before turning his gun on himself, nothing happened. Seven children and teens are shot dead every day in America and nothing happens.
+So these nine victims will join those who perished before them – a sacrifice to the blood-soaked pedestal erected around the constitution’s second amendment that gun lobbyists say guarantees the right of individuals to bear arms. Where guns are concerned this is what passes for American exceptionalism – an 18th century compromise with fatal 21st century ramifications. 
+For the parishioners of the Emanuel African Methodist Episcopal Church in Charleston nothing will ever be the same again. And for those who have the power to prevent it happening again, nothing will change.
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -457,21 +744,48 @@ fashion
 
 
 
+=======
+More comment 
+Topics
+
+
+
+US gun control
 
 
 
 
+Race issues
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 business
 
 
 
+=======
+Charleston shooting
 
 
 
 
+Gun crime
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 travel
+=======
+US crime
+
+>>>>>>> origin/master
 
 
 
@@ -480,8 +794,13 @@ travel
 
 
 
+<<<<<<< HEAD
 environment
 
+=======
+
+Share on Facebook
+>>>>>>> origin/master
 
 
 
@@ -489,7 +808,11 @@ environment
 
 
 
+<<<<<<< HEAD
 science
+=======
+Share on Twitter
+>>>>>>> origin/master
 
 
 
@@ -497,18 +820,60 @@ science
 
 
 
+<<<<<<< HEAD
+=======
+Share via Email
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 browse 
 all
  sections
 
 
 close
+=======
+
+Share on Pinterest
+
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+Share on LinkedIn
+>>>>>>> origin/master
+
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+Share on Google+
+>>>>>>> origin/master
+
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+Share on WhatsApp
+>>>>>>> origin/master
 
 
 
@@ -521,36 +886,23 @@ close
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 Charleston shooting
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Tuesday
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 23
 
 
@@ -558,6 +910,70 @@ June
 
 
 2015
+=======
+
+
+
+
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+View all comments >
+>>>>>>> origin/master
+
+
+
+
+
+
+
+<<<<<<< HEAD
+
+
+
+
+=======
+comments 
+Sign in
+or create your Guardian account to join the discussion.
+
+This discussion is closed for comments.
+
+We’re doing some maintenance right now. You can still read comments, but please come back later to add your own.
+
+
+Commenting has been disabled for this account (why?)
+>>>>>>> origin/master
+
+
+
+
+
+
+
+<<<<<<< HEAD
+
+
+
+
+=======
+Order by 
+
+
+newest
+
+
+oldest
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
@@ -566,51 +982,50 @@ June
 
 
 
+=======
+Show 25
+
+
+25
+
+
+50
+
+
+100
+
+
+All
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
 
 
 
+=======
+Threads 
+
+
+collapsed
+
+
+expanded
+
+
+unthreaded
+>>>>>>> origin/master
 
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 
 Sorry, your browser is unable to play this video.
 
@@ -622,6 +1037,37 @@ upgrade
  to a modern browser.
 
 
+=======
+Loading comments… Trouble loading?
+
+
+
+
+View more comments
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+ 
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+more on this story
+>>>>>>> origin/master
 
 
 
@@ -639,6 +1085,15 @@ upgrade
 
 
 
+<<<<<<< HEAD
+
+
+=======
+Charleston shootings: NRA blames victims as reactions echo Newtown
+
+
+An NRA board member suggested worshippers ‘might be alive’ if they had guns themselves, while Obama and gun control groups repeat calls for reform
+>>>>>>> origin/master
 
 
 
@@ -649,31 +1104,24 @@ upgrade
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 Police video shows Charleston shooting suspect Dylann Roof's arrest - video
 
+=======
+
+Published: 20 Jun 2015
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 A police dashboard camera captures the final moments of a 14-hour manhunt for Charleston shooting suspect Dylann Roof
+=======
+Charleston shootings: NRA blames victims as reactions echo Newtown
+
+>>>>>>> origin/master
 
 
 
@@ -682,7 +1130,29 @@ A police dashboard camera captures the final moments of a 14-hour manhunt for Ch
 
 
 
+<<<<<<< HEAD
 Police video shows Charleston shooting suspect Dylann Roof's arrest - video
+=======
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+Sorry, your browser is unable to play this video.
+Please install Adobe Flash™ and try again.
+Alternatively upgrade to a modern browser.
+>>>>>>> origin/master
 
 
 
@@ -705,6 +1175,15 @@ Police video shows Charleston shooting suspect Dylann Roof's arrest - video
 
 
 
+<<<<<<< HEAD
+
+
+=======
+Michelle Obama on Charleston: 'Too many tragedies like this' - video
+
+
+Michelle Obama spoke about the deadly church shooting in Charleston, South Carolina.
+>>>>>>> origin/master
 
 
 
@@ -714,21 +1193,7 @@ Police video shows Charleston shooting suspect Dylann Roof's arrest - video
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 Sorry, your browser is unable to play this video.
 
 Please install 
@@ -738,6 +1203,19 @@ Alternatively
 upgrade
  to a modern browser.
 
+=======
+
+
+Published: 19 Jun 2015
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+Michelle Obama on Charleston: 'Too many tragedies like this' - video
+>>>>>>> origin/master
 
 
 
@@ -753,6 +1231,15 @@ upgrade
 
 
 
+<<<<<<< HEAD
+
+
+=======
+Rick Perry calls Charleston church shooting an 'accident'
+
+
+Republican presidential candidate says ‘real issue’ raised by case is drugs and accuses Obama of seeking to use shooting to take away Americans’ guns
+>>>>>>> origin/master
 
 
 
@@ -764,6 +1251,18 @@ upgrade
 
 
 
+<<<<<<< HEAD
+=======
+Published: 19 Jun 2015
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+Rick Perry calls Charleston church shooting an 'accident'
+>>>>>>> origin/master
 
 
 
@@ -773,24 +1272,20 @@ upgrade
 
 
 
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 Hillary Clinton backs removal of Confederate flag - video
+=======
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 Democratic US presidential candidate Hillary Clinton urged all businesses to stop selling products with Confederate flag images on them
+=======
+>>>>>>> origin/master
 
 
 
@@ -798,8 +1293,15 @@ Democratic US presidential candidate Hillary Clinton urged all businesses to sto
 
 
 
+<<<<<<< HEAD
 
 Hillary Clinton backs removal of Confederate flag - video
+=======
+Sorry, your browser is unable to play this video.
+Please install Adobe Flash™ and try again.
+Alternatively upgrade to a modern browser.
+
+>>>>>>> origin/master
 
 
 
@@ -821,6 +1323,15 @@ Hillary Clinton backs removal of Confederate flag - video
 
 
 
+<<<<<<< HEAD
+
+
+=======
+No decision has been made on death penalty in Charleston church shooting, says prosecutor – video
+
+
+Prosecutor Scarlett Wilson says 'now is not the time' to discuss whether suspected gunman Dylann Roof will face the death penalty
+>>>>>>> origin/master
 
 
 
@@ -830,16 +1341,24 @@ Hillary Clinton backs removal of Confederate flag - video
 
 
 
-
-
+<<<<<<< HEAD
 Amazon joins retailers banning the sale of items featuring Confederate flag
 
 
+=======
+
+
+Published: 19 Jun 2015
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 On Tuesday afternoon, Amazon became the latest in a string of high-profile companies like Walmart, Sears and eBay, to step away from the sales
+=======
+No decision has been made on death penalty in Charleston church shooting, says prosecutor – video
+>>>>>>> origin/master
 
 
 
@@ -848,7 +1367,22 @@ On Tuesday afternoon, Amazon became the latest in a string of high-profile compa
 
 
 
+<<<<<<< HEAD
 Amazon joins retailers banning the sale of items featuring Confederate flag
+=======
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+Representatives of Charleston shooting victims 'forgive' Dylann Roof
+>>>>>>> origin/master
 
 
 
@@ -862,6 +1396,18 @@ Amazon joins retailers banning the sale of items featuring Confederate flag
 
 
 
+<<<<<<< HEAD
+=======
+Published: 19 Jun 2015
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+Representatives of Charleston shooting victims 'forgive' Dylann Roof
+>>>>>>> origin/master
 
 
 
@@ -870,43 +1416,66 @@ Amazon joins retailers banning the sale of items featuring Confederate flag
 
 
 
+<<<<<<< HEAD
+
+=======
+Analysis
+
+11 myths about the future of gun control, debunked after the Charleston shooting
+>>>>>>> origin/master
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 My country is a racist country – built on the lie of freedom and opportunity
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Lindy West
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 We need to start speaking the truth about the US, about the accusations of racism levelled at retailer Zara and about the familiar shape of Dylann Roof’s crimes
 
+=======
+
+Published: 20 Jun 2015
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 
 My country is a racist country – built on the lie of freedom and opportunity
+=======
+11 myths about the future of gun control, debunked after the Charleston shooting
+
+
+
+>>>>>>> origin/master
+
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+Charleston killings leave US reckoning with race and guns amid 'broken peace'
+>>>>>>> origin/master
 
 
 
@@ -920,6 +1489,33 @@ My country is a racist country – built on the lie of freedom and opportunity
 
 
 
+<<<<<<< HEAD
+=======
+Published: 18 Jun 2015
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+Charleston killings leave US reckoning with race and guns amid 'broken peace'
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+Drive to call time on Confederate flag sweeps south – 150 years after civil war
+=======
+Charleston church shooting: suspect Dylann Roof in custody as community holds vigils
+>>>>>>> origin/master
 
 
 
@@ -932,34 +1528,21 @@ My country is a racist country – built on the lie of freedom and opportunity
 
 
 
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 Drive to call time on Confederate flag sweeps south – 150 years after civil war
 
+=======
+
+Published: 19 Jun 2015
+>>>>>>> origin/master
 
 
 
 
-
-
-
-
-
-
-
-Drive to call time on Confederate flag sweeps south – 150 years after civil war
-
-
-
-
-
+<<<<<<< HEAD
+=======
+Charleston church shooting: suspect Dylann Roof in custody as community holds vigils
+>>>>>>> origin/master
 
 
 
@@ -974,10 +1557,36 @@ Drive to call time on Confederate flag sweeps south – 150 years after civil wa
 
 
 
+
+<<<<<<< HEAD
+
+
+Is country music ready to dissociate from the Confederate flag?
+=======
+More more on this story
+
+
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
 
 
 
 Is country music ready to dissociate from the Confederate flag?
+=======
+popular
+
+
+
+>>>>>>> origin/master
 
 
 
@@ -987,14 +1596,10 @@ Is country music ready to dissociate from the Confederate flag?
 
 
 
-
-
-
-Is country music ready to dissociate from the Confederate flag?
-
-
-
-
+<<<<<<< HEAD
+=======
+ 
+>>>>>>> origin/master
 
 
 
@@ -1003,20 +1608,26 @@ Is country music ready to dissociate from the Confederate flag?
 
 
 
+<<<<<<< HEAD
+=======
+The Guardian
+>>>>>>> origin/master
 
 
 
 
 
-
-
-
-
-
+<<<<<<< HEAD
 Virginia to remove Confederate flag from all state-issued license plates
 
 
 
+=======
+
+
+
+back to top
+>>>>>>> origin/master
 
 
 
@@ -1026,115 +1637,220 @@ Virginia to remove Confederate flag from all state-issued license plates
 
 
 
+<<<<<<< HEAD
 Virginia to remove Confederate flag from all state-issued license plates
+=======
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
+=======
+home
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+US
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+world
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+opinion
+selected
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 Historians crowdsource key reads about racial violence in America
 
 
 
+=======
+sports
 
 
 
 
+soccer
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+tech
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 Historians crowdsource key reads about racial violence in America
 
 
 
+=======
+arts
+
+
+
+
+lifestyle
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+fashion
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+business
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+travel
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+environment
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+science
+>>>>>>> origin/master
 
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 Black churches taught us to forgive white people. We learned to shame ourselves
 
 
 
 
 Kiese Laymon
+=======
+
+
+all sections
+close
+
+
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
+=======
+home
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 Black churches taught us to forgive white people. We learned to shame ourselves
 
 
 
+=======
+US
 
 
 
 
+world
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+UK
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+europe
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+americas
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+asia
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+middle east
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 Agreeing to remove the Confederate flag isn't courageous. It's just politics
 
@@ -1145,10 +1861,24 @@ Jeb Lund
 
 
 
+=======
+africa
 
 
 
 
+australia
+
+
+
+
+cities
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
@@ -1156,110 +1886,218 @@ Agreeing to remove the Confederate flag isn't courageous. It's just politics
 
 
 
+=======
+development
 
 
 
 
 
 
+opinion
+selected
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+sports
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+soccer
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+MLS
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+NFL
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+MLB
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+NBA
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+NHL
+>>>>>>> origin/master
 
 
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 
 Mississippi to propose removal of Confederate emblem from state flag
 
 
 
+=======
+soccer
 
 
 
 
+live scores
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+tables
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 Mississippi to propose removal of Confederate emblem from state flag
 
 
 
+=======
+competitions
+
+
+
+
+results
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+fixtures
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+clubs
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+tech
+>>>>>>> origin/master
 
 
 
 
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 
 Obama backs Australia's gun laws while condemning latest mass shootings in US
 
 
 
+=======
+arts
 
 
 
 
+movies
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+tv & radio
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 Obama backs Australia's gun laws while condemning latest mass shootings in US
 
 
 
+=======
+music
 
 
 
 
+games
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+books
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+art & design
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+stage
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
@@ -1267,31 +2105,63 @@ Walmart removes Confederate flag merchandise from stores
 
 
 
+=======
+classical
 
 
 
 
 
 
+lifestyle
+>>>>>>> origin/master
 
 
+
+
+<<<<<<< HEAD
+=======
+food
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 Walmart removes Confederate flag merchandise from stores
 
 
 
+=======
+health & fitness
 
 
 
 
+love & sex
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+family
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+women
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
@@ -1300,98 +2170,187 @@ Older
 
 Newer
 
+=======
+home & garden
 
 
 
 
 
 
+fashion
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+business
+>>>>>>> origin/master
 
 
+
+
+<<<<<<< HEAD
+=======
+economics
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 Topics
 
 
 
+=======
+sustainable business
 
 
 
 
+diversity & equality in business
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Race issues
+=======
+small business
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 
 
 South Carolina
 
 
+=======
+travel
 
 
 
 
+USA
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 US politics
 
 
+=======
+europe
+
+
+
+
+UK
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 Gun crime
+=======
+environment
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+climate change
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Virginia
+=======
+wildlife
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 
 More…
 
+=======
+energy
+
+
+
+
+pollution
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 Retail industry
+=======
+science
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+media
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Mississippi
+=======
+crosswords
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+video
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 US crime
+=======
+>>>>>>> origin/master
 
 
 
@@ -1399,6 +2358,7 @@ US crime
 
 
 
+<<<<<<< HEAD
 
 Walmart
 
@@ -2505,6 +3465,24 @@ securedrop
 
 © 2015 Guardian News and Media Limited or its affiliated companies. All rights reserved.
 
+=======
+Opinion
+
+
+
+
+›
+US gun control
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
 
 
 
@@ -2515,14 +3493,31 @@ securedrop
 
 
 
+=======
+jobs
+
+subscribe
+all topics
+all contributors
+
+
+report technical issue
 
 
 
+about us
+
+contact us
+
+complaints & corrections
+terms & conditions
+privacy policy
+cookie policy
+securedrop
 
 
-
-
-
+© 2015 Guardian News and Media Limited or its affiliated companies. All rights reserved.
+>>>>>>> origin/master
 
 
 
@@ -2542,5 +3537,8 @@ securedrop
 
  
 
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> origin/master

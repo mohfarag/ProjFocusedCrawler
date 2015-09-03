@@ -1,7 +1,14 @@
+<<<<<<< HEAD
 2 killed after police standoff in Warren, New Jersey; suspect shoots self | New York's PIX11 / WPIX-TV 
 
 
 2 killed after police standoff in Warren, New Jersey; suspect shoots self | New York's PIX11 / WPIX-TV
+=======
+Charleston shooting | US news | The Guardian
+
+Charleston shooting | US news | The Guardian
+
+>>>>>>> origin/master
 
 
 
@@ -16,8 +23,12 @@
 
 
 
+<<<<<<< HEAD
 Go
 Search
+=======
+Close
+>>>>>>> origin/master
 
 
 
@@ -26,6 +37,13 @@ Search
 
 
 
+<<<<<<< HEAD
+
+=======
+Skip to main content
+
+ 
+>>>>>>> origin/master
 
 
 
@@ -33,7 +51,7 @@ Search
 
 
 
-
+<<<<<<< HEAD
  Replay: 
 PIX11 News 
 
@@ -41,16 +59,30 @@ PIX11 News
 
 PIX11 TV Schedule 
 
+=======
+
+
+
+
+sign in
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
  Search
 
 
  Contact Us
 
+=======
+
+
+
+subscribe
+>>>>>>> origin/master
 
 
 
@@ -58,23 +90,37 @@ PIX11 TV Schedule
 
 
 
+<<<<<<< HEAD
+=======
+search
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 New York's PIX11 / WPIX-TV
+=======
+jobs
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
  
 Menu
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 NEWS
 
 
@@ -97,6 +143,32 @@ Traffic
 
 
 Events
+=======
+more
+
+
+from the guardian:
+
+
+jobs
+
+
+
+change edition:
+
+
+
+switch to the  UK  edition
+
+
+switch to the  AU  edition
+
+
+switch to the 
+INT
+beta
+ edition
+>>>>>>> origin/master
 
 
 
@@ -105,6 +177,7 @@ Events
 
 
 
+<<<<<<< HEAD
 
 
 Weather 
@@ -115,6 +188,31 @@ Weather
 77°
 
 
+=======
+US edition
+
+
+
+
+switch to the 
+UK edition
+
+
+
+
+switch to the 
+Australia edition
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+switch to the 
+International
+beta
+>>>>>>> origin/master
 
 
 
@@ -125,23 +223,28 @@ Weather
 
 
 
-
-
-
-
+<<<<<<< HEAD
 77°
+=======
+The Guardian
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 Low 
 68°
 
 
 High 
 81°
+=======
+
+
+>>>>>>> origin/master
 
 
 
@@ -150,16 +253,27 @@ High
 
 
 
+<<<<<<< HEAD
 
 
 
 
 Sat
+=======
+home
+
+
+›
+US
+
+
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 					71° 
  86°
 					
@@ -171,17 +285,34 @@ Sat
 
 Sun
 
+=======
+
+
+
+home
 
 
 
 
+US
+selected
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 					74° 
  90°
 					
+=======
+world
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 Mon
@@ -194,18 +325,98 @@ Mon
  92°
 					
 
+=======
+opinion
 
 
 
 
+sports
+
+
+
+
+soccer
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 See complete forecast
 
 
 
+=======
+tech
 
 
 
+
+arts
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+
+
+
+ 
+=======
+lifestyle
+
+
+
+
+fashion
+
+
+
+
+business
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+travel
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+environment
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+science
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+browse all sections
+close
+
+
+
+
+>>>>>>> origin/master
 
 
 
@@ -220,41 +431,32 @@ See complete forecast
 
 
 
+<<<<<<< HEAD
+
+
+=======
+Charleston shooting
+
+Friday
+
+19
+June
+2015
+>>>>>>> origin/master
 
 
 
 
 
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 2 killed after police standoff in Warren, New Jersey; suspect shoots self
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Posted 8:32 PM, August 16, 2015, by 
 Christopher Brito
  and 
@@ -262,10 +464,13 @@ Myles Miller
 , 
 Updated at 11:03pm, August 16, 2015
  
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Facebook
 Twitter
 Reddit
@@ -273,18 +478,28 @@ Pinterest
 Email
 Google
  
+=======
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+
+
+=======
+'I forgive you': Charleston church victims' families confront suspect
+
+
+Relatives address Dylann Roof in emotional video court appearance with granddaughter of murdered retired pastor saying: ‘Hate won’t win’
+>>>>>>> origin/master
 
 
 
 
-
-
+<<<<<<< HEAD
 WARREN, N.J.– Two people were killed after an hours long standoff with police Sunday afternoon, according to authorities.
 
 
@@ -298,34 +513,60 @@ Police didn’t give any more details of the shootings.
 
 
 This is an active and ongoing investigation.
+=======
+
+
+
+
+'I forgive you': Charleston church victims' families confront suspect
+
+
+
+
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 PHOTO GALLERY: Mermaid Parade 2015 [NSFW]
+=======
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 PHOTOS & VIDEO: ‘Seinfield’ fans can visit Jerry’s apartment in new exhibit
+=======
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 DNA test proves ‘fried rat’ was a chicken tender, KFC says
+=======
+Sorry, your browser is unable to play this video.
+Please install Adobe Flash™ and try again.
+Alternatively upgrade to a modern browser.
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 New Yorkers strip down for No Pants Subway Ride [PHOTOS & VIDEO]
+=======
+>>>>>>> origin/master
 
 
 
@@ -336,6 +577,7 @@ New Yorkers strip down for No Pants Subway Ride [PHOTOS & VIDEO]
 
 
 
+<<<<<<< HEAD
 Filed in:
  
 New Jersey
@@ -348,12 +590,15 @@ Shooting
 , 
 warren
  
+=======
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -362,6 +607,24 @@ warren
 
 
 Report a Typo
+=======
+Dylann Roof appears in court accused of Charleston shooting - video
+
+
+Dylann Roof, 21, stood quietly through the hearing, providing brief answers to the judge's questions
+
+
+
+
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+Dylann Roof appears in court accused of Charleston shooting - video
+>>>>>>> origin/master
 
 
 
@@ -370,12 +633,11 @@ Report a Typo
 
 
 
-
-
-
-
+<<<<<<< HEAD
 Name
 (required)
+=======
+>>>>>>> origin/master
 
 
 
@@ -383,10 +645,29 @@ Name
 
 
 
+<<<<<<< HEAD
 
 Typo
 (required)
 
+=======
+Representatives of Charleston shooting victims 'forgive' Dylann Roof
+
+
+Families spoke to expressionless suspect via video link at bond hearing, expressing anger and grief while urging Roof to repent for his actions
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+Representatives of Charleston shooting victims 'forgive' Dylann Roof
+>>>>>>> origin/master
 
 
 
@@ -396,24 +677,40 @@ Typo
 
 
 
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
  
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Cancel
 
 
 
 
+=======
+
+
+Obama on Charleston shooting: 'I refuse to act as if this is the new normal' – live updates
+
+
+Mourning relatives speak directly to Roof as he appears in court and civil-rights groups call for confederate flag to be removed from statehouse
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+Obama on Charleston shooting: 'I refuse to act as if this is the new normal' – live updates
+>>>>>>> origin/master
 
 
 
@@ -430,15 +727,11 @@ Cancel
 
 
 
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
  
+=======
+'He was my hero': Charleston mother hails 26-year-old killed shielding victims
+>>>>>>> origin/master
 
 
 
@@ -449,14 +742,34 @@ Cancel
 
 
 
+<<<<<<< HEAD
+=======
+'He was my hero': Charleston mother hails 26-year-old killed shielding victims
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Watch The CW Now!
 
 
 See last night’s episodes now on The CW
+=======
+
+
+>>>>>>> origin/master
+
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+Charleston church shooting victim's cousin pays tribute to Tywanza Sanders
+>>>>>>> origin/master
 
 
 
@@ -466,44 +779,61 @@ See last night’s episodes now on The CW
 
 
 
-
-
-
-
-
-
-
+<<<<<<< HEAD
  
 
 
 
 
  
+=======
+
+Charleston church shooting victim's cousin pays tribute to Tywanza Sanders
+
+
+
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 Popular
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+No decision has been made on death penalty in Charleston church shooting, says prosecutor – video
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 NBA great Darryl Dawkins has died at 58 years old
+=======
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 
 
 Video showing shootings of WDBJ crew posted under Bryce Williams Twitter, Facebook accounts
+=======
+No decision has been made on death penalty in Charleston church shooting, says prosecutor – video
+
+
+>>>>>>> origin/master
 
 
 
@@ -512,16 +842,37 @@ Video showing shootings of WDBJ crew posted under Bryce Williams Twitter, Facebo
 
 
 
+<<<<<<< HEAD
 Reporter, photographer shot to death on air in Virginia
 
 
 
 
+=======
+
+
+
+We avoid the word terrorism when the victims are black – not just when the killer is white
+
+Jamiles Lartey
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 ‘Dead’ teen ‘wakes up’ screaming, banging inside coffin; family smashes tomb
+=======
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
+=======
+We avoid the word terrorism when the victims are black – not just when the killer is white
+>>>>>>> origin/master
 
 
 
@@ -533,11 +884,7 @@ Reporter, photographer shot to death on air in Virginia
 
 
 
-
-
-
-
-
+<<<<<<< HEAD
  
 
 
@@ -546,15 +893,31 @@ Reporter, photographer shot to death on air in Virginia
 
 
 Latest News
+=======
+
+
+On guns and race, America is a nation shackled to its past
+
+Jonathan Freedland
+
+
+
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 
 
 One man’s poop is another’s medicine
+=======
+On guns and race, America is a nation shackled to its past
+
+
+>>>>>>> origin/master
 
 
 
@@ -563,7 +926,11 @@ One man’s poop is another’s medicine
 
 
 
+<<<<<<< HEAD
 Calif. man bitten while taking selfie with rattlesnake
+=======
+Governor of South Carolina calls for death penalty for Dylann Roof
+>>>>>>> origin/master
 
 
 
@@ -572,16 +939,25 @@ Calif. man bitten while taking selfie with rattlesnake
 
 
 
+<<<<<<< HEAD
 CEO of Ashley Madison parent company steps down after hack
 
 
+=======
+
+
+Governor of South Carolina calls for death penalty for Dylann Roof
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 WATCH IT: Sinkhole swallows 5 people in China is captured on video
+=======
+>>>>>>> origin/master
 
 
 
@@ -594,10 +970,31 @@ WATCH IT: Sinkhole swallows 5 people in China is captured on video
 
 
 
+<<<<<<< HEAD
  
 
 
 
+=======
+
+
+
+Son of South Carolina shooting victim: 'We forgive' - video
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+Son of South Carolina shooting victim: 'We forgive' - video
+>>>>>>> origin/master
 
 
 
@@ -611,141 +1008,215 @@ WATCH IT: Sinkhole swallows 5 people in China is captured on video
 
 
 
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 Staten Island
+=======
+Michelle Obama on Charleston: 'Too many tragedies like this' - video
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Suspect dead in Staten Island standoff sparked by firefighter shooting
+=======
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 News
+=======
+Michelle Obama on Charleston: 'Too many tragedies like this' - video
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Dallas police HQ shooting: Suspect killed during standoff
+=======
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 News
+=======
+Shooting suspect Dylann Roof charged with nine counts of murder
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Video showing shootings of WDBJ crew posted under Bryce Williams Twitter, Facebook accounts
+=======
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 News
+=======
+Shooting suspect Dylann Roof charged with nine counts of murder
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Police: Tennessee movie theater attack suspect had been committed 4 times
+=======
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 News
+=======
+Despite Charleston killings, moves towards US gun control at a standstill
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Arrests made in Crown Heights stabbing death of 17-year-old
+=======
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 
 
  
+=======
+Despite Charleston killings, moves towards US gun control at a standstill
+
+
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 New Jersey
  
 News
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 3 fatally shot in Union County in under 90 minutes
 
 
+=======
+
+Athens, Bradford and Charleston have this in common: youth alienation
+
+Michael White
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 News
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Suspect armed with gun and hatchet killed after opening fire in Nashville theatre
 
+=======
+
+Athens, Bradford and Charleston have this in common: youth alienation
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 New Jersey
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Man shot and killed in Jersey City
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 News
+=======
+Why don't Americans call mass shootings 'terrorism'? Racism
+
+Jessica Valenti
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Bodies of 5 children, 3 adults found in Houston-area home; suspect surrendered
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 News
+=======
+Why don't Americans call mass shootings 'terrorism'? Racism
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Suspect posts apocalyptic Facebook message during standoff
+=======
+>>>>>>> origin/master
 
 
 
@@ -754,45 +1225,83 @@ Suspect posts apocalyptic Facebook message during standoff
 
 
 
+<<<<<<< HEAD
  
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 Northern Suburbs
+=======
+Stephen King hits out at 'closed minds' who oppose US gun control laws
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Knife-wielding suspect fatally shot by officers in Beacon
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 New Jersey
  
 News
+=======
+Stephen King hits out at 'closed minds' who oppose US gun control laws
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Police investigating deadly shootings in Newark
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 News
+=======
+Charleston church massacre: 'What happened in there was brutal'
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 WDBJ back on the air day after colleagues killed on live TV
+=======
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+Charleston church massacre: 'What happened in there was brutal'
+>>>>>>> origin/master
 
 
 
@@ -803,14 +1312,17 @@ WDBJ back on the air day after colleagues killed on live TV
 
 
 
-
-
-
-
+<<<<<<< HEAD
  
 
 
 
+=======
+
+
+
+Charleston church shooting: how florist spotted suspect – video
+>>>>>>> origin/master
 
 
 
@@ -820,11 +1332,17 @@ WDBJ back on the air day after colleagues killed on live TV
 
 
 
+<<<<<<< HEAD
 Mobile Apps
 Android App
 
 
 iPhone & iPad App
+=======
+
+Charleston church shooting: how florist spotted suspect – video
+
+>>>>>>> origin/master
 
 
 
@@ -835,6 +1353,7 @@ iPhone & iPad App
 
 
 
+<<<<<<< HEAD
 Facebook
 
 
@@ -845,6 +1364,25 @@ Instagram
 
 
 About & Contact
+=======
+
+
+Charleston residents mourn shooting victims at Emanuel AME church – video
+
+
+
+
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+Charleston residents mourn shooting victims at Emanuel AME church – video
+>>>>>>> origin/master
 
 
 
@@ -855,12 +1393,7 @@ About & Contact
 
 
 
-
-
-
-
-
-
+<<<<<<< HEAD
 Online Public File
  • 				
 Terms of Service
@@ -897,6 +1430,49 @@ Email Alerts
 
 
 
+=======
+
+
+
+Why did some British papers underplay the Charleston shooting?
+
+Roy Greenslade
+
+
+
+
+
+
+
+
+
+Why did some British papers underplay the Charleston shooting?
+
+
+
+
+
+
+
+
+
+
+
+
+
+Rachel Dolezal or Dylann Roof: who is bigger news, and why?
+
+Sol Bellear
+
+
+
+
+
+
+
+
+
+Rachel Dolezal or Dylann Roof: who is bigger news, and why?
 
 
 
@@ -915,6 +1491,131 @@ Email Alerts
 
 
 
+Charleston shooting: vigils and prayers for the dead, and forgiveness for killer
+
+
+
+
+
+
+
+
+
+
+Charleston shooting: vigils and prayers for the dead, and forgiveness for killer
+
+
+
+
+
+
+
+
+
+
+Charleston church shooting: suspect Dylann Roof in custody as community holds vigils
+
+
+
+
+
+
+
+
+
+
+Charleston church shooting: suspect Dylann Roof in custody as community holds vigils
+
+
+
+
+
+
+
+
+
+
+Charleston shooting suspect Dylann Roof 'wanted to ignite civil war'
+
+
+
+
+
+
+
+
+
+
+Charleston shooting suspect Dylann Roof 'wanted to ignite civil war'
+
+
+
+
+
+
+
+
+
+
+Charleston shootings: the apartheid era flags that have found new life with America's racists
+
+
+
+
+
+
+
+
+
+
+Charleston shootings: the apartheid era flags that have found new life with America's racists
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jon Stewart opens Daily Show with powerful monologue on Charleston shooting – video
+
+
+
+
+
+
+
+
+
+
+Jon Stewart opens Daily Show with powerful monologue on Charleston shooting – video
+
+
+
+
+
+
+
+
+
+
+Daily Show's Jon Stewart on Charleston shooting: 'This was a terrorist attack'
+
+
+
+
+
+
+
+
+
+
+Daily Show's Jon Stewart on Charleston shooting: 'This was a terrorist attack'
 
 
 
@@ -933,6 +1634,174 @@ Email Alerts
 
 
 
+Charleston shooting: florist Debbie Dills hailed a hero after tailing suspect's car
+
+
+
+
+
+
+
+
+
+
+Charleston shooting: florist Debbie Dills hailed a hero after tailing suspect's car
+
+
+
+
+
+
+
+
+Older
+Newer
+
+
+
+
+
+
+Topics
+
+
+
+South Carolina
+
+
+
+
+Gun crime
+
+
+
+
+US crime
+
+
+
+
+Race issues
+
+
+
+
+US gun control
+
+
+
+More…
+
+
+
+US politics
+
+
+
+
+Barack Obama
+
+
+
+
+North Carolina
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+Jon Stewart
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+i
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+Obama administration
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+National newspapers
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+Republicans
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+Daily Telegraph
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+The Times
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+Daily Star
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+The Guardian
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+Daily Mirror
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+Democrats
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+Young people
+>>>>>>> origin/master
 
 
 
@@ -944,34 +1813,38 @@ Email Alerts
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 Follow
 
 
 
 
 Follow “New York's PIX11 / WPIX-TV”
+=======
+
+
+The Guardian
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Get every new post delivered to your Inbox.
 
 
 
 
 Join 5,004 other followers
+=======
+
+
+back to top
+
+
+>>>>>>> origin/master
 
 
 
@@ -984,54 +1857,101 @@ Join 5,004 other followers
 
 
 
+<<<<<<< HEAD
+=======
+home
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 Build a website with WordPress.com
 
 
+=======
+US
+selected
 
 
 
 
+world
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+opinion
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+sports
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+soccer
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Send to Email Address
+=======
+tech
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Your Name
+=======
+arts
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Your Email Address
+=======
+lifestyle
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+fashion
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+business
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 Cancel
@@ -1047,6 +1967,425 @@ Cancel
 
 
 				Sorry, your blog cannot share posts by email.			
+=======
+travel
+
+
+
+
+environment
+
+
+
+
+science
+
+
+
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+all sections
+close
+>>>>>>> origin/master
+
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+home
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+US
+selected
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+world
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+UK
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+europe
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+americas
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+asia
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+middle east
+
+
+
+
+africa
+
+
+
+
+australia
+
+
+
+
+cities
+
+
+
+
+development
+
+
+
+
+
+
+opinion
+
+
+
+
+sports
+
+
+
+
+soccer
+
+
+
+
+MLS
+
+
+
+
+NFL
+
+
+
+
+MLB
+
+
+
+
+NBA
+
+
+
+
+NHL
+
+
+
+
+
+
+soccer
+
+
+
+
+live scores
+
+
+
+
+tables
+
+
+
+
+competitions
+
+
+
+
+results
+
+
+
+
+fixtures
+
+
+
+
+clubs
+
+
+
+
+
+
+tech
+
+
+
+
+arts
+
+
+
+
+movies
+
+
+
+
+tv & radio
+
+
+
+
+music
+
+
+
+
+games
+
+
+
+
+books
+
+
+
+
+art & design
+
+
+
+
+stage
+
+
+
+
+classical
+
+
+
+
+
+
+lifestyle
+
+
+
+
+food
+
+
+
+
+health & fitness
+
+
+
+
+love & sex
+
+
+
+
+family
+
+
+
+
+women
+
+
+
+
+home & garden
+
+
+
+
+
+
+fashion
+
+
+
+
+business
+
+
+
+
+economics
+
+
+
+
+sustainable business
+
+
+
+
+diversity & equality in business
+
+
+
+
+small business
+
+
+
+
+
+
+travel
+
+
+
+
+USA
+
+
+
+
+europe
+
+
+
+
+UK
+
+
+
+
+
+
+environment
+
+
+
+
+climate change
+
+
+
+
+wildlife
+
+
+
+
+energy
+
+
+
+
+pollution
+
+
+
+
+
+
+science
+
+
+
+
+media
+
+
+
+
+crosswords
+
+
+
+
+video
+
+
+
+
+
+
+
+
+
+
+
+
+
+jobs
+
+subscribe
+all topics
+all contributors
+
+
+report technical issue
+
+
+
+about us
+
+contact us
+
+complaints & corrections
+terms & conditions
+privacy policy
+cookie policy
+securedrop
+
+
+© 2015 Guardian News and Media Limited or its affiliated companies. All rights reserved.
 
 
 
@@ -1064,25 +2403,6 @@ Cancel
 
 
 
+ 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+>>>>>>> origin/master

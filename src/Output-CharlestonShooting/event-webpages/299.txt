@@ -1,7 +1,14 @@
+<<<<<<< HEAD
 VIDEO: St. Louis police shoot, kill knife-wielding man | New York's PIX11 / WPIX-TV 
 
 
 VIDEO: St. Louis police shoot, kill knife-wielding man | New York's PIX11 / WPIX-TV
+=======
+Charleston shooting: Clementa Pinckney’s casket to lie at State House | US news | The Guardian
+
+Charleston shooting: Clementa Pinckney’s casket to lie at State House | US news | The Guardian
+
+>>>>>>> origin/master
 
 
 
@@ -16,8 +23,12 @@ VIDEO: St. Louis police shoot, kill knife-wielding man | New York's PIX11 / WPIX
 
 
 
+<<<<<<< HEAD
 Go
 Search
+=======
+Close
+>>>>>>> origin/master
 
 
 
@@ -26,6 +37,13 @@ Search
 
 
 
+<<<<<<< HEAD
+
+=======
+Skip to main content
+
+ 
+>>>>>>> origin/master
 
 
 
@@ -33,7 +51,7 @@ Search
 
 
 
-
+<<<<<<< HEAD
  Replay: 
 PIX11 News 
 
@@ -54,16 +72,23 @@ PIX11 TV Schedule
 
 
 
+=======
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+sign in
+>>>>>>> origin/master
 
 
 
 
 
 
-
-
-
-
+<<<<<<< HEAD
 New York's PIX11 / WPIX-TV
 
 
@@ -71,10 +96,18 @@ New York's PIX11 / WPIX-TV
 
  
 Menu
+=======
+
+
+subscribe
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 NEWS
 
 
@@ -114,6 +147,14 @@ Weather
 
 77°
 
+=======
+
+search
+
+
+
+
+jobs
 
 
 
@@ -124,17 +165,68 @@ Weather
 
 
 
+more
 
 
+from the guardian:
+
+
+jobs
+
+
+
+change edition:
+
+
+
+switch to the  UK  edition
+
+
+switch to the  AU  edition
+
+
+switch to the 
+INT
+beta
+ edition
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+US edition
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
 77°
 
+=======
+switch to the 
+UK edition
 
 
 
 
+switch to the 
+Australia edition
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 Low 
 68°
@@ -142,6 +234,14 @@ Low
 
 High 
 81°
+=======
+switch to the 
+International
+beta
+
+
+
+>>>>>>> origin/master
 
 
 
@@ -149,26 +249,37 @@ High
 
 
 
+<<<<<<< HEAD
+=======
+The Guardian
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 Sat
+=======
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 					71° 
  86°
 					
+=======
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 Sun
 
 
@@ -178,96 +289,177 @@ Sun
 					74° 
  90°
 					
+=======
+home
+
+
+›
+US
+
+
+
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 Mon
 
+=======
+
+home
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 					75° 
  92°
 					
+=======
+US
+selected
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 See complete forecast
 
 
+=======
+world
 
 
 
 
+opinion
+>>>>>>> origin/master
 
 
+
+
+<<<<<<< HEAD
+=======
+sports
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+ 
+=======
+soccer
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+tech
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+arts
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+lifestyle
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+fashion
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
  
 
 
+=======
+business
+
+
+
+
+travel
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+environment
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+science
+>>>>>>> origin/master
 
 
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 VIDEO: St. Louis police shoot, kill knife-wielding man
+=======
+browse all sections
+close
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Posted 1:07 PM, April 18, 2015, by 
 Julia Jacobo
  
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Facebook
 Twitter
 Reddit
 Pinterest
 Email
 Google
+=======
+>>>>>>> origin/master
  
 
 
@@ -280,6 +472,7 @@ Google
 
 
 
+<<<<<<< HEAD
 
 JENNINGS, Mo. (PIX11)
  — Police in St. Louis are investigating the shooting death of a 23-year-old man who was shot while allegedly charging at an officer with a knife Friday night, 
@@ -308,6 +501,28 @@ The St. Louis Police Department released video from the scene, taken from body c
 
 
 In July 2014, police responded to a 911 call involving McCarroll in a state of mental distress. He was able to be subdued and taken in for professional treatment in that incident.
+=======
+Charleston shooting
+
+
+
+Charleston shooting: Clementa Pinckney’s casket to lie at State House
+
+
+
+
+
+
+
+
+
+Funeral details released for South Carolina state senator who was killed in gun attack on black church congregation in Charleston
+
+
+
+
+
+>>>>>>> origin/master
 
 
 
@@ -321,6 +536,7 @@ In July 2014, police responded to a 911 call involving McCarroll in a state of m
 
 
 
+<<<<<<< HEAD
 
 Filed in:
  
@@ -352,6 +568,19 @@ police involved shooting
 Report a Typo
 
 
+=======
+Clementa Pinckney among the congregation at Emanuel African Methodist Episcopal Church in Charleston, South Carolina, in December 2012.
+Photograph: Randall Hill/Reuters
+
+
+
+Staff and agencies in South Carolina
+
+
+Sunday 21 June 2015 01.44 EDT
+
+
+Last modified on Monday 22 June 2015 06.30 EDT
 
 
 
@@ -359,24 +588,51 @@ Report a Typo
 
 
 
+Share on Facebook
+>>>>>>> origin/master
+
+
+
+
+
+
+
+<<<<<<< HEAD
 
 
 
 Name
 (required)
+=======
+Share on Twitter
+
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+Share via Email
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Typo
 (required)
 
 
 
+=======
+
+
+
+Share on Pinterest
+>>>>>>> origin/master
 
 
 
@@ -384,6 +640,10 @@ Typo
 
 
 
+<<<<<<< HEAD
+=======
+Share on LinkedIn
+>>>>>>> origin/master
 
 
 
@@ -391,6 +651,7 @@ Typo
 
 
 
+<<<<<<< HEAD
 
  
 
@@ -398,6 +659,20 @@ Typo
 
 
 Cancel
+=======
+Share on Google+
+
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+Share on WhatsApp
+>>>>>>> origin/master
 
 
 
@@ -415,12 +690,7 @@ Cancel
 
 
 
-
-
-
-
-
-
+<<<<<<< HEAD
 
 
 
@@ -431,20 +701,57 @@ Cancel
 
 
 
+=======
+Funeral plans are being announced for Clementa Pinckney, the South Carolina state senator who was one of nine people killed in the shooting spree at a Charleston church on 17 June.
+A spokesman for Leevy’s funeral home in Columbia confirmed the details to the State newspaper.
+Pinckney’s casket will be at the State House, the South Carolina legislature, for public viewing on Wednesday afternoon, according to the funeral listing, with additional public viewings on Thursday at a Columbia church and at the Emanuel African Methodist Episcopal Church where Pinckney was shot.
+The funeral is set for 11am on Friday at TD Arena on the College of Charleston campus.
+Dylann Roof is charged with nine counts of murder in the apparently racially motivated killing of Pinckney and the other victims.
+
+ Related: Hillary Clinton decries 'institutional racism' after Charleston shooting 
+
+On Saturday, hundreds of protesters walked down the streets of Charleston chanting “black lives matter” and “we can’t take it no more”.
+In the evening a large crowd demonstrated against the presence of the Confederate flag on the grounds of the State House, where Pinckney’s casket is to lie in state. Calling the flag a symbol of hatred not heritage, the protesters chanted “take it down” in a rally that ended with a chorus of civil rights anthem “We Shall Overcome”.
+Police say 21-year-old Roof went to the church and joined a Bible study group, then opened fire.
+The Associated Press contributed to this report
 
 
 
 
+More news 
+Topics
+
+
+
+Charleston shooting
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+US crime
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 Watch NJ Lottery drawings live
 
 
 Winning numbers and daily results
+=======
+Gun crime
+
+
+
+
+South Carolina
+>>>>>>> origin/master
 
 
 
@@ -455,61 +762,106 @@ Winning numbers and daily results
 
 
 
+<<<<<<< HEAD
+=======
+Share on Facebook
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
  
 
 
 
 
  
+=======
+
+Share on Twitter
+
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 Popular
+=======
+Share via Email
+
+
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 
 
 
 NBA great Darryl Dawkins has died at 58 years old
+=======
+Share on Pinterest
+
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+Share on LinkedIn
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Video showing shootings of WDBJ crew posted under Bryce Williams Twitter, Facebook accounts
 
 
 
+=======
+
+
+
+Share on Google+
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 Reporter, photographer shot to death on air in Virginia
 
 
+=======
+
+
+Share on WhatsApp
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 ‘Dead’ teen ‘wakes up’ screaming, banging inside coffin; family smashes tomb
+=======
+>>>>>>> origin/master
 
 
 
@@ -533,6 +885,7 @@ Reporter, photographer shot to death on air in Virginia
 
 
 
+<<<<<<< HEAD
 Latest News
 
 
@@ -570,6 +923,11 @@ CEO of Ashley Madison parent company steps down after hack
 
 
 WATCH IT: Sinkhole swallows 5 people in China is captured on video
+=======
+
+
+popular
+>>>>>>> origin/master
 
 
 
@@ -591,6 +949,22 @@ WATCH IT: Sinkhole swallows 5 people in China is captured on video
 
 
 
+<<<<<<< HEAD
+=======
+The Guardian
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+back to top
+>>>>>>> origin/master
 
 
 
@@ -601,14 +975,7 @@ WATCH IT: Sinkhole swallows 5 people in China is captured on video
 
 
 
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 Brooklyn
  
 News
@@ -618,10 +985,18 @@ News
 
 Knife-wielding man shot by police in Brooklyn still at large: NYPD
 
+=======
 
 
 
 
+home
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 Northern Suburbs
 
@@ -642,10 +1017,35 @@ News
 
 SWAT team shoots, kills NJ man holding 17-month-old son hostage at knife point: officials
 
+=======
+US
+selected
 
 
 
 
+world
+
+
+
+
+opinion
+
+
+
+
+sports
+
+
+
+
+soccer
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 New Jersey
 
@@ -666,32 +1066,77 @@ News
 
 Boy, 12, cuts nephew, 8, in fight over TV
 
+=======
+tech
 
 
 
 
+arts
+
+
+
+
+lifestyle
+
+
+
+
+fashion
+
+
+
+
+business
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
  
 
+=======
+travel
 
 
 
 
+environment
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 Manhattan
+=======
+science
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Knife-wielding man wanted for 3 robberies inside Harlem housing complexes: NYPD
 
 
+=======
+
+
+all sections
+close
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 News
 
 
@@ -711,10 +1156,33 @@ News
 
 Knife-wielding man shot by police in New Jersey: cops
 
+=======
+
+
+
+home
 
 
 
 
+US
+selected
+
+
+
+
+world
+
+
+
+
+UK
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 News
 
@@ -735,31 +1203,74 @@ News
 
 Parolee shot and killed by police in Hackensack
 
+=======
+europe
 
 
 
 
+americas
+
+
+
+
+asia
+
+
+
+
+middle east
+
+
+
+
+africa
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
  
 
+=======
+australia
 
 
 
 
+cities
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 Local Stories
+=======
+development
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 NYPD seeks knife-wielding man who attacked teen girl in Queens
 
+=======
+
+opinion
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 News
 
@@ -780,29 +1291,70 @@ News
 
 Police: Tennessee movie theater attack suspect had been committed 4 times
 
+=======
+sports
+
+
+
+
+soccer
+
+
+
+
+MLS
+
+
+
+
+NFL
+
+
+
+
+MLB
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+NBA
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+NHL
+>>>>>>> origin/master
 
 
 
 
 
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
  
 
+=======
+
+soccer
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+live scores
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -814,10 +1366,24 @@ iPhone & iPad App
 
 
 
+=======
+tables
 
 
 
 
+competitions
+
+
+
+
+results
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
@@ -832,18 +1398,42 @@ Instagram
 
 About & Contact
 
+=======
+fixtures
+
+
+
+
+clubs
 
 
 
 
 
 
+tech
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+arts
+>>>>>>> origin/master
 
 
+
+
+<<<<<<< HEAD
+=======
+movies
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
@@ -865,14 +1455,27 @@ A Tribune Broadcasting Station
 WordPress.com VIP
  
 
+=======
+tv & radio
 
 
 
 
+music
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+games
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
@@ -883,62 +1486,124 @@ Email Alerts
 
 
 
+=======
+books
+
+
+
+
+art & design
+
+
+
+
+stage
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+classical
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+lifestyle
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+food
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+health & fitness
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+love & sex
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+family
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+women
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+home & garden
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+fashion
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+business
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+economics
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+sustainable business
+>>>>>>> origin/master
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 
 
 
@@ -961,39 +1626,90 @@ Join 5,004 other followers
 
 
 
+=======
+diversity & equality in business
+
+
+
+
+small business
 
 
 
 
 
 
+travel
+
+
+
+
+USA
+
+
+
+
+europe
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+UK
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+environment
+>>>>>>> origin/master
 
 
+
+
+<<<<<<< HEAD
 
 Build a website with WordPress.com
 
 
 
+=======
+climate change
+
+
+
+
+wildlife
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+energy
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+pollution
+>>>>>>> origin/master
 
 
 
 
 
 
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 
 Send to Email Address
 
@@ -1009,6 +1725,24 @@ Your Email Address
 
 
 
+=======
+science
+
+
+
+
+media
+
+
+
+
+crosswords
+
+
+
+
+video
+>>>>>>> origin/master
 
 
 
@@ -1020,6 +1754,7 @@ Your Email Address
 
 
 
+<<<<<<< HEAD
 Cancel
 
 
@@ -1036,6 +1771,59 @@ Cancel
 
 
 
+=======
+US News
+
+
+
+
+›
+Charleston shooting
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+
+
+
+
+
+
+
+
+
+
+=======
+jobs
+
+subscribe
+all topics
+all contributors
+
+
+report technical issue
+
+
+
+about us
+
+contact us
+
+complaints & corrections
+terms & conditions
+privacy policy
+cookie policy
+securedrop
+
+
+© 2015 Guardian News and Media Limited or its affiliated companies. All rights reserved.
+>>>>>>> origin/master
 
 
 
@@ -1053,22 +1841,8 @@ Cancel
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
+=======
+ 
+>>>>>>> origin/master
 

@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 Evanston Police Fatally Shoot Bank Robbery Suspect « CBS Chicago
 
 Evanston Police Fatally Shoot Bank Robbery Suspect « CBS Chicago
+=======
+Charleston shooting | US news | The Guardian
+
+Charleston shooting | US news | The Guardian
+>>>>>>> origin/master
 
 
 
@@ -16,6 +22,7 @@ Evanston Police Fatally Shoot Bank Robbery Suspect « CBS Chicago
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -286,19 +293,32 @@ World
 Photos
 
 
+=======
+Close
+
+
+
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
+=======
+Skip to main content
+>>>>>>> origin/master
 
  
 
 
 
 
+<<<<<<< HEAD
  
 
+=======
+>>>>>>> origin/master
 
 
 
@@ -306,24 +326,50 @@ Photos
 
 
 
+<<<<<<< HEAD
+=======
+sign in
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Local
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 Evanston Police Fatally Shoot Bank Robbery Suspect
+=======
+subscribe
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 December 16, 2013 4:17 PM
 
+=======
+
+search
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+jobs
+>>>>>>> origin/master
 
 
 
@@ -334,10 +380,7 @@ December 16, 2013 4:17 PM
 
 
 
-
-
-
-
+<<<<<<< HEAD
 
 
 
@@ -382,6 +425,63 @@ Information posted by the FBI online indicates the suspect who robbed the Evanst
 
 
 
+=======
+more
+
+
+from the guardian:
+
+
+jobs
+
+
+
+change edition:
+
+
+
+switch to the  UK  edition
+
+
+switch to the  AU  edition
+
+
+switch to the 
+INT
+beta
+ edition
+
+
+
+
+
+
+
+
+US edition
+
+
+
+
+switch to the 
+UK edition
+
+
+
+
+switch to the 
+Australia edition
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+switch to the 
+International
+beta
+>>>>>>> origin/master
 
 
 
@@ -392,6 +492,10 @@ Information posted by the FBI online indicates the suspect who robbed the Evanst
 
 
 
+<<<<<<< HEAD
+=======
+The Guardian
+>>>>>>> origin/master
 
 
 
@@ -400,11 +504,28 @@ Information posted by the FBI online indicates the suspect who robbed the Evanst
 
 
 
-
-
-
-
+<<<<<<< HEAD
  
+=======
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+
+
+=======
+home
+
+
+›
+US
+>>>>>>> origin/master
 
 
 
@@ -415,25 +536,25 @@ Information posted by the FBI online indicates the suspect who robbed the Evanst
 
 
 
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 Listen Live
+=======
+home
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+US
+selected
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
  
@@ -473,44 +594,112 @@ Follow
 CBS Chicago
 
 
+=======
+world
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+opinion
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+sports
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+soccer
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+tech
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 Follow @CBSChicago
 
 
+=======
+arts
 
 
 
 
+lifestyle
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+fashion
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 Like us on foursquare
 
 
+=======
+business
+
+
+
+
+travel
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+environment
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+science
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+browse all sections
+close
+>>>>>>> origin/master
 
 
 
@@ -519,20 +708,7 @@ Like us on foursquare
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 
 
 
@@ -602,10 +778,7 @@ dodgerman
 #LIVE
  
 33 minutes ago
-
-
-
-
+=======
  
 
 
@@ -616,19 +789,57 @@ dodgerman
 
 
 
+Charleston shooting
+
+Wednesday
+
+8
+July
+2015
 
 
 
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+ 
+=======
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
 
 
 
 
 News Via Email
  
+=======
+Slew of amendments hamper South Carolina push to ditch Confederate flag
+
+
+Tempers begin to fray during marathon session as Republicans launch dozens of proposed amendments 
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Download The Free App
  
 
@@ -637,23 +848,44 @@ Download The Free App
 
 New Podcast Network
  
+=======
+
+
+Slew of amendments hamper South Carolina push to ditch Confederate flag
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Download Our New Weather App!
  
+=======
+Older
+Newer
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 
 
 
 
  
+=======
+Topics
+
+
+
+South Carolina
+
+>>>>>>> origin/master
 
 
 
@@ -664,6 +896,7 @@ Download Our New Weather App!
 
 
 
+<<<<<<< HEAD
 News
 
 
@@ -688,12 +921,33 @@ Weather
 
 
 Traffic
+=======
+
+
+The Guardian
 
 
 
 
 
 
+
+
+back to top
+
+
+
+
+
+
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
 Sports
 
 
@@ -720,15 +974,46 @@ Podcasts
 Blogs
 
 
+=======
+
+
+home
 
 
 
 
+US
+selected
+
+
+
+
+world
+
+
+
+
+opinion
+
+
+
+
+sports
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Scores & Stats
+=======
+soccer
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 NFL Football
 
 
@@ -741,15 +1026,33 @@ NBA Basketball
 NHL Hockey
 
 
+=======
+tech
 
 
 
 
+arts
+
+
+
+
+lifestyle
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Contact Us
+=======
+fashion
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 CBS 2
 
 
@@ -763,17 +1066,37 @@ Connect
 
 
 Mobile
+=======
+business
 
 
 
 
+travel
+
+
+
+
+environment
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 Corporate
+=======
+science
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 About Us
 
 
@@ -792,6 +1115,10 @@ Mobile
 Connect
 
 
+=======
+
+all sections
+close
 
 
 
@@ -799,12 +1126,36 @@ Connect
 
 
 
+home
 
+
+
+
+US
+selected
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+world
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Chicago Business Listings
+=======
+UK
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Restaurants
 
 
@@ -818,14 +1169,32 @@ Professional Services
 
 
 Search Listings
+=======
+europe
 
 
 
 
+americas
 
 
 
 
+asia
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+middle east
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 By viewing our video content, you are accepting the terms of our 
 Video Services Policy
 
@@ -875,14 +1244,59 @@ WordPress.com VIP
 
 
  
+=======
+africa
+
+
+
+
+australia
+
+
+
+
+cities
+
+
+
+
+development
 
 
 
 
 
 
+opinion
 
 
+
+
+sports
+
+
+
+
+soccer
+
+
+
+
+MLS
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+NFL
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 Facebook
@@ -894,10 +1308,24 @@ Twitter
 RSS
 
 
+=======
+MLB
 
 
 
 
+NBA
+
+
+
+
+NHL
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Other CBS Local Cities 
 
 
@@ -976,14 +1404,86 @@ CBS Tampa
 
 
 CBS Washington
+=======
+
+
+soccer
+
+
+
+
+live scores
+
+
+
+
+tables
+
+
+
+
+competitions
+
+
+
+
+results
+
+
+
+
+fixtures
+
+
+
+
+clubs
 
 
 
 
 
 
+tech
 
 
+
+
+arts
+
+
+
+
+movies
+
+
+
+
+tv & radio
+
+
+
+
+music
+
+
+
+
+games
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+books
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 ©2015 CBS Local Media,
@@ -993,16 +1493,29 @@ a division of CBS Radio Inc.
 All rights reserved.
 
 
+=======
+art & design
+
+
+
+
+stage
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+classical
+>>>>>>> origin/master
 
 
 
 
 
 
-
-
-
-
+<<<<<<< HEAD
 Buy Tickets
 Order Food
  
@@ -1021,33 +1534,62 @@ Email Alerts
 Daily Deals
 50% Off From ATE Accessories
  
+=======
+lifestyle
 
 
 
 
+food
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+health & fitness
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+love & sex
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+family
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+women
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Log In
 Register
  
+=======
+home & garden
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Follow Us
 
 
@@ -1058,47 +1600,90 @@ Twitter
 
 
 Youtube
+=======
+
+
+fashion
+
+
+
+
+business
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+economics
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+sustainable business
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+diversity & equality in business
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+small business
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+travel
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+USA
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+europe
+>>>>>>> origin/master
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 Listen Live
+=======
+UK
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 
 
 AM/FM Stations
@@ -1122,17 +1707,45 @@ B96
 
 
 WBBM NewsRadio
+=======
+environment
+
+
+
+
+climate change
+
+
+
+
+wildlife
+
+
+
+
+energy
+
+
+
+
+pollution
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 Featured Shows & Multimedia
+=======
+science
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Play.It
 
 
@@ -1145,13 +1758,72 @@ CBS Sports Radio
 Radio.com
 
 
+=======
+media
+
+
+
+
+crosswords
+
+
+
+
+video
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 Advertise On Our Streams
+=======
+>>>>>>> origin/master
+
+
+
+
+
+
+
+<<<<<<< HEAD
+
+
+
+
+
+
+
+
+
+
+=======
+jobs
+
+subscribe
+all topics
+all contributors
+
+
+report technical issue
+
+
+
+about us
+
+contact us
+
+complaints & corrections
+terms & conditions
+privacy policy
+cookie policy
+securedrop
+
+
+© 2015 Guardian News and Media Limited or its affiliated companies. All rights reserved.
+>>>>>>> origin/master
 
 
 
@@ -1165,30 +1837,17 @@ Advertise On Our Streams
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
+ 
+=======
+>>>>>>> origin/master
 
 
 
 
  
 
-
-
-
- 
-
+<<<<<<< HEAD
 
 
 
@@ -1221,3 +1880,5 @@ Advertise On Our Streams
 
 
 
+=======
+>>>>>>> origin/master

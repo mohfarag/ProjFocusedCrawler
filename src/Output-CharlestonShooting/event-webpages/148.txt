@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 Charleston Church Shooting: Tributes Paid to 'Kind-Hearted' Victims  - NBC News
 
 Charleston Church Shooting: Tributes Paid to 'Kind-Hearted' Victims  - NBC News
+=======
+Charleston library renamed in honour of church shootings victim | Books | The Guardian
+
+Charleston library renamed in honour of church shootings victim | Books | The Guardian
+>>>>>>> origin/master
 
 
 
@@ -16,6 +22,25 @@ Charleston Church Shooting: Tributes Paid to 'Kind-Hearted' Victims  - NBC News
 
 
 
+<<<<<<< HEAD
+=======
+Close
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+
+=======
+Skip to main content
+
+ 
+>>>>>>> origin/master
 
 
 
@@ -26,15 +51,7 @@ Charleston Church Shooting: Tributes Paid to 'Kind-Hearted' Victims  - NBC News
 
 
 
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 Watch Live: Scott Walker Delivers Foreign Policy Speech
 
 
@@ -514,16 +531,26 @@ advertisement
  
 
 
+=======
+
+sign in
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 advertisement
 
 
  
+=======
+
+
+subscribe
+>>>>>>> origin/master
 
 
 
@@ -531,6 +558,18 @@ advertisement
 
 
 
+<<<<<<< HEAD
+=======
+search
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+jobs
+>>>>>>> origin/master
 
 
 
@@ -538,10 +577,7 @@ advertisement
 
 
 
-
-
-
-
+<<<<<<< HEAD
 Storyline
 
 
@@ -562,6 +598,35 @@ Storyline
 
 
 
+=======
+
+
+
+more
+
+
+from the guardian:
+
+
+jobs
+
+
+
+change edition:
+
+
+
+switch to the  UK  edition
+
+
+switch to the  AU  edition
+
+
+switch to the 
+INT
+beta
+ edition
+>>>>>>> origin/master
 
 
 
@@ -570,37 +635,67 @@ Storyline
 
 
 
+<<<<<<< HEAD
+=======
+US edition
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+switch to the 
+UK edition
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+switch to the 
+Australia edition
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+switch to the 
+International
+beta
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 News
+=======
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 Charleston Church Shooting
+=======
+The Guardian
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 Jun 20 2015, 12:30 am ET
+=======
+>>>>>>> origin/master
 
 
 
@@ -611,6 +706,7 @@ Jun 20 2015, 12:30 am ET
 
 
 
+<<<<<<< HEAD
 Charleston Church Shooting: Tributes Paid to 'Kind-Hearted' Victims 
 
 
@@ -641,82 +737,188 @@ M. Alex Johnson
 
 
 
+=======
+home
 
 
+›
+arts
+
+
+›
+books
+
+
+
+
+art & design
+
+
+stage
+
+
+classical
+
+
+movies
+
+
+tv & radio
+
+
+music
+
+
+games
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+Share
+=======
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
 
 
 Share
 
 
+=======
+home
 
 
 
 
-
-
-Share
-
-
+US
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 Tweet
 
 
+=======
+world
 
 
 
 
+opinion
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 Share
 
 
+=======
+sports
 
 
 
 
+soccer
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 Email
 
 
+=======
+tech
 
 
 
 
+arts
+selected
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 Print
 
 
+=======
+lifestyle
 
 
 
 
+fashion
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+business
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Comment
+=======
+travel
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+environment
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+science
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 advertisement
 
 
+=======
+
+
+browse all sections
+close
+>>>>>>> origin/master
 
 
 
@@ -737,6 +939,17 @@ advertisement
 
 
 
+<<<<<<< HEAD
+
+
+
+=======
+Libraries
+
+
+
+Charleston library renamed in honour of church shootings victim
+>>>>>>> origin/master
 
 
 
@@ -745,9 +958,7 @@ advertisement
 
 
 
-
-
-
+<<<<<<< HEAD
 Facebook
 
 
@@ -756,19 +967,30 @@ Facebook
 
 
 Twitter
+=======
+
+The Cynthia Graham Hurd St Andrews regional library will honour memory of ‘a librarian’s librarian’
+
+
+
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 Google Plus
+=======
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 Embed
 
 
@@ -788,6 +1010,24 @@ autoplay
 
 
 autoplay 
+=======
+
+
+
+‘Librarian’s librarian’ ... Cynthia Graham Hurd pictured at a library in Charleston in 2002.
+Photograph: Grace Beahm/AP
+
+
+
+
+Alison Flood
+
+
+Friday 26 June 2015 06.25 EDT
+
+
+Last modified on Friday 26 June 2015 06.46 EDT
+>>>>>>> origin/master
 
 
 
@@ -795,8 +1035,23 @@ autoplay
 
 
 
+<<<<<<< HEAD
 
 Copy this code to your website or blog
+=======
+Share on Facebook
+
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+Share on Twitter
+>>>>>>> origin/master
 
 
 
@@ -804,12 +1059,7 @@ Copy this code to your website or blog
 
 
 
-
-
-
-
-
-
+<<<<<<< HEAD
 
  The nine victims of the 
 Charleston, South Carolina, church shooting
@@ -824,10 +1074,22 @@ Emanuel African Methodist Episcopal Church
  Charleston County coroner Rae Wooten identified all nine victims in a press conference Thursday. 
 
 
+=======
+Share via Email
 
 
 
 
+
+
+
+Share on Pinterest
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 advertisement
 
 
@@ -845,6 +1107,31 @@ advertisement
  
 
 
+=======
+
+
+
+Share on LinkedIn
+
+
+
+
+
+
+
+Share on Google+
+>>>>>>> origin/master
+
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+Share on WhatsApp
+>>>>>>> origin/master
 
 
 
@@ -858,18 +1145,15 @@ advertisement
 
 
 
-
-
-
-
-
-
-
+<<<<<<< HEAD
 Facebook
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 Twitter
@@ -887,24 +1171,61 @@ Google Plus
 
 
 Embed
+=======
+The library in Charleston managed by Cynthia Graham Hurd before she was killed in last week’s Emanuel AME church shootings is being renamed in her honour.
+Hurd was one of nine victims who died during Bible study at the Charleston church on 17 June. Charleston county council met on Thursday to vote on whether St Andrews regional library, where Hurd had been branch manager since 2011, should be renamed the Cynthia Graham Hurd St Andrews regional library. The motion was passed unanimously, according to the Post and Courier, which reported that Hurd’s family and friends had filled the front row of the council’s chambers as the resolution was read out.
+Her brother, the former North Carolina senator Malcolm Graham, has described Hurd as “a librarian’s librarian”, who “enjoyed working with the kids, but she also realised her job extended beyond the walls of the library”. She had worked in the Charleston county library system for 31 years.
+“She helped [children] discover themselves and learn skills that gave them the ability to live and grow, but she also was there to help people work through their problems. It went beyond just checking out books and helping people find jobs; she was there for people throughout the community who sought her advice on a variety of issues,” Graham said, adding that his sister was a “book nerd, always a very smart young lady, and she loved reading from a very young age”.
+Hurd’s family has also set up the Cynthia Graham Hurd Fund for Reading and Literacy, which will benefit Freedom School Partners, a programme of summer education for children in Charlotte, North Carolina. “Cynthia was a passionate advocate for education and for every child reaching his or her potential,” the family’s statement said. “The fund will ensure that children have access to books that strengthen their literacy skills and [be dedicated] to the support of a community that believes in them, values Cynthia held closely to her heart.”
+Hurd’s wake is due to be held on Friday, with her funeral on Saturday. The library service said that all 16 of Charleston’s public library branches will close on Saturday, in her honour and to allow staff to attend the funeral services.
+
+
+
+
+Topics
+
+
+
+Libraries
+
+
+
+
+Charleston shooting
+
+
+
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
  
 
 
 1:46
+=======
+
+Share on Facebook
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 autoplay 
 
 
 autoplay 
+=======
+
+
+Share on Twitter
+>>>>>>> origin/master
 
 
 
@@ -912,8 +1233,23 @@ autoplay
 
 
 
+<<<<<<< HEAD
 
 Copy this code to your website or blog
+=======
+Share via Email
+
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+Share on Pinterest
+>>>>>>> origin/master
 
 
 
@@ -921,32 +1257,42 @@ Copy this code to your website or blog
 
 
 
-
-
-
-
-
-
+<<<<<<< HEAD
 
  The Rev. Clementa Pinckney 
+=======
+Share on LinkedIn
+
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 advertisement
 
 
  
+=======
+Share on Google+
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
  Pinckney was a pastor at Emanuel AME and began 
 preaching in the church
  in his teens. The 41-year-old married father of two also served in the South Carolina Senate and was at one time the youngest member of the state House when he was first elected at 23. 
 
+=======
+
+Share on WhatsApp
+>>>>>>> origin/master
 
 
 
@@ -962,15 +1308,19 @@ preaching in the church
 
 
 
+<<<<<<< HEAD
 State Senator Clementa C. Pinckney, 41.
  
 Allen University
+=======
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
  "Senator Pinckney was a brilliant young pastor and leader who always possessed an empowering and healing message," his alma mater, Allen University in Columbia, said in a statement. 
 
 
@@ -1009,10 +1359,52 @@ advertisement
 
 
 
+=======
 
 
 
 
+
+
+
+View all comments >
+
+
+
+
+
+
+
+comments 
+Sign in
+or create your Guardian account to join the discussion.
+
+This discussion is closed for comments.
+
+We’re doing some maintenance right now. You can still read comments, but please come back later to add your own.
+
+
+Commenting has been disabled for this account (why?)
+
+
+
+
+
+
+
+Order by 
+
+
+newest
+
+
+oldest
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
@@ -1024,10 +1416,26 @@ via Facebook
 
 
 
+=======
+Show 25
+
+
+25
+
+
+50
+
+
+100
+
+
+All
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -1052,6 +1460,31 @@ advertisement
 
 
  Hurd, 54, was an employee of the Charleston County Public Library for three decades, most recently working as the manager at St. Andrews Regional Library. 
+=======
+Threads 
+
+
+collapsed
+
+
+expanded
+
+
+unthreaded
+
+
+
+
+
+Loading comments… Trouble loading?
+
+
+
+
+View more comments
+
+
+>>>>>>> origin/master
 
 
 
@@ -1059,6 +1492,7 @@ advertisement
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -1089,6 +1523,19 @@ Charleston County Public Library
  The Rev. Depayne Middleton Doctor 
 
 
+=======
+ 
+
+
+
+
+
+
+
+
+
+popular
+>>>>>>> origin/master
 
 
 
@@ -1101,17 +1548,22 @@ Charleston County Public Library
 
 
 
+<<<<<<< HEAD
 
 
 Rev. DePayne Middleton, 49.
  
 via Facebook
+=======
+ 
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
  Doctor, 49, was a church singer and former Charleston County community development block grant employee, retiring in 2005. 
 
 
@@ -1119,6 +1571,23 @@ via Facebook
 
 
  "So in a very big way, she was doing very human, kindly things in our government for others," Summey said. 
+=======
+
+
+The Guardian
+
+
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+back to top
+>>>>>>> origin/master
 
 
 
@@ -1129,22 +1598,20 @@ via Facebook
 
 
 
-
-
-
-
-
-
+<<<<<<< HEAD
 Nine victims of the Charleston church shooting. 
                 Top row: Cynthia Hurd, Rev. Clementa Pinckney, Rev. Sharonda Coleman-Singleton
                 Middle row: Daniel Simmons,  Rev. Depayne Middleton Doctor, Tywanza Sanders
                 Bottom row: Myra Thompson, Ethel Lee Lance, Susie Jackson
  
 Via Facebook and Getty Images
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
  Sharonda Coleman-Singleton 
@@ -1193,18 +1660,66 @@ her obituary
 
 
  Thompson, 59, was married to the vicar of Holy Trinity Reformed Episcopal Church. 
+=======
+home
 
 
 
 
+US
 
 
 
 
+world
 
 
 
 
+opinion
+
+
+
+
+sports
+
+
+
+
+soccer
+
+
+
+
+tech
+
+
+
+
+arts
+selected
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+lifestyle
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+fashion
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 Emmanuelle Saliba
@@ -1216,6 +1731,27 @@ Twitter
 
 
 Email
+=======
+business
+
+
+
+
+travel
+
+
+
+
+environment
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+science
+>>>>>>> origin/master
 
 
 
@@ -1223,6 +1759,11 @@ Email
 
 
 
+<<<<<<< HEAD
+=======
+all sections
+close
+>>>>>>> origin/master
 
 
 
@@ -1230,15 +1771,16 @@ Email
 
 
 
-
-
-
-
+<<<<<<< HEAD
 Erik Ortiz
+=======
+home
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Twitter
 
 
@@ -1246,22 +1788,43 @@ Google Plus
 
 
 Email
+=======
+US
 
 
 
 
+world
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+UK
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+europe
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+americas
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 M. Alex Johnson
@@ -1278,20 +1841,48 @@ Facebook
 Google Plus
 
 
+=======
+asia
 
 
 
 
+middle east
+
+
+
+
+africa
+
+
+
+
+australia
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 Contributors
 
 
 Chris Jansing
+=======
+cities
 
 
 
 
+development
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Topics 
 U.S. news
 , 
@@ -1306,118 +1897,231 @@ Jun 18 2015, 8:30 am ET
 
 
 
+=======
+
+
+opinion
 
 
 
 
+sports
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+soccer
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+MLS
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
  Next Story
 
 
 Nashville Hotel Nixes Conference for Group Cited by Charleston Church Gunman
 
+=======
+NFL
+
+
+
+
+MLB
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+NBA
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+NHL
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+soccer
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+live scores
+>>>>>>> origin/master
 
 
 
 
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 
 advertisement
 
 
 
+=======
+tables
+
+
+
+
+competitions
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+results
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+fixtures
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+clubs
+>>>>>>> origin/master
 
 
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 
 
 
 advertisement
 
+=======
+tech
 
 
 
 
+arts
+selected
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+movies
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 advertisement
 
 
  
 
+=======
+tv & radio
+
+
+
+
+music
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+games
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+books
+selected
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+art & design
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+stage
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+classical
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+lifestyle
+>>>>>>> origin/master
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 
 About Us
 
@@ -1436,10 +2140,29 @@ Privacy Policy
                   
 New
 
+=======
+food
 
 
 
 
+health & fitness
+
+
+
+
+love & sex
+
+
+
+
+family
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 Terms of Service
 
@@ -1457,10 +2180,31 @@ nbcnews.com Site Map
 
 Advertise
 
+=======
+women
 
 
 
 
+home & garden
+
+
+
+
+
+
+fashion
+
+
+
+
+business
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 AdChoices
 
@@ -1468,76 +2212,143 @@ AdChoices
 
 
 © 2015 NBCnews.com
+=======
+economics
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+sustainable business
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+diversity & equality in business
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+small business
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+travel
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+USA
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+europe
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+UK
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+environment
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+climate change
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+wildlife
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+energy
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+pollution
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+science
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+media
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+crosswords
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+video
+>>>>>>> origin/master
 
 
 
@@ -1549,14 +2360,28 @@ AdChoices
 
 
 
+<<<<<<< HEAD
+=======
+Arts
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+›
+Books
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+›
+Libraries
+>>>>>>> origin/master
 
 
 
@@ -1565,6 +2390,7 @@ AdChoices
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -1575,16 +2401,31 @@ AdChoices
 
 
 
+=======
+jobs
 
+subscribe
+all topics
+all contributors
 
 
+report technical issue
 
 
 
+about us
 
+contact us
 
+complaints & corrections
+terms & conditions
+privacy policy
+cookie policy
+securedrop
 
 
+© 2015 Guardian News and Media Limited or its affiliated companies. All rights reserved.
+>>>>>>> origin/master
 
 
 
@@ -1592,4 +2433,18 @@ AdChoices
 
 
 
+
+
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+ 
+>>>>>>> origin/master
 

@@ -1,7 +1,14 @@
+<<<<<<< HEAD
 Former NC senator’s sister among 9 killed in Charleston church shooting | myfox8.com 
 
 
 Former NC senator’s sister among 9 killed in Charleston church shooting | myfox8.com
+=======
+Charleston shooting | US news | The Guardian
+
+Charleston shooting | US news | The Guardian
+
+>>>>>>> origin/master
 
 
 
@@ -16,8 +23,12 @@ Former NC senator’s sister among 9 killed in Charleston church shooting | myfo
 
 
 
+<<<<<<< HEAD
 Go
 Search
+=======
+Close
+>>>>>>> origin/master
 
 
 
@@ -26,6 +37,7 @@ Search
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -71,10 +83,16 @@ myfox8.com
 
  
 Menu
+=======
+Skip to main content
+
+ 
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 News
 
 
@@ -98,6 +116,7 @@ Contests
 
 Events
 
+=======
 
 
 
@@ -105,6 +124,25 @@ Events
 
 
 
+sign in
+
+
+
+
+
+
+
+
+subscribe
+>>>>>>> origin/master
+
+
+
+
+
+
+
+<<<<<<< HEAD
 
 
 Weather 
@@ -113,6 +151,16 @@ Weather
 
 
 78°
+=======
+search
+
+
+
+
+jobs
+
+
+>>>>>>> origin/master
 
 
 
@@ -121,6 +169,7 @@ Weather
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -142,16 +191,49 @@ Low
 
 High 
 85°
+=======
+more
+
+
+from the guardian:
+
+
+jobs
+
+
+
+change edition:
+
+
+
+switch to the  UK  edition
+
+
+switch to the  AU  edition
+
+
+switch to the 
+INT
+beta
+ edition
+
+
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+US edition
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 Sat
@@ -164,43 +246,81 @@ Sat
  87°
 					
 
+=======
+switch to the 
+UK edition
+
+
+
+
+switch to the 
+Australia edition
+
+
+
+
+switch to the 
+International
+beta
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 Sun
+=======
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 					66° 
  88°
 					
+=======
+The Guardian
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 Mon
+=======
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 					68° 
  88°
 					
+=======
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 
 See complete forecast
 
+=======
+home
+
+
+›
+US
+>>>>>>> origin/master
 
 
 
@@ -210,6 +330,7 @@ See complete forecast
 
 
 
+<<<<<<< HEAD
  
 
 
@@ -217,53 +338,95 @@ See complete forecast
 
 
 
+=======
+
+home
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+US
+selected
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+world
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+opinion
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
  
+=======
+sports
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+soccer
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+tech
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+arts
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Former NC senator’s sister among 9 killed in Charleston church shooting
+=======
+lifestyle
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Posted 1:58 pm, June 18, 2015, by 
 Stephanie Doyle
 , 
 Updated at 02:31pm, June 18, 2015
  
+=======
+fashion
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Facebook
 Twitter
 Google
@@ -271,14 +434,22 @@ Pinterest
 Reddit
 Email
  
+=======
+business
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+travel
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
  
@@ -286,16 +457,31 @@ Email
 
 Cynthia Hurd.
  
+=======
+environment
+
+
+
+
+science
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 ×
 
 
 Former NC senator’s sister among 9 killed in Charleston church shooting
+=======
+browse all sections
+close
+
+
+>>>>>>> origin/master
 
 
 
@@ -303,13 +489,17 @@ Former NC senator’s sister among 9 killed in Charleston church shooting
 
 
  
+<<<<<<< HEAD
 Cynthia Hurd.
+=======
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 The sister of former North Carolina senator Malcolm Graham was among the nine people killed while attending a Bible study inside the Emmanuel AME church in Charleston Wednesday night.
 
 
@@ -326,12 +516,30 @@ Hurd was the manager of the St. Andrews Regional Library, located a little more 
 
 
 “Our family is close-knit, and our faith will see us through. I also extend condolences to the other families of Emanuel AME Church and the city of Charleston who have been affected by this inconceivable tragedy,” he continued. “My family and I appreciate the thoughts and prayers from people across North Carolina and South Carolina.”
+=======
+
+
+
+Charleston shooting
+
+Sunday
+
+28
+June
+2015
+
+
+
+
+
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 Statement from former NC Sen. Malcom Graham on the death of his sister in the 
 #CharlestonShooting
  
@@ -340,10 +548,15 @@ pic.twitter.com/PKOsenzOHN
 
 — WBTV News (@WBTV_News) 
 June 18, 2015
+=======
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Sen. Clementa Pinckney
 
 
@@ -354,12 +567,22 @@ Also killed was S.C. Sen. Clementa Pinckney
 Another Allen University alum, Tywanza Sanders, was also killed. He was a 2014 graduate. Allen University in a statement described him as a quiet, well-known student who was committed to his education.
 
 “Our hearts and prayers are with the families of these two victims of this senseless act of violence.” – Dr. Lady June Cole, Interim President of Allen University.
+=======
+
+
+Charleston funerals: Joe Biden and city remember victims of church massacre
+
+
+Funeral for pastor DePayne Middelton-Doctor today afterCynthia Hurd, Tywanza Sanders and Susie Jackson were buried Saturday
+
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 Tywanza Sanders was a 2014 business administration grad. 
 #charlestonshooting
  
@@ -383,15 +606,28 @@ Washington Post reported
 
 
 Chris Singleton is a member of the university’s baseball team, Hunter said. He added that the team’s players and coaches are reeling from the shooting, with the head coach saying Sharonda Coleman-Singleton made an “immeasurable” contribution to the team.
+=======
+
+Charleston funerals: Joe Biden and city remember victims of church massacre
 
 
 
 
+
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Another killed was Myra Thompson.
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 Pray for the Rev. Anthony Thompson, Vicar, Holy Trinity REC (ACNA) with the killing of his wife, Myra, in the 
@@ -402,15 +638,25 @@ Pray for the Rev. Anthony Thompson, Vicar, Holy Trinity REC (ACNA) with the kill
 
 — ACNA (@The_ACNA) 
 June 18, 2015
+=======
+Confederate flag down, rainbow flag up: this is the American pride we've been waiting for
+
+Steven W Thrasher
+
+It may not be hope and change, but isn’t it amazing how much grace there is in Barack Obama’s United States right now?
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Dylan Storm Roof, the 
 21-year-old man who police say walked into a South Carolina church 
 and fatally shot nine people attending Bible study class, was 
 arrested in Shelby, N.C.
 , on Thursday, about 250 miles from Charleston.
+=======
+>>>>>>> origin/master
 
 
 
@@ -418,6 +664,7 @@ arrested in Shelby, N.C.
 
 
 
+<<<<<<< HEAD
 
 Filed in:
  
@@ -432,6 +679,9 @@ Cynthia HUrd
 shooting
  
 
+=======
+Confederate flag down, rainbow flag up: this is the American pride we've been waiting for
+>>>>>>> origin/master
 
 
 
@@ -441,34 +691,55 @@ shooting
 
 
 
+<<<<<<< HEAD
 ×
 
 
 Report a Typo
+=======
+
+
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+
+
+=======
+White supremacist calls Charleston 'a preview of coming attractions'
+
+
+Dylann Roof cites Harold Covington’s Northwest Front in his manifesto. The sci-fi writer condemns Roof, but followers ponder the connection
+>>>>>>> origin/master
 
 
 
 
 
 
-
-
-
-
-
-
+<<<<<<< HEAD
 Name
 (required)
 
 
+=======
+
+
+White supremacist calls Charleston 'a preview of coming attractions'
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 Typo
 (required)
+=======
+>>>>>>> origin/master
 
 
 
@@ -478,6 +749,15 @@ Typo
 
 
 
+<<<<<<< HEAD
+
+
+=======
+Gun control won't prevent another Charleston-style shooting, says Jeb Bush
+
+
+Ahead of South Carolina visit, Republican presidential candidate says it is better to identify potentially violent people before they commit crimes
+>>>>>>> origin/master
 
 
 
@@ -485,8 +765,7 @@ Typo
 
 
 
-
-
+<<<<<<< HEAD
  
 
 
@@ -496,31 +775,64 @@ Cancel
 
 
 
+=======
+
+Gun control won't prevent another Charleston-style shooting, says Jeb Bush
 
 
 
 
 
 
+Older
+Newer
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+
+
+
+=======
+Topics
+
+
+
+US crime
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+Gun crime
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+US politics
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+LGBT rights
+>>>>>>> origin/master
 
+
+
+
+<<<<<<< HEAD
  
 
 
@@ -528,32 +840,65 @@ Cancel
 
 
 
+=======
+Obama administration
+
+
+
+More…
+
+
+
+Republicans
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+Barack Obama
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Women Making a Difference
 
 
 Know a woman in the community who is doing good? We want to share your story.
 
 
+=======
+US gun control
 
 
 
 
+Joe Biden
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+South Carolina
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+US supreme court
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
  
@@ -564,20 +909,44 @@ Know a woman in the community who is doing good? We want to share your story.
  
 
 
+=======
+Same-sex marriage (US)
 
 
 
 
+Jeb Bush
+
+
+
+
+Seattle
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Popular
+=======
+Race issues
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+Science fiction
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 After shooting, Virginia gunman details grievances in ‘suicide note’ faxed to ABC News
+=======
+>>>>>>> origin/master
 
 
 
@@ -586,8 +955,13 @@ After shooting, Virginia gunman details grievances in ‘suicide note’ faxed t
 
 
 
+<<<<<<< HEAD
 Va. shooter posted tweets, video of shooting on social media
 
+=======
+
+The Guardian
+>>>>>>> origin/master
 
 
 
@@ -595,8 +969,13 @@ Va. shooter posted tweets, video of shooting on social media
 
 
 
+<<<<<<< HEAD
 Va. reporter, photographer killed on-air during live news interview, shooter kills himself
 
+=======
+
+back to top
+>>>>>>> origin/master
 
 
 
@@ -604,7 +983,10 @@ Va. reporter, photographer killed on-air during live news interview, shooter kil
 
 
 
+<<<<<<< HEAD
 Iowa teachers sing ‘One Day More’ before students return to school — and it’s awesome
+=======
+>>>>>>> origin/master
 
 
 
@@ -612,14 +994,24 @@ Iowa teachers sing ‘One Day More’ before students return to school — and i
 
 
 
+<<<<<<< HEAD
+=======
+home
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+US
+selected
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
  
 
@@ -630,42 +1022,99 @@ Iowa teachers sing ‘One Day More’ before students return to school — and i
 
 Latest News
 
+=======
+world
 
 
 
 
+opinion
+
+
+
+
+sports
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
 Middle school teacher welcomes students back to magical Harry Potter-themed classroom
 
+=======
+soccer
 
 
 
 
+tech
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
 Greesnsboro police searching for man who exposed himself in front of children at Lawndale Target
 
+=======
+arts
 
 
 
 
+lifestyle
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
 Father allegedly robs bank to pay for daughter’s chemotherapy
 
+=======
+fashion
 
 
 
 
+business
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
 Calif. man bitten while taking selfie with rattlesnake
 
+=======
+travel
+
+
+
+
+environment
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+science
+>>>>>>> origin/master
 
 
 
@@ -673,11 +1122,12 @@ Calif. man bitten while taking selfie with rattlesnake
 
 
 
-
-
-
-
+<<<<<<< HEAD
  
+=======
+all sections
+close
+>>>>>>> origin/master
 
 
 
@@ -685,22 +1135,40 @@ Calif. man bitten while taking selfie with rattlesnake
 
 
 
+<<<<<<< HEAD
+=======
+home
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+US
+selected
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+world
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+UK
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -711,10 +1179,24 @@ News
 
 Charleston victims: 9 lives lost to family and community
 
+=======
+europe
 
 
 
 
+americas
+
+
+
+
+asia
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 News
 
@@ -735,11 +1217,35 @@ News
 
 Worshippers return to South Carolina church after shooting that killed nine
 
+=======
+middle east
+
+
+
+
+africa
+
+
+
+
+australia
+
+
+
+
+cities
+
+
+
+
+development
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 News
 
 
@@ -747,10 +1253,20 @@ News
 
 Charleston remembers three more with services for victims of church massacre
 
+=======
+
+opinion
 
 
 
 
+sports
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 News
 
@@ -761,10 +1277,24 @@ New details emerge about how the Charleston shooting unfolded
 
 
 
+=======
+soccer
 
 
 
 
+MLS
+
+
+
+
+NFL
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
  
 
@@ -792,10 +1322,41 @@ News
 
 High Point church taking up offering for Charleston
 
+=======
+MLB
 
 
 
 
+NBA
+
+
+
+
+NHL
+
+
+
+
+
+
+soccer
+
+
+
+
+live scores
+
+
+
+
+tables
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 News
 
@@ -828,19 +1389,64 @@ News
 
 Police release photos of suspect in Charleston church shooting
 
+=======
+competitions
 
 
 
 
+results
+
+
+
+
+fixtures
+
+
+
+
+clubs
+
+
+
+
+
+
+tech
+
+
+
+
+arts
+
+
+
+
+movies
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
  
 
+=======
+tv & radio
 
 
 
 
+music
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 News
 
@@ -861,11 +1467,35 @@ News
 
 Winston-Salem man’s cousin killed in Charleston church shooting
 
+=======
+games
+
+
+
+
+books
+
+
+
+
+art & design
+
+
+
+
+stage
+
+
+
+
+classical
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 News
 
 
@@ -873,32 +1503,63 @@ News
 
 Dylann Storm Roof: FBI names suspect in Charleston church shooting
 
+=======
+
+lifestyle
 
 
 
 
+food
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+health & fitness
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+love & sex
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
  
 
 
 
+=======
+family
+
+
+
+
+women
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+home & garden
+>>>>>>> origin/master
 
 
 
 
 
-
-
-
-
+<<<<<<< HEAD
 Mobile Apps
 Android App
 
@@ -913,10 +1574,25 @@ iPhone & iPad App
 
 
 
+=======
+
+fashion
 
 
 
 
+business
+
+
+
+
+economics
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
@@ -968,22 +1644,132 @@ WordPress.com VIP
  
 
 
+=======
+sustainable business
+
+
+
+
+diversity & equality in business
+
+
+
+
+small business
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+travel
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 ×
 
 
 Email Alerts
 
 
+=======
+USA
+
+
+
+
+europe
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+UK
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+environment
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+climate change
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+wildlife
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+energy
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+pollution
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+science
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+media
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+crosswords
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+video
+>>>>>>> origin/master
 
 
 
@@ -997,50 +1783,7 @@ Email Alerts
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 
 
 
@@ -1156,6 +1899,31 @@ Cancel
 
 
 
+=======
+jobs
+
+subscribe
+all topics
+all contributors
+
+
+report technical issue
+
+
+
+about us
+
+contact us
+
+complaints & corrections
+terms & conditions
+privacy policy
+cookie policy
+securedrop
+
+
+© 2015 Guardian News and Media Limited or its affiliated companies. All rights reserved.
+>>>>>>> origin/master
 
 
 
@@ -1173,4 +1941,8 @@ Cancel
 
 
 
+<<<<<<< HEAD
+=======
+ 
+>>>>>>> origin/master
 

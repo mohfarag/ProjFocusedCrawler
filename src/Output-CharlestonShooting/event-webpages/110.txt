@@ -1,7 +1,14 @@
+<<<<<<< HEAD
 Virginia gunman references Charleston church shooting, details grievances in 23-page ‘suicide note’ | Fox 59 
 
 
 Virginia gunman references Charleston church shooting, details grievances in 23-page ‘suicide note’ | Fox 59
+=======
+Charleston church shooting: gunman sought after reports of fatalities and injuries in South Carolina – video | US news | The Guardian
+
+Charleston church shooting: gunman sought after reports of fatalities and injuries in South Carolina – video | US news | The Guardian
+
+>>>>>>> origin/master
 
 
 
@@ -16,8 +23,12 @@ Virginia gunman references Charleston church shooting, details grievances in 23-
 
 
 
+<<<<<<< HEAD
 Go
 Search
+=======
+Close
+>>>>>>> origin/master
 
 
 
@@ -26,6 +37,13 @@ Search
 
 
 
+<<<<<<< HEAD
+
+=======
+Skip to main content
+
+ 
+>>>>>>> origin/master
 
 
 
@@ -34,7 +52,7 @@ Search
 
 
 
-
+<<<<<<< HEAD
 FOX59 TV Schedule 
 
 
@@ -49,6 +67,11 @@ FOX59 TV Schedule
 
 
 
+=======
+
+
+
+sign in
 
 
 
@@ -57,20 +80,42 @@ FOX59 TV Schedule
 
 
 
+subscribe
+>>>>>>> origin/master
 
 
 
+
+
+
+
+<<<<<<< HEAD
+=======
+search
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Fox 59
+=======
+jobs
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
  
 Menu
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 News
 
 
@@ -96,15 +141,77 @@ On-Air
 
 
 HealthTrax
+=======
+
+
+more
+
+
+from the guardian:
+
+
+jobs
+
+
+
+change edition:
+
+
+
+switch to the  UK  edition
+
+
+switch to the  AU  edition
+
+
+switch to the 
+INT
+beta
+ edition
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
  
 
 
+=======
+
+
+US edition
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+switch to the 
+UK edition
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+switch to the 
+Australia edition
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+switch to the 
+International
+beta
+>>>>>>> origin/master
 
 
 
@@ -113,21 +220,15 @@ HealthTrax
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
  
 
 
+=======
+
+
+The Guardian
+>>>>>>> origin/master
 
 
 
@@ -142,26 +243,127 @@ HealthTrax
 
 
 
+<<<<<<< HEAD
 Virginia gunman references Charleston church shooting, details grievances in 23-page ‘suicide note’
+=======
+
+
+home
+
+
+›
+US
 
 
 
 
+
+
+
+
+
+
+home
+
+
+
+
+US
+selected
+
+
+
+
+world
+
+
+
+
+opinion
+
+
+
+
+sports
+
+
+
+
+soccer
+
+
+
+
+tech
+
+
+
+
+arts
+
+
+
+
+lifestyle
+
+
+
+
+fashion
+
+
+
+
+business
+
+
+
+
+travel
+
+
+
+
+environment
+
+
+
+
+science
+
+
+
+
+
+
+browse all sections
+close
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Posted 6:40 PM, August 26, 2015, by 
 CNN Wire
 , 
 Updated at 09:05pm, August 26, 2015
  
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Facebook
 Twitter
 Google
 LinkedIn
 Pinterest
 Email
+=======
+>>>>>>> origin/master
  
 
 
@@ -171,6 +373,7 @@ Email
 
 
 
+<<<<<<< HEAD
 VIRGINIA (Aug. 26, 2015)– The man who police say
  killed two journalists during a live broadcast Wednesday
  was no stranger to WDBJ-TV. He was Bryce Williams, a former reporter for the Roanoke, Virginia, station who was fired two years ago.
@@ -255,10 +458,72 @@ The Flanagan family issued the following statement:
 
 
 Related stories
+=======
+
+
+
+South Carolina
+
+
+
+Charleston church shooting: gunman sought after reports of fatalities and injuries in South Carolina – video
 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sorry, your browser is unable to play this video.
+Please install Adobe Flash™ and try again.
+Alternatively upgrade to a modern browser.
+
+
+
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 ‘They were our A team’ WDBJ reporter and photographer remembered after fatal shooting
 
 
@@ -289,6 +554,22 @@ News
  
 
 
+=======
+
+
+
+
+An historic African American church in Charleston, South Carolina, has been the scene of a mass shooting, with multiple fatalities and injuries, police say. Initial reports said the suspected shooter was still at large, while police said there was also a bomb threat in the area
+
+
+
+Source: Reuters
+
+
+Thursday 18 June 2015 00.51 EDT
+
+
+Last modified on Saturday 20 June 2015 12.23 EDT
 
 
 
@@ -296,11 +577,35 @@ News
 
 
 
+Share on Facebook
+>>>>>>> origin/master
+
+
+
+
+
+
+
+<<<<<<< HEAD
 
 ×
 
 
 Report a Typo
+=======
+Share on Twitter
+
+
+
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+Share via Email
+>>>>>>> origin/master
 
 
 
@@ -308,23 +613,39 @@ Report a Typo
 
 
 
-
-
-
-
+<<<<<<< HEAD
 
 Name
 (required)
+=======
+Share on Pinterest
+
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 
 
 Typo
 (required)
+=======
+Share on LinkedIn
+
+
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
+=======
+Share on Google+
+>>>>>>> origin/master
 
 
 
@@ -332,34 +653,58 @@ Typo
 
 
 
+<<<<<<< HEAD
+=======
+Share on WhatsApp
+
+
+
+
+
+>>>>>>> origin/master
 
 
 
 
 
 
-
-
-
-
-
+<<<<<<< HEAD
  
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Cancel
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+
+
+
+=======
+Topics
+
+
+
+South Carolina
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+Charleston shooting
 
 
-
+>>>>>>> origin/master
 
 
 
@@ -384,6 +729,10 @@ Cancel
 
 
 
+<<<<<<< HEAD
+=======
+more on this story
+>>>>>>> origin/master
 
 
 
@@ -392,11 +741,16 @@ Cancel
 
 
 
+<<<<<<< HEAD
  
 All Local. All Morning Long.
 
 
 Begin your mornings with FOX59 Morning News!
+=======
+
+
+>>>>>>> origin/master
 
 
 
@@ -404,6 +758,15 @@ Begin your mornings with FOX59 Morning News!
 
 
 
+<<<<<<< HEAD
+
+
+=======
+Charleston shootings: NRA blames victims as reactions echo Newtown
+
+
+An NRA board member suggested worshippers ‘might be alive’ if they had guns themselves, while Obama and gun control groups repeat calls for reform
+>>>>>>> origin/master
 
 
 
@@ -411,21 +774,32 @@ Begin your mornings with FOX59 Morning News!
 
 
 
-
-
+<<<<<<< HEAD
  
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
  
+=======
+Published: 20 Jun 2015
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 Popular
+=======
+Charleston shootings: NRA blames victims as reactions echo Newtown
+
+
+>>>>>>> origin/master
 
 
 
@@ -434,7 +808,10 @@ Popular
 
 
 
+<<<<<<< HEAD
 Police discover 3 bodies, including 2 children, inside Henry County home
+=======
+>>>>>>> origin/master
 
 
 
@@ -443,16 +820,28 @@ Police discover 3 bodies, including 2 children, inside Henry County home
 
 
 
+<<<<<<< HEAD
 ‘Hi, babies!’: Twins immediately pretend they’re asleep after hearing mom on baby monitor
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+Sorry, your browser is unable to play this video.
+Please install Adobe Flash™ and try again.
+Alternatively upgrade to a modern browser.
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Police: Gunman in Virginia TV crew shooting died from self-inflicted gunshot
+=======
+>>>>>>> origin/master
 
 
 
@@ -461,7 +850,10 @@ Police: Gunman in Virginia TV crew shooting died from self-inflicted gunshot
 
 
 
+<<<<<<< HEAD
 Changes kick 50,000 Hoosiers off federal food stamp program
+=======
+>>>>>>> origin/master
 
 
 
@@ -472,29 +864,51 @@ Changes kick 50,000 Hoosiers off federal food stamp program
 
 
 
+<<<<<<< HEAD
+
+
+=======
+Michelle Obama on Charleston: 'Too many tragedies like this' - video
+
+
+Michelle Obama spoke about the deadly church shooting in Charleston, South Carolina.
+>>>>>>> origin/master
 
 
 
 
-
-
+<<<<<<< HEAD
  
+=======
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 Latest News
 
+=======
+
+Published: 19 Jun 2015
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 
 CEO of Ashley Madison stepping down after hack that impacted 37 million customers
+=======
+Michelle Obama on Charleston: 'Too many tragedies like this' - video
+
+
+
+>>>>>>> origin/master
 
 
 
@@ -503,16 +917,28 @@ CEO of Ashley Madison stepping down after hack that impacted 37 million custome
 
 
 
+<<<<<<< HEAD
 Jennifer Lawrence and Amy Schumer dance on Billy Joel’s piano at Wrigley Field concert
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 
 
 Calif. man bitten while taking selfie with rattlesnake
+=======
+Rick Perry calls Charleston church shooting an 'accident'
+
+
+Republican presidential candidate says ‘real issue’ raised by case is drugs and accuses Obama of seeking to use shooting to take away Americans’ guns
+
+
+>>>>>>> origin/master
 
 
 
@@ -521,8 +947,21 @@ Calif. man bitten while taking selfie with rattlesnake
 
 
 
+<<<<<<< HEAD
 Court docs: Father of missing Baby Janna put pillow over baby to muffle cries
 
+=======
+
+Published: 19 Jun 2015
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+Rick Perry calls Charleston church shooting an 'accident'
+>>>>>>> origin/master
 
 
 
@@ -530,11 +969,10 @@ Court docs: Father of missing Baby Janna put pillow over baby to muffle cries
 
 
 
-
-
-
-
+<<<<<<< HEAD
  
+=======
+>>>>>>> origin/master
 
 
 
@@ -550,6 +988,12 @@ Court docs: Father of missing Baby Janna put pillow over baby to muffle cries
 
 
 
+<<<<<<< HEAD
+=======
+Sorry, your browser is unable to play this video.
+Please install Adobe Flash™ and try again.
+Alternatively upgrade to a modern browser.
+>>>>>>> origin/master
 
 
 
@@ -561,18 +1005,25 @@ Court docs: Father of missing Baby Janna put pillow over baby to muffle cries
 
 
 
+<<<<<<< HEAD
 News
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Virginia gunman meticulously planned shooting that killed WDBJ reporter and photographer
+=======
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 National & World
  
 News
@@ -581,48 +1032,79 @@ News
 
 
 Police: Gunman in Virginia TV crew shooting died from self-inflicted gunshot
+=======
+
+No decision has been made on death penalty in Charleston church shooting, says prosecutor – video
+
+
+Prosecutor Scarlett Wilson says 'now is not the time' to discuss whether suspected gunman Dylann Roof will face the death penalty
+
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 National & World
  
 News
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Finale for TV show ‘Mr. Robot’ postponed after Virginia shooting due to content similarities
+=======
+Published: 19 Jun 2015
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 National & World
  
 News
+=======
+No decision has been made on death penalty in Charleston church shooting, says prosecutor – video
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Sheriff speaks out following fatal shooting of WDBJ news crew, says it’s been ‘very emotional’
+=======
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 National & World
  
 News
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 ‘They were our A team’ WDBJ reporter and photographer remembered after fatal shooting
+=======
+Representatives of Charleston shooting victims 'forgive' Dylann Roof
+>>>>>>> origin/master
 
 
 
@@ -631,12 +1113,16 @@ News
 
 
 
+<<<<<<< HEAD
  
+=======
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 
 National & World
  
@@ -646,60 +1132,102 @@ News
 
 
 ‘A newscast like none other’: WDBJ morning show returns to air after death of reporter, photographer
+=======
+Published: 19 Jun 2015
+
+
+
+
+Representatives of Charleston shooting victims 'forgive' Dylann Roof
+
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 News
 
 
 
 
 Man sentenced to 50 years for killing veteran in Craigslist iPad deal
+=======
+
+Analysis
+
+11 myths about the future of gun control, debunked after the Charleston shooting
+
+
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 National & World
  
 News
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Six killed, 7 hospitalized after California balcony collapse
 
+=======
+
+Published: 20 Jun 2015
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 National & World
  
 News
+=======
+11 myths about the future of gun control, debunked after the Charleston shooting
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Former Ball State University student killed in Washington, D.C. shooting
+=======
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 
 National & World
  
 News
+=======
+Charleston killings leave US reckoning with race and guns amid 'broken peace'
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Former President George H.W. Bush released from the hospital
+=======
+>>>>>>> origin/master
 
 
 
@@ -708,27 +1236,50 @@ Former President George H.W. Bush released from the hospital
 
 
 
+<<<<<<< HEAD
  
+=======
+Published: 18 Jun 2015
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 National & World
  
 News
+=======
+Charleston killings leave US reckoning with race and guns amid 'broken peace'
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Baby panda dies just days after birth at National Zoo
+=======
+
+
+
+
+Charleston church shooting: suspect Dylann Roof in custody as community holds vigils
+
+
+
+
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 Crimetracker
  
 News
@@ -744,11 +1295,28 @@ Shelbyville man, woman accused of molesting 3-year-old boy
 
 
 News
+=======
+
+
+
+Published: 19 Jun 2015
 
 
 
 
+Charleston church shooting: suspect Dylann Roof in custody as community holds vigils
+
+
+
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Former assistant coach’s mugshot published in North Central High School yearbook
+=======
+>>>>>>> origin/master
 
 
 
@@ -757,6 +1325,22 @@ Former assistant coach’s mugshot published in North Central High School yearb
 
 
 
+<<<<<<< HEAD
+=======
+More more on this story
+
+
+
+
+
+
+
+
+
+
+popular
+
+>>>>>>> origin/master
 
 
 
@@ -772,10 +1356,15 @@ Former assistant coach’s mugshot published in North Central High School yearb
 
 
 
+<<<<<<< HEAD
+=======
+The Guardian
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Mobile Apps
 Android App
 
@@ -783,6 +1372,13 @@ Android App
 iPhone & iPad App
 
 
+=======
+
+
+
+
+back to top
+>>>>>>> origin/master
 
 
 
@@ -791,6 +1387,7 @@ iPhone & iPad App
 
 
 
+<<<<<<< HEAD
 Facebook
 
 
@@ -800,18 +1397,37 @@ Twitter
 About & Contact
 
 
+=======
 
 
 
 
 
 
+home
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+US
+selected
+>>>>>>> origin/master
 
 
+
+
+<<<<<<< HEAD
+=======
+world
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 Online Public File
@@ -835,20 +1451,71 @@ WordPress.com VIP
  
 
 
+=======
+opinion
 
 
 
 
+sports
 
 
 
 
+soccer
+
+
+
+
+tech
+
+
+
+
+arts
+
+
+
+
+lifestyle
+
+
+
+
+fashion
+
+
+
+
+business
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+travel
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 ×
 
 
 Email Alerts
+=======
+environment
+
+
+
+
+science
+>>>>>>> origin/master
 
 
 
@@ -856,6 +1523,11 @@ Email Alerts
 
 
 
+<<<<<<< HEAD
+=======
+all sections
+close
+>>>>>>> origin/master
 
 
 
@@ -863,54 +1535,104 @@ Email Alerts
 
 
 
+<<<<<<< HEAD
+=======
+home
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+US
+selected
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+world
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+UK
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+europe
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+americas
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+asia
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+middle east
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+africa
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+australia
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+cities
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+development
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Follow
 
 
@@ -929,70 +1651,143 @@ Get every new post delivered to your Inbox.
 Join 2,670 other followers
 
 
+=======
+
+
+opinion
 
 
 
 
+sports
 
 
 
 
+soccer
 
 
 
 
+MLS
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+NFL
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+MLB
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+NBA
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Build a website with WordPress.com
+=======
+NHL
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+soccer
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+live scores
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+tables
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+competitions
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Send to Email Address
+=======
+results
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Your Name
+=======
+fixtures
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Your Email Address
+=======
+clubs
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+tech
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+arts
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Cancel
 
 
@@ -1009,6 +1804,256 @@ Cancel
 
 
 
+=======
+movies
+
+
+
+
+tv & radio
+
+
+
+
+music
+
+
+
+
+games
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+books
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+art & design
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+stage
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+classical
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+lifestyle
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+food
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+health & fitness
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+love & sex
+
+
+
+
+family
+
+
+
+
+women
+
+
+
+
+home & garden
+
+
+
+
+
+
+fashion
+
+
+
+
+business
+
+
+
+
+economics
+
+
+
+
+sustainable business
+
+
+
+
+diversity & equality in business
+
+
+
+
+small business
+
+
+
+
+
+
+travel
+
+
+
+
+USA
+
+
+
+
+europe
+
+
+
+
+UK
+
+
+
+
+
+
+environment
+
+
+
+
+climate change
+
+
+
+
+wildlife
+
+
+
+
+energy
+
+
+
+
+pollution
+
+
+
+
+
+
+science
+
+
+
+
+media
+
+
+
+
+crosswords
+
+
+
+
+video
+
+
+
+
+
+
+
+
+
+
+
+US News
+
+
+
+
+›
+South Carolina
+
+
+
+
+
+
+
+
+jobs
+
+subscribe
+all topics
+all contributors
+
+
+report technical issue
+
+
+
+about us
+
+contact us
+
+complaints & corrections
+terms & conditions
+privacy policy
+cookie policy
+securedrop
+
+
+© 2015 Guardian News and Media Limited or its affiliated companies. All rights reserved.
 
 
 
@@ -1026,20 +2071,6 @@ Cancel
 
 
 
+ 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+>>>>>>> origin/master

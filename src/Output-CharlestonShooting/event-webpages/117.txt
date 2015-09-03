@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Dylann Roof's friend took gun during 'crazy' bigoted rant - NY Daily News 
  
 Dylann Roof's friend took gun during 'crazy' bigoted rant - NY Daily News
@@ -9,6 +10,19 @@ Dylann Roof's friend took gun during 'crazy' bigoted rant - NY Daily News
 
 
  
+=======
+Log in | Florida Today
+Log in | Florida Today
+
+
+
+
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
@@ -18,22 +32,45 @@ Dylann Roof's friend took gun during 'crazy' bigoted rant - NY Daily News
 
 
 
+=======
+ 
+
+
+
+Log in
+Log in with Facebook
+
+
+
+Email
+
+
+
+Password
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
+
+
+
+=======
+Log in
+Forgot password?
+
+
+
+Already a subscriber, but don't have a login?
+Activate your digital access
+>>>>>>> origin/master
 
 
 
 
-
-
-
-
-
-
-
+<<<<<<< HEAD
 
 
 
@@ -1010,3 +1047,5 @@ Privacy Policy
  
  
  
+=======
+>>>>>>> origin/master

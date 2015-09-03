@@ -1,7 +1,22 @@
+<<<<<<< HEAD
 Charleston church where massacre took place resumes worship | New York's PIX11 / WPIX-TV 
 
 
 Charleston church where massacre took place resumes worship | New York's PIX11 / WPIX-TV
+=======
+Charleston Church Shooting | whotv.com 
+Charleston Church Shooting | whotv.com
+
+
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+GoSearch
+>>>>>>> origin/master
 
 
 
@@ -9,10 +24,7 @@ Charleston church where massacre took place resumes worship | New York's PIX11 /
 
 
 
-
-
-
-
+<<<<<<< HEAD
 
 
 
@@ -746,17 +758,42 @@ News
 
 
 Tip from woman heading to work led police to suspected church shooter
+=======
+ Watch Now: SoundOff 
+
+WHO-HD Channel 13 TV Schedule 
+
+
+ Search
+ Contact Us
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 News
+=======
+whotv.com
+
+ Menu
+
+News
+Mega Doppler-S
+Sports
+On 13
+Contests
+Events
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 ‘Amazing Grace’: President Obama eulogizes Rev. Clementa Pinckney, slain in church massacre  
 
 
@@ -770,17 +807,37 @@ News
 
 
 Woman says Charleston shooter spared her to ‘tell everyone’ what happened
+=======
+
+
+
+Weather 
+
+84°
+
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 News
+=======
+84°
+
+
+Low 75°
+High 93°
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Family of Charleston shooting suspect makes first statement on slayings
 
 
@@ -798,6 +855,33 @@ Charleston church shooting investigated as a hate crime
 
 
 
+=======
+
+Mon
+
+
+					76°  97°
+					
+
+
+Tue
+
+
+					73°  94°
+					
+
+
+Wed
+
+
+					73°  90°
+					
+
+
+See complete forecast
+
+ Severe weather alert
+>>>>>>> origin/master
 
 
 
@@ -806,6 +890,7 @@ Charleston church shooting investigated as a hate crime
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -827,26 +912,45 @@ News
 
 
 Charleston remembers three more with services for victims of church massacre
+=======
+ 
+
+
+ Latest Severe Weather Watches and Warnings						
+
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 News
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Who were the Charleston victims?: 9 lives lost to family and community
 
 
 
+=======
+ 
+
+
+
+						Charleston Church Shooting					
+>>>>>>> origin/master
 
 
 
 News
 
+<<<<<<< HEAD
 
 
 
@@ -855,10 +959,14 @@ How South Carolina church massacre spurred reaction in NYC
 
 
 
+=======
+Watch President Obama Sing ‘Amazing Grace’ at Eulogy for Reverend Killed in Charleston Shooting
+>>>>>>> origin/master
 
 
 News
 
+<<<<<<< HEAD
 
 
 
@@ -876,10 +984,14 @@ South Carolina lawmakers to debate Confederate flag on Monday
 
 
 
+=======
+Obama Set to Eulogize Pastor in Charleston Shooting
+>>>>>>> origin/master
 
 
 News
 
+<<<<<<< HEAD
 
 
 
@@ -902,10 +1014,19 @@ One of the victims in South Carolina church massacre has ties to New Jersey
 
 
 
+=======
+Local Churches Holding Prayer Vigils Friday in Wake of S.C. Shooting
 
 
 News
 
+Prayer Gathering Held in Des Moines After Charleston Church Shooting
+>>>>>>> origin/master
+
+
+News
+
+<<<<<<< HEAD
 
 
 
@@ -921,6 +1042,9 @@ Dylann Roof says he almost backed out because everyone at church was ‘so nice
 
 
 
+=======
+Multiple Fatalities at Church Shooting in Downtown Charleston, S.C.
+>>>>>>> origin/master
 
 
 
@@ -932,6 +1056,7 @@ Dylann Roof says he almost backed out because everyone at church was ‘so nice
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -948,11 +1073,19 @@ iPhone & iPad App
 
 
 
+=======
+Mobile Apps13WarnMe Weather iPhone App
+Android App
+News iPhone & iPad App
+Severe Weather Android App
+Severe Weather iPhone App
+>>>>>>> origin/master
 
 
 
 
 Facebook
+<<<<<<< HEAD
 
 
 Twitter
@@ -961,6 +1094,10 @@ Twitter
 Instagram
 
 
+=======
+Twitter
+Instagram
+>>>>>>> origin/master
 About & Contact
 
 
@@ -969,6 +1106,7 @@ About & Contact
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -1002,14 +1140,24 @@ WordPress.com VIP
 
 
 
+=======
+Online Public File • 				Terms of Service •
+		Privacy Policy  •
+		1801 Grand Ave. Des Moines, IA 50309  •
+		Copyright © 2015, WHO		 • A Tribune Broadcasting Station •
+		Powered by WordPress.com VIP 
+>>>>>>> origin/master
 
 
 
 
 
 ×
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> origin/master
 Email Alerts
 
 
@@ -1040,6 +1188,7 @@ Email Alerts
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -1099,6 +1248,15 @@ Join 5,004 other followers
 
 
 
+=======
+Follow
+
+Follow “whotv.com”
+
+Get every new post delivered to your Inbox.
+
+Join 2,326 other followers
+>>>>>>> origin/master
 
 
 
@@ -1122,6 +1280,7 @@ Build a website with WordPress.com
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -1203,3 +1362,5 @@ Cancel
 
 
 
+=======
+>>>>>>> origin/master

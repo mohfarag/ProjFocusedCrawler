@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Coroner identifies nine victims in Emanuel AME Church shooting - Live5News.com | Charleston, SC | News, Weather, SportsCoroner identifies nine victims in Emanuel AME Church shooting - Live5News.com | Charleston, SC | News, Weather, Sports
 Coroner identifies nine victims in Emanuel AME Church shooting - Live5News.com | Charleston, SC | News, Weather, Sports
 Member Center:
@@ -120,6 +121,10 @@ WCSC Job Openings
 Submit a News Tip
 WCSC EEO Report
 Watch CBS Shows
+=======
+Charleston shooting | US news | The Guardian
+
+Charleston shooting | US news | The Guardian
 
 
 
@@ -135,7 +140,136 @@ Watch CBS Shows
 
 
 
+Close
 
+
+
+
+
+
+
+
+Skip to main content
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+sign in
+
+
+
+
+
+
+
+
+subscribe
+
+
+
+
+
+
+
+search
+
+
+
+
+jobs
+
+
+
+
+
+
+
+
+
+
+more
+
+
+from the guardian:
+
+
+jobs
+
+
+
+change edition:
+
+
+
+switch to the  UK  edition
+
+
+switch to the  AU  edition
+
+
+switch to the 
+INT
+beta
+ edition
+
+
+
+
+
+
+
+
+US edition
+
+
+
+
+switch to the 
+UK edition
+
+
+
+
+switch to the 
+Australia edition
+
+
+
+
+switch to the 
+International
+beta
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+The Guardian
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
 Coroner identifies nine victims in Emanuel AME Church shooting
 
 
@@ -157,6 +291,7 @@ By Live 5 News Web Staff
 Email
 Connect
 allwcscdigitalcontent@live5news.com
+=======
 
 
 
@@ -167,6 +302,102 @@ allwcscdigitalcontent@live5news.com
 
 
 
+home
+
+
+›
+US
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+home
+
+
+
+
+US
+selected
+
+
+
+
+world
+
+
+
+
+opinion
+
+
+
+
+sports
+
+
+
+
+soccer
+
+
+
+
+tech
+
+
+
+
+arts
+
+
+
+
+lifestyle
+
+
+
+
+fashion
+
+
+
+
+business
+
+
+
+
+travel
+
+
+
+
+environment
+
+
+
+
+science
+
+
+
+
+
+
+browse all sections
+close
+
+
+>>>>>>> origin/master
 
 
 
@@ -174,8 +405,26 @@ allwcscdigitalcontent@live5news.com
 
 
  
+<<<<<<< HEAD
 ADVERTISEMENT
  
+=======
+
+
+
+
+
+
+
+
+
+Charleston shooting
+
+Friday
+
+26
+June
+2015
 
 
 
@@ -192,6 +441,100 @@ ADVERTISEMENT
 
 
 
+
+
+
+Obama speaks at Clementa Pinckney funeral – read the eulogy in full
+
+
+The president makes a case for the tearing down of the Confederate flag and addresses ‘mayhem’ of gun violence in eulogy for pastor killed in Charleston
+
+
+
+
+
+
+
+
+Obama speaks at Clementa Pinckney funeral – read the eulogy in full
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sorry, your browser is unable to play this video.
+Please install Adobe Flash™ and try again.
+Alternatively upgrade to a modern browser.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Obama says Americans have been 'blind' to gun violence – video
+
+
+US president Barack Obama said that for too long Americans have been 'blind' to the 'unique mayhem' caused by gun violence across the country
+
+
+
+
+
+
+
+
+Obama says Americans have been 'blind' to gun violence – video
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
 Clementa Pinckney 
 
 
@@ -229,6 +572,16 @@ Ethel Lance
 
 
 Myra Thompson
+=======
+
+
+
+
+
+
+Sorry, your browser is unable to play this video.
+Please install Adobe Flash™ and try again.
+Alternatively upgrade to a modern browser.
 
 
 
@@ -239,7 +592,44 @@ Myra Thompson
 
 
 
+
+
+
+
+
+
+
+
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+
+
+=======
+Obama sings Amazing Grace during eulogy for Charleston pastor – video
+
+
+The president led a congregation of 5,500 mostly African American mourners in a rendition of Amazing Grace on Friday
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Slideshow: SLIDESHOW: Victims of the Emanuel AME Church shooting
+=======
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+Obama sings Amazing Grace during eulogy for Charleston pastor – video
+>>>>>>> origin/master
 
 
 
@@ -248,10 +638,7 @@ Slideshow: SLIDESHOW: Victims of the Emanuel AME Church shooting
 
 
 
-
-
-
-
+<<<<<<< HEAD
 Clementa Pinckney (Photo source: Facebook)
 
 
@@ -343,6 +730,31 @@ President Todd Voss was shocked to hear this news.
 Doctor began work this past December at SWU's Charleston learning center. She received her BA in biology and life sciences from Columbia College and was a SWU alumna, having received her master's in management from SWU in 1994. She is an experienced grant writer, having worked with local school districts as a consultant. She also worked for local and state agencies in various roles and as data manager/analyst for the Medical University of South Carolina (MUSC).
 According to police, officers arrived to find eight people dead inside the church. A ninth victim, Rev. Simmons, died later at a nearby hospital. Three people survived the attack, Mullen said.
 Copyright 2015 WCSC. All rights reserved.
+=======
+
+
+
+
+
+
+
+Obama sings Amazing Grace at funeral of Charleston victim Clementa Pinckney – as it happened
+
+
+Thousands gather to pay respects to pastor killed in church shooting as president delivers eulogy, joined by vice-president
+
+>>>>>>> origin/master
+
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+Obama sings Amazing Grace at funeral of Charleston victim Clementa Pinckney – as it happened
+>>>>>>> origin/master
 
 
 
@@ -354,13 +766,7 @@ Copyright 2015 WCSC. All rights reserved.
 
 
 
-
-
-
-
-
-
-
+<<<<<<< HEAD
 Coroner identifies nine victims in Emanuel AME Church shooting
 More>>
 Full Coverage - Charleston Church Shooting
@@ -369,6 +775,17 @@ Click here for complete coverage of the shooting at the Emanuel AME Church in Ch
 More >>
 Click here for complete coverage of the shooting at the Emanuel AME Church in Charleston that left nine people dead.
 More >>
+=======
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
+=======
+Obama gives searing speech on race in eulogy for Charleston pastor
+>>>>>>> origin/master
 
 
 
@@ -379,6 +796,10 @@ More >>
 
 
 
+<<<<<<< HEAD
+=======
+Obama gives searing speech on race in eulogy for Charleston pastor
+>>>>>>> origin/master
 
 
 
@@ -386,11 +807,7 @@ More >>
 
 
 
-
-
-
-
-
+<<<<<<< HEAD
 NEWS Local
 NEWS
 More>>
@@ -456,6 +873,12 @@ More >>
  
  
 
+=======
+
+
+
+'We need co-conspirators, not allies': how white Americans can fight racism
+>>>>>>> origin/master
 
 
 
@@ -466,6 +889,10 @@ More >>
 
 
 
+<<<<<<< HEAD
+=======
+'We need co-conspirators, not allies': how white Americans can fight racism
+>>>>>>> origin/master
 
 
 
@@ -476,6 +903,10 @@ More >>
 
 
 
+<<<<<<< HEAD
+=======
+Dylann Roof had gun magazines in car months before Charleston shooting
+>>>>>>> origin/master
 
 
 
@@ -483,10 +914,17 @@ More >>
 
 
 
+<<<<<<< HEAD
 Can't Find Something? 
 
 
 
+=======
+
+
+
+Dylann Roof had gun magazines in car months before Charleston shooting
+>>>>>>> origin/master
 
 
 
@@ -494,15 +932,21 @@ Can't Find Something?
 
 
 
+<<<<<<< HEAD
 2126 Charlie Hall Boulevard
 Charleston SC 29407
 
 
 (843) 402-5555
+=======
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 FCC Public File
@@ -518,6 +962,8 @@ EEO Report
 
 
 Closed Captioning
+=======
+ 90-year-old Charleston-born civil rights activist: 'We’re still working on those revolutions’ - video
 
 
 
@@ -528,6 +974,8 @@ Closed Captioning
 
 
 
+ 90-year-old Charleston-born civil rights activist: 'We’re still working on those revolutions’ - video
+>>>>>>> origin/master
 
 
 
@@ -538,9 +986,29 @@ Closed Captioning
 
 
 
+<<<<<<< HEAD
+=======
+Cloud of racism hangs heavy over Obama eulogy for South Carolina pastor
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
 
 
 Texas News Now
+=======
+Cloud of racism hangs heavy over Obama eulogy for South Carolina pastor
+
+
+>>>>>>> origin/master
 
 
 
@@ -549,10 +1017,15 @@ Texas News Now
 
 
 
+<<<<<<< HEAD
+=======
+Charleston library renamed in honour of church shootings victim
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 				All content © Copyright 2000 - 2015 WorldNow and WCSC. All Rights Reserved. For more information on this site, please read our 
 Privacy Policy
@@ -560,6 +1033,107 @@ Privacy Policy
 Terms of Service
 .
         	
+=======
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+Charleston library renamed in honour of church shootings victim
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+Older
+Newer
+
+
+
+
+
+
+Topics
+
+
+
+South Carolina
+
+
+
+
+Barack Obama
+
+
+
+
+Gun crime
+
+
+
+
+Race issues
+
+
+
+
+US politics
+
+
+
+More…
+
+
+
+Protest
+
+
+
+
+US gun control
+
+
+
+
+Libraries
+
+
+
+
+Civil rights movement
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Guardian
+
+
+
+
+
+
+
+
+back to top
 
 
 
@@ -574,4 +1148,470 @@ Terms of Service
 
 
 
+home
+
+
+
+
+US
+selected
+
+
+
+
+world
+
+
+
+
+opinion
+
+
+
+
+sports
+
+
+
+
+soccer
+
+
+
+
+tech
+
+
+
+
+arts
+
+
+
+
+lifestyle
+
+
+
+
+fashion
+
+
+
+
+business
+
+
+
+
+travel
+
+
+
+
+environment
+
+
+
+
+science
+
+
+
+
+
+
+
+all sections
+close
+
+
+
+
+
+
+
+home
+
+
+
+
+US
+selected
+
+
+
+
+world
+
+
+
+
+UK
+
+
+
+
+europe
+
+
+
+
+americas
+
+
+
+
+asia
+
+
+
+
+middle east
+
+
+
+
+africa
+
+
+
+
+australia
+
+
+
+
+cities
+
+
+
+
+development
+
+
+
+
+
+
+opinion
+
+
+
+
+sports
+
+
+
+
+soccer
+
+
+
+
+MLS
+
+
+
+
+NFL
+
+
+
+
+MLB
+
+
+
+
+NBA
+
+
+
+
+NHL
+
+
+
+
+
+
+soccer
+
+
+
+
+live scores
+
+
+
+
+tables
+
+
+
+
+competitions
+
+
+
+
+results
+
+
+
+
+fixtures
+
+
+
+
+clubs
+
+
+
+
+
+
+tech
+
+
+
+
+arts
+
+
+
+
+movies
+
+
+
+
+tv & radio
+
+
+
+
+music
+
+
+
+
+games
+
+
+
+
+books
+
+
+
+
+art & design
+
+
+
+
+stage
+
+
+
+
+classical
+
+
+
+
+
+
+lifestyle
+
+
+
+
+food
+
+
+
+
+health & fitness
+
+
+
+
+love & sex
+
+
+
+
+family
+
+
+
+
+women
+
+
+
+
+home & garden
+
+
+
+
+
+
+fashion
+
+
+
+
+business
+
+
+
+
+economics
+
+
+
+
+sustainable business
+
+
+
+
+diversity & equality in business
+
+
+
+
+small business
+
+
+
+
+
+
+travel
+
+
+
+
+USA
+
+
+
+
+europe
+
+
+
+
+UK
+
+
+
+
+
+
+environment
+
+
+
+
+climate change
+
+
+
+
+wildlife
+
+
+
+
+energy
+
+
+
+
+pollution
+
+
+
+
+
+
+science
+
+
+
+
+media
+
+
+
+
+crosswords
+
+
+
+
+video
+
+
+
+
+
+
+
+
+
+
+
+
+
+jobs
+
+subscribe
+all topics
+all contributors
+
+
+report technical issue
+
+
+
+about us
+
+contact us
+
+complaints & corrections
+terms & conditions
+privacy policy
+cookie policy
+securedrop
+
+
+© 2015 Guardian News and Media Limited or its affiliated companies. All rights reserved.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+>>>>>>> origin/master
 

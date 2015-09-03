@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Charleston photographer arrested near church shooting - NY Daily News 
  
 Charleston photographer arrested near church shooting - NY Daily News
@@ -9,33 +10,66 @@ Charleston photographer arrested near church shooting - NY Daily News
 
 
  
+=======
+Account retrieval | Florida Today
+Account retrieval | Florida Today
+
+
+
+
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+
+
+=======
+Account lookup
+
+Subscription account retrieval
+
+If you are a current subscriber, your subscription includes full access to Florida Today on your desktop, tablet, or mobile phone.  Please complete the form below so we can start setting up your digital access.
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+
+
+
+=======
+Zip code
+
+
+
+Phone number
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
+=======
+Continue
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
+=======
+Need help or have a question about your account? Call customer service at 1-877-424-0156or email them at floridatoday@gannett.com
+>>>>>>> origin/master
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 
 
 
@@ -779,3 +813,5 @@ Privacy Policy
  
  
  
+=======
+>>>>>>> origin/master

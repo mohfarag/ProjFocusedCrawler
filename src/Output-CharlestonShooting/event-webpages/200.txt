@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 Police-Involved Shooting Investigated « CBS Chicago
 
 Police-Involved Shooting Investigated « CBS Chicago
+=======
+Charleston shooting | US news | The Guardian
+
+Charleston shooting | US news | The Guardian
+>>>>>>> origin/master
 
 
 
@@ -16,6 +22,7 @@ Police-Involved Shooting Investigated « CBS Chicago
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -332,6 +339,9 @@ September 2, 2012 10:32 PM
 
 
 
+=======
+Close
+>>>>>>> origin/master
 
 
 
@@ -340,17 +350,25 @@ September 2, 2012 10:32 PM
 
 
 
+<<<<<<< HEAD
+=======
+Skip to main content
+>>>>>>> origin/master
 
  
 
 
+<<<<<<< HEAD
 (CBS)
 
 
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Related Tags:
 
 
@@ -360,18 +378,30 @@ Police-Involved Shooting
 
 
 
+=======
 
 
 
 
 
+sign in
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
 Featured & Trending:
 
 
 
+=======
 
 
 
+subscribe
+>>>>>>> origin/master
 
 
 
@@ -379,10 +409,18 @@ Featured & Trending:
 
 
 
+<<<<<<< HEAD
+=======
+search
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+jobs
+>>>>>>> origin/master
 
 
 
@@ -393,6 +431,7 @@ Featured & Trending:
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -407,20 +446,32 @@ Featured & Trending:
 
 
 
+=======
+more
 
 
+from the guardian:
 
 
+jobs
 
 
 
+change edition:
 
 
 
+switch to the  UK  edition
 
 
+switch to the  AU  edition
 
 
+switch to the 
+INT
+beta
+ edition
+>>>>>>> origin/master
 
 
 
@@ -429,18 +480,38 @@ Featured & Trending:
 
 
 
+<<<<<<< HEAD
+=======
+US edition
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+switch to the 
+UK edition
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+switch to the 
+Australia edition
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+switch to the 
+International
+beta
+>>>>>>> origin/master
 
 
 
@@ -451,6 +522,10 @@ Featured & Trending:
 
 
 
+<<<<<<< HEAD
+=======
+The Guardian
+>>>>>>> origin/master
 
 
 
@@ -467,10 +542,16 @@ Featured & Trending:
 
 
 
+<<<<<<< HEAD
 
 
+=======
+home
 
 
+›
+US
+>>>>>>> origin/master
 
 
 
@@ -481,64 +562,152 @@ Featured & Trending:
 
 
 
+<<<<<<< HEAD
+=======
+home
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+US
+selected
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+world
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+opinion
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+sports
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+soccer
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+tech
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+arts
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+lifestyle
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+fashion
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+business
+>>>>>>> origin/master
 
 
 
+
+<<<<<<< HEAD
+=======
+travel
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+environment
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+science
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+browse all sections
+close
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Latest News Headlines:
+=======
+>>>>>>> origin/master
 
 
 
 
  
+<<<<<<< HEAD
 Water Main Break Closes Streets In West Loop
  
 Man Shot, Seriously Wounded In Lawndale
  
 2 Killed, 7 Injured In High-Speed Crash In Robbins; Drag Racing Suspected
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 CHICAGO (CBS)
  — Police were investigating a scene on the Far South Side where an officer’s weapon was discharged Sunday evening.
 
@@ -549,6 +718,20 @@ Details of the police-involved shooting weren’t available, but the incident oc
 
 
 
+=======
+
+
+
+
+
+Charleston shooting
+
+Thursday
+
+25
+June
+2015
+>>>>>>> origin/master
 
 
 
@@ -569,7 +752,22 @@ Details of the police-involved shooting weren’t available, but the incident oc
 
 
 
+<<<<<<< HEAD
  
+=======
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+Sorry, your browser is unable to play this video.
+Please install Adobe Flash™ and try again.
+Alternatively upgrade to a modern browser.
+>>>>>>> origin/master
 
 
 
@@ -584,13 +782,10 @@ Details of the police-involved shooting weren’t available, but the incident oc
 
 
 
-
-
-
-
-
-
+<<<<<<< HEAD
 Listen Live
+=======
+>>>>>>> origin/master
 
 
 
@@ -599,6 +794,7 @@ Listen Live
 
 
 
+<<<<<<< HEAD
 
 
  
@@ -636,6 +832,24 @@ Most recently, two men were shot late Thursday in the West Side Austin neighborh
 
 Follow 
 CBS Chicago
+=======
+Charleston shooting: mourners gather for first funerals since massacre - video
+
+
+Services take place on Thursday for two of the nine victims of a massacre at a historic Emanuel AME Church in Charleston, South Carolina
+
+
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+Charleston shooting: mourners gather for first funerals since massacre - video
+>>>>>>> origin/master
 
 
 
@@ -651,16 +865,18 @@ CBS Chicago
 
 
 
-
-
-
-
-
-
+<<<<<<< HEAD
 
 
 
 Follow @CBSChicago
+=======
+Funerals for Charleston shooting victims begin with 'message of love'
+
+
+‘We are stronger because we are together as a community,’ said Emanuel AME interim pastor Norvell Goff at the service for Ethel Lance in North Charleston
+
+>>>>>>> origin/master
 
 
 
@@ -668,12 +884,19 @@ Follow @CBSChicago
 
 
 
+<<<<<<< HEAD
+=======
+Funerals for Charleston shooting victims begin with 'message of love'
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 Like us on foursquare
+=======
+>>>>>>> origin/master
 
 
 
@@ -687,6 +910,27 @@ Like us on foursquare
 
 
 
+<<<<<<< HEAD
+
+
+=======
+Funerals begin for Charleston shooting victims – in pictures
+
+
+The first of the funerals for victims of last week’s shooting at Emanuel African Methodist Episcopal church took place in South Carolina on Thursday
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+Funerals begin for Charleston shooting victims – in pictures
+>>>>>>> origin/master
 
 
 
@@ -700,16 +944,7 @@ Like us on foursquare
 
 
 
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 Follow More Stations and Personalities
 
 
@@ -756,22 +991,56 @@ dodgerman
  cbsloc.al/1LGzANK
  
 24 minutes ago
+=======
+
+
+Beyond Dylann Roof: inside the hunt for domestic extremists in the digital age
+
+
+Whether you call it terrorism or not, law enforcement officials say they are aware of home-grown threats around the globe. The question now is how to stop them
 
 
 
 
 
+
+
+
+Beyond Dylann Roof: inside the hunt for domestic extremists in the digital age
+
+
+
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
 				NOW: Live streaming of CBS2’s newscast. One click and you’re in the loop. Starts now: 
  CBSChicago.com/watch
  
 #LIVE
  
 33 minutes ago
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
  
+=======
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+Nas and Killer Mike demand action in wake of Charleston murders
+>>>>>>> origin/master
 
 
 
@@ -782,18 +1051,21 @@ dodgerman
 
 
 
-
-
-
-
+<<<<<<< HEAD
 
 
 News Via Email
  
+=======
+Nas and Killer Mike demand action in wake of Charleston murders
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Download The Free App
  
 
@@ -802,32 +1074,62 @@ Download The Free App
 
 New Podcast Network
  
+=======
+
+
+Older
+Newer
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Download Our New Weather App!
  
 
 
 
+=======
+Topics
+
+
+
+South Carolina
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 
  
 
+=======
+Gun crime
 
 
 
 
+US crime
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+FBI
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 News
 
@@ -854,16 +1156,48 @@ Weather
 
 Traffic
 
+=======
+Urban music
+
+
+
+More…
+
+
+
+Rap
 
 
 
 
+The far right
+
+
+
+
+Hip-hop
+
+
+
+
+Race issues
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 Sports
+=======
+Run the Jewels
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Bears
 
 
@@ -883,17 +1217,39 @@ Podcasts
 
 
 Blogs
+=======
 
 
 
 
+
+
+
+
+The Guardian
+
+
+
+
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 Scores & Stats
+=======
+back to top
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 NFL Football
 
 
@@ -906,15 +1262,32 @@ NBA Basketball
 NHL Hockey
 
 
+=======
 
 
 
 
+
+
+
+
+home
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Contact Us
+=======
+US
+selected
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 CBS 2
 
 
@@ -928,10 +1301,24 @@ Connect
 
 
 Mobile
+=======
+world
 
 
 
 
+opinion
+
+
+
+
+sports
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 Corporate
@@ -955,14 +1342,42 @@ Mobile
 
 
 Connect
+=======
+soccer
 
 
 
 
+tech
 
 
 
 
+arts
+
+
+
+
+lifestyle
+
+
+
+
+fashion
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+business
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 Chicago Business Listings
@@ -984,6 +1399,18 @@ Professional Services
 
 Search Listings
 
+=======
+travel
+
+
+
+
+environment
+
+
+
+
+science
 
 
 
@@ -991,6 +1418,17 @@ Search Listings
 
 
 
+all sections
+close
+>>>>>>> origin/master
+
+
+
+
+
+
+
+<<<<<<< HEAD
 By viewing our video content, you are accepting the terms of our 
 Video Services Policy
 
@@ -1042,14 +1480,63 @@ WordPress.com VIP
  
 
 
+=======
+home
 
 
 
 
+US
+selected
 
 
 
 
+world
+
+
+
+
+UK
+
+
+
+
+europe
+
+
+
+
+americas
+
+
+
+
+asia
+
+
+
+
+middle east
+
+
+
+
+africa
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+australia
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Facebook
 
 
@@ -1057,17 +1544,30 @@ Twitter
 
 
 RSS
+=======
+cities
+
+
+
+
+development
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 Other CBS Local Cities 
+=======
+opinion
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 CBS Atlanta
 
 
@@ -1143,14 +1643,84 @@ CBS Tampa
 CBS Washington
 
 
+=======
+sports
+
+
+
+
+soccer
+
+
+
+
+MLS
+
+
+
+
+NFL
+
+
+
+
+MLB
+
+
+
+
+NBA
+
+
+
+
+NHL
 
 
 
 
 
 
+soccer
 
 
+
+
+live scores
+
+
+
+
+tables
+
+
+
+
+competitions
+
+
+
+
+results
+
+
+
+
+fixtures
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+clubs
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 ©2015 CBS Local Media,
  
 a division of CBS Radio Inc.
@@ -1158,14 +1728,24 @@ a division of CBS Radio Inc.
 All rights reserved.
 
 
+=======
+
+
+tech
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+arts
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 Buy Tickets
@@ -1188,22 +1768,48 @@ Daily Deals
  
 
 
+=======
+movies
 
 
 
 
+tv & radio
 
 
 
 
+music
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+games
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+books
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+art & design
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 Log In
@@ -1225,45 +1831,99 @@ Twitter
 Youtube
 
 
+=======
+stage
+
+
+
+
+classical
 
 
 
 
 
 
+lifestyle
+
+
+
+
+food
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+health & fitness
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+love & sex
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+family
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+women
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+home & garden
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+fashion
+>>>>>>> origin/master
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 
 
 Listen Live
 
 
+=======
+business
 
 
 
 
+economics
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 AM/FM Stations
@@ -1289,15 +1949,45 @@ B96
 WBBM NewsRadio
 
 
+=======
+sustainable business
 
 
 
 
+diversity & equality in business
+
+
+
+
+small business
+
+
+
+
+
+
+travel
+
+
+
+
+USA
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Featured Shows & Multimedia
+=======
+europe
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Play.It
 
 
@@ -1308,51 +1998,140 @@ CBS Sports Radio
 
 
 Radio.com
+=======
+UK
 
 
 
 
 
 
+environment
+>>>>>>> origin/master
 
 
+
+
+<<<<<<< HEAD
+=======
+climate change
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Advertise On Our Streams
+=======
+wildlife
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+energy
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+pollution
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+science
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+media
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+crosswords
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+video
+>>>>>>> origin/master
 
 
 
 
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
  
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
  
+=======
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
+
+
+
+
+
+
+
+
+
+
+=======
+jobs
+
+subscribe
+all topics
+all contributors
+
+
+report technical issue
+
+
+
+about us
+
+contact us
+
+complaints & corrections
+terms & conditions
+privacy policy
+cookie policy
+securedrop
+
+
+© 2015 Guardian News and Media Limited or its affiliated companies. All rights reserved.
+>>>>>>> origin/master
 
 
 
@@ -1370,19 +2149,8 @@ Advertise On Our Streams
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
+=======
+ 
+>>>>>>> origin/master
 

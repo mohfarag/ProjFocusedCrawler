@@ -1,7 +1,14 @@
+<<<<<<< HEAD
 Dylann Roof confesses to killing 9 people in Charleston church, wanting to start ‘race war’ | myfox8.com 
 
 
 Dylann Roof confesses to killing 9 people in Charleston church, wanting to start ‘race war’ | myfox8.com
+=======
+Charleston shooting | US news | The Guardian
+
+Charleston shooting | US news | The Guardian
+
+>>>>>>> origin/master
 
 
 
@@ -16,8 +23,12 @@ Dylann Roof confesses to killing 9 people in Charleston church, wanting to start
 
 
 
+<<<<<<< HEAD
 Go
 Search
+=======
+Close
+>>>>>>> origin/master
 
 
 
@@ -26,6 +37,7 @@ Search
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -71,10 +83,16 @@ myfox8.com
 
  
 Menu
+=======
+Skip to main content
+
+ 
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 News
 
 
@@ -98,6 +116,7 @@ Contests
 
 Events
 
+=======
 
 
 
@@ -105,6 +124,25 @@ Events
 
 
 
+sign in
+
+
+
+
+
+
+
+
+subscribe
+>>>>>>> origin/master
+
+
+
+
+
+
+
+<<<<<<< HEAD
 
 
 Weather 
@@ -113,6 +151,16 @@ Weather
 
 
 78°
+=======
+search
+
+
+
+
+jobs
+
+
+>>>>>>> origin/master
 
 
 
@@ -121,6 +169,7 @@ Weather
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -142,16 +191,49 @@ Low
 
 High 
 85°
+=======
+more
+
+
+from the guardian:
+
+
+jobs
+
+
+
+change edition:
+
+
+
+switch to the  UK  edition
+
+
+switch to the  AU  edition
+
+
+switch to the 
+INT
+beta
+ edition
+
+
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+US edition
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 Sat
@@ -164,43 +246,81 @@ Sat
  87°
 					
 
+=======
+switch to the 
+UK edition
+
+
+
+
+switch to the 
+Australia edition
+
+
+
+
+switch to the 
+International
+beta
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 Sun
+=======
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 					66° 
  88°
 					
+=======
+The Guardian
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 Mon
+=======
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 					68° 
  88°
 					
+=======
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 
 See complete forecast
 
+=======
+home
+
+
+›
+US
+>>>>>>> origin/master
 
 
 
@@ -210,58 +330,105 @@ See complete forecast
 
 
 
+<<<<<<< HEAD
  
 
 
+=======
+
+home
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+US
+selected
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+world
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+opinion
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+sports
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
  
+=======
+soccer
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+tech
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+arts
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+lifestyle
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Dylann Roof confesses to killing 9 people in Charleston church, wanting to start ‘race war’
+=======
+fashion
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Posted 7:30 am, June 19, 2015, by 
 CNN Wire
  
+=======
+business
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Facebook
 Twitter
 Google
@@ -269,31 +436,52 @@ Pinterest
 Reddit
 Email
  
+=======
+travel
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+environment
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
  
+=======
+science
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+browse all sections
+close
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 ×
 
 
 Dylann Roof confesses to killing 9 people in Charleston church, wanting to start ‘race war’
 
 
+=======
+>>>>>>> origin/master
 
 
 
@@ -305,6 +493,7 @@ Dylann Roof confesses to killing 9 people in Charleston church, wanting to start
 
 
 
+<<<<<<< HEAD
 [Update 10:26 a.m.] 
 Dylann Roof has been charged with nine counts of murder and possession of a firearm during the commission of a violent crime in this week’s shooting at a historic black church in Charleston, S.C., police tweeted Friday.
 
@@ -476,6 +665,17 @@ It was not clear if the gunman targeted any individual.
 
 “We don’t know if anybody was targeted other than the church itself,” Charleston police Chief Greg Mullen said.
 
+=======
+
+
+
+Charleston shooting
+
+Wednesday
+
+1
+July
+2015
 
 
 
@@ -483,6 +683,78 @@ It was not clear if the gunman targeted any individual.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+TV Land drops Dukes of Hazzard reruns amid Confederate flag controversy
+
+
+The network declined to specify reason for pulling 1980s sitcom, but civil war-era flag that has fuelled national debate is displayed on show’s General Lee car
+
+
+
+
+
+
+
+
+TV Land drops Dukes of Hazzard reruns amid Confederate flag controversy
+
+
+
+
+
+
+Older
+Newer
+
+
+
+
+
+
+Topics
+
+
+
+Television
+
+
+
+
+US television
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Guardian
+>>>>>>> origin/master
+
+
+
+
+
+
+
+<<<<<<< HEAD
 Trademark and Copyright 2015 
 Cable News Network
 , Inc., a Time Warner Company. All rights reserved.
@@ -510,6 +782,15 @@ Charleston
 
 
 Report a Typo
+=======
+
+back to top
+
+
+
+
+
+>>>>>>> origin/master
 
 
 
@@ -519,38 +800,70 @@ Report a Typo
 
 
 
+<<<<<<< HEAD
 
 
 
 Name
 (required)
 
+=======
+home
 
 
 
 
+US
+selected
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
 Typo
 (required)
 
+=======
+world
 
 
 
 
+opinion
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+sports
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+soccer
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+tech
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
  
 
@@ -559,6 +872,54 @@ Typo
 
 Cancel
 
+=======
+arts
+
+
+
+
+lifestyle
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+fashion
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+business
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+travel
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+environment
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+science
+>>>>>>> origin/master
 
 
 
@@ -566,29 +927,14 @@ Cancel
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
  
 
 
+=======
+all sections
+close
+>>>>>>> origin/master
 
 
 
@@ -596,28 +942,51 @@ Cancel
 
 
 
+<<<<<<< HEAD
+=======
+home
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 Women Making a Difference
 
 
 Know a woman in the community who is doing good? We want to share your story.
 
+=======
+US
+selected
 
 
 
 
+world
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+UK
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+europe
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
@@ -628,61 +997,124 @@ Know a woman in the community who is doing good? We want to share your story.
 
  
 
+=======
+americas
 
 
 
 
+asia
+
+
+
+
+middle east
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 Popular
 
 
 
+=======
+africa
 
 
 
 
+australia
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 After shooting, Virginia gunman details grievances in ‘suicide note’ faxed to ABC News
 
 
 
+=======
+cities
+
+
+
+
+development
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 Va. shooter posted tweets, video of shooting on social media
 
+=======
+
+opinion
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 
 Va. reporter, photographer killed on-air during live news interview, shooter kills himself
 
+=======
+sports
 
 
 
 
+soccer
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
 Iowa teachers sing ‘One Day More’ before students return to school — and it’s awesome
 
+=======
+MLS
 
 
 
 
+NFL
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+MLB
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+NBA
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
@@ -695,28 +1127,62 @@ Iowa teachers sing ‘One Day More’ before students return to school — and i
 
 Latest News
 
+=======
+NHL
 
 
 
 
+
+
+soccer
+
+
+
+
+live scores
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
 Middle school teacher welcomes students back to magical Harry Potter-themed classroom
 
+=======
+tables
 
 
 
 
+competitions
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
 Greesnsboro police searching for man who exposed himself in front of children at Lawndale Target
 
+=======
+results
 
 
 
 
+fixtures
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
@@ -724,50 +1190,99 @@ Father allegedly robs bank to pay for daughter’s chemotherapy
 
 
 
+=======
+clubs
 
 
 
 
+
+
+tech
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 Calif. man bitten while taking selfie with rattlesnake
 
 
 
+=======
+arts
 
 
 
 
+movies
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+tv & radio
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
  
 
 
 
+=======
+music
+
+
+
+
+games
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+books
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+art & design
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+stage
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+classical
+>>>>>>> origin/master
 
 
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 
 News
 
@@ -788,10 +1303,34 @@ News
 
 Dylann Roof says he almost backed out because everyone at church was ‘so nice’
 
+=======
+lifestyle
 
 
 
 
+food
+
+
+
+
+health & fitness
+
+
+
+
+love & sex
+
+
+
+
+family
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 News
 
@@ -799,11 +1338,21 @@ News
 
 
 Worshippers return to South Carolina church after shooting that killed nine
+=======
+women
+
+
+
+
+home & garden
+
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 
 News
 
@@ -824,10 +1373,34 @@ News
 
 CAPTURED: Charleston church shooting suspect Dylann Roof has been caught in Shelby, NC
 
+=======
+fashion
 
 
 
 
+business
+
+
+
+
+economics
+
+
+
+
+sustainable business
+
+
+
+
+diversity & equality in business
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
@@ -845,22 +1418,53 @@ News
 
 Minister: ‘No evildoer, no demon’ can close church targeted by shooter
 
+=======
+small business
 
 
 
 
+
+
+travel
+
+
+
+
+USA
+
+
+
+
+europe
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 News
+=======
+UK
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Dylann Roof faces hate crime charges in Charleston shooting
 
+=======
+
+environment
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 News
 
@@ -893,25 +1497,71 @@ News
 
 Who is the suspect in the South Carolina church shooting that killed nine people?
 
+=======
+climate change
 
 
 
 
+wildlife
+
+
+
+
+energy
+
+
+
+
+pollution
+
+
+
+
+
+
+science
+
+
+
+
+media
+
+
+
+
+crosswords
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
  
+=======
+video
+
+
+
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 News
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Dylann Roof pleads not guilty to federal charges in SC church attack
 
 
@@ -925,12 +1575,38 @@ News
 
 
 Dashcam video shows arrest of Charleston church shooter in Shelby
+=======
+jobs
+
+subscribe
+all topics
+all contributors
+
+
+report technical issue
+
+
+
+about us
+
+contact us
+
+complaints & corrections
+terms & conditions
+privacy policy
+cookie policy
+securedrop
+
+
+© 2015 Guardian News and Media Limited or its affiliated companies. All rights reserved.
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 News
 
 
@@ -940,6 +1616,8 @@ FBI says Dylann Roof should not have been cleared to purchase a weapon
 
 
 
+=======
+>>>>>>> origin/master
 
 
 
@@ -953,6 +1631,7 @@ FBI says Dylann Roof should not have been cleared to purchase a weapon
 
  
 
+<<<<<<< HEAD
 
 
 
@@ -1239,3 +1918,5 @@ Cancel
 
 
 
+=======
+>>>>>>> origin/master

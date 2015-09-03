@@ -1,8 +1,30 @@
+<<<<<<< HEAD
 Dylann Roof will stand trial next July for Charleston church shooting | US news | The Guardian
 
 
 
 Dylann Roof will stand trial next July for Charleston church shooting | US news | The Guardian
+=======
+Victims of the Charleston church shooting 
+Victims of the Charleston church shooting
+
+
+
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+Victims of the Charleston church shooting
+>>>>>>> origin/master
 
 
 
@@ -16,16 +38,7 @@ Dylann Roof will stand trial next July for Charleston church shooting | US news 
 
 
 
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 
 
 
@@ -60,10 +73,15 @@ Skip to main content
 
 
  
+=======
+ 
+Nine people were killed in a shooting at a church in Charleston, South Carolina on Wednesday. Learn more about them below. Read more »
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -342,14 +360,66 @@ The Guardian
 home
 
 
+=======
+Rev. Clementa Pinckney
+The Honorable Rev. Clementa Pinckney was the beloved and well-respected pastor of Emanuel African Methodist Episcopal Church. Pinckney, 41, served God and the people as a pastor for 23 years and a South Carolina legislator for 19.
+
+
+
+Tywanza Sanders
+Tywanza Sanders was a 26-year-old who recently graduated from Allen University in Columbia with a Business Administration degree. The South Carolina school called him a quiet yet well-known student committed to his education.
+
+
+
+Rev. Sharonda Singleton
+Rev. Sharonda Singleton was a speech coach and a track coach at Goose Creek High School in South Carolina. The 45-year-old was married with one son.
+
+
+
+Cynthia Hurd
+Cynthia Hurd, 54, worked at the Charleston County Public Library for 31 years. There she helped residents “making sure they had every opportunity for an education and personal growth,” library officials said.
+
+
+
+Rev. DePayne Middleton-Doctor
+Rev. DePayne Middleton-Doctor was “always a warm and enthusiastic leader” who was an admissions coordinator at the Charleston learning center of Southern Wesleyan University. "DePayne truly believed in the mission of SWU to help students achieve their potential by connecting faith with learning," university President Todd Voss said. Middleton-Doctor was also an alumna of the school, having received a master’s in management in 1994.
+
+
+
+Ethel Lance
+Ethel Lance was a city worker for 34 years. Until 2002 her dominion was the Gaillard Auditorium, where she ran the operations backstage, said Cam Patterson, Charleston's director of special facilities.  Lance was a wonderful employee and person, Patterson said.
+
+
+
+Susie Jackson
+Susie Jackson, 87, liked to sing in the choir at the church where she had been a member for many years, her grandson told CNN affiliate WEWS. Tim Jackson said his grandmother was a "very helpful person" and was a giver with a great smile.
+
+
+
+Myra Thompson
+Myra Thompson, 59, was a woman who loved the Lord, said Bishop Alphonza Gadsden, a longtime friend. Thompson was teaching Bible study when she was shot and killed.
+
+
+
+Rev. Daniel Simmons Sr.
+Rev. Daniel Simmons Sr. was on the staff at Emanuel AME and regularly attended the Wednesday night Bible study sessions. The 74-year-old survived the initial shooting at the church, but died during surgery. Earlier in his career, Simmons served at Greater Zion AME Church in Awendaw, just northeast of Charleston.
+
+
+ 
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 ›
 
 
 US
+=======
+
+
+>>>>>>> origin/master
 
 
 
@@ -360,6 +430,7 @@ US
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -2393,3 +2464,5 @@ securedrop
 
 
 
+=======
+>>>>>>> origin/master

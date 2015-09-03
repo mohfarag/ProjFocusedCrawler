@@ -1,7 +1,22 @@
+<<<<<<< HEAD
 Nine people killed at South Carolina church; shooting investigated as hate crime | Fox 59 
 
 
 Nine people killed at South Carolina church; shooting investigated as hate crime | Fox 59
+=======
+Shooting reported at Emanuel African Methodist Episcopal Church in downtown Charleston | FOX2now.com 
+Shooting reported at Emanuel African Methodist Episcopal Church in downtown Charleston | FOX2now.com
+
+
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+GoSearch
+>>>>>>> origin/master
 
 
 
@@ -9,10 +24,7 @@ Nine people killed at South Carolina church; shooting investigated as hate crime
 
 
 
-
-
-
-
+<<<<<<< HEAD
 
 
 
@@ -465,15 +477,41 @@ Police: Gunman in Virginia TV crew shooting died from self-inflicted gunshot
 
 
 
+=======
+ Replay: FOX 2 News 
+
+FOX 2 TV Schedule 
+
+
+ Search
+ Contact Us
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Changes kick 50,000 Hoosiers off federal food stamp program
 
 
 
 
+=======
+
+
+FOX2now.com
+
+ Menu
+
+News
+Links
+AM Show
+Sports
+Traffic
+Contests
+STLMoms
+Events
+>>>>>>> origin/master
 
 
 
@@ -481,11 +519,18 @@ Changes kick 50,000 Hoosiers off federal food stamp program
 
 
 
+<<<<<<< HEAD
+
+=======
+Weather 
+
+82°
+>>>>>>> origin/master
 
 
 
 
-
+<<<<<<< HEAD
  
 
 
@@ -494,10 +539,22 @@ Changes kick 50,000 Hoosiers off federal food stamp program
 
 
 Latest News
+=======
+
+
+
+82°
+
+
+Low 76°
+High 95°
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -513,14 +570,47 @@ CEO of Ashley Madison stepping down after hack that impacted 37 million custome
 
 Jennifer Lawrence and Amy Schumer dance on Billy Joel’s piano at Wrigley Field concert
 
+=======
+Mon
+
+
+					76°  96°
+					
+
+
+Tue
+
+
+					77°  93°
+					
+
+
+Wed
+
+
+					75°  90°
+					
+
+
+See complete forecast
+
+ Severe weather alert
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 
 Calif. man bitten while taking selfie with rattlesnake
+=======
+ 
+
+
+
+>>>>>>> origin/master
 
 
 
@@ -528,16 +618,29 @@ Calif. man bitten while taking selfie with rattlesnake
 
 
 
+<<<<<<< HEAD
 
 Court docs: Father of missing Baby Janna put pillow over baby to muffle cries
+=======
+ 
+
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 
 
+=======
+Shooting reported at Emanuel African Methodist Episcopal Church in downtown Charleston
+
+Posted 9:58 pm, June 17, 2015, by CNN Wires 
+
+FacebookTwitterRedditPinterestLinkedInEmail 
+>>>>>>> origin/master
 
 
 
@@ -546,6 +649,37 @@ Court docs: Father of missing Baby Janna put pillow over baby to muffle cries
 
 
 
+<<<<<<< HEAD
+
+
+
+
+
+=======
+×
+Shooting reported at Emanuel African Methodist Episcopal Church in downtown Charleston
+
+
+ 
+
+
+(CNN) – An official close to the investigation told CNN there are multiple fatalities inside the church. The source said there are several bodies in the church that have not yet been identified.
+The suspect in the shooting is a clean-shaven white man in his 20s, with a slender build, police say
+Police are asking anyone with information about the shooting to call 911 dispatchers
+Several people were killed in a shooting at a historic African-American church in Charleston, South Carolina, a source close to the investigation told CNN.
+The shooter is still at large.
+Police in Charleston, South Carolina, are at the scene of a shooting at a downtown church, a local lawmaker told CNN Wednesday night.
+There was no immediate information on potential victims.
+The shooting took place at the Emanuel African Methodist Episcopal (AME) Church, said State Rep. Wendell G. Gilliard who represents the district where the church is located.
+Gilliard didn’t have additional information and said he was on his way to the scene.
+Police too have offered little information. The department listed the site of the shooting as 110 Calhoun Street, the location of the church.
+On its website, the church describes itself as the “oldest AME church in the south.” Every Wednesday evening, the church holds a Bible study in its basement. Corey Wessenger, who was standing across the street from the church, said the area was swarming with a heavy law enforcement presence.
+“I just saw a group about of 40 people escorted by cops,” Wessenger told CNN by phone.
+By Ed Payne
+
+32.776475
+-79.931051
+>>>>>>> origin/master
 
 
 
@@ -555,6 +689,11 @@ Court docs: Father of missing Baby Janna put pillow over baby to muffle cries
 
 
 
+<<<<<<< HEAD
+=======
+Trademark and Copyright 2015 Cable News Network, Inc., a Time Warner Company. All rights reserved.
+Filed in: Trending 
+>>>>>>> origin/master
 
 
 
@@ -564,11 +703,7 @@ Court docs: Father of missing Baby Janna put pillow over baby to muffle cries
 
 
 
-
-
-
-
-
+<<<<<<< HEAD
 News
 
 
@@ -577,10 +712,13 @@ News
 Charleston church shooting suspect, Dylann Storm Roof, arrested in North Carolina
 
 
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 National & World
  
 News
@@ -601,12 +739,25 @@ News
 
 
 Dylann Roof says he almost backed out because everyone at church was ‘so nice,’ bond set at $1 million
+=======
+ 
 
 
 
 
 
 
+Antenna TV
+KTVI’s digital channel 2.2 shows hit movies and classic TV.
+
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
 News
  
 NewsPoint
@@ -630,6 +781,30 @@ News
 
 Dylann Roof pleads not guilty to federal charges in Charleston church attack
 
+=======
+ 
+
+ 
+
+
+Popular
+
+
+
+Teen suspect shot three times by St. Louis police officer
+
+
+
+Michael Brown exhibit opened in Chicago
+
+
+
+Child abuse charges re-filed after disturbing photos go viral on Facebook
+
+
+
+Driver hits 4 women in dramatic East St. Louis hit-and-run caught on video
+>>>>>>> origin/master
 
 
 
@@ -640,6 +815,7 @@ Dylann Roof pleads not guilty to federal charges in Charleston church attack
  
 
 
+<<<<<<< HEAD
 
 
 
@@ -665,11 +841,31 @@ News
 
 Family of Charleston church shooting suspect Dylann Roof speaks for the first time
 
+=======
+Latest News
+
+
+
+PICTURES: Slide the City St Louis 2015 part2
+
+
+
+PICTURES: Slide the City St Louis 2015 part1
+
+
+
+Contestants cry foul, attendees go hungry at Budweiser burger fest
+
+
+
+Jefferson County resident apply for disaster assistance from recent flooding and storms
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 National & World
  
 News
@@ -678,19 +874,28 @@ News
 
 
 FBI names suspect in Charleston church shooting as 21-year-old Dylann Storm Roof
+=======
+ 
+
+
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 News
  
 NewsPoint
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Indy church members pray for victims in Charleston church shooting
 
 
@@ -711,12 +916,38 @@ Charleston shooting victims’ names released
 
 
 
+=======
+News
+
+Charleston church shooting: 9 killed in what officials call a hate crime
+
+
+News
+
+Woman says Charleston shooter spared her to ‘tell everyone’ what happened
+
+
+News
+
+Shooting suspect in custody after Charleston church massacre
+
+
+News
+
+Charleston shooting suspect charged with 9 counts of murder
+
+
+News
+
+Who is the Charleston church shooting suspect?
+>>>>>>> origin/master
 
 
 
  
 
 
+<<<<<<< HEAD
 
 
 
@@ -767,6 +998,50 @@ Dash cam video shows Charleston shooting suspect’s arrest in North Carolina
 
 
 
+=======
+News
+
+Who is the Charleston church shooting suspect?
+
+
+News
+
+South Carolina church fire: Mt. Zion AME burns in Greeleyville
+
+
+News
+
+Dylann Storm Roof arrested in North Carolina, according to report
+
+
+News
+
+St. Louis faith leaders gather to mourn victims of Charleston shooting
+
+
+News
+
+﻿Worshippers return to Charleston’s Emanuel AME on Sunday
+
+
+
+ 
+
+
+News
+
+Charleston: Forgiveness and frustration after first church service since massacre
+
+
+News
+
+Dylann Roof says he almost backed out because everyone at church was ‘so nice’
+
+
+News
+
+Charleston church shooting: Suspect confesses, says he sought race war
+>>>>>>> origin/master
 
 
 
@@ -779,6 +1054,7 @@ Dash cam video shows Charleston shooting suspect’s arrest in North Carolina
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -797,16 +1073,27 @@ iPhone & iPad App
 
 
 
+=======
+Mobile AppsAndroid App
+Android Weather App
+iPhone & iPad App
+iPhone Weather App
+>>>>>>> origin/master
 
 
 
 
 Facebook
+<<<<<<< HEAD
 
 
 Twitter
 
 
+=======
+Twitter
+Email Alerts
+>>>>>>> origin/master
 About & Contact
 
 
@@ -815,6 +1102,7 @@ About & Contact
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -850,14 +1138,24 @@ WordPress.com VIP
 
 
 
+=======
+Online Public File • 				Terms of Service •
+		Privacy Policy  •
+		2250 Ball Drive St. Louis MO 63146  •
+		Copyright © 2015, KTVI		 • A Tribune Broadcasting Station •
+		Powered by WordPress.com VIP 
+>>>>>>> origin/master
 
 
 
 
 
 ×
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> origin/master
 Email Alerts
 
 
@@ -896,6 +1194,7 @@ Email Alerts
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -988,6 +1287,12 @@ Your Name
 
 
 
+=======
+Send to Email Address
+
+Your Name
+
+>>>>>>> origin/master
 Your Email Address
 
 
@@ -995,6 +1300,7 @@ Your Email Address
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -1015,6 +1321,14 @@ Cancel
 
 
 
+=======
+Cancel
+
+				Post was not sent - check your email addresses!			
+
+				Email check failed, please try again			
+
+>>>>>>> origin/master
 				Sorry, your blog cannot share posts by email.			
 
 
@@ -1032,6 +1346,7 @@ Cancel
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -1053,3 +1368,5 @@ Cancel
 
 
 
+=======
+>>>>>>> origin/master

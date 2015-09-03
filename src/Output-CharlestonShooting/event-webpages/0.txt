@@ -1,7 +1,22 @@
+<<<<<<< HEAD
 Shooting reported at Emanuel African Methodist Episcopal Church in downtown Charleston | FOX2now.com 
 
 
 Shooting reported at Emanuel African Methodist Episcopal Church in downtown Charleston | FOX2now.com
+=======
+Multiple fatalities reported after shooting at historic black church in Charleston, S.C. | fox13now.com 
+Multiple fatalities reported after shooting at historic black church in Charleston, S.C. | fox13now.com
+
+
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+GoSearch
+>>>>>>> origin/master
 
 
 
@@ -9,10 +24,7 @@ Shooting reported at Emanuel African Methodist Episcopal Church in downtown Char
 
 
 
-
-
-
-
+<<<<<<< HEAD
 
 
 
@@ -49,6 +61,14 @@ FOX 2 TV Schedule
  Search
 
 
+=======
+ Watch Now: Sports Page 
+
+Fox 13 TV Schedule 
+
+
+ Search
+>>>>>>> origin/master
  Contact Us
 
 
@@ -56,12 +76,29 @@ FOX 2 TV Schedule
 
 
 
+<<<<<<< HEAD
+
+
+=======
+fox13now.com
+
+ Menu
+
+News
+On-Air
+Good Day Utah
+The Place
+Traffic
+Contests
+Contact
+Cars
+Events
+>>>>>>> origin/master
 
 
 
 
-
-
+<<<<<<< HEAD
 
 
 FOX2now.com
@@ -407,6 +444,11 @@ Report a Typo
 
 Name
 (required)
+=======
+Weather 
+
+81°
+>>>>>>> origin/master
 
 
 
@@ -414,15 +456,24 @@ Name
 
 
 
+<<<<<<< HEAD
 
 Typo
 (required)
 
+=======
+81°
+
+
+Low 68°
+High 90°
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -436,11 +487,39 @@ Typo
 
 
  
+=======
+Mon
+
+
+					67°  91°
+					
+
+
+Tue
+
+
+					66°  90°
+					
+
+
+Wed
+
+
+					66°  87°
+					
+
+
+See complete forecast
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Cancel
+=======
+ 
+>>>>>>> origin/master
 
 
 
@@ -451,6 +530,10 @@ Cancel
 
 
 
+<<<<<<< HEAD
+=======
+ 
+>>>>>>> origin/master
 
 
 
@@ -458,64 +541,145 @@ Cancel
 
 
 
+<<<<<<< HEAD
+
+
+=======
+Multiple fatalities reported after shooting at historic black church in Charleston, S.C.
+
+Posted 9:27 pm, June 17, 2015, by CNN Wire, Updated at 09:42pm, June 17, 2015 
+
+FacebookTwitterPinterestLinkedInGoogleEmail 
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 
+=======
+ 
 
 
+
+×
+Multiple fatalities reported after shooting at historic black church in Charleston, S.C.
+>>>>>>> origin/master
 
 
  
 
 
 
+<<<<<<< HEAD
+
+
+=======
+By Ed Payne
+CNN
+
+
+(CNN) — [Latest developments]
+— An official close to the investigation told CNN there are multiple fatalities inside the church. The source said there are several bodies in the church that have not yet been identified.
+— The suspect in the shooting is a clean-shaven white man in his 20s, with a slender build, police say.
+— Police are asking anyone with information about the shooting to call 911 dispatchers.
+[Full story]
+Several people were killed in a shooting at an historic African-American church in Charleston, South Carolina, a source close to the investigation told CNN.
+The shooter is still at large.
+The shooting took place Wednesday evening at the Emanuel African Methodist Episcopal Church. On its website, the church describes itself as the “oldest AME church in the South.”
+“It’s really bad. It’s a very bad scene,” local pastor Thomas Dixon said.
+“Apparently the person just entered the church and opened fire. That part has not been fully articulated on what happened yet … they are still looking for the suspect.”
+Search on for suspect
+Police haven’t said how many people have been shot. But the source who spoke to CNN said several bodies were in the church that were yet to be identified.
+Police said the suspect in the shooting is a clean-shaven white man in his 20s, with a slender build. He was wearing a gray sweatshirt, blue jeans and boots.
+Soon afterward, news camera showed officers taking a man matching that description into custody, but police said they were still looking for the shooter.
+The department asked anyone with information about the shooting to call 911 dispatchers
+Heavy police presence
+Every Wednesday evening, the church holds a Bible study in its basement.
+Corey Wessenger, who was standing across the street from the church, said the area was swarming with law enforcement.
+“I just saw a group of about 40 people escorted by cops,” Wessenger told CNN by phone.
+Community members gathered in a prayer circle just down the street from the scene.
+Patrick Wright, a reporter with WFMY News, tweeted, “We’ve been told not to leave our restaurant here in #Charleston for the time being. Helicopter still circling above.”
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+Trademark and Copyright 2015 Cable News Network, Inc., a Time Warner Company. All rights reserved.
+Filed in: News Topics: church shooting, Emanuel African Methodist Episcopal Church, fatal shooting, mass shooting, shooting 
+>>>>>>> origin/master
 
 
 
 
 
-
-
-
-
-
-
+<<<<<<< HEAD
 Have a news tip?
 
 
 Do you have a story you want FOX 2 to investigate?  E-mail us.
 
 
+=======
+
+
+
+			4 comments		
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+
+
+=======
+ 
+
+mark traina (@obessed56)
+
+NAAWP RESPONSE: Our HEARTS and PRAYERS go out to all the CHARLOTTE VICTIMS, their FAMILIES and their FRIENDS! 
+GOD BLESS AMERICA and LORD PLEASE GUIDE our PATH?
+NATIONAL ASSOCIATION for the ADVANCEMENT of WHITE PEOPLE – 2015
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+							June 17, 2015 at 11:50 pm						
+>>>>>>> origin/master
 
 
+
+
+<<<<<<< HEAD
+ 
+=======
+>>>>>>> origin/master
 
 
 
 
  
 
+<<<<<<< HEAD
+
+=======
+ANOTHERBOB
+
+There was a time when citizens could by dynamite and blasting caps at the hardware store to blast tree stumps.  Nobody thought twice about it, and nobody used it to hurt other people.  Those days of human decency are gone.
+>>>>>>> origin/master
 
 
 
- 
 
-
-
-
-
-
+<<<<<<< HEAD
 Popular
 
 
@@ -526,28 +690,49 @@ Popular
 
 
 Suspect under arrest in Jamyla Bolden murder
+=======
+							June 18, 2015 at 9:53 am						
+
+
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 
 
 3-year-old injured during shoot-out in north St. Louis
+=======
+ 
+
+shine login
+
+Why in the world would anyone give this trouble kid a gun for a birthday present?
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+							June 18, 2015 at 10:16 am						
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Suspected gunman kills self after killing journalists on air, police say
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -555,6 +740,18 @@ Suspected gunman kills self after killing journalists on air, police say
 Reporter, photographer murdered after gunman opens fire during live shot
 
 
+=======
+ 
+
+Ron
+
+Because they too are troubled!
+
+
+
+
+							June 19, 2015 at 12:45 am						
+>>>>>>> origin/master
 
 
 
@@ -563,6 +760,10 @@ Reporter, photographer murdered after gunman opens fire during live shot
 
 
 
+<<<<<<< HEAD
+=======
+Comments are closed.
+>>>>>>> origin/master
 
 
 
@@ -576,6 +777,7 @@ Reporter, photographer murdered after gunman opens fire during live shot
 
 
 
+<<<<<<< HEAD
 Latest News
 
 
@@ -587,6 +789,10 @@ Latest News
 
 One man’s poop is another’s medicine
 
+=======
+Nominate Your Cool School
+Big Budah visits a Cool School each week!
+>>>>>>> origin/master
 
 
 
@@ -594,6 +800,7 @@ One man’s poop is another’s medicine
 
 
 
+<<<<<<< HEAD
 STLMoms: Shop for a Cause at Macy’s to benefit March of Dimes
 
 
@@ -618,6 +825,30 @@ St. Louis Polo Charity Match to benefit the Endangered Wolf Center
 
 
 
+=======
+ 
+
+ 
+
+
+Popular
+
+
+
+‘The ropes are looking a little frayed’ – Elastic cables on slingshot ride snap
+
+
+
+Woman reveals comment allegedly from ‘Subway Guy’ Jared Fogle that led to raid
+
+
+
+Child abuse charges re-filed after disturbing photos go viral on Facebook
+
+
+
+Brianne Altice sentenced for sex with students
+>>>>>>> origin/master
 
 
 
@@ -628,6 +859,7 @@ St. Louis Polo Charity Match to benefit the Endangered Wolf Center
  
 
 
+<<<<<<< HEAD
 
 
 
@@ -640,6 +872,34 @@ St. Louis Polo Charity Match to benefit the Endangered Wolf Center
 
 
 
+=======
+Latest News
+
+
+
+Researchers ask public for help tracking firefly sightings in Utah
+
+
+
+Reality show on FOX 13 to feature local teens with culinary chops competing for scholarship
+
+
+
+Utah teacher returns with lessons learned at space academy for educators
+
+
+
+Vigil held for man killed in wrong-way crash involving driver who may have been intoxicated
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
+=======
+ 
+>>>>>>> origin/master
 
 
 
@@ -647,11 +907,7 @@ St. Louis Polo Charity Match to benefit the Endangered Wolf Center
 
 
 
-
-
-
-
-
+<<<<<<< HEAD
 News
 
 
@@ -659,6 +915,8 @@ News
 
 Charleston church shooting: 9 killed in what officials call a hate crime
 
+=======
+>>>>>>> origin/master
 
 
 
@@ -666,6 +924,7 @@ Charleston church shooting: 9 killed in what officials call a hate crime
 
 News
 
+<<<<<<< HEAD
 
 
 
@@ -674,10 +933,14 @@ Woman says Charleston shooter spared her to ‘tell everyone’ what happened
 
 
 
+=======
+Captured: Suspected gunman in Charleston church shooting arrested
+>>>>>>> origin/master
 
 
 News
 
+<<<<<<< HEAD
 
 
 
@@ -686,10 +949,14 @@ Shooting suspect in custody after Charleston church massacre
 
 
 
+=======
+Minister: “No evildoer, no demon” can close church targeted by shooter
+>>>>>>> origin/master
 
 
 News
 
+<<<<<<< HEAD
 
 
 
@@ -698,10 +965,14 @@ Charleston shooting suspect charged with 9 counts of murder
 
 
 
+=======
+Dylann Roof says he almost backed out because everyone at church was ‘so nice’
+>>>>>>> origin/master
 
 
 News
 
+<<<<<<< HEAD
 
 
 
@@ -711,12 +982,21 @@ Who is the Charleston church shooting suspect?
 
 
 
+=======
+Racist online manifesto mentions Charleston, includes images of suspect in mass shooting
+
+
+News Politics
+
+Pres. Obama brings up gun control issue while addressing US about Charleston shooting
+>>>>>>> origin/master
 
 
 
  
 
 
+<<<<<<< HEAD
 
 
 
@@ -731,10 +1011,16 @@ Who is the Charleston church shooting suspect?
 
 
 
+=======
+News
+
+Obama uses N-word, says we are ‘not cured’ of racism
+>>>>>>> origin/master
 
 
 News
 
+<<<<<<< HEAD
 
 
 
@@ -743,10 +1029,14 @@ South Carolina church fire: Mt. Zion AME burns in Greeleyville
 
 
 
+=======
+Watch President Obama sing ‘Amazing Grace’ at eulogy for reverend killed in Charleston shooting
+>>>>>>> origin/master
 
 
 News
 
+<<<<<<< HEAD
 
 
 
@@ -755,10 +1045,14 @@ Dylann Roof to face hate crime charges in Charleston shooting
 
 
 
+=======
+Local faith leaders express grief, disappointment over fatal South Carolina church shooting
+>>>>>>> origin/master
 
 
 News
 
+<<<<<<< HEAD
 
 
 
@@ -767,10 +1061,14 @@ Dylann Storm Roof arrested in North Carolina, according to report
 
 
 
+=======
+S.C. governor signs bill to remove Confederate flag from Capitol grounds
+>>>>>>> origin/master
 
 
 News
 
+<<<<<<< HEAD
 
 
 
@@ -780,12 +1078,16 @@ St. Louis faith leaders gather to mourn victims of Charleston shooting
 
 
 
+=======
+Vigil in Salt Lake City honors victims of shooting in Charleston
+>>>>>>> origin/master
 
 
 
  
 
 
+<<<<<<< HEAD
 
 
 
@@ -800,10 +1102,16 @@ Dylann Roof pleads not guilty to federal charges in Charleston church attack
 
 
 
+=======
+News
+
+South Carolina police shooting: Authorities release dash cam video
+>>>>>>> origin/master
 
 
 News
 
+<<<<<<< HEAD
 
 
 
@@ -812,10 +1120,14 @@ News
 
 
 
+=======
+Bishops lead march in Salt Lake City against gun violence
+>>>>>>> origin/master
 
 
 News
 
+<<<<<<< HEAD
 
 
 
@@ -828,6 +1140,9 @@ Charleston: Forgiveness and frustration after first church service since massac
 
 
 
+=======
+Watch as activist takes down Confederate flag outside S.C. State House, gets arrested
+>>>>>>> origin/master
 
 
 
@@ -840,6 +1155,7 @@ Charleston: Forgiveness and frustration after first church service since massac
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -864,11 +1180,18 @@ iPhone Weather App
 
 
 
+=======
+Mobile AppsAndroid App
+Android Weatherwatch App
+iPhone & iPad App
+iPhone Weatherwatch App
+>>>>>>> origin/master
 
 
 
 
 Facebook
+<<<<<<< HEAD
 
 
 Twitter
@@ -877,6 +1200,9 @@ Twitter
 Email Alerts
 
 
+=======
+Twitter
+>>>>>>> origin/master
 About & Contact
 
 
@@ -885,6 +1211,7 @@ About & Contact
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -918,14 +1245,24 @@ WordPress.com VIP
 
 
 
+=======
+Online Public File • 				Terms of Service •
+		Privacy Policy  •
+		5020 Amelia Earhart Drive, Salt Lake City, UT 84116  •
+		Copyright © 2015, KSTU		 • A Tribune Broadcasting Station •
+		Powered by WordPress.com VIP 
+>>>>>>> origin/master
 
 
 
 
 
 ×
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> origin/master
 Email Alerts
 
 
@@ -965,6 +1302,28 @@ Email Alerts
 
 
 
+<<<<<<< HEAD
+
+
+
+=======
+Follow
+
+Follow “fox13now.com”
+
+Get every new post delivered to your Inbox.
+
+Join 3,102 other followers
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
 
 
 
@@ -982,17 +1341,9 @@ Email Alerts
 
 
 
-
-
-
-
-
-
-
-
-
-
-
+=======
+Build a website with WordPress.com
+>>>>>>> origin/master
 
 
 
@@ -1005,6 +1356,7 @@ Email Alerts
 
 Send to Email Address
 
+<<<<<<< HEAD
 
 
 
@@ -1013,6 +1365,10 @@ Your Name
 
 
 
+=======
+Your Name
+
+>>>>>>> origin/master
 Your Email Address
 
 
@@ -1020,6 +1376,7 @@ Your Email Address
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -1040,6 +1397,14 @@ Cancel
 
 
 
+=======
+Cancel
+
+				Post was not sent - check your email addresses!			
+
+				Email check failed, please try again			
+
+>>>>>>> origin/master
 				Sorry, your blog cannot share posts by email.			
 
 
@@ -1057,6 +1422,7 @@ Cancel
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -1078,3 +1444,5 @@ Cancel
 
 
 
+=======
+>>>>>>> origin/master

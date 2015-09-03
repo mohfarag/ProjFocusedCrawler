@@ -1,8 +1,28 @@
+<<<<<<< HEAD
 Hundreds honour Charleston church shooting victim Myra Thompson | US news | The Guardian
 
 
 
 Hundreds honour Charleston church shooting victim Myra Thompson | US news | The Guardian
+=======
+Lightning Believed Cause of Fire at a Black Church - The New York Times 
+
+
+
+Lightning Believed Cause of Fire at a Black Church - The New York Times
+>>>>>>> origin/master
+
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+NYTimes.com no longer supports Internet Explorer 9 or earlier. Please upgrade your browser.
+LEARN MORE »
+>>>>>>> origin/master
 
 
 
@@ -12,6 +32,19 @@ Hundreds honour Charleston church shooting victim Myra Thompson | US news | The 
 
 
 
+<<<<<<< HEAD
+
+
+=======
+Sections
+
+Home
+
+Search
+Skip to content
+Skip to navigation
+View mobile version
+>>>>>>> origin/master
 
 
 
@@ -21,15 +54,7 @@ Hundreds honour Charleston church shooting victim Myra Thompson | US news | The 
 
 
 
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 
 
 
@@ -61,34 +86,65 @@ Skip to main content
 
  
 
+=======
+U.S.|Lightning Believed Cause of Fire at a Black Church
+ 
+
+Advertisement
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
+=======
+ Search
+ 
+Log In
+0
+Settings
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
+=======
+search sponsored by
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 
 
 
 
 
 
+=======
+Search NYTimes.com
+
+
+
+Clear this text input
+
+
+
+Go
+>>>>>>> origin/master
 
 
 
 
 
 
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 
 sign in
 
@@ -341,16 +397,37 @@ The Guardian
 
 home
 
+=======
+http://nyti.ms/1LHGyS9
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 ›
 
 
 US
 
+=======
+Loading...
+
+
+
+
+See next articles
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
+=======
+See previous articles
+>>>>>>> origin/master
 
 
 
@@ -360,59 +437,102 @@ US
 
 
 
-
-
-
-
-
+<<<<<<< HEAD
 
 
 
 home
+=======
+ 
+
+
+
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+Advertisement
+>>>>>>> origin/master
 
 
 
 
 
-
-
-
-
+<<<<<<< HEAD
 US
 
 selected
 
 
 
+=======
+U.S. 
+Lightning Believed Cause of Fire at a Black Church
+
+By ALAN BLINDER and RICHARD PÉREZ-PEÑAJULY 1, 2015
+ 
+Inside
+
+
+
+Supported By
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 world
 
 
+=======
+
+
+Photo
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 opinion
 
+=======
+Smoke rose from the Mount Zion A.M.E. church, early Wednesday.
+
+Credit
+            Veasey Conway/Florence Morning News, via Associated Press        
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 
 sports
+=======
+Advertisement
+Continue reading the main story
+
+
+Advertisement
+Continue reading the main story
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -421,30 +541,68 @@ soccer
 
 
 
+=======
+Continue reading the main story
+Share This Page
+
+Continue reading the main story
+
+
+Continue reading the main story
+
+ 
+GREELEYVILLE, S.C. —  A day after a fire gutted a small black church here, a law enforcement official said Wednesday that lightning was the likely cause of the blaze.The fire at Mount Zion African Methodist Episcopal Church, which took more than two hours to extinguish, began around 8:30 p.m. on Tuesday and burned through the church’s roof.As investigators sifted through the soot-blackened brick shell of the church, the F.B.I.’s initial assessment found that there was no sign of arson and that lightning was probably to blame, according to a law enforcement official, who spoke on the condition of anonymity because the official was not authorized to discuss the matter on the record. Lightning storms moved through the area Tuesday night. 
+
+Continue reading the main story
+
+
+                            Related Coverage
+                    
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 tech
+=======
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 
 
 
 arts
+=======
+No Evidence of Hate Crimes in Fires at Black ChurchesJUNE 29, 2015
+
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 
 
 lifestyle
+=======
+At a news conference on Wednesday, Special Agent D. Craig Chillcott of the federal Bureau of Alcohol, Tobacco, Firearms and Explosives urged patience as investigators did their work. “We haven’t ruled anything in or anything out at this point,” he said.The fire in this town of just 375 brings to seven the number of churches, six of them with predominantly African-American congregations, that have burned in the last 10 days in South and North Carolina, Tennessee, Georgia and Florida. Two of those appear to have been caused by lightning, and another was electrical.Investigators have found no evidence that any of the fires are connected and no indications of hate crimes. At least two were deliberately set, investigators said, with two still of unclear origins.Despite such assurances, the fires have sent a chill through black congregations that are well aware of a long history of their churches being targeted for violence by racists. As recently as the 1990s, there was a wave of dozens of arson fires at black churches, mostly in the South. In 1995, arsonists burned Mount Zion’s previous home to the ground, and President Bill Clinton visited the church in 1996 to speak out against those crimes.Elected officials in South Carolina, many of them African-American, urged people not to rush to conclusions.“Things are often not what they seem,” Mount Zion’s pastor, the Rev. John Taylor, said. “Just wait and see. Speculation is never good.”All of the recent church fires broke out in the days after the fatal shootings of a pastor and eight members at a Charleston church. A 21-year-old man, Dylann Roof, has been charged in the shootings, which officials have labeled a hate crime.
+
+
+Alan Blinder reported from Greeleyville, and Richard Pérez-Peña from New York. Michael S. Schmidt contributed reporting from Washington, and Katie Rogers from New York.
+A version of this article appears in print on July 2, 2015, on page A15 of the New York edition with the headline: Lightning Believed Cause of Fire at a Black Church.  Order Reprints| Today's Paper|Subscribe
+
+
+>>>>>>> origin/master
 
 
 
@@ -452,8 +610,13 @@ lifestyle
 
 
 
+<<<<<<< HEAD
 
 fashion
+=======
+Loading...
+
+>>>>>>> origin/master
 
 
 
@@ -461,8 +624,14 @@ fashion
 
 
 
+<<<<<<< HEAD
 
 business
+=======
+Go to Home Page »
+
+Site Index
+>>>>>>> origin/master
 
 
 
@@ -471,6 +640,7 @@ business
 
 
 
+<<<<<<< HEAD
 travel
 
 
@@ -532,10 +702,94 @@ close
 
 
 
+=======
+News
+
+
+World
+
+
+U.S.
+
+
+Politics
+
+
+N.Y.
+
+
+Business
+
+
+Tech
+
+
+Science
+
+
+Health
+
+
+Sports
+
+
+Education
+
+
+Obituaries
+
+
+Today's Paper
+
+
+Corrections
 
 
 
 
+Opinion
+
+
+Today's Opinion
+
+
+Op-Ed Columnists
+
+
+Editorials
+
+
+Contributing Writers
+
+
+Op-Ed Contributors
+
+
+Opinionator
+
+
+Letters
+
+
+Sunday Review
+
+
+Taking Note
+
+
+Room for Debate
+
+
+Public Editor
+
+
+Video: Opinion
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
@@ -596,10 +850,97 @@ Governor Nikki Haley: ‘This is a woman who I want to strive to be’
 
 
 
+=======
+Arts
+
+
+Today's Arts
+
+
+Art & Design
+
+
+ArtsBeat
+
+
+Books
+
+
+Dance
+
+
+Movies
+
+
+Music
+
+
+N.Y.C. Events Guide
+
+
+Television
+
+
+Theater
+
+
+Video Games
+
+
+Video: Arts
 
 
 
 
+Living
+
+
+Automobiles
+
+
+Crossword
+
+
+Food
+
+
+Education
+
+
+Fashion & Style
+
+
+Health
+
+
+Home & Garden
+
+
+Jobs
+
+
+Magazine
+
+
+N.Y.C. Events Guide
+
+
+Real Estate
+
+
+T Magazine
+
+
+Travel
+
+
+Weddings & Celebrations
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
@@ -654,10 +995,85 @@ Monday 29 June 2015
 
 
 
+=======
+Listings & More
+
+
+Classifieds
+
+
+Tools & Services
+
+
+Times Topics
+
+
+Public Editor
+
+
+N.Y.C. Events Guide
+
+
+TV Listings
+
+
+Blogs
+
+
+Cartoons
+
+
+Multimedia
+
+
+Photography
+
+
+Video
+
+
+NYT Store
+
+
+Times Journeys
+
+
+Subscribe
+
+
+Manage My Account
 
 
 
 
+Subscribe
+
+Subscribe
+
+
+Times Premier
+
+
+
+Home Delivery
+
+
+
+Digital Subscriptions
+
+
+
+NYT Opinion
+
+
+
+Crossword
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
@@ -667,6 +1083,39 @@ Monday 29 June 2015
 
 Share on Facebook
 
+=======
+Email Newsletters
+
+
+Alerts
+
+
+Gift Subscriptions
+
+
+Corporate Subscriptions
+
+
+Education Rate
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+
+
+
+
+=======
+Mobile Applications
+
+
+Replica Edition
+
+
+International New York Times
+>>>>>>> origin/master
 
 
 
@@ -674,32 +1123,55 @@ Share on Facebook
 
 
 
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 Share on Twitter
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+
+
+=======
+                    © 2015 The New York Times Company
+
+
+Home
+Search
+Contact Us
+Work With Us
+Advertise
+Your Ad Choices
+Privacy
+Terms of Service
+Terms of Sale
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+
+
+=======
+Site Map
+Help
+Site Feedback
+Subscriptions
+
+
+ 
+>>>>>>> origin/master
 
 
 
 
-
-
-
-
+<<<<<<< HEAD
 Share via Email
+=======
+>>>>>>> origin/master
 
 
 
@@ -708,6 +1180,7 @@ Share via Email
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -2195,3 +2668,5 @@ securedrop
 
 
 
+=======
+>>>>>>> origin/master

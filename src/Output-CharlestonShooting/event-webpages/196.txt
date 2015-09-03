@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 Police Shoot Suspect On South Side « CBS Chicago
 
 Police Shoot Suspect On South Side « CBS Chicago
+=======
+Charleston shooting | US news | The Guardian
+
+Charleston shooting | US news | The Guardian
+>>>>>>> origin/master
 
 
 
@@ -16,14 +22,22 @@ Police Shoot Suspect On South Side « CBS Chicago
 
 
 
+<<<<<<< HEAD
 
 
 
 Chicago
+=======
+Close
+
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Radio.com
 
 
@@ -102,11 +116,50 @@ Tampa
 Washington
 
 
+=======
+
+Skip to main content
+
+ 
 
 
 
 
+
+
+
+
+
+
+
+sign in
+
+
+
+
+
+
+
+
+subscribe
+
+
+
+
+
+
+
+search
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 SIGN UP FOR NEWSLETTERS
+=======
+jobs
+>>>>>>> origin/master
 
 
 
@@ -117,6 +170,7 @@ SIGN UP FOR NEWSLETTERS
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -134,6 +188,72 @@ SIGN UP FOR NEWSLETTERS
 
 
 Sponsored By
+=======
+more
+
+
+from the guardian:
+
+
+jobs
+
+
+
+change edition:
+
+
+
+switch to the  UK  edition
+
+
+switch to the  AU  edition
+
+
+switch to the 
+INT
+beta
+ edition
+
+
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+US edition
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+switch to the 
+UK edition
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+switch to the 
+Australia edition
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+switch to the 
+International
+beta
+>>>>>>> origin/master
 
 
 
@@ -144,24 +264,7 @@ Sponsored By
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 
 
 CBS 2
@@ -170,16 +273,42 @@ WBBM Newsradio
 Welcome to WBBM Newsradio 780 & 105.9FM, The Home of Chicago Bears Radio and Chicago Cubs Radio, on CBSChicago.com! WBBM Newsradio 780 & 105.9FM is joining forces with the CBS 2 Television and 670 The […]
 670 The Score
 Welcome to 670 The Score, the home of White Sox radio, on CBSChicago.com! The Score is partners with CBS 2 TV and WBBM 780, and they give you the best Chicago has to offer. 670 […]
+=======
+The Guardian
+
+
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 Follow Us
 Facebook
 Twitter
 YouTube
+=======
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+
+
+=======
+home
+
+
+›
+US
+>>>>>>> origin/master
 
 
 
@@ -190,16 +319,7 @@ YouTube
 
 
 
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 
 
 Home
@@ -248,14 +368,63 @@ Circulars
 
 
 Autos
+=======
+home
 
 
 
 
+US
+selected
 
 
 
 
+world
+
+
+
+
+opinion
+
+
+
+
+sports
+
+
+
+
+soccer
+
+
+
+
+tech
+
+
+
+
+arts
+
+
+
+
+lifestyle
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+fashion
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Local
 
 
@@ -284,6 +453,32 @@ World
 
 
 Photos
+=======
+business
+
+
+
+
+travel
+
+
+
+
+environment
+
+
+
+
+science
+
+
+
+
+
+
+browse all sections
+close
+>>>>>>> origin/master
 
 
 
@@ -297,32 +492,54 @@ Photos
 
 
 
+<<<<<<< HEAD
  
+=======
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
+
+
+=======
+Charleston shooting
+
+Sunday
+
+21
+June
+2015
+>>>>>>> origin/master
 
 
 
 
 
-
-
+<<<<<<< HEAD
 Local
+=======
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 Police Shoot Suspect On South Side
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 June 18, 2012 9:43 PM
+=======
+>>>>>>> origin/master
 
 
 
@@ -334,6 +551,12 @@ June 18, 2012 9:43 PM
 
 
 
+<<<<<<< HEAD
+=======
+Sorry, your browser is unable to play this video.
+Please install Adobe Flash™ and try again.
+Alternatively upgrade to a modern browser.
+>>>>>>> origin/master
 
 
 
@@ -341,16 +564,22 @@ June 18, 2012 9:43 PM
 
 
 
+<<<<<<< HEAD
  
 
 
 (CBS)
+=======
+
+
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 Related Tags:
 
 
@@ -359,18 +588,27 @@ Police-Involved Shooting
 South Side
 , 
 Suspect
+=======
+
+
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 
 
 
 Featured & Trending:
+=======
+Crowds gather for emotional memorial service in Charleston - video
 
 
+Hundreds gathered at Emanuel AME church on Sunday for the first service since Dylann Roof allegedly opened fire and killed nine members of a Bible study group
 
+>>>>>>> origin/master
 
 
 
@@ -378,6 +616,10 @@ Featured & Trending:
 
 
 
+<<<<<<< HEAD
+=======
+Crowds gather for emotional memorial service in Charleston - video
+>>>>>>> origin/master
 
 
 
@@ -393,10 +635,15 @@ Featured & Trending:
 
 
 
+<<<<<<< HEAD
 
 
+=======
+DeRay Mckesson at centre of #GoHomeDeray Twitter storm
 
 
+Black Lives Matter activist in Charleston after church shooting as supporters say abuse is testament to power of voice
+>>>>>>> origin/master
 
 
 
@@ -405,6 +652,10 @@ Featured & Trending:
 
 
 
+<<<<<<< HEAD
+=======
+DeRay Mckesson at centre of #GoHomeDeray Twitter storm
+>>>>>>> origin/master
 
 
 
@@ -423,10 +674,15 @@ Featured & Trending:
 
 
 
+<<<<<<< HEAD
 
 
+=======
+Charleston mourns deaths of nine people in church shooting – in pictures
 
 
+The African American church in the South Carolina city where nine people were shot dead by a white gunman on Wednesday reopened for services on Sunday, as locals led a remembrance march for the victims
+>>>>>>> origin/master
 
 
 
@@ -435,6 +691,10 @@ Featured & Trending:
 
 
 
+<<<<<<< HEAD
+=======
+Charleston mourns deaths of nine people in church shooting – in pictures
+>>>>>>> origin/master
 
 
 
@@ -450,10 +710,15 @@ Featured & Trending:
 
 
 
+<<<<<<< HEAD
 
 
+=======
+Obama takes gun control debate to Twitter: 'It's time we do something'
 
 
+‘Expressions of sympathy aren’t enough’: President tweets gun statistics as Charleston marks 14th statement on mass shooting since he took office
+>>>>>>> origin/master
 
 
 
@@ -462,6 +727,10 @@ Featured & Trending:
 
 
 
+<<<<<<< HEAD
+=======
+Obama takes gun control debate to Twitter: 'It's time we do something'
+>>>>>>> origin/master
 
 
 
@@ -478,6 +747,10 @@ Featured & Trending:
 
 
 
+<<<<<<< HEAD
+=======
+Charleston church remembers shooting victims with service of sadness and joy
+>>>>>>> origin/master
 
 
 
@@ -488,6 +761,10 @@ Featured & Trending:
 
 
 
+<<<<<<< HEAD
+=======
+Charleston church remembers shooting victims with service of sadness and joy
+>>>>>>> origin/master
 
 
 
@@ -498,6 +775,10 @@ Featured & Trending:
 
 
 
+<<<<<<< HEAD
+=======
+Republicans cautious on Confederate flag that 'clearly divides people'
+>>>>>>> origin/master
 
 
 
@@ -508,6 +789,10 @@ Featured & Trending:
 
 
 
+<<<<<<< HEAD
+=======
+Republicans cautious on Confederate flag that 'clearly divides people'
+>>>>>>> origin/master
 
 
 
@@ -518,6 +803,10 @@ Featured & Trending:
 
 
 
+<<<<<<< HEAD
+=======
+Charleston shooting: Emanuel AME church reopens for first service
+>>>>>>> origin/master
 
 
 
@@ -526,6 +815,20 @@ Featured & Trending:
 
 
 
+
+
+<<<<<<< HEAD
+=======
+Charleston shooting: Emanuel AME church reopens for first service
+>>>>>>> origin/master
+
+
+
+
+
+
+
+<<<<<<< HEAD
 Latest News Headlines:
 
 
@@ -558,6 +861,26 @@ Area Central detectives and the Independent Police Review Authority are investig
 
 
 (Source: Sun-Times Media Wire © Chicago Sun-Times 2012. All Rights Reserved. This material may not be published, broadcast, rewritten, or redistributed.)
+=======
+
+
+
+Dylann Roof: FBI probes website and manifesto linked to Charleston suspect
+
+
+
+>>>>>>> origin/master
+
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+Dylann Roof: FBI probes website and manifesto linked to Charleston suspect
+>>>>>>> origin/master
 
 
 
@@ -568,6 +891,10 @@ Area Central detectives and the Independent Police Review Authority are investig
 
 
 
+<<<<<<< HEAD
+=======
+Dylann Roof: far right denies links and disowns 'act of purposeful evil'
+>>>>>>> origin/master
 
 
 
@@ -577,16 +904,14 @@ Area Central detectives and the Independent Police Review Authority are investig
 
 
 
-
-
-
-
-
-
-
+<<<<<<< HEAD
  
 
 
+=======
+
+Dylann Roof: far right denies links and disowns 'act of purposeful evil'
+>>>>>>> origin/master
 
 
 
@@ -600,22 +925,34 @@ Area Central detectives and the Independent Police Review Authority are investig
 
 
 
+<<<<<<< HEAD
+=======
+South Carolina protest calls for removal of Confederate flag - video
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 Listen Live
+=======
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
+=======
+South Carolina protest calls for removal of Confederate flag - video
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
  
 
 
@@ -645,12 +982,30 @@ Eight Wounded In Thursday Shootings Across Chicago
 Most recently, two men were shot late Thursday in the West Side Austin neighborhood. The men, ages 19 and 20, were standing outside in the 1500 block of North Linder about 10:25 p.m. when shots were fired in their direction from a group of males standing on the corner across the street, according to Chicago Police.
  
 80
+=======
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Follow 
 CBS Chicago
+=======
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+Charleston shooting: Clementa Pinckney’s casket to lie at State House
+>>>>>>> origin/master
 
 
 
@@ -661,21 +1016,28 @@ CBS Chicago
 
 
 
+<<<<<<< HEAD
+=======
+Charleston shooting: Clementa Pinckney’s casket to lie at State House
+>>>>>>> origin/master
 
 
 
 
 
 
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 Follow @CBSChicago
+=======
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+Rally calls for Confederate flag's removal from South Carolina legislature grounds
+>>>>>>> origin/master
 
 
 
@@ -684,13 +1046,15 @@ Follow @CBSChicago
 
 
 
-
-
-
-
+<<<<<<< HEAD
 Like us on foursquare
 
 
+=======
+
+
+Rally calls for Confederate flag's removal from South Carolina legislature grounds
+>>>>>>> origin/master
 
 
 
@@ -699,31 +1063,57 @@ Like us on foursquare
 
 
 
+<<<<<<< HEAD
+=======
+Older
+Newer
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+
+
+
+=======
+Topics
+
+
+
+South Carolina
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+US crime
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+Gun crime
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+Race issues
+>>>>>>> origin/master
 
 
 
 
-
-
-
+<<<<<<< HEAD
 
 Follow More Stations and Personalities
 
@@ -788,18 +1178,63 @@ dodgerman
 
  
 
+=======
+Internet
+
+
+
+More…
+
+
+
+US politics
 
 
 
 
+Protest
 
 
 
 
+Obama administration
 
 
 
 
+FBI
+
+
+
+
+Republicans
+
+
+
+
+Barack Obama
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+US gun control
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+The far right
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
@@ -824,16 +1259,48 @@ New Podcast Network
 Download Our New Weather App!
  
 
+=======
+Ted Cruz
 
 
 
 
+Scott Walker
 
 
 
 
+Twitter
+
+
+
+
+Social media
+
+
+
+
+Mike Huckabee
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+Rick Santorum
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
  
+=======
+American civil war
+
+>>>>>>> origin/master
 
 
 
@@ -844,6 +1311,7 @@ Download Our New Weather App!
 
 
 
+<<<<<<< HEAD
 News
 
 
@@ -868,12 +1336,33 @@ Weather
 
 
 Traffic
+=======
+
+
+The Guardian
 
 
 
 
 
 
+
+
+back to top
+
+
+
+
+
+
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
 Sports
 
 
@@ -900,15 +1389,46 @@ Podcasts
 Blogs
 
 
+=======
+
+
+home
 
 
 
 
+US
+selected
+
+
+
+
+world
+
+
+
+
+opinion
+
+
+
+
+sports
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Scores & Stats
+=======
+soccer
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 NFL Football
 
 
@@ -921,15 +1441,33 @@ NBA Basketball
 NHL Hockey
 
 
+=======
+tech
 
 
 
 
+arts
+
+
+
+
+lifestyle
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Contact Us
+=======
+fashion
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 CBS 2
 
 
@@ -943,17 +1481,37 @@ Connect
 
 
 Mobile
+=======
+business
 
 
 
 
+travel
+
+
+
+
+environment
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 Corporate
+=======
+science
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 About Us
 
 
@@ -972,6 +1530,10 @@ Mobile
 Connect
 
 
+=======
+
+all sections
+close
 
 
 
@@ -979,12 +1541,36 @@ Connect
 
 
 
+home
 
+
+
+
+US
+selected
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+world
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Chicago Business Listings
+=======
+UK
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Restaurants
 
 
@@ -998,14 +1584,32 @@ Professional Services
 
 
 Search Listings
+=======
+europe
 
 
 
 
+americas
 
 
 
 
+asia
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+middle east
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 By viewing our video content, you are accepting the terms of our 
 Video Services Policy
 
@@ -1055,14 +1659,59 @@ WordPress.com VIP
 
 
  
+=======
+africa
+
+
+
+
+australia
+
+
+
+
+cities
+
+
+
+
+development
 
 
 
 
 
 
+opinion
 
 
+
+
+sports
+
+
+
+
+soccer
+
+
+
+
+MLS
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+NFL
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 Facebook
@@ -1074,10 +1723,24 @@ Twitter
 RSS
 
 
+=======
+MLB
 
 
 
 
+NBA
+
+
+
+
+NHL
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Other CBS Local Cities 
 
 
@@ -1156,14 +1819,86 @@ CBS Tampa
 
 
 CBS Washington
+=======
+
+
+soccer
+
+
+
+
+live scores
+
+
+
+
+tables
+
+
+
+
+competitions
+
+
+
+
+results
+
+
+
+
+fixtures
+
+
+
+
+clubs
 
 
 
 
 
 
+tech
 
 
+
+
+arts
+
+
+
+
+movies
+
+
+
+
+tv & radio
+
+
+
+
+music
+
+
+
+
+games
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+books
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 ©2015 CBS Local Media,
@@ -1173,16 +1908,29 @@ a division of CBS Radio Inc.
 All rights reserved.
 
 
+=======
+art & design
+
+
+
+
+stage
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+classical
+>>>>>>> origin/master
 
 
 
 
 
 
-
-
-
-
+<<<<<<< HEAD
 Buy Tickets
 Order Food
  
@@ -1201,33 +1949,62 @@ Email Alerts
 Daily Deals
 50% Off From ATE Accessories
  
+=======
+lifestyle
 
 
 
 
+food
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+health & fitness
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+love & sex
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+family
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+women
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Log In
 Register
  
+=======
+home & garden
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Follow Us
 
 
@@ -1238,47 +2015,90 @@ Twitter
 
 
 Youtube
+=======
+
+
+fashion
+
+
+
+
+business
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+economics
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+sustainable business
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+diversity & equality in business
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+small business
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+travel
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+USA
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+europe
+>>>>>>> origin/master
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 Listen Live
+=======
+UK
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 
 
 AM/FM Stations
@@ -1302,17 +2122,45 @@ B96
 
 
 WBBM NewsRadio
+=======
+environment
+
+
+
+
+climate change
+
+
+
+
+wildlife
+
+
+
+
+energy
+
+
+
+
+pollution
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 Featured Shows & Multimedia
+=======
+science
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Play.It
 
 
@@ -1325,13 +2173,72 @@ CBS Sports Radio
 Radio.com
 
 
+=======
+media
+
+
+
+
+crosswords
+
+
+
+
+video
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 Advertise On Our Streams
+=======
+>>>>>>> origin/master
+
+
+
+
+
+
+
+<<<<<<< HEAD
+
+
+
+
+
+
+
+
+
+
+=======
+jobs
+
+subscribe
+all topics
+all contributors
+
+
+report technical issue
+
+
+
+about us
+
+contact us
+
+complaints & corrections
+terms & conditions
+privacy policy
+cookie policy
+securedrop
+
+
+© 2015 Guardian News and Media Limited or its affiliated companies. All rights reserved.
+>>>>>>> origin/master
 
 
 
@@ -1345,30 +2252,17 @@ Advertise On Our Streams
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
+ 
+=======
+>>>>>>> origin/master
 
 
 
 
  
 
-
-
-
- 
-
+<<<<<<< HEAD
 
 
 
@@ -1401,3 +2295,5 @@ Advertise On Our Streams
 
 
 
+=======
+>>>>>>> origin/master

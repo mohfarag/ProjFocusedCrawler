@@ -1,7 +1,14 @@
+<<<<<<< HEAD
 Suspect under arrest in Jamyla Bolden murder | FOX2now.com 
 
 
 Suspect under arrest in Jamyla Bolden murder | FOX2now.com
+=======
+Latest black church fire in South Carolina had 'natural' cause, authorities say | US news | The Guardian
+
+Latest black church fire in South Carolina had 'natural' cause, authorities say | US news | The Guardian
+
+>>>>>>> origin/master
 
 
 
@@ -16,8 +23,12 @@ Suspect under arrest in Jamyla Bolden murder | FOX2now.com
 
 
 
+<<<<<<< HEAD
 Go
 Search
+=======
+Close
+>>>>>>> origin/master
 
 
 
@@ -26,6 +37,7 @@ Search
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -99,6 +111,10 @@ STLMoms
 Events
 
 
+=======
+Skip to main content
+
+ 
 
 
 
@@ -106,6 +122,29 @@ Events
 
 
 
+
+
+
+
+sign in
+
+
+
+
+
+
+
+
+subscribe
+>>>>>>> origin/master
+
+
+
+
+
+
+
+<<<<<<< HEAD
 
 Weather 
 
@@ -113,6 +152,15 @@ Weather
 
 
 77°
+=======
+search
+
+
+
+
+jobs
+
+>>>>>>> origin/master
 
 
 
@@ -122,6 +170,7 @@ Weather
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -142,6 +191,33 @@ Low
 
 High 
 84°
+=======
+more
+
+
+from the guardian:
+
+
+jobs
+
+
+
+change edition:
+
+
+
+switch to the  UK  edition
+
+
+switch to the  AU  edition
+
+
+switch to the 
+INT
+beta
+ edition
+
+>>>>>>> origin/master
 
 
 
@@ -149,10 +225,15 @@ High
 
 
 
+<<<<<<< HEAD
+=======
+US edition
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 Sat
 
@@ -165,43 +246,82 @@ Sat
 					
 
 
+=======
+switch to the 
+UK edition
 
 
 
 
+switch to the 
+Australia edition
+
+
+
+
+switch to the 
+International
+beta
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Sun
+=======
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 					65° 
  88°
 					
 
+=======
+
+The Guardian
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 Mon
+=======
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 					68° 
  91°
 					
+=======
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 See complete forecast
 
 
+=======
+home
+
+
+›
+US
+>>>>>>> origin/master
 
 
 
@@ -210,51 +330,91 @@ See complete forecast
 
 
 
+<<<<<<< HEAD
  
 
 
 
+=======
+
+
+home
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+US
+selected
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+world
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+opinion
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 
  
+=======
+sports
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+soccer
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+tech
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+arts
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Suspect under arrest in Jamyla Bolden murder
+=======
+lifestyle
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Posted 11:40 am, August 27, 2015, by 
 Joe Millitzer
 , 
@@ -273,14 +433,22 @@ Email
  
 
 
+=======
+fashion
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+business
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 FERGUSON, MO (KTVI) – An arrest has been made in connection with the fatal shooting of a 9-year-old in Ferguson.  Ferguson police worked with St. Louis County police and the US Marshals office to arrest De’Eris Brown, 21, at a hospital on Wednesday.  Brown was not a patient at the hospital. He was there to see a family member.
@@ -306,6 +474,27 @@ More details will be posted as this story develops.  Refresh this page for the 
 
  
 
+=======
+travel
+
+
+
+
+environment
+
+
+
+
+science
+
+
+
+
+
+
+browse all sections
+close
+>>>>>>> origin/master
 
 
 
@@ -314,24 +503,41 @@ More details will be posted as this story develops.  Refresh this page for the 
 
 
 
+<<<<<<< HEAD
 
 Joe Millitzer
 
 
 August 27, 2015
 3:51 pm
+=======
+ 
+
+
+
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 De’Eris Brown’s mugshot
 
 
 
 
 
+=======
+
+
+South Carolina
+
+
+
+Latest black church fire in South Carolina had 'natural' cause, authorities say
+>>>>>>> origin/master
 
 
 
@@ -341,18 +547,27 @@ De’Eris Brown’s mugshot
 
 
 
+<<<<<<< HEAD
 Joe Millitzer
 
 
 August 27, 2015
 3:46 pm
+=======
+Officers close investigation in Greeleyville after finding ‘no indicator of criminal intent’
+
+
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 De’Eris Brown is on probation out of St. Charles county on a robbery charge
+=======
+>>>>>>> origin/master
 
 
 
@@ -363,10 +578,16 @@ De’Eris Brown is on probation out of St. Charles county on a robbery charge
 
 
 
+<<<<<<< HEAD
+=======
+Fire crews try to control a blaze at the Mount Zion African Methodist Episcopal Church in Greeleyville, South Carolina.
+Photograph: HANDOUT/Reuters
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Joe Millitzer
 
 
@@ -382,6 +603,23 @@ There were several calls from people attending marches for Jamyla Bolden calling
 
 
 
+=======
+Amanda Holpuch in New York
+
+
+
+
+
+@holpuch
+
+
+
+
+Thursday 2 July 2015 14.03 EDT
+
+
+Last modified on Thursday 2 July 2015 18.28 EDT
+>>>>>>> origin/master
 
 
 
@@ -389,16 +627,27 @@ There were several calls from people attending marches for Jamyla Bolden calling
 
 
 
+<<<<<<< HEAD
+=======
+Share on Facebook
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Joe Millitzer
 
 
 August 27, 2015
 3:40 pm
 
+=======
+
+
+
+Share on Twitter
+>>>>>>> origin/master
 
 
 
@@ -406,6 +655,7 @@ August 27, 2015
 
 
 
+<<<<<<< HEAD
 
 
 Ferguson Police chief says department has confession from suspect in shooting death of 
@@ -419,6 +669,8 @@ August 27, 2015
 
 
 
+=======
+Share via Email
 
 
 
@@ -426,24 +678,50 @@ August 27, 2015
 
 
 
+Share on Pinterest
+>>>>>>> origin/master
 
 
 
 
+
+
+
+<<<<<<< HEAD
+=======
+Share on LinkedIn
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Joe Millitzer
 
 
 August 27, 2015
 2:31 pm
 
+=======
+
+
+
+Share on Google+
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 Ferguson police will hold a press conference at 3:30pm.  We will be streaming it on this website.
 
 
+=======
+
+
+Share on WhatsApp
+>>>>>>> origin/master
 
 
 
@@ -458,6 +736,7 @@ Ferguson police will hold a press conference at 3:30pm.  We will be streaming i
 
 
 
+<<<<<<< HEAD
 Joe Millitzer
 
 
@@ -466,10 +745,37 @@ August 27, 2015
 
 
 
+=======
+
+
+
+Investigators said on Thursday that the most recent of seven fires at predominantly black churches in the American south “was best classified as natural”, ending several days of speculation over whether it was intentionally set. 
+The South Carolina Law Enforcement Division ruled that the fire at Mount Zion African Methodist Episcopal (AME) Church in Greeleyville, South Carolina, was not intentional, a decision which which the Williamsburg County Sheriff’s Office and the Bureau of Alcohol, Tobacco, Firearms and Explosives agreed.
+“Investigators observed no indicator of criminal intent,” Sled spokesperson Kathryn Richardson said in a statement. “The investigation is complete.” 
+
+ Related: South Carolina blaze brings tally of recent black church fires to seven 
+
+A spate of fires has followed the racially motivated killing of nine people at a church in Charleston, South Carolina, last month, provoking concerns that the incidents were related. Black churches have been targeted by racists since at least the early 19th century.
+Police and firefighters had earlier disputed an anonymous report claiming that the fire was caused by lightning.
+The Associated Press and the New York Times both cited an anonymous law enforcement official who said that a fire at Mount Zion African Methodist Episcopal (AME) Church in Greeleyville was caused by lightning.
+“Bogus, bogus. We just don’t know yet,” Williamsburg fire chief Randy Swinton told the Post and Courier of the reports.
+Only the walls of the church were left standing at Mount Zion, a church that was burned to the ground by the Ku Klux Klan in 1995. 
+Craig Chillcott, a senior agent with the Bureau of Alcohol, Tobacco, Firearms and Explosives in South Carolina, said no cause had been ruled out in the ongoing investigation of the church fire. And chief Mark Keel of the State Law Enforcement Division said: “We can’t make a definitive call yet.”
+The other churches to catch fire since the 17 June mass killing:
+• College Hill Seventh Day Adventist Church in Knoxville, Tennessee, where the apparent cause of the incident was vandalism and not a hate crime, according to the fire department. Pastor Cleveland Hobdy III said he thought someone was trying to intentionally damage the church. 
+• God’s Power Church of Christ in Macon, Georgia was heavily damaged by a fire that is still being investigated by federal agencies, which have not determined what caused it. 
+• Authorities said a fire at Briar Creek Road Baptist Church in Charlotte, North Carolina was intentional, but there is not yet evidence that it was a hate crime. The investigation is ongoing. 
+• Glover Grove Baptist Church in Warrenville, South Carolina was destroyed by a fire that authorities have not determined the cause of. 
+• Greater Miracle Apostolic Holiness Church in Tallahassee, Florida caught fire after a tree fell on electrical wiring. For the past two months, the church had a sign posted outside that said: “Call 911. This church is on fire.”
+• The federal Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF) said that a fire at Fruitland Presbyterian Church in Gibson County was ruled accidental.
+Data from the National Fire Protection Association shows that fire departments responded to an average of 1,780 structure fires per year at churches between 2007 and 2011. This means any fire that occurs in the structure, even if the building was not damaged. 
+The predominant cause of the fires was from cooking equipment, though arson accounted for 16% of the fires – about 280 churches per year.
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -483,6 +789,19 @@ JamylaBolden
 August 27, 2015
 
 
+=======
+More news 
+Topics
+
+
+
+South Carolina
+
+
+
+
+Charleston shooting
+>>>>>>> origin/master
 
 
 
@@ -493,6 +812,10 @@ August 27, 2015
 
 
 
+<<<<<<< HEAD
+=======
+Share on Facebook
+>>>>>>> origin/master
 
 
 
@@ -500,6 +823,10 @@ August 27, 2015
 
 
 
+<<<<<<< HEAD
+=======
+Share on Twitter
+>>>>>>> origin/master
 
 
 
@@ -507,10 +834,14 @@ August 27, 2015
 
 
 
+<<<<<<< HEAD
 Filed in:
  
 News
  
+=======
+Share via Email
+>>>>>>> origin/master
 
 
 
@@ -518,6 +849,7 @@ News
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -527,6 +859,8 @@ News
 Report a Typo
 
 
+=======
+Share on Pinterest
 
 
 
@@ -534,21 +868,44 @@ Report a Typo
 
 
 
+Share on LinkedIn
+>>>>>>> origin/master
+
+
+
+
+
+
+
+<<<<<<< HEAD
 
 
 
 Name
 (required)
+=======
+Share on Google+
+
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+Share on WhatsApp
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Typo
 (required)
+=======
+>>>>>>> origin/master
 
 
 
@@ -567,14 +924,23 @@ Typo
 
 
 
+<<<<<<< HEAD
  
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Cancel
 
 
+=======
+
+
+View all comments >
+>>>>>>> origin/master
 
 
 
@@ -582,6 +948,23 @@ Cancel
 
 
 
+<<<<<<< HEAD
+
+
+
+
+=======
+comments 
+Sign in
+or create your Guardian account to join the discussion.
+
+This discussion is closed for comments.
+
+We’re doing some maintenance right now. You can still read comments, but please come back later to add your own.
+
+
+Commenting has been disabled for this account (why?)
+>>>>>>> origin/master
 
 
 
@@ -589,18 +972,25 @@ Cancel
 
 
 
+<<<<<<< HEAD
 
 
 
 
+=======
+Order by 
+
+
+newest
+
+
+oldest
+>>>>>>> origin/master
 
 
 
 
-
-
-
-
+<<<<<<< HEAD
  
 
 
@@ -610,10 +1000,26 @@ Cancel
 
 
 
+=======
+Show 25
+
+
+25
+
+
+50
+
+
+100
+
+
+All
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 Have a news tip?
@@ -622,16 +1028,44 @@ Have a news tip?
 Do you have a story you want FOX 2 to investigate?  E-mail us.
 
 
+=======
+Threads 
+
+
+collapsed
+
+
+expanded
+
+
+unthreaded
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
+=======
+Loading comments… Trouble loading?
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+View more comments
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
+ 
+=======
+>>>>>>> origin/master
 
 
 
@@ -641,13 +1075,9 @@ Do you have a story you want FOX 2 to investigate?  E-mail us.
 
 
 
- 
 
 
-
-
-
-
+<<<<<<< HEAD
 Popular
 
 
@@ -689,6 +1119,12 @@ Reporter, photographer murdered after gunman opens fire during live shot
 
 
 
+=======
+
+
+
+popular
+>>>>>>> origin/master
 
 
 
@@ -708,25 +1144,41 @@ Reporter, photographer murdered after gunman opens fire during live shot
 
 
 
+<<<<<<< HEAD
 Latest News
 
 
 
+=======
+
+
+The Guardian
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 One man’s poop is another’s medicine
 
 
 
+=======
+
+
+
+back to top
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 STLMoms: Shop for a Cause at Macy’s to benefit March of Dimes
+=======
+>>>>>>> origin/master
 
 
 
@@ -735,54 +1187,103 @@ STLMoms: Shop for a Cause at Macy’s to benefit March of Dimes
 
 
 
+<<<<<<< HEAD
 Zip Rzeppa visits FOX 2
 
+=======
+
+home
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 
 St. Louis Polo Charity Match to benefit the Endangered Wolf Center
 
+=======
+US
+selected
 
 
 
 
+world
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+opinion
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
  
 
+=======
+sports
 
 
 
 
+soccer
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+tech
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+arts
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+lifestyle
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+fashion
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+business
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 News
 
@@ -797,17 +1298,39 @@ Sunday’s march for Jamyla Bolden
 
 
 News
+=======
+travel
 
 
 
 
+environment
+
+
+
+
+science
+
+
+
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Reward increased in Jamyla Bolden murder investigation
+=======
+all sections
+close
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 News
 
 
@@ -815,10 +1338,21 @@ News
 
 Still no arrests after fatal shooting of girl in Ferguson
 
+=======
+
+home
 
 
 
 
+US
+selected
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 News
 
@@ -839,19 +1373,52 @@ News
 
 Manhunt on for killer of 9-year-old girl in Ferguson
 
+=======
+world
 
 
 
 
+UK
+
+
+
+
+europe
+
+
+
+
+americas
+
+
+
+
+asia
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
  
 
+=======
+middle east
 
 
 
 
+africa
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 News
 
@@ -884,10 +1451,46 @@ News
 
 Jamyla Bolden funeral information released; reward increased
 
+=======
+australia
 
 
 
 
+cities
+
+
+
+
+development
+
+
+
+
+
+
+opinion
+
+
+
+
+sports
+
+
+
+
+soccer
+
+
+
+
+MLS
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 News
 
@@ -910,10 +1513,36 @@ Family, friends gather to remember 9-year-old shooting victim Jamyla Bolden
 
 
 
+=======
+NFL
 
 
 
 
+MLB
+
+
+
+
+NBA
+
+
+
+
+NHL
+
+
+
+
+
+
+soccer
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
  
 
@@ -929,10 +1558,29 @@ News
 
 Ferguson officer gives heart wrenching account of 9-year-old’s murder
 
+=======
+live scores
 
 
 
 
+tables
+
+
+
+
+competitions
+
+
+
+
+results
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 News
 
@@ -940,11 +1588,21 @@ News
 
 
 Police join prayer circle for 9-year-old shot in Ferguson
+=======
+fixtures
+
+
+
+
+clubs
+
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 
 News
 
@@ -955,27 +1613,58 @@ Man killed in North St. Louis at gathering
 
 
 
+=======
+tech
 
 
 
 
+arts
 
 
 
 
+movies
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+tv & radio
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
  
 
+=======
+music
 
 
 
 
+games
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+books
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
@@ -990,15 +1679,34 @@ iPhone & iPad App
 
 
 iPhone Weather App
+=======
+art & design
+
+
+
+
+stage
+
+
+
+
+classical
+
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
+=======
+lifestyle
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 Facebook
 
@@ -1011,18 +1719,40 @@ Email Alerts
 
 About & Contact
 
+=======
+food
 
 
 
 
+health & fitness
 
 
 
 
+love & sex
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+family
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+women
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
@@ -1046,90 +1776,169 @@ WordPress.com VIP
 
 
 
+=======
+home & garden
 
 
 
 
 
 
+fashion
+>>>>>>> origin/master
 
 
+
+
+<<<<<<< HEAD
+=======
+business
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 ×
 
 
 Email Alerts
 
+=======
+economics
 
 
 
 
+sustainable business
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+diversity & equality in business
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+small business
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+travel
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+USA
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+europe
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+UK
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+environment
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+climate change
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+wildlife
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+energy
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+pollution
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+science
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+media
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+crosswords
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+video
+>>>>>>> origin/master
 
 
 
@@ -1137,6 +1946,11 @@ Email Alerts
 
 
 
+
+
+
+
+<<<<<<< HEAD
 
 
 Send to Email Address
@@ -1180,6 +1994,59 @@ Cancel
 
 
 
+=======
+US News
+
+
+
+
+›
+South Carolina
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+
+
+
+
+
+
+
+
+
+
+=======
+jobs
+
+subscribe
+all topics
+all contributors
+
+
+report technical issue
+
+
+
+about us
+
+contact us
+
+complaints & corrections
+terms & conditions
+privacy policy
+cookie policy
+securedrop
+
+
+© 2015 Guardian News and Media Limited or its affiliated companies. All rights reserved.
+>>>>>>> origin/master
 
 
 
@@ -1197,22 +2064,8 @@ Cancel
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
+=======
+ 
+>>>>>>> origin/master
 

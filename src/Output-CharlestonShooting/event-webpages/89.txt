@@ -1,8 +1,16 @@
+<<<<<<< HEAD
 Charleston killings leave US reckoning with race and guns amid 'broken peace' | US news | The Guardian
 
 
 
 Charleston killings leave US reckoning with race and guns amid 'broken peace' | US news | The Guardian
+=======
+Charleston shooting | US news | The Guardian
+
+Charleston shooting | US news | The Guardian
+
+
+>>>>>>> origin/master
 
 
 
@@ -16,6 +24,25 @@ Charleston killings leave US reckoning with race and guns amid 'broken peace' | 
 
 
 
+<<<<<<< HEAD
+=======
+Close
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+
+=======
+Skip to main content
+
+ 
+>>>>>>> origin/master
 
 
 
@@ -26,15 +53,7 @@ Charleston killings leave US reckoning with race and guns amid 'broken peace' | 
 
 
 
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 Close
 
 
@@ -2317,6 +2336,10 @@ all
 
 close
 
+=======
+
+sign in
+>>>>>>> origin/master
 
 
 
@@ -2325,30 +2348,48 @@ close
 
 
 
+<<<<<<< HEAD
+=======
+subscribe
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 home
 
+=======
+
+search
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 
 US
 
 selected
+=======
+jobs
+
+
+
+
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -2365,30 +2406,81 @@ UK
 
 
 
+=======
+more
+
+
+from the guardian:
+
+
+jobs
+
+
+
+change edition:
+
+
+
+switch to the  UK  edition
+
+
+switch to the  AU  edition
+
+
+switch to the 
+INT
+beta
+ edition
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 europe
 
 
 
+=======
+
+
+
+US edition
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 americas
 
 
 
+=======
+switch to the 
+UK edition
 
 
 
 
+switch to the 
+Australia edition
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 asia
+=======
+switch to the 
+International
+beta
+
+>>>>>>> origin/master
 
 
 
@@ -2397,8 +2489,13 @@ asia
 
 
 
+<<<<<<< HEAD
 middle east
 
+=======
+
+The Guardian
+>>>>>>> origin/master
 
 
 
@@ -2406,7 +2503,10 @@ middle east
 
 
 
+<<<<<<< HEAD
 africa
+=======
+>>>>>>> origin/master
 
 
 
@@ -2415,79 +2515,151 @@ africa
 
 
 
+<<<<<<< HEAD
 australia
 
 
 
+=======
+
+home
+
+
+›
+US
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 cities
+=======
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 
 
 
 development
 
+=======
+home
 
 
 
 
+US
+selected
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+world
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
 opinion
 
-
-
-
+=======
+opinion
 
 
 
 
 sports
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 
+sports
 
+=======
 soccer
 
 
 
 
+tech
+>>>>>>> origin/master
 
+
+
+
+<<<<<<< HEAD
+
+
+
+soccer
+
+=======
+arts
+
+
+
+
+lifestyle
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
 MLS
 
+=======
+fashion
 
 
 
 
+business
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
 NFL
 
+=======
+travel
 
 
 
 
+environment
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
@@ -2495,417 +2667,7 @@ MLB
 
 
 
-
-
-
-
-
-NBA
-
-
-
-
-
-
-
-
-NHL
-
-
-
-
-
-
-
-
-rugby world cup
-
-
-
-
-
-
-
-
-
-
-
-
-soccer
-
-
-
-
-
-
-
-
-live scores
-
-
-
-
-
-
-
-
-tables
-
-
-
-
-
-
-
-
-competitions
-
-
-
-
-
-
-
-
-results
-
-
-
-
-
-
-
-
-fixtures
-
-
-
-
-
-
-
-
-clubs
-
-
-
-
-
-
-
-
-
-
-
-
-tech
-
-
-
-
-
-
-
-
-arts
-
-
-
-
-
-
-
-
-movies
-
-
-
-
-
-
-
-
-tv & radio
-
-
-
-
-
-
-
-
-music
-
-
-
-
-
-
-
-
-games
-
-
-
-
-
-
-
-
-books
-
-
-
-
-
-
-
-
-art & design
-
-
-
-
-
-
-
-
-stage
-
-
-
-
-
-
-
-
-classical
-
-
-
-
-
-
-
-
-
-
-
-
-lifestyle
-
-
-
-
-
-
-
-
-food
-
-
-
-
-
-
-
-
-health & fitness
-
-
-
-
-
-
-
-
-love & sex
-
-
-
-
-
-
-
-
-family
-
-
-
-
-
-
-
-
-women
-
-
-
-
-
-
-
-
-home & garden
-
-
-
-
-
-
-
-
-
-
-
-
-fashion
-
-
-
-
-
-
-
-
-business
-
-
-
-
-
-
-
-
-economics
-
-
-
-
-
-
-
-
-sustainable business
-
-
-
-
-
-
-
-
-diversity & equality in business
-
-
-
-
-
-
-
-
-small business
-
-
-
-
-
-
-
-
-
-
-
-
-travel
-
-
-
-
-
-
-
-
-USA
-
-
-
-
-
-
-
-
-europe
-
-
-
-
-
-
-
-
-UK
-
-
-
-
-
-
-
-
-
-
-
-
-environment
-
-
-
-
-
-
-
-
-climate change
-
-
-
-
-
-
-
-
-wildlife
-
-
-
-
-
-
-
-
-energy
-
-
-
-
-
-
-
-
-pollution
-
-
-
-
-
-
-
-
-
-
-
-
+=======
 science
 
 
@@ -2913,163 +2675,1081 @@ science
 
 
 
+browse all sections
+close
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
+NBA
+
+
+
+=======
+
+
+
+ 
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
+NHL
+=======
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+
+
+
+
+rugby world cup
+=======
+Charleston shooting
+
+Friday
+
+10
+July
+2015
+
+
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+soccer
+=======
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
+
+
+
+live scores
+=======
+South Carolina's Confederate flag comes down as history of hate meets modernity
+
+
+In a cathartic moment, the controversial standard was consigned to a museum. But taking down a symbol is easier than dealing with what it represents
+
+>>>>>>> origin/master
+
+
+
+
+
+
+
+<<<<<<< HEAD
+
+tables
+=======
+South Carolina's Confederate flag comes down as history of hate meets modernity
+
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+competitions
+=======
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
+
+
+results
+=======
+FBI chief admits gun background check system failure over Dylann Roof
+
+
+James Comey said information on Roof, who was arrested on a felony charge in February, was either improperly entered into the database or used incorrectly
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+fixtures
+=======
+FBI chief admits gun background check system failure over Dylann Roof
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+clubs
+=======
+>>>>>>> origin/master
+
+
+
+
+
+
+
+<<<<<<< HEAD
+
+
+
+
+
+tech
+=======
+Muslim and Jewish groups at forefront of efforts to rebuild black churches
+
+
+Groups seek to raise hundreds of thousands for southern churches that burned after Charleston shooting: ‘If we don’t stand up … we’re all going to suffer’
+
+
+
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
+
+
+
+arts
+
+
+
+=======
+Muslim and Jewish groups at forefront of efforts to rebuild black churches
+
+
+
+
+
+
+Older
+Newer
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
+movies
+
+
+
+
+=======
+
+Topics
+
+
+
+South Carolina
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+tv & radio
+=======
+Race issues
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+Judaism
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+music
+=======
+FBI
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+
+
+
+
+games
+
+
+=======
+US gun control
+
+
+
+More…
+
+
+
+Islam
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+
+
+books
+
+
+=======
+US crime
+
+
+
+
+Gun crime
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+
+
+art & design
+
+
+=======
+Christianity
+
+
+
+
+Religion
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
+stage
+=======
+>>>>>>> origin/master
+
+
+
+
+
+
+
+<<<<<<< HEAD
+
+classical
+=======
+The Guardian
+
+>>>>>>> origin/master
+
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+back to top
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
+lifestyle
+=======
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+food
+
+=======
+
+home
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+
+
+
+health & fitness
+
+=======
+US
+selected
+
+
+
+
+world
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+
+
+
+love & sex
+
+=======
+opinion
+
+
+
+
+sports
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+
+
+
+family
+
+=======
+soccer
+
+
+
+
+tech
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+
+
+
+women
+
+=======
+arts
+
+
+
+
+lifestyle
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+
+
+
+home & garden
+
+=======
+fashion
+
+
+
+
+business
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+travel
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+
+
+
+fashion
+
+=======
+environment
+
+
+
+
+science
+>>>>>>> origin/master
+
+
+
+
+
+
+
+<<<<<<< HEAD
+business
+=======
+all sections
+close
+>>>>>>> origin/master
+
+
+
+
+
+
+
+<<<<<<< HEAD
+
+economics
+
+
+
+=======
+home
+
+
+
+
+US
+selected
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+
+sustainable business
+
+
+
+=======
+world
+
+
+
+
+UK
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+
+diversity & equality in business
+
+
+
+=======
+europe
+
+
+
+
+americas
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+
+small business
+
+
+
+=======
+asia
+
+
+
+
+middle east
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+africa
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+
+travel
+
+
+
+=======
+australia
+
+
+
+
+cities
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+
+USA
+=======
+development
+
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
+
+
+
+europe
+
+=======
+opinion
+
+
+
+
+sports
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+
+
+
+UK
+
+=======
+soccer
+
+
+
+
+MLS
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+NFL
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+
+
+
+environment
+
+=======
+MLB
+
+
+
+
+NBA
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+
+
+
+climate change
+
+
+
+=======
+NHL
+
+
+
+
+
+
+soccer
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+
+wildlife
+
+
+
+=======
+live scores
+
+
+
+
+tables
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+
+energy
+
+
+
+=======
+competitions
+
+
+
+
+results
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+
+pollution
+
+
+
+=======
+fixtures
+
+
+
+
+clubs
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
+
+
+
+science
+
+=======
+tech
+
+
+
+
+arts
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+
 
 
 media
 
+=======
+movies
 
 
 
 
+tv & radio
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
 crosswords
 
+=======
+music
 
 
 
 
+games
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
 blog
 
+=======
+books
 
 
 
 
+art & design
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
 editor
 
+=======
+stage
+
+
+
+
+classical
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 
 quick
 
 
 
+=======
+lifestyle
 
 
 
 
+food
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 cryptic
 
 
 
+=======
+health & fitness
 
 
 
 
+love & sex
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 prize
 
 
 
+=======
+family
 
 
 
 
+women
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 quiptic
+=======
+home & garden
+
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 
 
 
 genius
 
+=======
+fashion
 
 
 
 
+business
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
 speedy
 
+=======
+economics
 
 
 
 
+sustainable business
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
 everyman
 
+=======
+diversity & equality in business
+
+
+
+
+small business
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 
 azed
 
 
 
+=======
+travel
 
 
 
 
+USA
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+europe
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 video
+=======
+UK
+
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
+=======
+environment
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+climate change
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+wildlife
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+energy
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 US News
+=======
+pollution
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+science
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 ›
 
 
 Charleston shooting
+=======
+media
 
 
 
 
+crosswords
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+video
+>>>>>>> origin/master
 
 
 
@@ -3085,6 +3765,7 @@ Charleston shooting
 
 jobs
 
+<<<<<<< HEAD
 
 
 subscribe
@@ -3099,10 +3780,18 @@ all contributors
 
 
 
+=======
+subscribe
+all topics
+all contributors
+
+
+>>>>>>> origin/master
 report technical issue
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -3133,6 +3822,19 @@ securedrop
 
 
 
+=======
+about us
+
+contact us
+
+complaints & corrections
+terms & conditions
+privacy policy
+cookie policy
+securedrop
+
+
+>>>>>>> origin/master
 © 2015 Guardian News and Media Limited or its affiliated companies. All rights reserved.
 
 
@@ -3151,6 +3853,7 @@ securedrop
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -3174,3 +3877,7 @@ securedrop
 
 
 
+=======
+ 
+
+>>>>>>> origin/master

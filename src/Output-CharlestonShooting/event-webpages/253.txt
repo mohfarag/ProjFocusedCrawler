@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 Police Shoot, Kill Knife-Wielding Teen On South Side « CBS Chicago
 
 Police Shoot, Kill Knife-Wielding Teen On South Side « CBS Chicago
+=======
+Funerals begin for Charleston shooting victims – in pictures | US news | The Guardian
+
+Funerals begin for Charleston shooting victims – in pictures | US news | The Guardian
+>>>>>>> origin/master
 
 
 
@@ -16,14 +22,22 @@ Police Shoot, Kill Knife-Wielding Teen On South Side « CBS Chicago
 
 
 
+<<<<<<< HEAD
 
 
 
 Chicago
+=======
+Close
+
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Radio.com
 
 
@@ -107,6 +121,11 @@ Washington
 
 
 SIGN UP FOR NEWSLETTERS
+=======
+
+Skip to main content
+
+ 
 
 
 
@@ -118,6 +137,29 @@ SIGN UP FOR NEWSLETTERS
 
 
 
+sign in
+
+
+
+
+
+
+
+
+subscribe
+
+
+
+
+
+
+
+search
+
+
+
+
+jobs
 
 
 
@@ -128,12 +170,89 @@ SIGN UP FOR NEWSLETTERS
 
 
 
+more
+
+
+from the guardian:
+
+
+jobs
+
+
+
+change edition:
+
+
+
+switch to the  UK  edition
+
+
+switch to the  AU  edition
+
+
+switch to the 
+INT
+beta
+ edition
+>>>>>>> origin/master
 
 
 
 
 
+
+
+
+<<<<<<< HEAD
+=======
+US edition
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+switch to the 
+UK edition
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+switch to the 
+Australia edition
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+switch to the 
+International
+beta
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
 Sponsored By
+=======
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+The Guardian
+>>>>>>> origin/master
 
 
 
@@ -150,6 +269,16 @@ Sponsored By
 
 
 
+<<<<<<< HEAD
+
+
+=======
+home
+
+
+›
+US
+>>>>>>> origin/master
 
 
 
@@ -158,12 +287,7 @@ Sponsored By
 
 
 
-
-
-
-
-
-
+<<<<<<< HEAD
 CBS 2
 Welcome to CBS 2 on CBSChicago.com! CBS 2 is joining forces with the most trusted local CBS RADIO stations in Chicago to give you the best Chicago has to offer as CBS Local. CBS 2 […]
 WBBM Newsradio
@@ -172,34 +296,61 @@ Welcome to WBBM Newsradio 780 & 105.9FM, The Home of Chicago Bears Radio and Chi
 Welcome to 670 The Score, the home of White Sox radio, on CBSChicago.com! The Score is partners with CBS 2 TV and WBBM 780, and they give you the best Chicago has to offer. 670 […]
 
 
+=======
+
+
+home
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Follow Us
 Facebook
 Twitter
 YouTube
+=======
+US
+selected
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+world
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+opinion
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+sports
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+soccer
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 Home
@@ -250,12 +401,59 @@ Circulars
 Autos
 
 
+=======
+tech
+
+
+
+
+arts
+
+
+
+
+lifestyle
+
+
+
+
+fashion
+
+
+
+
+business
+
+
+
+
+travel
+
+
+
+
+environment
+
+
+
+
+science
 
 
 
 
 
 
+browse all sections
+close
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
 Local
 
 
@@ -284,17 +482,7 @@ World
 
 
 Photos
-
-
-
-
-
-
-
-
- 
-
-
+=======
 
 
  
@@ -309,7 +497,56 @@ Photos
 
 
 
+Charleston shooting
 
+
+
+Funerals begin for Charleston shooting victims – in pictures
+
+
+>>>>>>> origin/master
+
+
+
+
+
+
+
+<<<<<<< HEAD
+
+ 
+=======
+The first of the funerals for victims of last week’s shooting at Emanuel African Methodist Episcopal church took place in South Carolina on Thursday
+
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+ 
+=======
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
+
+
+=======
+Thursday 25 June 2015 12.03 EDT
+
+
+Last modified on Thursday 25 June 2015 12.44 EDT
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Local
 
 
@@ -318,11 +555,24 @@ Local
 
 
 Police Shoot, Kill Knife-Wielding Teen On South Side
+=======
+
+
+
+Share on Facebook
+
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 October 21, 2014 7:16 AM
+=======
+Share on Twitter
+>>>>>>> origin/master
 
 
 
@@ -330,6 +580,10 @@ October 21, 2014 7:16 AM
 
 
 
+<<<<<<< HEAD
+=======
+Share via Email
+>>>>>>> origin/master
 
 
 
@@ -337,21 +591,33 @@ October 21, 2014 7:16 AM
 
 
 
+<<<<<<< HEAD
+=======
+Share on Pinterest
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 View Comments
  
 
 
 The intersection of 41st and Pulaski, where a Chicago police officer shot and killed a 17-year-old boy who refused orders to drop a knife he had used to slash the tire of a squad car. (Credit: Network Video Productions)
 
+=======
+
+
+
+Share on Google+
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 Related Tags:
 
 
@@ -370,12 +636,18 @@ Marissa Bailey
 Police-Involved Shooting
 , 
 Pulaski Road
+=======
+
+
+Share on WhatsApp
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
  
 Marissa Bailey
 
@@ -384,6 +656,12 @@ Marissa Bailey is the weekend anchor of the CBS 2 Chicago morning...
 
 
 Read More
+=======
+
+
+
+
+>>>>>>> origin/master
 
 
 
@@ -392,6 +670,7 @@ Read More
 
 
 
+<<<<<<< HEAD
 CHICAGO (CBS) —
  A Chicago police officer shot and killed a 17-year-old boy in the Archer Heights neighborhood Monday night, after he allegedly ignored orders to drop a knife.
 
@@ -429,6 +708,7 @@ The Independent Police Review Authority was investigating the shooting.
 
 
 
+=======
 
 
 
@@ -438,6 +718,55 @@ The Independent Police Review Authority was investigating the shooting.
 
 
 
+The wife and daughters of murdered state senator Clementa Pinckney embrace mourners during a ceremony at the state house in Columbia on Wednesday
+Photograph: Richard Ellis/EPA
+
+
+Facebook
+
+
+Twitter
+
+
+Pinterest
+
+
+
+
+Share
+
+
+
+
+Share this post
+
+
+Facebook
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+Twitter
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+Pinterest
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+close
+>>>>>>> origin/master
 
 
 
@@ -447,11 +776,11 @@ The Independent Police Review Authority was investigating the shooting.
 
 
 
-
-
-
+<<<<<<< HEAD
 View Comments
  
+=======
+>>>>>>> origin/master
 
 
 
@@ -459,16 +788,31 @@ View Comments
 
 
 
+<<<<<<< HEAD
 
 
 
 
 
 
+=======
+Mourners pay their respects at Pinckney’s casket in the capitol
+Photograph: Brian Snyder/Reuters
+
+
+Facebook
+
+
+Twitter
+
+
+Pinterest
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -476,10 +820,22 @@ Listen Live
 
 
 
+=======
+Share
 
 
 
 
+Share this post
+
+
+Facebook
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
@@ -518,6 +874,20 @@ Most recently, two men were shot late Thursday in the West Side Austin neighborh
 
 Follow 
 CBS Chicago
+=======
+Twitter
+
+
+
+
+Pinterest
+
+
+
+
+close
+
+>>>>>>> origin/master
 
 
 
@@ -533,6 +903,7 @@ CBS Chicago
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -544,21 +915,63 @@ CBS Chicago
 
 Follow @CBSChicago
 
+=======
+Mourners file into the funeral service for 70-year-old Ethel Lance on Thursday at Royal Missionary Baptist church in North Charleston
+Photograph: Joe Raedle/Getty Images
+
+
+Facebook
+
+
+Twitter
+
+
+Pinterest
 
 
 
 
+Share
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
+=======
+Share this post
+
+
+Facebook
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 Like us on foursquare
 
 
 
+=======
+Twitter
+
+
+
+
+Pinterest
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+close
+>>>>>>> origin/master
 
 
 
@@ -575,20 +988,31 @@ Like us on foursquare
 
 
 
+<<<<<<< HEAD
 
 
 
 
 
 
+=======
+A teddy bear hangs on a flag at the Emanuel African Methodist Episcopal church, one of the country’s oldest black churches, in Charleston
+Photograph: Joe Raedle/Getty Images
+
+
+Facebook
+
+
+Twitter
+
+
+Pinterest
+>>>>>>> origin/master
 
 
 
 
-
-
-
-
+<<<<<<< HEAD
 
 
 
@@ -638,22 +1062,57 @@ dodgerman
  cbsloc.al/1LGzANK
  
 25 minutes ago
+=======
+Share
+
+
+
+
+Share this post
+
+
+Facebook
+
+
+
+
+Twitter
+
+
+
+
+Pinterest
+
+
+
+
+close
+
+
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 				NOW: Live streaming of CBS2’s newscast. One click and you’re in the loop. Starts now: 
  CBSChicago.com/watch
  
 #LIVE
  
 34 minutes ago
-
-
-
-
+=======
  
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+ 
+=======
+>>>>>>> origin/master
 
 
 
@@ -661,6 +1120,7 @@ dodgerman
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -693,14 +1153,57 @@ Download Our New Weather App!
 
 
 
+=======
+Lance’s casket is moved into position before her funeral at the Royal Missionary Baptist church
+Photograph: Jim Watson/AFP/Getty Images
+
+
+Facebook
+
+
+Twitter
+
+
+Pinterest
 
 
 
 
+Share
+
+
+
+
+Share this post
+
+
+Facebook
+
+
+
+
+Twitter
+
+
+
+
+Pinterest
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
  
+=======
+close
+
+
+
+>>>>>>> origin/master
 
 
 
@@ -711,6 +1214,7 @@ Download Our New Weather App!
 
 
 
+<<<<<<< HEAD
 News
 
 
@@ -772,10 +1276,70 @@ Blogs
 
 
 Scores & Stats
+=======
+
+
+
+Mourners file into the Royal Missionary Baptist church 
+Photograph: Joe Raedle/Getty Images
+
+
+Facebook
+
+
+Twitter
+
+
+Pinterest
 
 
 
 
+Share
+
+
+
+
+Share this post
+
+
+Facebook
+
+
+
+
+Twitter
+
+
+
+
+Pinterest
+
+
+
+
+close
+
+
+
+
+
+
+
+
+
+
+Topics
+
+
+
+Charleston shooting
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 NFL Football
 
 
@@ -786,17 +1350,31 @@ NBA Basketball
 
 
 NHL Hockey
+=======
+South Carolina
+
+
+
+
+Gun crime
+
+
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 Contact Us
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 CBS 2
 
 
@@ -810,17 +1388,35 @@ Connect
 
 
 Mobile
+=======
 
 
 
 
+More galleries
+
+
+
+
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 Corporate
+=======
+ 
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 About Us
 
 
@@ -837,6 +1433,10 @@ Mobile
 
 
 Connect
+=======
+
+
+popular
 
 
 
@@ -844,14 +1444,32 @@ Connect
 
 
 
+ 
+
+>>>>>>> origin/master
+
+
+
+
+
+
+
+<<<<<<< HEAD
 
 
 
 Chicago Business Listings
+=======
+The Guardian
+
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Restaurants
 
 
@@ -865,6 +1483,9 @@ Professional Services
 
 
 Search Listings
+=======
+
+back to top
 
 
 
@@ -872,6 +1493,15 @@ Search Listings
 
 
 
+>>>>>>> origin/master
+
+
+
+
+
+
+
+<<<<<<< HEAD
 
 By viewing our video content, you are accepting the terms of our 
 Video Services Policy
@@ -923,14 +1553,63 @@ WordPress.com VIP
 
  
 
+=======
+home
 
 
 
 
+US
+selected
 
 
 
 
+world
+
+
+
+
+opinion
+
+
+
+
+sports
+
+
+
+
+soccer
+
+
+
+
+tech
+
+
+
+
+arts
+
+
+
+
+lifestyle
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+fashion
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 Facebook
 
@@ -1026,10 +1705,97 @@ CBS Washington
 
 
 
+=======
+business
 
 
 
 
+travel
+
+
+
+
+environment
+
+
+
+
+science
+
+
+
+
+
+
+
+all sections
+close
+
+
+
+
+
+
+
+home
+
+
+
+
+US
+selected
+
+
+
+
+world
+
+
+
+
+UK
+
+
+
+
+europe
+
+
+
+
+americas
+
+
+
+
+asia
+
+
+
+
+middle east
+
+
+
+
+africa
+
+
+
+
+australia
+
+
+
+
+cities
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
@@ -1041,14 +1807,29 @@ All rights reserved.
 
 
 
+=======
+development
 
 
 
 
 
 
+opinion
+>>>>>>> origin/master
 
 
+
+
+<<<<<<< HEAD
+=======
+sports
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 Buy Tickets
 Order Food
@@ -1071,23 +1852,49 @@ Daily Deals
 
 
 
+=======
+soccer
+
+
+
+
+MLS
+
+
+
+
+NFL
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+MLB
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+NBA
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+NHL
+>>>>>>> origin/master
 
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 Log In
 Register
  
@@ -1108,45 +1915,98 @@ Youtube
 
 
 
+=======
+
+soccer
+
+
+
+
+live scores
+
+
+
+
+tables
+
+
+
+
+competitions
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+results
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+fixtures
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+clubs
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+tech
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+arts
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+movies
+>>>>>>> origin/master
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 
 Listen Live
 
 
 
+=======
+tv & radio
 
 
 
 
+music
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 AM/FM Stations
 
@@ -1170,11 +2030,35 @@ B96
 
 WBBM NewsRadio
 
+=======
+games
+
+
+
+
+books
+
+
+
+
+art & design
+
+
+
+
+stage
+
+
+
+
+classical
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 Featured Shows & Multimedia
 
 
@@ -1193,15 +2077,199 @@ Radio.com
 
 
 
+=======
+
+lifestyle
 
 
 
 
+food
+
+
+
+
+health & fitness
+
+
+
+
+love & sex
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 Advertise On Our Streams
 
 
 
+=======
+family
+
+
+
+
+women
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+home & garden
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+fashion
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+business
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+economics
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+sustainable business
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+
+ 
+
+
+
+
+ 
+=======
+diversity & equality in business
+
+
+
+
+small business
+
+
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+travel
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+USA
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+europe
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+UK
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+environment
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+climate change
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+
+
+
+=======
+wildlife
+
+
+
+
+energy
+
+
+
+
+pollution
+
+
+
+
+
+
+science
+
+
+
+
+media
+
+
+
+
+crosswords
+
+
+
+
+video
 
 
 
@@ -1212,6 +2280,45 @@ Advertise On Our Streams
 
 
 
+
+US News
+
+
+
+
+›
+Charleston shooting
+
+
+
+
+
+
+
+
+jobs
+
+subscribe
+all topics
+all contributors
+
+
+report technical issue
+
+
+
+about us
+
+contact us
+
+complaints & corrections
+terms & conditions
+privacy policy
+cookie policy
+securedrop
+
+
+© 2015 Guardian News and Media Limited or its affiliated companies. All rights reserved.
 
 
 
@@ -1231,40 +2338,4 @@ Advertise On Our Streams
 
  
 
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+>>>>>>> origin/master

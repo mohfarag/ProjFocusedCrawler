@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Charleston church remembers shooting victims with service of sadness and joy | US news | The Guardian
 
 
@@ -6,6 +7,17 @@ Charleston church remembers shooting victims with service of sadness and joy | U
 
 
 
+=======
+Police shoot armed woman in south St. Louis | FOX2now.com 
+Police shoot armed woman in south St. Louis | FOX2now.com
+
+
+
+
+
+
+GoSearch
+>>>>>>> origin/master
 
 
 
@@ -13,6 +25,42 @@ Charleston church remembers shooting victims with service of sadness and joy | U
 
 
 
+<<<<<<< HEAD
+
+
+
+=======
+ Replay: FOX 2 News 
+
+FOX 2 TV Schedule 
+
+
+ Search
+ Contact Us
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
+
+
+=======
+FOX2now.com
+
+ Menu
+
+News
+Links
+AM Show
+Sports
+Traffic
+Contests
+STLMoms
+Events
+>>>>>>> origin/master
 
 
 
@@ -20,33 +68,40 @@ Charleston church remembers shooting victims with service of sadness and joy | U
 
 
 
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 
 
 
 
 Close
+=======
+Weather 
+
+82°
+
+
+
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+
+
+=======
+82°
+
+
+Low 76°
+High 95°
+>>>>>>> origin/master
 
 
 
 
 
-
-
-
-
-
-
+<<<<<<< HEAD
 
 
 
@@ -2286,12 +2341,43 @@ climate change
 
 
 
+=======
+Mon
+
+
+					76°  96°
+					
+
+
+Tue
+
+
+					77°  93°
+					
+
+
+Wed
+
+
+					75°  90°
+					
+
+
+See complete forecast
+
+ Severe weather alert
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 wildlife
+=======
+ 
+
+>>>>>>> origin/master
 
 
 
@@ -2300,8 +2386,13 @@ wildlife
 
 
 
+<<<<<<< HEAD
 energy
 
+=======
+
+ 
+>>>>>>> origin/master
 
 
 
@@ -2309,20 +2400,44 @@ energy
 
 
 
+<<<<<<< HEAD
 pollution
 
 
+=======
+Police shoot armed woman in south St. Louis
+
+Posted 8:08 pm, May 8, 2015, by Joe Millitzer and Anthony Kiekow, Updated at 06:49am, May 9, 2015 
+
+FacebookTwitterRedditPinterestLinkedInEmail 
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
+
+=======
+ST. LOUIS, MO (KTVI) -A St. Louis city police officer shoots a woman in a south city home. Police say the woman had opened fire on officers responding to a call for a domestic dispute.
+Police were called to a report of a domestic disturbance of a woman armed with a weapon.  When police arrived on the scene in the 4200 block of Chippewa near Gravois just after 7:00pm a man ran from the home screaming.
+Two uniformed officers went into the home according to police.  They found a 37-year-old white woman armed with a semi-automatic handgun and a screwdriver in the kitchen. She fired one shot at the officers. An officer returned fire, hitting her in the chest.
+The woman was hospitalized in critical condition. No officers were hurt.
+There was a heavy police presence in the area after the shooting.  St. Louis police Chief Sam Dotson was also on the scene.
+
+38.589314
+-90.259075
+>>>>>>> origin/master
 
 
 
 
-
+<<<<<<< HEAD
 science
+=======
+Joe Millitzer
+May 8, 20158:41 pm
+>>>>>>> origin/master
 
 
 
@@ -2331,7 +2446,10 @@ science
 
 
 
+<<<<<<< HEAD
 media
+=======
+>>>>>>> origin/master
 
 
 
@@ -2340,16 +2458,26 @@ media
 
 
 
+<<<<<<< HEAD
 crosswords
+=======
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 
 
 
 blog
+=======
+Filed in: News Topics: armed woman, Police involved shooting, south st. louis 
+
+
+
+>>>>>>> origin/master
 
 
 
@@ -2358,16 +2486,27 @@ blog
 
 
 
+<<<<<<< HEAD
 editor
 
 
+=======
+
+
+ 
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 quick
+=======
+Have a news tip?
+Do you have a story you want FOX 2 to investigate?  E-mail us.
+>>>>>>> origin/master
 
 
 
@@ -2375,6 +2514,7 @@ quick
 
 
 
+<<<<<<< HEAD
 
 cryptic
 
@@ -2395,11 +2535,38 @@ prize
 
 
 quiptic
+=======
+ 
+
+ 
+
+
+Popular
+
+
+
+Teen suspect shot three times by St. Louis police officer
+
+
+
+Michael Brown exhibit opened in Chicago
+
+
+
+Child abuse charges re-filed after disturbing photos go viral on Facebook
+
+
+
+Driver hits 4 women in dramatic East St. Louis hit-and-run caught on video
+
+
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -2416,12 +2583,38 @@ speedy
 
 
 
+=======
+ 
+
+
+Latest News
+
+
+
+PICTURES: Slide the City St Louis 2015 part2
+
+
+
+PICTURES: Slide the City St Louis 2015 part1
+
+
+
+Contestants cry foul, attendees go hungry at Budweiser burger fest
+
+
+
+Jefferson County resident apply for disaster assistance from recent flooding and storms
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 everyman
+=======
+ 
+>>>>>>> origin/master
 
 
 
@@ -2430,11 +2623,15 @@ everyman
 
 
 
+<<<<<<< HEAD
 azed
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -2482,21 +2679,106 @@ US News
 
 
 Charleston shooting
+=======
+News
+
+Charges filed against woman who shot at police officers
+
+
+News
+
+Family of woman shot by police disputes their story
+
+
+News
+
+Man killed, woman badly hurt in St. Louis shooting
+
+
+News
+
+Woman shot overnight in south St. Louis
+
+
+News
+
+Man charging police with knife shot and killed overnight
+
+
+
+ 
+
+
+News
+
+35-year-old woman gunned down in north city
+
+
+News
+
+New witness comes forward in controversial police shooting
+
+
+News
+
+Police arrest suspect breaking vehicles windows
+
+
+News
+
+Police: Standoff in south city ends; no arrests made
+
+
+News
+
+Children found in suspect’s car after I-55 police chase
+
+
+
+ 
+
+
+News
+
+St. Louis police: Woman justified in fatally shooting man
+
+
+News
+
+St. Louis police cadets graduate from academy
+
+
+News
+
+Teen suspect shot three times by St. Louis police officer
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+ 
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
+=======
+Mobile AppsAndroid App
+Android Weather App
+iPhone & iPad App
+iPhone Weather App
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 jobs
@@ -2516,12 +2798,40 @@ all contributors
 
 
 report technical issue
+=======
+Facebook
+Twitter
+Email Alerts
+About & Contact
 
 
 
 
 
 
+
+Online Public File • 				Terms of Service •
+		Privacy Policy  •
+		2250 Ball Drive St. Louis MO 63146  •
+		Copyright © 2015, KTVI		 • A Tribune Broadcasting Station •
+		Powered by WordPress.com VIP 
+
+
+
+
+
+×
+Email Alerts
+
+
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
 about us
 
 
@@ -2543,13 +2853,72 @@ cookie policy
 
 
 securedrop
+=======
 
 
 
 
 
 
+
+
+
+
+
+
+
+
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
 © 2015 Guardian News and Media Limited or its affiliated companies. All rights reserved.
+=======
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+
+
+=======
+Send to Email Address
+
+Your Name
+
+Your Email Address
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
+
+
+
+=======
+Cancel
+
+				Post was not sent - check your email addresses!			
+
+				Email check failed, please try again			
+
+				Sorry, your blog cannot share posts by email.			
+>>>>>>> origin/master
 
 
 
@@ -2564,29 +2933,10 @@ securedrop
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
  
+=======
+>>>>>>> origin/master
 
 
 

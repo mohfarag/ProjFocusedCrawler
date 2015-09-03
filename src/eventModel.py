@@ -204,10 +204,15 @@ class EventModel:
             #self.vecs[k] = ev
             self.scalars[k] = self.getScalar(ev)
     
+<<<<<<< HEAD
     def calculateWeights(self):
         topicWeight = sum([v for _,v in self.entities['Topic'].iteritems()])
         dateWeight =  sum([v for _,v in self.entities['DATE'].iteritems()])
         locWeight =  sum([v for _,v in self.entities['LOCATION'].iteritems()])
+=======
+    #def buildEventModel(self,keywordsTh, seedURLs):
+    def buildEventModel(self, seedURLs):
+>>>>>>> origin/master
         
         totWeight = topicWeight + dateWeight + locWeight
         
@@ -502,6 +507,155 @@ class EventModel:
         #webpageEnts = zip(impSentences,entities)
         
         return webpageEnts
+<<<<<<< HEAD
+=======
+ 
+    def calculate_similarity(self,doc):
+        weigths ={'Topic':0.0,'LOCATION':0.0, 'DATE':0.0}
+        
+        entFreq = {}
+        for k in self.entities:
+            entFreq[k]= sum(self.entities[k].values())
+        totFreq = sum(entFreq.values())
+        
+        for k in weigths:
+            weigths[k] = entFreq[k]*1.0 / totFreq
+        
+        topicDic = self.entities['Topic']
+        
+        locToks = self.entities['LOCATION'].keys()
+        locToks = eventUtils.getStemmedWords(locToks)
+        locDic = dict(zip(locToks,self.entities['LOCATION'].values()))
+        
+        dToks = self.entities['DATE'].keys()
+        dToks = eventUtils.getStemmedWords(dToks)
+        dDic = dict(zip(dToks,self.entities['DATE'].values()))
+        
+        tokens = eventUtils.getTokens(doc)
+        tokensDic = eventUtils.getFreq(tokens)
+        wv = [1+math.log(e) for e in tokensDic.values()]
+        wvScalar = self.getScalar(wv)
+        scores = []
+        
+        ksd = 0    
+        #interst = 0
+        for i in tokensDic:
+            if i in topicDic:
+                ksd += (1+math.log(topicDic[i]))* (1+math.log(tokensDic[i]))
+                #interst +=1
+        if ksd > 0:
+            ksd = float(ksd)/(self.scalars['Topic'] * wvScalar)
+        else:
+            ksd = 0
+        if ksd == 0:
+            return 0
+        #if interst < 2:
+            #return 0
+        scores.append(ksd)
+        ksl = 0    
+        for i in tokensDic:
+            if i in locDic:
+                ksl += (1+math.log(locDic[i]))* (1+math.log(tokensDic[i]))
+        if ksl > 0:
+            ksl = float(ksl)/(self.scalars['LOCATION'] * wvScalar)
+            
+        else:
+            ksl = 0
+        scores.append(ksl)
+        
+        ks = 0    
+        for i in tokensDic:
+            if i in dDic:
+                ks += (1+math.log(dDic[i]))* (1+math.log(tokensDic[i]))
+        if ks > 0:
+            ks = float(ks)/(self.scalars['DATE'] * wvScalar)
+            
+        else:
+            ks = 0
+        scores.append(ks)
+        
+        score = sum(scores) / 3.0
+        return score
+    
+    def calculate_similarity_equalWeights(self,doc):
+        eDisDic = self.entities['Topic']
+        
+        locToks = self.entities['LOCATION'].keys()
+        locToks = eventUtils.getStemmedWords(locToks)
+        locDic = dict(zip(locToks,self.entities['LOCATION'].values()))
+        
+        dToks = self.entities['DATE'].keys()
+        dToks = eventUtils.getStemmedWords(dToks)
+        dDic = dict(zip(dToks,self.entities['DATE'].values()))
+        
+        tokens = eventUtils.getTokens(doc)
+        tokensDic = eventUtils.getFreq(tokens)
+        wv = [1+math.log(e) for e in tokensDic.values()]
+        wvScalar = self.getScalar(wv)
+        scores = []
+        
+        ksd = 0    
+        #interst = 0
+        for i in tokensDic:
+            if i in eDisDic:
+                ksd += (1+math.log(eDisDic[i]))* (1+math.log(tokensDic[i]))
+                #interst +=1
+        if ksd > 0:
+            ksd = float(ksd)/(self.scalars['Topic'] * wvScalar)
+        else:
+            ksd = 0
+        if ksd == 0:
+            return 0
+        #if interst < 2:
+            #return 0
+        scores.append(ksd)
+        ksl = 0    
+        for i in tokensDic:
+            if i in locDic:
+                ksl += (1+math.log(locDic[i]))* (1+math.log(tokensDic[i]))
+        if ksl > 0:
+            ksl = float(ksl)/(self.scalars['LOCATION'] * wvScalar)
+            
+        else:
+            ksl = 0
+        scores.append(ksl)
+        
+        ks = 0    
+        for i in tokensDic:
+            if i in dDic:
+                ks += (1+math.log(dDic[i]))* (1+math.log(tokensDic[i]))
+        if ks > 0:
+            ks = float(ks)/(self.scalars['DATE'] * wvScalar)
+            
+        else:
+            ks = 0
+        scores.append(ks)
+        
+        score = sum(scores) / 3.0
+        return score
+    
+    def calculate_similarity_intersect(self,doc):
+        #tokens = getTokenizedDoc(doc)
+        tokens = eventUtils.getTokens(doc)
+        doc_set = set(tokens)
+        
+        scores = []
+        
+        for k in self.entities:
+            entSet = set(self.entities[k].keys())
+            intersect = len(doc_set & entSet)
+            union = len(doc_set | entSet)
+            if k == "Topic":
+                if intersect == 0:
+                    return 0
+            
+            score = intersect * 1.0 / union #len(self.entities[k])
+            
+            scores.append(score)
+        
+        score = sum(scores)/3.0     
+        return score
+>>>>>>> origin/master
     
     def extractWebpageEventModel(self, text):
         webpageEventModel = {}

@@ -1,8 +1,16 @@
+<<<<<<< HEAD
 Charleston shooting: Emanuel AME church reopens for first service | US news | The Guardian
 
 
 
 Charleston shooting: Emanuel AME church reopens for first service | US news | The Guardian
+=======
+Charleston mourns deaths of nine people in church shooting – in pictures | US news | The Guardian
+
+Charleston mourns deaths of nine people in church shooting – in pictures | US news | The Guardian
+
+
+>>>>>>> origin/master
 
 
 
@@ -16,6 +24,25 @@ Charleston shooting: Emanuel AME church reopens for first service | US news | Th
 
 
 
+<<<<<<< HEAD
+=======
+Close
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+
+=======
+Skip to main content
+
+ 
+>>>>>>> origin/master
 
 
 
@@ -26,17 +53,13 @@ Charleston shooting: Emanuel AME church reopens for first service | US news | Th
 
 
 
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 Close
 
+=======
+
+sign in
+>>>>>>> origin/master
 
 
 
@@ -45,6 +68,10 @@ Close
 
 
 
+<<<<<<< HEAD
+=======
+subscribe
+>>>>>>> origin/master
 
 
 
@@ -52,6 +79,7 @@ Close
 
 
 
+<<<<<<< HEAD
 
 
 Skip to main content
@@ -60,79 +88,8 @@ Skip to main content
 
 
  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-sign in
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-subscribe
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+=======
 search
-
-
-
-
-
-
 
 
 
@@ -140,6 +97,16 @@ search
 jobs
 
 
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
 
 
 
@@ -153,12 +120,170 @@ jobs
 
 
 
+=======
+more
+
+
+from the guardian:
+
+
+jobs
+
+
+
+change edition:
+
+
+
+switch to the  UK  edition
+
+
+switch to the  AU  edition
+
+
+switch to the 
+INT
+beta
+ edition
+>>>>>>> origin/master
 
 
 
 
 
 
+
+
+<<<<<<< HEAD
+
+sign in
+
+
+
+=======
+US edition
+
+
+
+
+switch to the 
+UK edition
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+switch to the 
+Australia edition
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+switch to the 
+International
+beta
+>>>>>>> origin/master
+
+
+
+
+
+
+
+<<<<<<< HEAD
+subscribe
+
+
+
+=======
+
+
+
+The Guardian
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+search
+
+
+
+
+
+=======
+
+
+
+home
+
+
+›
+US
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
+jobs
+=======
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
+=======
+home
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+US
+selected
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+world
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+opinion
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 more
 
@@ -169,28 +294,60 @@ more
 
 from the guardian:
 
+=======
+sports
 
 
 
 
+soccer
+
+
+
+
+tech
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 jobs
 
 
 
+=======
+arts
 
 
 
 
+lifestyle
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 change edition:
 
 
 
+=======
+fashion
 
 
 
 
+business
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 switch to the 
  UK 
@@ -205,11 +362,25 @@ switch to the
  AU 
  edition
 
+=======
+travel
+
+
+
+
+environment
+
+
+
+
+science
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 switch to the 
 
 
@@ -223,6 +394,20 @@ beta
 
 
 
+=======
+
+browse all sections
+close
+
+
+
+
+
+
+
+
+ 
+>>>>>>> origin/master
 
 
 
@@ -234,10 +419,18 @@ beta
 
 
 
+<<<<<<< HEAD
 
 
 
 US edition
+=======
+Charleston shooting
+
+
+
+Charleston mourns deaths of nine people in church shooting – in pictures
+>>>>>>> origin/master
 
 
 
@@ -247,10 +440,16 @@ US edition
 
 
 
+<<<<<<< HEAD
 switch to the 
 
 
 UK edition
+=======
+The African American church in the South Carolina city where nine people were shot dead by a white gunman on Wednesday reopened for services on Sunday, as locals led a remembrance march for the victims
+
+
+>>>>>>> origin/master
 
 
 
@@ -258,6 +457,7 @@ UK edition
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -265,16 +465,30 @@ switch to the
 
 
 Australia edition
+=======
+Mark Wohlwender
+
+
+Sunday 21 June 2015 16.57 EDT
+
+
+
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+Share on Facebook
+>>>>>>> origin/master
 
 
 
 
 
 
-
-
-
-
+<<<<<<< HEAD
 switch to the 
 
 
@@ -282,6 +496,21 @@ International
 
 
 beta
+=======
+
+Share on Twitter
+
+
+
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+Share via Email
+>>>>>>> origin/master
 
 
 
@@ -289,6 +518,10 @@ beta
 
 
 
+<<<<<<< HEAD
+=======
+Share on Pinterest
+>>>>>>> origin/master
 
 
 
@@ -296,18 +529,25 @@ beta
 
 
 
+<<<<<<< HEAD
+=======
+Share on Google+
+>>>>>>> origin/master
 
 
 
 
-
-
-
-
+<<<<<<< HEAD
 The Guardian
 
 
 
+=======
+
+
+
+Share on WhatsApp
+>>>>>>> origin/master
 
 
 
@@ -335,6 +575,7 @@ The Guardian
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -342,10 +583,24 @@ The Guardian
 home
 
 
+=======
+Marchers stop in front of the Daughters of the Confederacy building during a vigil in memory of the Emanuel AME church shooting victims on Saturday
+Photograph: David Goldman/AP
+
+
+Facebook
+
+
+Twitter
+
+
+Pinterest
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 ›
 
 
@@ -354,21 +609,46 @@ US
 
 
 
+=======
+Share
 
 
 
 
+Share this post
+
+
+Facebook
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+Twitter
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+Pinterest
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 home
+=======
+close
+
+
+>>>>>>> origin/master
 
 
 
@@ -378,13 +658,18 @@ home
 
 
 
+<<<<<<< HEAD
 US
 
 selected
+=======
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -392,10 +677,24 @@ selected
 
 world
 
+=======
+People watch from inside a restaurant as the march passes by
+Photograph: David Goldman/AP
+
+
+Facebook
+
+
+Twitter
+
+
+Pinterest
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -403,21 +702,46 @@ opinion
 
 
 
+=======
+Share
 
 
 
 
+Share this post
+
+
+Facebook
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 sports
 
 
 
+=======
+Twitter
 
 
 
 
+Pinterest
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 soccer
+=======
+close
+
+>>>>>>> origin/master
 
 
 
@@ -426,7 +750,10 @@ soccer
 
 
 
+<<<<<<< HEAD
 tech
+=======
+>>>>>>> origin/master
 
 
 
@@ -434,6 +761,7 @@ tech
 
 
 
+<<<<<<< HEAD
 
 arts
 
@@ -446,10 +774,29 @@ arts
 
 lifestyle
 
+=======
+Flowers lie on the street as marchers pass by
+Photograph: David Goldman/AP
+
+
+Facebook
+
+
+Twitter
+
+
+Pinterest
 
 
 
 
+Share
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
@@ -457,21 +804,44 @@ fashion
 
 
 
+=======
+Share this post
+
+
+Facebook
 
 
 
 
+Twitter
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 business
 
 
 
+=======
+Pinterest
+
+
+
+
+close
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 travel
+=======
+>>>>>>> origin/master
 
 
 
@@ -480,6 +850,7 @@ travel
 
 
 
+<<<<<<< HEAD
 environment
 
 
@@ -491,14 +862,35 @@ environment
 
 science
 
+=======
+
+
+
+Paul Finch, right, holds a bouquet of flowers with Melanie Crolley during the remembrance march
+Photograph: David Goldman/AP
+
+
+Facebook
+
+
+Twitter
+
+
+Pinterest
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+Share
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -509,6 +901,44 @@ all
 
 
 close
+=======
+Share this post
+
+
+Facebook
+
+
+
+
+Twitter
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+Pinterest
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+close
+>>>>>>> origin/master
+
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+ 
+>>>>>>> origin/master
 
 
 
@@ -520,51 +950,74 @@ close
 
 
 
+<<<<<<< HEAD
 
 
 
 
 
 
+=======
+Raymond Smith of Charleston kneels in prayer at the front of the Emanuel AME church on Sunday, before the first service since nine people were fatally shot at the church
+Photograph: Stephen B. Morton/AP
+
+
+Facebook
+
+
+Twitter
+
+
+Pinterest
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+Share
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+
+
+=======
+Share this post
+
+
+Facebook
+>>>>>>> origin/master
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 Charleston shooting
+=======
+Twitter
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 
 Charleston shooting: Emanuel AME church reopens for first service
 
+=======
+Pinterest
+
+
+
+
+close
+>>>>>>> origin/master
 
 
 
@@ -581,6 +1034,7 @@ Charleston shooting: Emanuel AME church reopens for first service
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -589,6 +1043,64 @@ First service at church held as authorities investigate website
 
 
 Opening follows Columbia rally against Confederate flag
+=======
+Armed police officers stand guard at the church
+Photograph: Mladen Antonov/AFP/Getty Images
+
+
+Facebook
+
+
+Twitter
+
+
+Pinterest
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+Share
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+
+
+=======
+Share this post
+
+
+Facebook
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+Twitter
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+Pinterest
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+close
+>>>>>>> origin/master
 
 
 
@@ -605,28 +1117,7 @@ Opening follows Columbia rally against Confederate flag
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 
 
 
@@ -635,14 +1126,32 @@ Opening follows Columbia rally against Confederate flag
 Parishioners mourn inside the Emanuel African Methodist Episcopal (AME) Church in Charleston, South Carolina.
 Photograph: DAVID GOLDMAN / POOL/EPA
 
+=======
+Members of the Grace Episcopal church chime the bells in an expression of solidarity and sympathy
+Photograph: John Taggart/EPA
+
+
+Facebook
+
+
+Twitter
+
+
+Pinterest
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+Share
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Paul Lewis
  in Charleston, 
 
@@ -661,12 +1170,32 @@ Jessica Glenza
 Sunday 21 June 2015 
 10.07 EDT
 
+=======
+Share this post
+
+
+Facebook
 
 
 
 
+Twitter
+
+
+
+
+Pinterest
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Last modified on Sunday 21 June 2015 
 11.46 EDT
+=======
+close
+>>>>>>> origin/master
 
 
 
@@ -683,6 +1212,7 @@ Last modified on Sunday 21 June 2015
 
 
 
+<<<<<<< HEAD
 Share on Facebook
 
 
@@ -690,37 +1220,80 @@ Share on Facebook
 
 
 
+=======
+A demonstrator holds a sign outside Emanuel AME church
+Photograph: Richard Ellis/EPA
+
+
+Facebook
+
+
+Twitter
+
+
+Pinterest
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+Share
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 Share on Twitter
+=======
+Share this post
+
+
+Facebook
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+Twitter
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+Pinterest
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+close
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Share via Email
 
 
 
+=======
+
+
+
+ 
+>>>>>>> origin/master
 
 
 
@@ -732,6 +1305,7 @@ Share via Email
 
 
 
+<<<<<<< HEAD
 
 
 Share on Pinterest
@@ -739,14 +1313,32 @@ Share on Pinterest
 
 
 
+=======
+Sheriff’s deputy CE Hall III checks the purse of an elderly woman before she enters the Emanuel AME church for Sunday’s service
+Photograph: Stephen B. Morton/AP
+
+
+Facebook
+
+
+Twitter
+
+
+Pinterest
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+Share
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -754,21 +1346,43 @@ Share on Pinterest
 Share on LinkedIn
 
 
+=======
+Share this post
+
+
+Facebook
+
+
+
+
+Twitter
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+Pinterest
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+close
+>>>>>>> origin/master
 
 
 
 
 
 
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 Share on Google+
+=======
+>>>>>>> origin/master
 
 
 
@@ -779,6 +1393,7 @@ Share on Google+
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -786,6 +1401,64 @@ Share on Google+
 
 
 Share on WhatsApp
+=======
+Church member Mildridge Polite is helped inside
+Photograph: David Goldman/Pool/EPA
+
+
+Facebook
+
+
+Twitter
+
+
+Pinterest
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+Share
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+
+
+=======
+Share this post
+
+
+Facebook
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+Twitter
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+Pinterest
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+close
+>>>>>>> origin/master
 
 
 
@@ -802,28 +1475,7 @@ Share on WhatsApp
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
  
 Related: 
 What happened at the Charleston, South Carolina, church shooting?
@@ -873,6 +1525,47 @@ the website
 
 
 As news of the website emerged, hundreds of people rallied at South Carolina’s state house in Columbia on Saturday night to demand that lawmakers remove the Confederate flag from its grounds.
+=======
+A portrait of the Reverend Clementa Pinckney hangs on a wall in the basement where he and eight other people were killed
+Photograph: Getty Images
+
+
+Facebook
+
+
+Twitter
+
+
+Pinterest
+
+
+
+
+Share
+
+
+
+
+Share this post
+
+
+Facebook
+
+
+
+
+Twitter
+
+
+
+
+Pinterest
+
+
+
+
+close
+>>>>>>> origin/master
 
 
 
@@ -889,6 +1582,7 @@ As news of the website emerged, hundreds of people rallied at South Carolina’s
 
 
 
+<<<<<<< HEAD
 
 
  
@@ -899,10 +1593,24 @@ As news of the website emerged, hundreds of people rallied at South Carolina’s
 
 
 
+=======
+Gloria Moore watches as parishioners take their seats
+Photograph: David Goldman/Pool/EPA
+
+
+Facebook
+
+
+Twitter
+
+
+Pinterest
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
  
 Facebook
  
@@ -923,10 +1631,27 @@ Pinterest
 
 Protesters in South Carolina call for removal of Confederate flag
 
+=======
+Share
 
 
 
 
+Share this post
+
+
+Facebook
+
+
+
+
+Twitter
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
  
@@ -953,10 +1678,31 @@ On Sunday, events to show solidarity with the victims were planned throughout th
 
 
 The investigation into the shooting was continuing. In a statement, the FBI said it was investigating the website apparently written by Roof. “Charleston police and the Federal Bureau of Investigation are aware of postings on a website allegedly attributed to Dylann Roof, the suspect in the 17 June 2015 shootings at Emanuel AME Church … We are taking steps to verify the authenticity of these postings.
+=======
+Pinterest
 
 
 
 
+close
+
+
+
+
+
+
+
+
+
+
+
+
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
@@ -964,10 +1710,24 @@ The investigation into the shooting was continuing. In a statement, the FBI said
 
 
  
+=======
+A church member places a black cloth on the chair of the Reverend Clementa Pinckney
+Photograph: Reuters
+
+
+Facebook
+
+
+Twitter
+
+
+Pinterest
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
  
@@ -996,20 +1756,50 @@ Pinterest
 
 The Reverend Norvel Goff speaks inside the Emanuel African Methodist Episcopal Church in Charleston. Photograph: David Goldman/Pool/EPA
 
+=======
+Share
+
+
+
+
+Share this post
+
+
+Facebook
+
+
+
+
+Twitter
+
+
+
+
+Pinterest
+
+
+
+
+close
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
  
 Related: 
 Charleston shooting suspect Dylann Roof 'wanted to ignite civil war'
  
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 “Because this is an ongoing investigation, neither the Charleston police nor the Federal Bureau of Investigation are able to release further details at this time.”
 
 
@@ -1046,24 +1836,72 @@ The Associated Press contributed to this report.
 
 
 
+=======
 
 
 
 
+
+
+Parishioners sing
+Photograph: David Goldman/Pool/EPA
+
+
+Facebook
+
+
+Twitter
+
+
+Pinterest
+
+
+
+
+Share
+
+
+
+
+Share this post
+
+
+Facebook
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 More news 
 
 
 Topics
+=======
+Twitter
 
 
 
 
+Pinterest
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
 Charleston shooting
+=======
+close
+
+
+
+>>>>>>> origin/master
 
 
 
@@ -1072,12 +1910,16 @@ Charleston shooting
 
 
 
+<<<<<<< HEAD
 US crime
+=======
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -1085,10 +1927,24 @@ Gun crime
 
 
 
+=======
+Parishioners mourn
+Photograph: David Goldman/Pool/EPA
+
+
+Facebook
+
+
+Twitter
+
+
+Pinterest
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 South Carolina
 
@@ -1101,6 +1957,38 @@ South Carolina
 
 Race issues
 
+=======
+Share
+
+
+
+
+Share this post
+
+
+Facebook
+
+
+
+
+Twitter
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+Pinterest
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+close
+>>>>>>> origin/master
 
 
 
@@ -1113,29 +2001,39 @@ Race issues
 
 
 
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 Share on Facebook
+=======
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
 
 
 
+=======
+Ushers come to the assistance of a woman who collapses as she prays
+Photograph: David Goldman/Pool/EPA
+
+
+Facebook
+
+
+Twitter
+
+
+Pinterest
+>>>>>>> origin/master
 
 
 
 
-
-
-
-
+<<<<<<< HEAD
 
 
 Share on Twitter
@@ -1143,23 +2041,46 @@ Share on Twitter
 
 
 
+=======
+Share
 
 
 
 
+Share this post
+
+
+Facebook
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+Twitter
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+Pinterest
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Share via Email
 
 
 
 
+=======
+close
+>>>>>>> origin/master
 
 
 
@@ -1172,21 +2093,39 @@ Share via Email
 
 
 
+<<<<<<< HEAD
 Share on Pinterest
+=======
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
 
 
 
+=======
+A woman rings a bell outside the church
+Photograph: Brian Snyder/Reuters
+
+
+Facebook
+
+
+Twitter
+
+
+Pinterest
+>>>>>>> origin/master
 
 
 
 
-
-
-
-
+<<<<<<< HEAD
 
 
 Share on LinkedIn
@@ -1194,19 +2133,42 @@ Share on LinkedIn
 
 
 
+=======
+Share
 
 
 
 
+Share this post
+
+
+Facebook
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+Twitter
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+Pinterest
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Share on Google+
+=======
+close
+>>>>>>> origin/master
 
 
 
@@ -1223,6 +2185,7 @@ Share on Google+
 
 
 
+<<<<<<< HEAD
 Share on WhatsApp
 
 
@@ -1230,6 +2193,64 @@ Share on WhatsApp
 
 
 
+=======
+A man prays
+Photograph: Brendan Smialowski/AFP/Getty Images
+
+
+Facebook
+
+
+Twitter
+
+
+Pinterest
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+Share
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+
+
+=======
+Share this post
+
+
+Facebook
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+Twitter
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+Pinterest
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+close
+>>>>>>> origin/master
 
 
 
@@ -1246,38 +2267,31 @@ Share on WhatsApp
 
 
 
+<<<<<<< HEAD
 
 
 
 
 
 
+=======
+Supporters listen to the service outside the church
+Photograph: Richard Ellis/EPA
+
+
+Facebook
+
+
+Twitter
+
+
+Pinterest
+>>>>>>> origin/master
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 
 
 
@@ -1285,18 +2299,38 @@ View all comments >
 
 
 
+=======
+Share
 
 
 
 
+Share this post
+
+
+Facebook
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+Twitter
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+Pinterest
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 comments 
 
@@ -1314,10 +2348,24 @@ This discussion is closed for comments.
 
 
 We’re doing some maintenance right now. You can still read comments, but please come back later to add your own.
+=======
+close
 
 
 
 
+
+
+
+
+
+
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Commenting has been disabled for this account (
 why?
 )
@@ -1329,10 +2377,26 @@ why?
 
 
 
+=======
+
+
+Angela Hines, left, comforts Auburn Sandstrom as she cries while visiting a sidewalk memorial
+Photograph: David Goldman/AP
+
+
+Facebook
+
+
+Twitter
+
+
+Pinterest
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -1345,15 +2409,40 @@ Order by
 
 newest
 
+=======
+Share
 
 
 
 
+Share this post
+
+
+Facebook
+
+
+
+
+Twitter
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 oldest
 
 
 
+=======
+Pinterest
+
+
+
+
+close
+>>>>>>> origin/master
 
 
 
@@ -1361,14 +2450,18 @@ oldest
 
 
 
+<<<<<<< HEAD
 Show 
 25
+=======
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 25
 
 
@@ -1385,21 +2478,54 @@ Show
 
 100
 
+=======
+
+
+
+A man dabs away tears
+Photograph: Richard Ellis/EPA
+
+
+Facebook
+
+
+Twitter
+
+
+Pinterest
 
 
 
 
+Share
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 All
 
+=======
+Share this post
+
+
+Facebook
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+Twitter
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 Threads 
 
@@ -1409,19 +2535,34 @@ Threads
 
 
 collapsed
+=======
+Pinterest
+
+
+
+
+close
+
+
+
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 expanded
+=======
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 unthreaded
 
 
@@ -1430,10 +2571,25 @@ unthreaded
 
 
 
+=======
+
+A woman cries
+Photograph: Richard Ellis/EPA
+
+
+Facebook
+
+
+Twitter
+
+
+Pinterest
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 Loading comments… 
 Trouble loading?
@@ -1442,15 +2598,42 @@ Trouble loading?
 
 
 
+=======
+Share
 
 
 
 
+Share this post
+
+
+Facebook
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+Twitter
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 View more comments
+=======
+Pinterest
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+close
+>>>>>>> origin/master
 
 
 
@@ -1464,10 +2647,7 @@ View more comments
 
 
 
-
-
-
-
+<<<<<<< HEAD
  
 
 
@@ -1478,25 +2658,69 @@ View more comments
 
 
 
+=======
+
+
+
+Grief was widespread both outside the church ...
+Photograph: Mladen Antonov/AFP/Getty Images
+
+
+Facebook
+
+
+Twitter
+
+
+Pinterest
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+Share
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+
+
+=======
+Share this post
+
+
+Facebook
+>>>>>>> origin/master
 
 
 
 
-
-
+<<<<<<< HEAD
 
 
 
 popular
 
+=======
+Twitter
+
+
+
+
+Pinterest
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+close
+>>>>>>> origin/master
 
 
 
@@ -1508,26 +2732,40 @@ popular
 
 
 
-
-
-
-
+<<<<<<< HEAD
  
+=======
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
 
 
 
 
 
 
+=======
+... and inside.
+Photograph: John Taggart/EPA
+
+
+Facebook
+
+
+Twitter
+
+
+Pinterest
+>>>>>>> origin/master
 
 
 
 
-
-
-
-
-
+<<<<<<< HEAD
 
 
 
@@ -1535,22 +2773,48 @@ The Guardian
 
 
 
+=======
+Share
 
 
 
 
+Share this post
+
+
+Facebook
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+Twitter
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+Pinterest
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
 back to top
+=======
+close
+
+
+
+>>>>>>> origin/master
 
 
 
@@ -1558,26 +2822,49 @@ back to top
 
 
 
+<<<<<<< HEAD
+
+
+
+=======
+Topics
+
+
+
+Charleston shooting
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+Gun crime
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+US crime
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+South Carolina
+>>>>>>> origin/master
 
 
 
 
-
-
-
+<<<<<<< HEAD
 home
+=======
+>>>>>>> origin/master
 
 
 
@@ -1587,11 +2874,18 @@ home
 
 
 
+<<<<<<< HEAD
 US
 
 selected
 
 
+=======
+
+
+
+More galleries
+>>>>>>> origin/master
 
 
 
@@ -1599,8 +2893,13 @@ selected
 
 
 
+<<<<<<< HEAD
 world
 
+=======
+
+ 
+>>>>>>> origin/master
 
 
 
@@ -1608,8 +2907,13 @@ world
 
 
 
+<<<<<<< HEAD
 opinion
 
+=======
+
+popular
+>>>>>>> origin/master
 
 
 
@@ -1617,7 +2921,11 @@ opinion
 
 
 
+<<<<<<< HEAD
 sports
+=======
+ 
+>>>>>>> origin/master
 
 
 
@@ -1626,7 +2934,11 @@ sports
 
 
 
+<<<<<<< HEAD
 soccer
+=======
+The Guardian
+>>>>>>> origin/master
 
 
 
@@ -1635,7 +2947,11 @@ soccer
 
 
 
+<<<<<<< HEAD
 tech
+=======
+back to top
+>>>>>>> origin/master
 
 
 
@@ -1644,80 +2960,152 @@ tech
 
 
 
+<<<<<<< HEAD
 arts
+=======
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 
 
 lifestyle
 
 
+=======
+home
 
 
 
 
+US
+selected
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 fashion
 
 
+=======
+world
 
 
 
 
+opinion
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 business
 
 
+=======
+sports
 
 
 
 
+soccer
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 travel
 
 
+=======
+tech
 
 
 
 
+arts
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 environment
 
 
+=======
+lifestyle
 
 
 
 
+fashion
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 science
 
 
+=======
+business
+
+
+
+
+travel
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+environment
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+science
+>>>>>>> origin/master
 
 
 
 
 
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 all
  sections
 
 
+=======
+
+
+all sections
+>>>>>>> origin/master
 close
 
 
@@ -1726,6 +3114,7 @@ close
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -1734,362 +3123,631 @@ close
 
 
 
+=======
+>>>>>>> origin/master
 home
 
 
 
 
+<<<<<<< HEAD
 
 
 
 
 US
 
+=======
+US
+>>>>>>> origin/master
 selected
 
 
 
 
+<<<<<<< HEAD
 
 
 
 
 
+=======
+>>>>>>> origin/master
 world
 
 
 
 
+<<<<<<< HEAD
 
 
 
 
+=======
+>>>>>>> origin/master
 UK
 
 
 
 
+<<<<<<< HEAD
 
 
 
 
+=======
+>>>>>>> origin/master
 europe
 
 
 
 
+<<<<<<< HEAD
 
 
 
 
+=======
+>>>>>>> origin/master
 americas
 
 
 
 
+<<<<<<< HEAD
 
 
 
 
+=======
+>>>>>>> origin/master
 asia
 
 
 
 
+<<<<<<< HEAD
 
 
 
 
+=======
+>>>>>>> origin/master
 middle east
 
 
 
 
+<<<<<<< HEAD
 
 
 
 
+=======
+>>>>>>> origin/master
 africa
 
 
 
 
+<<<<<<< HEAD
 
 
 
 
+=======
+>>>>>>> origin/master
 australia
 
 
 
 
-
-
-
-
+<<<<<<< HEAD
+=======
 cities
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+cities
+=======
+development
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 
 
 development
 
 
-
-
-
-
-
-
-
-
-
-
+=======
 opinion
 
 
 
 
-
-
-
-
 sports
+>>>>>>> origin/master
 
 
 
 
-
-
-
-
+<<<<<<< HEAD
+=======
 soccer
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
+opinion
 
 
+=======
 MLS
 
 
 
 
-
-
-
-
 NFL
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
+sports
 
 
+=======
 MLB
 
 
 
 
+NBA
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+
+
+soccer
+=======
+NHL
+
+
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+soccer
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+MLS
+=======
+live scores
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+tables
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+NFL
+=======
+competitions
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+results
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+MLB
+=======
+fixtures
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+clubs
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 NBA
 
 
+=======
+
+
+tech
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 NHL
 
 
-
-
-
-
-
-
-rugby world cup
-
-
-
-
-
-
-
-
-
-
-
-
-soccer
-
-
-
-
-
-
-
-
-live scores
-
-
-
-
-
-
-
-
-tables
-
-
-
-
-
-
-
-
-competitions
-
-
-
-
-
-
-
-
-results
-
-
-
-
-
-
-
-
-fixtures
-
-
-
-
-
-
-
-
-clubs
-
-
-
-
-
-
-
-
-
-
-
-
-tech
-
-
-
-
-
-
-
-
+=======
 arts
 
 
 
 
-
-
-
-
 movies
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
+rugby world cup
 
 
+=======
 tv & radio
 
 
 
 
-
-
-
-
 music
+>>>>>>> origin/master
 
 
 
 
-
-
-
-
+<<<<<<< HEAD
+=======
 games
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
+soccer
 
 
+=======
 books
 
 
 
 
-
-
-
-
 art & design
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
+live scores
 
 
+=======
 stage
 
 
 
 
+classical
+>>>>>>> origin/master
 
 
 
 
+
+
+<<<<<<< HEAD
+tables
+=======
+lifestyle
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+food
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+competitions
+=======
+health & fitness
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+love & sex
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+results
+=======
+family
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+women
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+fixtures
+=======
+home & garden
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
+
+
+clubs
+
+
+=======
+fashion
+
+
+
+
+business
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+economics
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+
+
+tech
+
+
+=======
+sustainable business
+
+
+
+
+diversity & equality in business
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+
+
+arts
+=======
+small business
+
+
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+travel
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+movies
+=======
+USA
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+europe
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+tv & radio
+=======
+UK
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
+
+
+music
+
+
+=======
+environment
+
+
+
+
+climate change
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+
+
+games
+
+
+=======
+wildlife
+
+
+
+
+energy
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+
+
+books
+=======
+pollution
+
+
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+science
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+art & design
+=======
+media
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+crosswords
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+stage
+=======
+video
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
 classical
 
 
 
+=======
+
+
+
+US News
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -2538,6 +4196,19 @@ securedrop
 
 © 2015 Guardian News and Media Limited or its affiliated companies. All rights reserved.
 
+=======
+›
+Charleston shooting
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
 
 
 
@@ -2548,14 +4219,31 @@ securedrop
 
 
 
+=======
+jobs
+
+subscribe
+all topics
+all contributors
+
+
+report technical issue
 
 
 
+about us
+
+contact us
+
+complaints & corrections
+terms & conditions
+privacy policy
+cookie policy
+securedrop
 
 
-
-
-
+© 2015 Guardian News and Media Limited or its affiliated companies. All rights reserved.
+>>>>>>> origin/master
 
 
 
@@ -2575,5 +4263,8 @@ securedrop
 
  
 
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> origin/master

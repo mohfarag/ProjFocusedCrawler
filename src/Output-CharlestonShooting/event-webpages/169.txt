@@ -1,6 +1,21 @@
+<<<<<<< HEAD
 Police Shoot Suspect In Old Town « CBS Chicago
 
 Police Shoot Suspect In Old Town « CBS Chicago
+=======
+Local AME church remembers South Carolina victims | myfox8.com 
+Local AME church remembers South Carolina victims | myfox8.com
+
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
+=======
+GoSearch
+>>>>>>> origin/master
 
 
 
@@ -8,11 +23,7 @@ Police Shoot Suspect In Old Town « CBS Chicago
 
 
 
-
-
-
-
-
+<<<<<<< HEAD
 
 
 
@@ -661,12 +672,22 @@ Download Our New Weather App!
  
 
 
+=======
+ Replay: FOX8 News Replay 
+
+FOX8 TV Schedule 
+
+
+ Search
+ Contact Us
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 
 
 News
@@ -700,10 +721,25 @@ Traffic
 
 
 Sports
+=======
+myfox8.com
+
+ Menu
+
+News
+On-Air
+Morning News
+Sports
+You Decide 2016
+Lottery
+Contests
+Events
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Bears
 
 
@@ -770,10 +806,28 @@ Connect
 Mobile
 
 
+=======
+Weather 
+
+77°
 
 
 
 
+
+
+
+77°
+
+
+Low 68°
+High 88°
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Corporate
 
 
@@ -798,6 +852,36 @@ Connect
 
 
 
+=======
+
+Mon
+
+
+					69°  90°
+					
+
+
+Tue
+
+
+					70°  91°
+					
+
+
+Wed
+
+
+					72°  90°
+					
+
+
+See complete forecast
+
+
+
+
+ 
+>>>>>>> origin/master
 
 
 
@@ -805,6 +889,7 @@ Connect
 
 
 
+<<<<<<< HEAD
 Chicago Business Listings
 
 
@@ -823,11 +908,30 @@ Professional Services
 
 
 Search Listings
+=======
+
+
+
+ 
 
 
 
 
 
+
+
+Local AME church remembers South Carolina victims
+
+Posted 5:24 am, June 22, 2015, by Amber Roberts, Updated at 09:53am, June 22, 2015 
+
+FacebookTwitterGooglePinterestRedditEmail 
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
 
 
 
@@ -878,10 +982,59 @@ Deals
 Powered by 
 WordPress.com VIP
 
+=======
+GREENSBORO, N.C. — Members of Bethel AME Church in Greensboro are relying on their religion.
+They are trying to overcome the shock, terror and pain they’ve experienced following the massacre of nine black people at a South Carolina church.
+It’s the first Sunday following the shooting at Emanuel AME Church in South Carolina. Churches nationwide honored the victims.
+“What was meant for evil in Charleston, as in so many other places, God is going to turn it for the good,” said Rev. Alphonso McGlen of Bethel AME Church.
+McGlen organized a candlelight memorial between services on Sunday. Nine of his members displayed pictures of the men and women who were killed, and burned a candle in their memory.
+Mozell N. Weston, who was at the memorial, grew up in South Carolina and was a member of the church where the shooting happened. She said participating in the special service will help her heal.
+Officials said Dylann Roof, who is in custody, admitted to shooting the victims because he wanted to start a race war. Members of Bethel AME Church prayed for Roof’s family but also addressed the pain he has caused for people across the country.
+“It ranges from anger, to fear for many and just still shocked… that this could still occur… for the reasons it occurred, in 2015,” McGlen said.
+
+36.072635
+-79.791975
+
+
+
+
+Filed in: News Topics: Charleston 
+
+
+
+
+
+
+
+
+
+
+
+
 
  
 
 
+
+
+
+
+You Decide 2016
+FOX8’s comprehensive election coverage
+
+
+
+
+
+
+
+ 
+>>>>>>> origin/master
+
+ 
+
+
+<<<<<<< HEAD
 
 
 
@@ -1037,12 +1190,148 @@ Daily Deals
 
 
 
+=======
+Popular
+
+
+
+2 killed, 2 injured in wrong-way wreck in Winston-Salem; speed, alcohol suspected
+
+
+
+City in the Carolinas named second best city in the world
+
+
+
+What is this ‘mysterious sea creature’ that washed ashore?
+
+
+
+Dolphin bitten by shark washes ashore at North Carolina beach
 
 
 
 
 
 
+
+ 
+
+
+Latest News
+
+
+
+About 2,000 protesters expected for Moral Monday event in Winston-Salem
+
+
+
+Video shows shark at NC beach; woman says several were swimming under pier
+
+
+
+Winston-Salem State football player saves teen from burning vehicle
+
+
+
+Tyson investigating claims of animal abuse at chicken farms
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+News
+
+Worshippers return to South Carolina church after shooting that killed nine
+
+
+News
+
+Minister: ‘No evildoer, no demon’ can close church targeted by shooter
+
+
+News
+
+How to help support victims’ families in South Carolina church shooting that killed nine
+
+
+News
+
+Former NC senator’s sister among 9 killed in Charleston church shooting
+
+
+News
+
+Charleston remembers three more with services for victims of church massacre
+
+
+
+ 
+
+
+News
+
+SC Senator killed in Charleston church shooting
+
+
+News
+
+CAPTURED: Charleston church shooting suspect Dylann Roof has been caught in Shelby, NC
+
+
+News
+
+High Point church taking up offering for Charleston
+
+
+News
+
+Charleston shooting: 9 killed in ‘hate crime’ shooting at church
+
+
+News
+
+Police release photos of suspect in Charleston church shooting
+
+
+
+ 
+
+
+News
+
+Church security a consideration after deadly South Carolina shooting
+
+
+News
+
+Panthers donate $100k to families of victims in SC church shooting that killed nine
+
+
+News
+
+Dozens gather at Bethel A.M.E. in Greensboro to remember victims of Charleston shooting
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
 
 
 
@@ -1092,19 +1381,51 @@ Youtube
 
 
 
+=======
+ 
 
 
 
 
 
+Mobile AppsAndroid App
+Android Weather App
+Weather iPhone App
+iPhone & iPad App
+
+
+
+
+Facebook
+Twitter
+Instagram
+Pinterest
+About & Contact
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
 Listen Live
 
 
+=======
+
+
+Online Public File • 				Terms of Service •
+		Privacy Policy  •
+		2005 Francis St. High Point, NC 27263  •
+		Copyright © 2015, WGHP		 • A Tribune Broadcasting Station •
+		Powered by WordPress.com VIP 
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 
 AM/FM Stations
 
@@ -1148,6 +1469,12 @@ CBS Sports Radio
 
 
 Radio.com
+=======
+×
+Email Alerts
+
+
+>>>>>>> origin/master
 
 
 
@@ -1156,7 +1483,10 @@ Radio.com
 
 
 
+<<<<<<< HEAD
 Advertise On Our Streams
+=======
+>>>>>>> origin/master
 
 
 
@@ -1177,6 +1507,19 @@ Advertise On Our Streams
 
 
 
+<<<<<<< HEAD
+
+
+
+=======
+Follow
+
+Follow “myfox8.com”
+
+Get every new post delivered to your Inbox.
+
+Join 51,550 other followers
+>>>>>>> origin/master
 
 
 
@@ -1184,32 +1527,55 @@ Advertise On Our Streams
 
 
 
-
-
-
+<<<<<<< HEAD
  
 
 
 
 
  
+=======
+
+Build a website with WordPress.com
+
+
+
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+
+
+=======
+Send to Email Address
+
+Your Name
+
+Your Email Address
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 
 
 
+=======
+Cancel
 
+				Post was not sent - check your email addresses!			
 
+				Email check failed, please try again			
+
+				Sorry, your blog cannot share posts by email.			
+>>>>>>> origin/master
 
 
 

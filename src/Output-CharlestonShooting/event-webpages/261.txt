@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 No Bond For South Loop DUI Suspect Shot By Police  « CBS Chicago
 
 No Bond For South Loop DUI Suspect Shot By Police  « CBS Chicago
+=======
+Barack Obama to deliver eulogy for Charleston church victims | US news | The Guardian
+
+Barack Obama to deliver eulogy for Charleston church victims | US news | The Guardian
+>>>>>>> origin/master
 
 
 
@@ -16,6 +22,7 @@ No Bond For South Loop DUI Suspect Shot By Police  « CBS Chicago
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -112,6 +119,24 @@ SIGN UP FOR NEWSLETTERS
 
 
 
+=======
+Close
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+
+=======
+Skip to main content
+
+ 
+>>>>>>> origin/master
 
 
 
@@ -123,17 +148,43 @@ SIGN UP FOR NEWSLETTERS
 
 
 
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 
 Sponsored By
+=======
+sign in
+
+>>>>>>> origin/master
+
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+subscribe
+>>>>>>> origin/master
+
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+search
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+jobs
+>>>>>>> origin/master
 
 
 
@@ -144,24 +195,7 @@ Sponsored By
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 
 
 CBS 2
@@ -186,6 +220,32 @@ YouTube
 
 
 
+=======
+more
+
+
+from the guardian:
+
+
+jobs
+
+
+
+change edition:
+
+
+
+switch to the  UK  edition
+
+
+switch to the  AU  edition
+
+
+switch to the 
+INT
+beta
+ edition
+>>>>>>> origin/master
 
 
 
@@ -194,14 +254,24 @@ YouTube
 
 
 
+<<<<<<< HEAD
+=======
+US edition
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+switch to the 
+UK edition
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Home
 
 
@@ -250,12 +320,56 @@ Circulars
 Autos
 
 
+=======
+switch to the 
+Australia edition
+
+
+
+
+switch to the 
+International
+beta
 
 
 
 
 
 
+
+
+
+
+The Guardian
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+home
+
+
+›
+US
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
 Local
 
 
@@ -286,10 +400,39 @@ World
 Photos
 
 
+=======
 
 
 
 
+home
+
+
+
+
+US
+selected
+
+
+
+
+world
+
+
+
+
+opinion
+
+
+
+
+sports
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
  
@@ -300,29 +443,82 @@ Photos
  
 
 
+=======
+soccer
 
 
 
 
+tech
 
 
 
 
+arts
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+lifestyle
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 Local
 
 
+=======
+fashion
 
 
 
 
+business
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 No Bond For South Loop DUI Suspect Shot By Police
+=======
+travel
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 August 28, 2011 11:36 AM
+=======
+environment
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+science
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+browse all sections
+close
+>>>>>>> origin/master
 
 
 
@@ -331,16 +527,7 @@ August 28, 2011 11:36 AM
 
 
 
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 View Comments
  
 
@@ -404,8 +591,11 @@ Featured & Trending:
 
 
 
+=======
+ 
 
 
+>>>>>>> origin/master
 
 
 
@@ -415,12 +605,17 @@ Featured & Trending:
 
 
 
+<<<<<<< HEAD
 
 
 
+=======
+Charleston shooting
 
 
 
+Barack Obama to deliver eulogy for Charleston church victims
+>>>>>>> origin/master
 
 
 
@@ -431,6 +626,11 @@ Featured & Trending:
 
 
 
+<<<<<<< HEAD
+=======
+Pastor Clementa Pinckney was early supporter of Obama in 2008
+President and first lady to attend funeral services on Friday in South Carolina
+>>>>>>> origin/master
 
 
 
@@ -450,6 +650,7 @@ Featured & Trending:
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -457,13 +658,20 @@ Featured & Trending:
 
 
 
+=======
+President Barack Obama said on Friday: ‘If Congress had passed some commonsense legislation after Newtown … we might still have more Americans with us.’
+Photograph: Manuel Balce Ceneta/AP
 
 
 
+Associated Press
 
 
+Monday 22 June 2015 17.48 EDT
 
 
+Last modified on Monday 22 June 2015 17.54 EDT
+>>>>>>> origin/master
 
 
 
@@ -471,6 +679,10 @@ Featured & Trending:
 
 
 
+<<<<<<< HEAD
+=======
+Share on Facebook
+>>>>>>> origin/master
 
 
 
@@ -478,6 +690,10 @@ Featured & Trending:
 
 
 
+<<<<<<< HEAD
+=======
+Share on Twitter
+>>>>>>> origin/master
 
 
 
@@ -485,6 +701,10 @@ Featured & Trending:
 
 
 
+<<<<<<< HEAD
+=======
+Share via Email
+>>>>>>> origin/master
 
 
 
@@ -492,6 +712,10 @@ Featured & Trending:
 
 
 
+<<<<<<< HEAD
+=======
+Share on Pinterest
+>>>>>>> origin/master
 
 
 
@@ -499,6 +723,10 @@ Featured & Trending:
 
 
 
+<<<<<<< HEAD
+=======
+Share on LinkedIn
+>>>>>>> origin/master
 
 
 
@@ -506,6 +734,10 @@ Featured & Trending:
 
 
 
+<<<<<<< HEAD
+=======
+Share on Google+
+>>>>>>> origin/master
 
 
 
@@ -513,6 +745,10 @@ Featured & Trending:
 
 
 
+<<<<<<< HEAD
+=======
+Share on WhatsApp
+>>>>>>> origin/master
 
 
 
@@ -531,11 +767,49 @@ Featured & Trending:
 
 
 
+<<<<<<< HEAD
+
+=======
+ Related: Charleston shooting: Emanuel AME church reopens for first service 
+
+The White House said on Monday that Barack Obama will travel to Charleston, South Carolina, on Friday, to memorialise the victims of last week’s shooting at a historic black church.
+The US president will deliver the eulogy at the funeral services of the Rev Clementa Pinckney, the pastor of the Emanuel AME church where the shooting that killed nine people occurred.
+Obama and first lady Michelle Obama got to know the pastor, who was also a state senator, during the 2008 presidential campaign. Pinckney was an early Obama supporter.
+In the immediate aftermath, Obama said the shootings showed the need for a national reckoning on gun violence. 
+On Friday, at a press conference in San Francisco, he said: “More than 11,000 Americans were killed by gun violence in 2013 alone. 
+“If Congress had passed some commonsense legislation after Newtown, after a group of children had been gunned down in their own classroom, reforms that 90% of the American people supported … we might still have more Americans with us.”
+The president has continued to advocate for gun control legislation since.
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+
+
+
+=======
+More news 
+Topics
+
+
+
+Charleston shooting
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Latest News Headlines:
+=======
+Barack Obama
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
  
 Water Main Break Closes Streets In West Loop
  
@@ -584,6 +858,13 @@ Fraternal Order of Police spokesman Pat Camden said the suspect reached for a we
 
 
 (Source: Sun-Times Media Wire © Chicago Sun-Times 2010. All Rights Reserved. This material may not be published, broadcast, rewritten, or redistributed.)
+=======
+South Carolina
+
+
+
+
+Gun crime
 
 
 
@@ -594,6 +875,19 @@ Fraternal Order of Police spokesman Pat Camden said the suspect reached for a we
 
 
 
+Share on Facebook
+
+
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
+=======
+Share on Twitter
+>>>>>>> origin/master
 
 
 
@@ -601,6 +895,10 @@ Fraternal Order of Police spokesman Pat Camden said the suspect reached for a we
 
 
 
+<<<<<<< HEAD
+=======
+Share via Email
+>>>>>>> origin/master
 
 
 
@@ -608,13 +906,26 @@ Fraternal Order of Police spokesman Pat Camden said the suspect reached for a we
 
 
 
+<<<<<<< HEAD
+=======
+Share on Pinterest
+>>>>>>> origin/master
 
 
+
+
+
+
+
+<<<<<<< HEAD
 View Comments
  
 
 
 
+=======
+Share on LinkedIn
+>>>>>>> origin/master
 
 
 
@@ -622,6 +933,10 @@ View Comments
 
 
 
+<<<<<<< HEAD
+=======
+Share on Google+
+>>>>>>> origin/master
 
 
 
@@ -629,10 +944,17 @@ View Comments
 
 
 
+<<<<<<< HEAD
 
 
 
 Listen Live
+=======
+Share on WhatsApp
+
+
+
+>>>>>>> origin/master
 
 
 
@@ -643,6 +965,7 @@ Listen Live
 
 
 
+<<<<<<< HEAD
  
 
 
@@ -678,6 +1001,11 @@ Most recently, two men were shot late Thursday in the West Side Austin neighborh
 
 Follow 
 CBS Chicago
+=======
+
+
+
+>>>>>>> origin/master
 
 
 
@@ -690,6 +1018,10 @@ CBS Chicago
 
 
 
+<<<<<<< HEAD
+=======
+View all comments >
+>>>>>>> origin/master
 
 
 
@@ -697,18 +1029,33 @@ CBS Chicago
 
 
 
+<<<<<<< HEAD
 
 
 
 
 
 Follow @CBSChicago
+=======
+comments 
+Sign in
+or create your Guardian account to join the discussion.
+
+This discussion is closed for comments.
+
+We’re doing some maintenance right now. You can still read comments, but please come back later to add your own.
+
+
+Commenting has been disabled for this account (why?)
+
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -726,6 +1073,72 @@ Like us on foursquare
 
 
 
+=======
+Order by 
+
+
+newest
+
+
+oldest
+
+
+
+
+Show 25
+
+
+25
+
+
+50
+
+
+100
+
+
+All
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+
+
+
+
+
+
+=======
+Threads 
+
+
+collapsed
+
+
+expanded
+
+
+unthreaded
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
+=======
+Loading comments… Trouble loading?
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+View more comments
+>>>>>>> origin/master
 
 
 
@@ -733,25 +1146,7 @@ Like us on foursquare
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 Follow More Stations and Personalities
 
 
@@ -811,6 +1206,8 @@ dodgerman
 34 minutes ago
 
 
+=======
+>>>>>>> origin/master
 
 
  
@@ -823,6 +1220,10 @@ dodgerman
 
 
 
+<<<<<<< HEAD
+=======
+popular
+>>>>>>> origin/master
 
 
 
@@ -830,6 +1231,7 @@ dodgerman
 
 
 
+<<<<<<< HEAD
 News Via Email
  
 
@@ -843,11 +1245,19 @@ Download The Free App
 
 
 New Podcast Network
+=======
+
+
+
+
+
+>>>>>>> origin/master
  
 
 
 
 
+<<<<<<< HEAD
 Download Our New Weather App!
  
 
@@ -855,12 +1265,19 @@ Download Our New Weather App!
 
 
 
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
  
+=======
+The Guardian
+
+>>>>>>> origin/master
 
 
 
@@ -868,14 +1285,22 @@ Download Our New Weather App!
 
 
 
+<<<<<<< HEAD
 
 
 
 News
+=======
+back to top
+
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Local
 
 
@@ -926,10 +1351,57 @@ Podcasts
 
 Blogs
 
+=======
 
 
 
 
+
+
+
+home
+
+
+
+
+US
+selected
+
+
+
+
+world
+
+
+
+
+opinion
+
+
+
+
+sports
+
+
+
+
+soccer
+
+
+
+
+tech
+
+
+
+
+arts
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 Scores & Stats
 
@@ -947,10 +1419,29 @@ NBA Basketball
 
 NHL Hockey
 
+=======
+lifestyle
 
 
 
 
+fashion
+
+
+
+
+business
+
+
+
+
+travel
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 Contact Us
 
@@ -970,11 +1461,31 @@ Connect
 
 
 Mobile
+=======
+environment
+
+
+
+
+science
 
 
 
 
 
+
+
+all sections
+close
+
+
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
 
 Corporate
 
@@ -998,14 +1509,43 @@ Mobile
 
 Connect
 
+=======
+home
 
 
 
 
+US
+selected
 
 
 
 
+world
+
+
+
+
+UK
+
+
+
+
+europe
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+americas
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 Chicago Business Listings
 
@@ -1028,10 +1568,34 @@ Search Listings
 
 
 
+=======
+asia
 
 
 
 
+middle east
+
+
+
+
+africa
+
+
+
+
+australia
+
+
+
+
+cities
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 By viewing our video content, you are accepting the terms of our 
 Video Services Policy
@@ -1085,12 +1649,58 @@ WordPress.com VIP
 
 
 
+=======
+development
 
 
 
 
 
 
+opinion
+
+
+
+
+sports
+
+
+
+
+soccer
+
+
+
+
+MLS
+
+
+
+
+NFL
+
+
+
+
+MLB
+
+
+
+
+NBA
+
+
+
+
+NHL
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
 
 Facebook
 
@@ -1186,12 +1796,98 @@ CBS Washington
 
 
 
+=======
+soccer
+
+
+
+
+live scores
+
+
+
+
+tables
+
+
+
+
+competitions
+
+
+
+
+results
+
+
+
+
+fixtures
+
+
+
+
+clubs
 
 
 
 
 
 
+tech
+
+
+
+
+arts
+
+
+
+
+movies
+
+
+
+
+tv & radio
+
+
+
+
+music
+
+
+
+
+games
+
+
+
+
+books
+
+
+
+
+art & design
+
+
+
+
+stage
+
+
+
+
+classical
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
 
 ©2015 CBS Local Media,
  
@@ -1201,14 +1897,27 @@ All rights reserved.
 
 
 
+=======
+lifestyle
 
 
 
 
+food
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+health & fitness
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 Buy Tickets
 Order Food
@@ -1231,20 +1940,42 @@ Daily Deals
 
 
 
+=======
+love & sex
+
+
+
+
+family
+
+
+
+
+women
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+home & garden
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+fashion
+>>>>>>> origin/master
 
 
 
 
-
-
-
-
+<<<<<<< HEAD
 
 
 
@@ -1268,43 +1999,96 @@ Youtube
 
 
 
+=======
+business
+
+
+
+
+economics
+
+
+
+
+sustainable business
+
+
+
+
+diversity & equality in business
+
+
+
+
+small business
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+travel
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+USA
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+europe
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+UK
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+environment
+>>>>>>> origin/master
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 
 
 
 Listen Live
 
+=======
+climate change
 
 
 
 
+wildlife
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
@@ -1330,16 +2114,47 @@ B96
 
 WBBM NewsRadio
 
+=======
+energy
 
 
 
 
+pollution
+
+
+
+
+
+
+science
+
+
+
+
+media
+
+
+
+
+crosswords
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 Featured Shows & Multimedia
+=======
+video
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Play.It
 
 
@@ -1350,15 +2165,72 @@ CBS Sports Radio
 
 
 Radio.com
+=======
 
 
 
 
 
 
+US News
+>>>>>>> origin/master
 
 
+
+
+<<<<<<< HEAD
+=======
+›
+Charleston shooting
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Advertise On Our Streams
+=======
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+
+
+
+
+
+
+
+
+
+
+=======
+jobs
+
+subscribe
+all topics
+all contributors
+
+
+report technical issue
+
+
+
+about us
+
+contact us
+
+complaints & corrections
+terms & conditions
+privacy policy
+cookie policy
+securedrop
+
+
+© 2015 Guardian News and Media Limited or its affiliated companies. All rights reserved.
+>>>>>>> origin/master
 
 
 
@@ -1375,20 +2247,7 @@ Advertise On Our Streams
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
  
 
 
@@ -1428,3 +2287,8 @@ Advertise On Our Streams
 
 
 
+=======
+
+ 
+
+>>>>>>> origin/master

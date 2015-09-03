@@ -1,6 +1,21 @@
+<<<<<<< HEAD
 #shooting hashtag on Twitter
 
 #shooting hashtag on Twitter
+=======
+North St. Louis murder suspects shoot victim in the back inside his home | FOX2now.com 
+North St. Louis murder suspects shoot victim in the back inside his home | FOX2now.com
+
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
+=======
+GoSearch
+>>>>>>> origin/master
 
 
 
@@ -8,11 +23,7 @@
 
 
 
-
-
-
-
-
+<<<<<<< HEAD
 
 
 
@@ -151,18 +162,56 @@ Verified account
 
 
 
+=======
+ Replay: FOX 2 News 
+
+FOX 2 TV Schedule 
+
+
+ Search
+ Contact Us
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 
 
 
 
     Suggested users
   
+=======
+FOX2now.com
+
+ Menu
+
+News
+Links
+AM Show
+Sports
+Traffic
+Contests
+STLMoms
+Events
+
+
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
+
+=======
+Weather 
+
+82°
+>>>>>>> origin/master
 
 
 
@@ -170,44 +219,7 @@ Verified account
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-Verified account
-
-
-@
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 
 
 
@@ -230,6 +242,104 @@ Verified account
 
 
 
+=======
+82°
+
+
+Low 76°
+High 95°
+
+
+
+
+
+Mon
+
+
+					76°  96°
+					
+
+
+Tue
+
+
+					77°  93°
+					
+
+
+Wed
+
+
+					75°  90°
+					
+
+
+See complete forecast
+
+ Severe weather alert
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+ 
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+
+Verified account
+
+
+@
+=======
+ 
+
+
+
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+
+
+=======
+North St. Louis murder suspects shoot victim in the back inside his home
+
+Posted 6:00 pm, April 11, 2015, by Joe Millitzer 
+
+FacebookTwitterRedditPinterestLinkedInEmail 
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
+
+
+
+=======
+ST. LOUIS, MO (KTVI) – The search continues for two suspects who killed a man inside his north St. Louis home.
+Shortly before 9pm Friday the suspects knocked on 36-year-old Cameron Wilson’s home along Maple avenue just east of Goodfellow. When Wilson let them in, one of the suspects shot Wilson in the back.
+Anyone with information about this murder should call Crimestoppers at 866-371- TIPS.
+
+
+
+Filed in: News 
+>>>>>>> origin/master
 
 
 
@@ -243,6 +353,21 @@ Verified account
 
 
 
+<<<<<<< HEAD
+=======
+ 
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+Antenna TV
+KTVI’s digital channel 2.2 shows hit movies and classic TV.
+>>>>>>> origin/master
 
 
 
@@ -250,13 +375,7 @@ Verified account
 
 
 
-
-
-
-
-
-
-
+<<<<<<< HEAD
 Language:
  
 English
@@ -387,6 +506,30 @@ Türkçe
 
 
 
+=======
+ 
+
+ 
+
+
+Popular
+
+
+
+Teen suspect shot three times by St. Louis police officer
+
+
+
+Michael Brown exhibit opened in Chicago
+
+
+
+Child abuse charges re-filed after disturbing photos go viral on Facebook
+
+
+
+Driver hits 4 women in dramatic East St. Louis hit-and-run caught on video
+>>>>>>> origin/master
 
 
 
@@ -397,6 +540,7 @@ Türkçe
  
 
 
+<<<<<<< HEAD
 
 
 
@@ -419,12 +563,32 @@ New to Twitter?
  
  Join Today »
 
+=======
+Latest News
+
+
+
+PICTURES: Slide the City St Louis 2015 part2
+
+
+
+PICTURES: Slide the City St Louis 2015 part1
+
+
+
+Contestants cry foul, attendees go hungry at Budweiser burger fest
+
+
+
+Jefferson County resident apply for disaster assistance from recent flooding and storms
+>>>>>>> origin/master
 
 
 
 
 
  
+<<<<<<< HEAD
  
  
 
@@ -442,6 +606,11 @@ Log in
 
 
 Phone, email or username
+=======
+
+
+
+>>>>>>> origin/master
 
 
 
@@ -450,6 +619,7 @@ Phone, email or username
 
 
 
+<<<<<<< HEAD
 Password
 
 
@@ -515,18 +685,115 @@ Already using Twitter via text message?
 
 
 
+=======
+
+News
+
+Police release surveillance video of two suspects wanted in murder case
+
+
+News
+
+Police still searching for suspect in April murder
+
+
+News
+
+Man killed in North St. Louis at gathering
+
+
+News
+
+24-year-old identified as north city murder victim
+
+
+News
+
+Police looking for 3 suspects in home invasion
+
+
+
+ 
+
+
+News
+
+County police investigating second homicide in 24 hours
+
+
+News
+
+Man arrested for murder on Natural Bridge
+
+
+News
+
+Violent night in north St. Louis
+
+
+News
+
+Fatal St. Louis County shooting investigated
+
+
+News
+
+SUV slams into Ferguson home after police chase
+
+
+
+ 
+
+
+News
+
+Florissant teen gunned down in Spanish Lake
+
+
+AM Show
+
+Two men shot, killed on Mother’s Day in St. Louis
+
+
+News
+
+Man shot, killed in north city overnight
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+ 
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 #shooting
 
+=======
+
+Mobile AppsAndroid App
+Android Weather App
+iPhone & iPad App
+iPhone Weather App
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+Facebook
+Twitter
+Email Alerts
+About & Contact
+>>>>>>> origin/master
 
 
 
@@ -534,22 +801,36 @@ Already using Twitter via text message?
 
 
 
-
-
-
-
+<<<<<<< HEAD
 
 
 Top
 
 
 
+=======
+Online Public File • 				Terms of Service •
+		Privacy Policy  •
+		2250 Ball Drive St. Louis MO 63146  •
+		Copyright © 2015, KTVI		 • A Tribune Broadcasting Station •
+		Powered by WordPress.com VIP 
 
 
 
 
 
+×
+Email Alerts
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
 Live
+=======
+>>>>>>> origin/master
 
 
 
@@ -558,7 +839,10 @@ Live
 
 
 
+<<<<<<< HEAD
 Accounts
+=======
+>>>>>>> origin/master
 
 
 
@@ -567,7 +851,10 @@ Accounts
 
 
 
+<<<<<<< HEAD
 Photos
+=======
+>>>>>>> origin/master
 
 
 
@@ -576,6 +863,7 @@ Photos
 
 
 
+<<<<<<< HEAD
 Videos
 
 
@@ -9401,6 +9689,8 @@ Buy Now
 
 
 Hmm... Something went wrong. Please try again.
+=======
+>>>>>>> origin/master
 
 
 
@@ -9409,17 +9699,35 @@ Hmm... Something went wrong. Please try again.
 
 
 
+<<<<<<< HEAD
+
+
+=======
+Send to Email Address
+
+Your Name
+
+Your Email Address
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 
 
 
+=======
+Cancel
 
+				Post was not sent - check your email addresses!			
 
+				Email check failed, please try again			
+
+				Sorry, your blog cannot share posts by email.			
+>>>>>>> origin/master
 
 
 

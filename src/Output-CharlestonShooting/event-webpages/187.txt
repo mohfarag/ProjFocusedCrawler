@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 Police-Involved Shooting « CBS Chicago
 
 Police-Involved Shooting « CBS Chicago
+=======
+Charleston shooting | US news | The Guardian
+
+Charleston shooting | US news | The Guardian
+>>>>>>> origin/master
 
 
 
@@ -16,6 +22,7 @@ Police-Involved Shooting « CBS Chicago
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -507,6 +514,9 @@ An off-duty Chicago cop shot and killed a burglary suspect late Saturday in Linc
 
 
 
+=======
+Close
+>>>>>>> origin/master
 
 
 
@@ -515,6 +525,7 @@ An off-duty Chicago cop shot and killed a burglary suspect late Saturday in Linc
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -525,6 +536,26 @@ The 27-year-old mother of three was stabbed in the left arm by her children’s 
 
 
 07/29/2013
+=======
+Skip to main content
+
+ 
+
+
+
+
+
+
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
+=======
+sign in
+>>>>>>> origin/master
 
 
 
@@ -533,11 +564,7 @@ The 27-year-old mother of three was stabbed in the left arm by her children’s 
 
 
 
-
-
-
-
-
+<<<<<<< HEAD
 
 Despondent Firefighter May Have Been Seeking ‘Suicide By Cop’ Death
 
@@ -548,6 +575,25 @@ A man was critically wounded in a police-involved shooting on the Far South Side
 07/11/2013
 
 
+=======
+subscribe
+
+
+
+
+
+
+
+search
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+jobs
+>>>>>>> origin/master
 
 
 
@@ -556,10 +602,7 @@ A man was critically wounded in a police-involved shooting on the Far South Side
 
 
 
-
-
-
-
+<<<<<<< HEAD
 Kane County Officer Kills Man Who Pointed Gun At Cops
 
 
@@ -590,6 +633,33 @@ A man said to be in his late teens was critically wounded Thursday during a conf
 07/04/2013
 
 
+=======
+
+
+more
+
+
+from the guardian:
+
+
+jobs
+
+
+
+change edition:
+
+
+
+switch to the  UK  edition
+
+
+switch to the  AU  edition
+
+
+switch to the 
+INT
+beta
+ edition
 
 
 
@@ -598,10 +668,31 @@ A man said to be in his late teens was critically wounded Thursday during a conf
 
 
 
+US edition
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+switch to the 
+UK edition
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+switch to the 
+Australia edition
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Suspect Arrested After Shootout With Police
 
 
@@ -609,6 +700,25 @@ A male who is believed to have exchanged gunfire with police early Wednesday was
 
 
 06/26/2013
+=======
+switch to the 
+International
+beta
+
+
+
+
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+The Guardian
+>>>>>>> origin/master
 
 
 
@@ -617,12 +727,7 @@ A male who is believed to have exchanged gunfire with police early Wednesday was
 
 
 
-
-
-
-
-
-
+<<<<<<< HEAD
 Cops Fatally Shoot Boy, 15, In Englewood
 
 
@@ -630,6 +735,26 @@ Chicago police shot and killed a 15-year-old boy during a foot chase in Englewoo
 
 
 06/17/2013
+=======
+
+
+
+
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+
+
+=======
+home
+
+
+›
+US
+>>>>>>> origin/master
 
 
 
@@ -638,12 +763,7 @@ Chicago police shot and killed a 15-year-old boy during a foot chase in Englewoo
 
 
 
-
-
-
-
-
-
+<<<<<<< HEAD
 Police Shoot, Kill Man In North Lawndale
 
 
@@ -653,18 +773,38 @@ A Chicago Police officer shot and killed a man early Sunday in the North Lawndal
 06/16/2013
 
 
+=======
+
+
+home
 
 
 
 
+US
+selected
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+world
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+opinion
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Teen Hurt In Police-Involved Shooting In Portage Park
 
 
@@ -672,18 +812,35 @@ A Chicago Police officer shot a teen who ran from officers during a street stop 
 
 
 06/14/2013
+=======
+sports
 
 
 
 
+soccer
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+tech
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+arts
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 Cop Shoots Trucker In Parking Lot Of Merrillville, Ind. Planned Parenthood
@@ -695,35 +852,68 @@ A police-involved shooting occurred in the parking lot of a Planned Parenthood o
 05/20/2013
 
 
+=======
+lifestyle
 
 
 
 
+fashion
 
 
 
 
+business
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+travel
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 more
  
+=======
+environment
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 previous
  
+=======
+science
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 
 
 Listen Live
+=======
+browse all sections
+close
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
  
 
 
@@ -818,6 +1008,11 @@ Like us on foursquare
 
 
 
+=======
+
+
+ 
+>>>>>>> origin/master
 
 
 
@@ -827,19 +1022,33 @@ Like us on foursquare
 
 
 
+<<<<<<< HEAD
+
+
+=======
+Charleston shooting
+
+Monday
+
+6
+July
+2015
+>>>>>>> origin/master
 
 
 
 
-
-
+<<<<<<< HEAD
 Follow More Stations and Personalities
+=======
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
  
 Contests & Promotions
 Blue Collar Bears Fan Of The Week
@@ -880,10 +1089,18 @@ dodgerman
  
 24 minutes ago
 
+=======
 
 
 
 
+
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 				NOW: Live streaming of CBS2’s newscast. One click and you’re in the loop. Starts now: 
  CBSChicago.com/watch
  
@@ -897,6 +1114,16 @@ dodgerman
  
 
 
+=======
+
+
+
+Gun-control supporters must use their opponents' own tactics against them
+
+Joshua Spivak
+
+Advocates know that the pro-gun lobby are more adept at using existing political weapons to get a reaction from politicians
+>>>>>>> origin/master
 
 
 
@@ -905,10 +1132,15 @@ dodgerman
 
 
 
+<<<<<<< HEAD
+=======
+Gun-control supporters must use their opponents' own tactics against them
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 News Via Email
  
 
@@ -917,10 +1149,19 @@ News Via Email
 
 Download The Free App
  
+=======
+
+
+Older
+Newer
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 New Podcast Network
  
 
@@ -932,15 +1173,36 @@ Download Our New Weather App!
 
 
 
+=======
+Topics
+
+
+
+US gun control
 
 
 
 
+Newtown shooting
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
  
 
+=======
+Aurora shooting
+
+
+
+
+Gun crime
+>>>>>>> origin/master
 
 
 
@@ -950,11 +1212,15 @@ Download Our New Weather App!
 
 
 
+<<<<<<< HEAD
 News
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Local
 
 
@@ -974,17 +1240,37 @@ Weather
 
 
 Traffic
+=======
+The Guardian
 
 
 
 
 
 
+
+
+back to top
+
+
+
+
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
 Sports
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Bears
 
 
@@ -1004,10 +1290,30 @@ Podcasts
 
 
 Blogs
+=======
+home
 
 
 
 
+US
+selected
+
+
+
+
+world
+
+
+
+
+opinion
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 Scores & Stats
@@ -1025,10 +1331,29 @@ NBA Basketball
 
 
 NHL Hockey
+=======
+sports
 
 
 
 
+soccer
+
+
+
+
+tech
+
+
+
+
+arts
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 Contact Us
@@ -1051,15 +1376,43 @@ Connect
 Mobile
 
 
+=======
+lifestyle
 
 
 
 
+fashion
+
+
+
+
+business
+
+
+
+
+travel
+
+
+
+
+environment
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Corporate
+=======
+science
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 About Us
 
 
@@ -1076,6 +1429,12 @@ Mobile
 
 
 Connect
+=======
+
+
+
+all sections
+close
 
 
 
@@ -1083,7 +1442,22 @@ Connect
 
 
 
+home
+>>>>>>> origin/master
 
+
+
+
+<<<<<<< HEAD
+=======
+US
+selected
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 Chicago Business Listings
@@ -1106,10 +1480,34 @@ Professional Services
 Search Listings
 
 
+=======
+world
 
 
 
 
+UK
+
+
+
+
+europe
+
+
+
+
+americas
+
+
+
+
+asia
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 By viewing our video content, you are accepting the terms of our 
@@ -1163,14 +1561,64 @@ WordPress.com VIP
  
 
 
+=======
+middle east
+
+
+
+
+africa
+
+
+
+
+australia
+
+
+
+
+cities
+
+
+
+
+development
 
 
 
 
 
 
+opinion
 
 
+
+
+sports
+
+
+
+
+soccer
+
+
+
+
+MLS
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+NFL
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Facebook
 
 
@@ -1178,17 +1626,32 @@ Twitter
 
 
 RSS
+=======
+MLB
 
 
 
 
+NBA
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 Other CBS Local Cities 
+=======
+NHL
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 CBS Atlanta
 
 
@@ -1264,31 +1727,113 @@ CBS Tampa
 CBS Washington
 
 
+=======
+soccer
+
+
+
+
+live scores
+
+
+
+
+tables
+
+
+
+
+competitions
+
+
+
+
+results
+
+
+
+
+fixtures
+
+
+
+
+clubs
 
 
 
 
 
 
+tech
 
 
+
+
+arts
+
+
+
+
+movies
+
+
+
+
+tv & radio
+
+
+
+
+music
+
+
+
+
+games
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+books
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 ©2015 CBS Local Media,
  
 a division of CBS Radio Inc.
  
 All rights reserved.
+=======
+art & design
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+stage
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+classical
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Buy Tickets
 Order Food
  
@@ -1309,22 +1854,45 @@ Daily Deals
  
 
 
+=======
+
+
+lifestyle
 
 
 
 
+food
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+health & fitness
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+love & sex
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+family
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 Log In
@@ -1346,48 +1914,102 @@ Twitter
 Youtube
 
 
+=======
+women
+
+
+
+
+home & garden
 
 
 
 
 
 
+fashion
 
 
+
+
+business
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+economics
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
  
 
 
+=======
+sustainable business
+
+
+
+
+diversity & equality in business
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+small business
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+travel
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+USA
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+europe
+>>>>>>> origin/master
 
 
 
 
-
-
-
-
+<<<<<<< HEAD
 Listen Live
+=======
+UK
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 
 
 AM/FM Stations
@@ -1411,17 +2033,45 @@ B96
 
 
 WBBM NewsRadio
+=======
+environment
+
+
+
+
+climate change
+
+
+
+
+wildlife
+
+
+
+
+energy
+
+
+
+
+pollution
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 Featured Shows & Multimedia
+=======
+science
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Play.It
 
 
@@ -1434,13 +2084,72 @@ CBS Sports Radio
 Radio.com
 
 
+=======
+media
+
+
+
+
+crosswords
+
+
+
+
+video
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 Advertise On Our Streams
+=======
+>>>>>>> origin/master
+
+
+
+
+
+
+
+<<<<<<< HEAD
+
+
+
+
+
+
+
+
+
+
+=======
+jobs
+
+subscribe
+all topics
+all contributors
+
+
+report technical issue
+
+
+
+about us
+
+contact us
+
+complaints & corrections
+terms & conditions
+privacy policy
+cookie policy
+securedrop
+
+
+© 2015 Guardian News and Media Limited or its affiliated companies. All rights reserved.
+>>>>>>> origin/master
 
 
 
@@ -1454,30 +2163,17 @@ Advertise On Our Streams
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
+ 
+=======
+>>>>>>> origin/master
 
 
 
 
  
 
-
-
-
- 
-
+<<<<<<< HEAD
 
 
 
@@ -1510,3 +2206,5 @@ Advertise On Our Streams
 
 
 
+=======
+>>>>>>> origin/master

@@ -1,7 +1,14 @@
+<<<<<<< HEAD
 Police ID 2 suspects wanted in NYC rape investigation | New York's PIX11 / WPIX-TV 
 
 
 Police ID 2 suspects wanted in NYC rape investigation | New York's PIX11 / WPIX-TV
+=======
+Charleston funerals: Joe Biden and city remember victims of church massacre | US news | The Guardian
+
+Charleston funerals: Joe Biden and city remember victims of church massacre | US news | The Guardian
+
+>>>>>>> origin/master
 
 
 
@@ -16,8 +23,12 @@ Police ID 2 suspects wanted in NYC rape investigation | New York's PIX11 / WPIX-
 
 
 
+<<<<<<< HEAD
 Go
 Search
+=======
+Close
+>>>>>>> origin/master
 
 
 
@@ -26,6 +37,13 @@ Search
 
 
 
+<<<<<<< HEAD
+
+=======
+Skip to main content
+
+ 
+>>>>>>> origin/master
 
 
 
@@ -33,7 +51,7 @@ Search
 
 
 
-
+<<<<<<< HEAD
  Replay: 
 PIX11 News 
 
@@ -41,16 +59,30 @@ PIX11 News
 
 PIX11 TV Schedule 
 
+=======
+
+
+
+
+sign in
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
  Search
 
 
  Contact Us
 
+=======
+
+
+
+subscribe
+>>>>>>> origin/master
 
 
 
@@ -58,23 +90,37 @@ PIX11 TV Schedule
 
 
 
+<<<<<<< HEAD
+=======
+search
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 New York's PIX11 / WPIX-TV
+=======
+jobs
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
  
 Menu
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 NEWS
 
 
@@ -97,6 +143,32 @@ Traffic
 
 
 Events
+=======
+more
+
+
+from the guardian:
+
+
+jobs
+
+
+
+change edition:
+
+
+
+switch to the  UK  edition
+
+
+switch to the  AU  edition
+
+
+switch to the 
+INT
+beta
+ edition
+>>>>>>> origin/master
 
 
 
@@ -105,6 +177,7 @@ Events
 
 
 
+<<<<<<< HEAD
 
 
 Weather 
@@ -115,6 +188,31 @@ Weather
 77°
 
 
+=======
+US edition
+
+
+
+
+switch to the 
+UK edition
+
+
+
+
+switch to the 
+Australia edition
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+switch to the 
+International
+beta
+>>>>>>> origin/master
 
 
 
@@ -125,23 +223,28 @@ Weather
 
 
 
-
-
-
-
+<<<<<<< HEAD
 77°
+=======
+The Guardian
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 Low 
 68°
 
 
 High 
 81°
+=======
+
+
+>>>>>>> origin/master
 
 
 
@@ -150,16 +253,27 @@ High
 
 
 
+<<<<<<< HEAD
 
 
 
 
 Sat
+=======
+home
+
+
+›
+US
+
+
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 					71° 
  86°
 					
@@ -171,17 +285,34 @@ Sat
 
 Sun
 
+=======
+
+
+
+home
 
 
 
 
+US
+selected
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 					74° 
  90°
 					
+=======
+world
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 Mon
@@ -194,47 +325,100 @@ Mon
  92°
 					
 
+=======
+opinion
 
 
 
 
+sports
+
+
+
+
+soccer
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 See complete forecast
 
 
 
+=======
+tech
 
 
 
 
-
-
-
- 
-
-
+arts
+>>>>>>> origin/master
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 
 
 
  
 
+=======
+lifestyle
+
+
+
+
+fashion
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+business
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+travel
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+environment
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+science
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
+ 
+
+=======
+
+browse all sections
+close
+>>>>>>> origin/master
 
 
 
@@ -243,6 +427,10 @@ See complete forecast
 
 
 
+<<<<<<< HEAD
+=======
+ 
+>>>>>>> origin/master
 
 
 
@@ -250,11 +438,15 @@ See complete forecast
 
 
 
+<<<<<<< HEAD
 Police ID 2 suspects wanted in NYC rape investigation
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Posted 8:31 PM, August 8, 2015, by 
 Kristina Behr
 , 
@@ -271,6 +463,14 @@ Pinterest
 Email
 Google
  
+=======
+Charleston shooting
+
+
+
+Charleston funerals: Joe Biden and city remember victims of church massacre
+
+>>>>>>> origin/master
 
 
 
@@ -280,6 +480,7 @@ Google
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -319,33 +520,89 @@ PHOTO GALLERY: Mermaid Parade 2015 [NSFW]
 
 
 PHOTOS & VIDEO: ‘Seinfield’ fans can visit Jerry’s apartment in new exhibit
+=======
+Funeral for pastor DePayne Middelton-Doctor today
+Cynthia Hurd, Tywanza Sanders and Susie Jackson buried Saturday
 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Vice-president Joe Biden hugs President Barack Obama after the president’s eulogy on Friday during the funeral for Reverend and South Carolina state senator Clementa Pinckney.
+Photograph: Mandel Ngan/AFP/Getty Images
+
+
+
+Associated Press in Charleston, South Carolina
+
+
+Sunday 28 June 2015 11.58 EDT
+
+
+Last modified on Sunday 28 June 2015 12.09 EDT
+
+
+
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 DNA test proves ‘fried rat’ was a chicken tender, KFC says
+=======
+Share on Facebook
+
+
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 
 New Yorkers strip down for No Pants Subway Ride [PHOTOS & VIDEO]
+=======
+Share on Twitter
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
  
 
 
+=======
+
+
+Share via Email
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 Filed in:
  
 Bronx
@@ -363,6 +620,10 @@ Rape
 robbery
  
 
+=======
+
+Share on Pinterest
+>>>>>>> origin/master
 
 
 
@@ -370,6 +631,7 @@ robbery
 
 
 
+<<<<<<< HEAD
 
 
 ×
@@ -379,6 +641,8 @@ Report a Typo
 
 
 
+=======
+Share on LinkedIn
 
 
 
@@ -386,10 +650,25 @@ Report a Typo
 
 
 
+Share on Google+
+>>>>>>> origin/master
+
+
+
+
+
+
+
+<<<<<<< HEAD
 
 
 Name
 (required)
+=======
+Share on WhatsApp
+
+
+>>>>>>> origin/master
 
 
 
@@ -398,8 +677,11 @@ Name
 
 
 
+<<<<<<< HEAD
 Typo
 (required)
+=======
+>>>>>>> origin/master
 
 
 
@@ -408,11 +690,34 @@ Typo
 
 
 
+<<<<<<< HEAD
+
+=======
+ Related: Activist pulls down Confederate flag in front of South Carolina statehouse 
+
+After much thought and prayer, DePayne Middelton-Doctor decided in January to return to her childhood roots and attend the Emanuel African Methodist Episcopal Church in Charleston. She had attended a Baptist church for years, but she felt the time was right to switch.
+Less than six months later, the 49-year-old pastor and mother of four who led Wednesday night bible study was to be memorialised Sunday in the historic African American church in South Carolina where she was killed 12 days ago after a gunman entered the church and fatally shot nine people – all African Americans. Police contend the attack was racially motived.
+Speaking at the funerals for Cynthia Hurd, Tywanza Sanders and Susie Jackson, eulogisers said Saturday that the lives lost had become a catalyst for change. The tragedy “shook an America that didn’t want to believe this kind of hate could still exist,” said Charleston Mayor Joseph Riley during a eulogy for Hurd.
+Riley said the killings will go down in history with other episodes of church violence, referencing the Civil Rights-era bombing of a Baptist church in Alabama that killed four girls.
+Remembering the 54-year-old Hurd as a young girl who worked serving people ice cream during the summer, Riley said she went on “to leading them to knowledge,” as a librarian for almost 30 years.
+“Her death will lead to change and Cynthia Hurd will be helping millions,” he said.
+South Carolina governor Nikki Haley attended the services along with US senator Tim Scott and the Reverend Jesse Jackson.
+Speaking at the combined service for Sanders, 26 and Jackson, 87, Haley said the shooting happened on her watch, and she promised “we will make this right.” The governor did not say what actions she planned to take.
+Outside the church, Jackson said that it was “really time for a new South.”
+“This was the most traumatic hit since Dr Martin Luther King was killed 50 years ago. This could be a defining moment for the American dream for all its people,” Jackson said. “This is a resurrection. Look around, there are white and black people together.”
+The funerals follow one on Friday for the church’s slain pastor, the Reverend Clementa Pinckney, whose eulogy was delivered in person by President Barack Obama.
+Obama sang a hymn of hope and spoke with the fervour of a preacher as he eulogised Pinckney, and minced no words in calling for an end to racial injustice and gun violence in the US. Obama suddenly began singing Amazing Grace quickly joined by ministers and some of the thousands who packed into the arena at the College of Charleston in South Carolina.
+The nation’s first black president called for gun control and efforts to eliminate poverty and job discrimination, and said the Confederate battle flag – long a symbol of Southern pride – must be removed from places of honor.
+“For many – black and white – that flag was a reminder of systemic oppression and racial subjugation. We see that now,” he said during Pinckney’s funeral Friday.
+Dylann Roof, now charged with nine murders, embraced Confederate symbols before the attack, posing with the rebel battle flag and burning the US flag in photos. Their appearance online prompted this week’s stunning political reversals, despite the outsized role such symbols have played in Southern identity.
+A woman was arrested early on Saturday on the grounds of the South Carolina Capitol in Columbia after scaling a flagpole to rip down a Confederate flag that flew at the Statehouse. Bree Newsome, 30, was arrested immediately afterward. She and James Ian Tyson, 30, also of Charlotte, face misdemeanor charges in the incident.
+An official at the Alvin S Glenn Detention Center said both were released from jail on Saturday after posting bond.
+>>>>>>> origin/master
 
 
 
 
-
+<<<<<<< HEAD
 
 
 
@@ -426,6 +731,32 @@ Typo
 Cancel
 
 
+=======
+More news 
+Topics
+
+
+
+Charleston shooting
+
+
+
+
+South Carolina
+
+
+
+
+Joe Biden
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+Obama administration
+>>>>>>> origin/master
 
 
 
@@ -436,6 +767,10 @@ Cancel
 
 
 
+<<<<<<< HEAD
+=======
+Share on Facebook
+>>>>>>> origin/master
 
 
 
@@ -443,18 +778,24 @@ Cancel
 
 
 
+<<<<<<< HEAD
+=======
+Share on Twitter
+>>>>>>> origin/master
 
 
 
 
 
-
-
-
-
+<<<<<<< HEAD
  
 
 
+=======
+
+
+Share via Email
+>>>>>>> origin/master
 
 
 
@@ -462,15 +803,25 @@ Cancel
 
 
 
+<<<<<<< HEAD
+=======
+Share on Pinterest
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 Watch NJ Lottery drawings live
 
 
 Winning numbers and daily results
+=======
+
+
+Share on LinkedIn
+>>>>>>> origin/master
 
 
 
@@ -478,6 +829,10 @@ Winning numbers and daily results
 
 
 
+<<<<<<< HEAD
+=======
+Share on Google+
+>>>>>>> origin/master
 
 
 
@@ -485,21 +840,33 @@ Winning numbers and daily results
 
 
 
+<<<<<<< HEAD
 
 
  
+=======
+Share on WhatsApp
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
  
+=======
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 Popular
+=======
+>>>>>>> origin/master
 
 
 
@@ -508,7 +875,10 @@ Popular
 
 
 
+<<<<<<< HEAD
 NBA great Darryl Dawkins has died at 58 years old
+=======
+>>>>>>> origin/master
 
 
 
@@ -517,7 +887,11 @@ NBA great Darryl Dawkins has died at 58 years old
 
 
 
+<<<<<<< HEAD
 Video showing shootings of WDBJ crew posted under Bryce Williams Twitter, Facebook accounts
+=======
+View all comments >
+>>>>>>> origin/master
 
 
 
@@ -525,16 +899,30 @@ Video showing shootings of WDBJ crew posted under Bryce Williams Twitter, Facebo
 
 
 
+<<<<<<< HEAD
 
 Reporter, photographer shot to death on air in Virginia
 
 
 
+=======
+comments 
+Sign in
+or create your Guardian account to join the discussion.
+
+This discussion is closed for comments.
+
+We’re doing some maintenance right now. You can still read comments, but please come back later to add your own.
+
+
+Commenting has been disabled for this account (why?)
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 ‘Dead’ teen ‘wakes up’ screaming, banging inside coffin; family smashes tomb
 
 
@@ -542,10 +930,22 @@ Reporter, photographer shot to death on air in Virginia
 
 
 
+=======
+
+
+Order by 
+
+
+newest
+
+
+oldest
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -570,22 +970,61 @@ Latest News
 
 One man’s poop is another’s medicine
 
+=======
+Show 25
+
+
+25
+
+
+50
+
+
+100
+
+
+All
+
+
+
+
+Threads 
+
+
+collapsed
+
+
+expanded
+
+
+unthreaded
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 
 
 Calif. man bitten while taking selfie with rattlesnake
 
 
+=======
+Loading comments… Trouble loading?
+
+
+
+
+View more comments
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 CEO of Ashley Madison parent company steps down after hack
 
 
@@ -596,19 +1035,12 @@ CEO of Ashley Madison parent company steps down after hack
 
 
 WATCH IT: Sinkhole swallows 5 people in China is captured on video
-
-
-
-
-
-
-
-
-
+=======
 
 
 
  
+>>>>>>> origin/master
 
 
 
@@ -618,6 +1050,17 @@ WATCH IT: Sinkhole swallows 5 people in China is captured on video
 
 
 
+<<<<<<< HEAD
+
+
+
+ 
+=======
+popular
+
+
+
+>>>>>>> origin/master
 
 
 
@@ -627,6 +1070,10 @@ WATCH IT: Sinkhole swallows 5 people in China is captured on video
 
 
 
+<<<<<<< HEAD
+=======
+ 
+>>>>>>> origin/master
 
 
 
@@ -634,21 +1081,43 @@ WATCH IT: Sinkhole swallows 5 people in China is captured on video
 
 
 
+
+<<<<<<< HEAD
+=======
+The Guardian
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
 
 Bronx
  
 Manhattan
+=======
+back to top
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 NYPD: 2 men arrested in New York City rape investigation
+=======
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 Bronx
 
 
@@ -672,10 +1141,33 @@ Queens
 
 Police searching for suspects who stole checks in Queens, opened accounts in The Bronx
 
+=======
+
+
+
+home
 
 
 
 
+US
+selected
+
+
+
+
+world
+
+
+
+
+opinion
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 Brooklyn
 
@@ -696,19 +1188,52 @@ News
 
 Three girls wanted in pair of violent Bronx robberies
 
+=======
+sports
 
 
 
 
+soccer
+
+
+
+
+tech
+
+
+
+
+arts
+
+
+
+
+lifestyle
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
  
 
+=======
+fashion
 
 
 
 
+business
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 Manhattan
  
@@ -725,17 +1250,39 @@ Police look for knife-wielding suspect who allegedly robbed woman in Central Pa
 
 
 Bronx
+=======
+travel
 
 
 
 
+environment
+
+
+
+
+science
+
+
+
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Man stabbed, hit with baseball bat by group of 5 in the Bronx
+=======
+all sections
+close
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 Bronx
 
 
@@ -743,10 +1290,21 @@ Bronx
 
 Cops arrest suspect in Bronx sexual assault
 
+=======
+
+home
 
 
 
 
+US
+selected
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 Bronx
 
@@ -767,19 +1325,52 @@ Bronx
 
 Police searching for suspects who robbed 24-year-old at gunpoint in the Bronx
 
+=======
+world
 
 
 
 
+UK
+
+
+
+
+europe
+
+
+
+
+americas
+
+
+
+
+asia
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
  
 
+=======
+middle east
 
 
 
 
+africa
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 Manhattan
 
@@ -812,29 +1403,82 @@ News
 
 SEE IT: Video shows police shoot hammer attack suspect near Penn Station
 
+=======
+australia
+
+
+
+
+cities
+
+
+
+
+development
 
 
 
 
 
 
+opinion
 
 
 
 
+sports
 
 
+
+
+soccer
+
+
+
+
+MLS
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+NFL
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+MLB
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
  
 
 
 
+=======
+NBA
+
+
+
+
+NHL
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -846,10 +1490,24 @@ iPhone & iPad App
 
 
 
+=======
+soccer
 
 
 
 
+live scores
+
+
+
+
+tables
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
@@ -866,16 +1524,39 @@ About & Contact
 
 
 
+=======
+competitions
+
+
+
+
+results
+
+
+
+
+fixtures
+
+
+
+
+clubs
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+tech
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -897,14 +1578,27 @@ A Tribune Broadcasting Station
 WordPress.com VIP
  
 
+=======
+arts
 
 
 
 
+movies
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+tv & radio
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
@@ -915,62 +1609,124 @@ Email Alerts
 
 
 
+=======
+music
+
+
+
+
+games
+
+
+
+
+books
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+art & design
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+stage
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+classical
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+lifestyle
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+food
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+health & fitness
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+love & sex
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+family
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+women
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+home & garden
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+fashion
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+business
+>>>>>>> origin/master
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 
 
 
@@ -993,18 +1749,52 @@ Join 5,004 other followers
 
 
 
+=======
+economics
+
+
+
+
+sustainable business
+
+
+
+
+diversity & equality in business
+
+
+
+
+small business
 
 
 
 
 
 
+travel
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+USA
+>>>>>>> origin/master
 
 
+
+
+<<<<<<< HEAD
+=======
+europe
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
@@ -1012,18 +1802,37 @@ Build a website with WordPress.com
 
 
 
+=======
+UK
 
 
 
 
 
 
+environment
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+climate change
+>>>>>>> origin/master
 
 
+
+
+<<<<<<< HEAD
+=======
+wildlife
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
@@ -1041,14 +1850,39 @@ Your Email Address
 
 
 
+=======
+energy
+
+
+
+
+pollution
 
 
 
 
 
 
+science
 
 
+
+
+media
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+crosswords
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
@@ -1068,6 +1902,71 @@ Cancel
 
 
 
+=======
+video
+
+
+
+
+
+
+
+
+
+
+
+US News
+
+
+
+
+›
+Charleston shooting
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+
+
+
+
+
+
+
+
+
+
+=======
+jobs
+
+subscribe
+all topics
+all contributors
+
+
+report technical issue
+
+
+
+about us
+
+contact us
+
+complaints & corrections
+terms & conditions
+privacy policy
+cookie policy
+securedrop
+
+
+© 2015 Guardian News and Media Limited or its affiliated companies. All rights reserved.
+>>>>>>> origin/master
 
 
 
@@ -1085,22 +1984,8 @@ Cancel
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
+=======
+ 
+>>>>>>> origin/master
 

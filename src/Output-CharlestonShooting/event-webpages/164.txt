@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 No charges against New Jersey police officers in fatal 2014 shooting | US news | The Guardian
 
 
@@ -6,6 +7,17 @@ No charges against New Jersey police officers in fatal 2014 shooting | US news |
 
 
 
+=======
+How to help support victims’ families in South Carolina church shooting that killed nine | myfox8.com 
+How to help support victims’ families in South Carolina church shooting that killed nine | myfox8.com
+
+
+
+
+
+
+GoSearch
+>>>>>>> origin/master
 
 
 
@@ -13,37 +25,78 @@ No charges against New Jersey police officers in fatal 2014 shooting | US news |
 
 
 
+<<<<<<< HEAD
+
+
+
+=======
+ Replay: FOX8 News Replay 
+
+FOX8 TV Schedule 
+
+
+ Search
+ Contact Us
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+
+
+=======
+myfox8.com
+
+ Menu
+
+News
+On-Air
+Morning News
+Sports
+You Decide 2016
+Lottery
+Contests
+Events
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+
+=======
+Weather 
+
+77°
+>>>>>>> origin/master
 
 
 
 
 
 
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 Close
 
 
 
+=======
+
+77°
+
+
+Low 68°
+High 88°
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -2119,14 +2172,45 @@ climate change
 
 wildlife
 
+=======
+Mon
+
+
+					69°  90°
+					
+
+
+Tue
+
+
+					70°  91°
+					
+
+
+Wed
+
+
+					72°  90°
+					
+
+
+See complete forecast
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 
 energy
+=======
+ 
+
+
+
+>>>>>>> origin/master
 
 
 
@@ -2134,20 +2218,34 @@ energy
 
 
 
+<<<<<<< HEAD
 
 pollution
+=======
+ 
+
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+
+
+=======
+How to help support victims’ families in South Carolina church shooting that killed nine
+
+Posted 4:43 pm, June 18, 2015, by CNN Wire, Updated at 04:46pm, June 18, 2015 
+
+FacebookTwitterGooglePinterestRedditEmail 
+>>>>>>> origin/master
 
 
 
 
-
-
+<<<<<<< HEAD
 science
 
 
@@ -2161,12 +2259,54 @@ media
 
 
 
+=======
+ 
+Cynthia Hurd. 
+
+
+×
+How to help support victims’ families in South Carolina church shooting that killed nine
+
+
+ Cynthia Hurd.
+
+
+CHARLESTON, S.C. — Charleston’s Mayor Joseph P. Riley, Jr. has set up “Mother Emanuel Hope” fund at Wells Fargo bank.
+The city has already pledged $5,000. The fund will help family members pay for funerals, counseling and other financial needs.
+Donations can be made by walking into any of Wells Fargo’s 6,200 banking locations. An online portal to donate will be live soon, but for now you can make a check out to “Mother Emanuel Hope Fund” and send it to the address below:
+Mother Emanuel Hope Fund
+C/O City of Charleston
+P.O. Box 304 Charleston, SC 29402.
+Honoring the victims
+Emanuel AME, a pillar in the Charleston community, is the oldest AME church in the south. Religious leaders, of all faiths, are calling for prayers in honor of the victims.
+“I pray that everyone affected by this horror will feel the comforting presence of our Lord surrounding them during this difficult time,” said Bishop Robert E. Guglielmone of the Diocese of Charleston on Thursday.
+Richard Norris, the Bishop of the affected district of the AME Church has called for prayer amongst believers across South Carolina.
+“This is not only a tragedy for Emanuel and not only a tragedy for the AME church, but it is a tragedy for the nation,” said John Richard Bryant, Bishop of the Fourth District of the AME Church.
+The church pastor, the Rev. Clementa Pinckney, who is also a state senator, was killed while delivering a sermon. Those who knew him say he was a peacemaker.
+Social media is a buzz with memories and announcements of vigils honoring the victims.
+Myra Thompson, who was killed while teaching the Bible study class at Emanuel, was a woman who loved the Lord, according to those who knew her.
+“Her every objective was to please him in all that she did. She was teaching Bible study when she was killed,” said Bishop Alphonza Gadsden.
+The Rev. Sharonda Singleton, a speech therapist and track coach at Goose Creek High School, is being remembered with a “Night of Prayer”
+Cynthia Hurd, an employee of Charleston County Public Library for 31 years was also killed in the shooting. In a post made by the library on Facebook, a two day closure was announced in her memory.
+
+32.776475
+-79.931051
+
+
+
+
+Trademark and Copyright 2015 Cable News Network, Inc., a Time Warner Company. All rights reserved.
+Filed in: News Topics: South Carolina church shooting 
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 crosswords
+=======
+>>>>>>> origin/master
 
 
 
@@ -2175,21 +2315,33 @@ crosswords
 
 
 
+<<<<<<< HEAD
 blog
+=======
+ 
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 
 
 editor
+=======
+Women Making a Difference
+Know a woman in the community who is doing good? We want to share your story.
+
+
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -2207,10 +2359,35 @@ cryptic
 
 
 
+=======
+ 
+
+ 
+
+
+Popular
+
+
+
+2 killed, 2 injured in wrong-way wreck in Winston-Salem; speed, alcohol suspected
+
+
+
+City in the Carolinas named second best city in the world
+
+
+
+What is this ‘mysterious sea creature’ that washed ashore?
+
+
+
+Dolphin bitten by shark washes ashore at North Carolina beach
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 prize
 
 
@@ -2231,14 +2408,45 @@ quiptic
 
 genius
 
+=======
+
+
+
+ 
+
+
+Latest News
+
+
+
+About 2,000 protesters expected for Moral Monday event in Winston-Salem
+
+
+
+Video shows shark at NC beach; woman says several were swimming under pier
+
+
+
+Winston-Salem State football player saves teen from burning vehicle
+
+
+
+Tyson investigating claims of animal abuse at chicken farms
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 
 
 speedy
+=======
+ 
+
+
+>>>>>>> origin/master
 
 
 
@@ -2247,6 +2455,7 @@ speedy
 
 
 
+<<<<<<< HEAD
 everyman
 
 
@@ -2296,12 +2505,88 @@ video
 US News
 
 
+=======
+
+
+News
+
+Minister: ‘No evildoer, no demon’ can close church targeted by shooter
+
+
+News
+
+Former NC senator’s sister among 9 killed in Charleston church shooting
+
+
+News
+
+Worshippers return to South Carolina church after shooting that killed nine
+
+
+News
+
+Local AME church remembers South Carolina victims
+
+
+News
+
+High Point church taking up offering for Charleston
+
+
+
+ 
+
+
+News
+
+Police release photos of suspect in Charleston church shooting
+
+
+News
+
+Panthers donate $100k to families of victims in SC church shooting that killed nine
+
+
+News
+
+SC Senator killed in Charleston church shooting
+
+
+News
+
+Charleston remembers three more with services for victims of church massacre
+
+
+News
+
+New details emerge about how the Charleston shooting unfolded
+
+
+
+ 
+
+
+News
+
+Racist online manifesto mentions Charleston, includes images of suspect
+
+
+News
+
+Dylann Roof and Michael Slager are jail neighbors, police confirm
+
+
+News
+
+Charleston victims: 9 lives lost to family and community
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 
 
 ›
@@ -2309,6 +2594,30 @@ US News
 
 New Jersey
 
+=======
+ 
+
+
+
+
+
+Mobile AppsAndroid App
+Android Weather App
+Weather iPhone App
+iPhone & iPad App
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+Facebook
+Twitter
+Instagram
+Pinterest
+About & Contact
+>>>>>>> origin/master
 
 
 
@@ -2316,15 +2625,20 @@ New Jersey
 
 
 
+<<<<<<< HEAD
+=======
+Online Public File • 				Terms of Service •
+		Privacy Policy  •
+		2005 Francis St. High Point, NC 27263  •
+		Copyright © 2015, WGHP		 • A Tribune Broadcasting Station •
+		Powered by WordPress.com VIP 
+>>>>>>> origin/master
 
 
 
 
 
-
-
-
-
+<<<<<<< HEAD
 jobs
 
 
@@ -2336,18 +2650,33 @@ all topics
 
 
 all contributors
+=======
+×
+Email Alerts
 
 
 
 
 
+
+
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
 report technical issue
+=======
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 about us
 
 
@@ -2370,15 +2699,81 @@ cookie policy
 
 securedrop
 
+=======
 
 
 
 
 
+
+
+
+
+
+
+
+Follow
+
+Follow “myfox8.com”
+
+Get every new post delivered to your Inbox.
+
+Join 51,550 other followers
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
 © 2015 Guardian News and Media Limited or its affiliated companies. All rights reserved.
 
 
 
+=======
+
+
+
+Build a website with WordPress.com
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+
+
+=======
+Send to Email Address
+
+Your Name
+
+Your Email Address
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
+
+
+
+=======
+Cancel
+
+				Post was not sent - check your email addresses!			
+
+				Email check failed, please try again			
+
+				Sorry, your blog cannot share posts by email.			
+>>>>>>> origin/master
 
 
 
@@ -2392,27 +2787,10 @@ securedrop
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
  
+=======
+>>>>>>> origin/master
 
 
 

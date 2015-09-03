@@ -1,8 +1,16 @@
+<<<<<<< HEAD
 Kanye West and Lupe Fiasco address the Charleston church shooting | Music | The Guardian
 
 
 
 Kanye West and Lupe Fiasco address the Charleston church shooting | Music | The Guardian
+=======
+Charleston church shooting: Obama calls for gun control in wake of tragedy | US news | The Guardian
+
+Charleston church shooting: Obama calls for gun control in wake of tragedy | US news | The Guardian
+
+
+>>>>>>> origin/master
 
 
 
@@ -16,6 +24,25 @@ Kanye West and Lupe Fiasco address the Charleston church shooting | Music | The 
 
 
 
+<<<<<<< HEAD
+=======
+Close
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+
+=======
+Skip to main content
+
+ 
+>>>>>>> origin/master
 
 
 
@@ -26,17 +53,13 @@ Kanye West and Lupe Fiasco address the Charleston church shooting | Music | The 
 
 
 
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 Close
 
+=======
+
+sign in
+>>>>>>> origin/master
 
 
 
@@ -45,6 +68,10 @@ Close
 
 
 
+<<<<<<< HEAD
+=======
+subscribe
+>>>>>>> origin/master
 
 
 
@@ -52,6 +79,7 @@ Close
 
 
 
+<<<<<<< HEAD
 
 
 Skip to main content
@@ -60,86 +88,25 @@ Skip to main content
 
 
  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-sign in
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-subscribe
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+=======
 search
 
 
 
 
-
-
-
-
-
-
 jobs
 
 
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
 
 
 
@@ -154,32 +121,14 @@ jobs
 
 
 
-
-
-
-
-
-
+=======
 more
-
-
-
-
 
 
 from the guardian:
 
 
-
-
-
-
 jobs
-
-
-
-
-
 
 
 
@@ -187,18 +136,226 @@ change edition:
 
 
 
+switch to the  UK  edition
 
 
-
+switch to the  AU  edition
 
 
 switch to the 
+INT
+beta
+ edition
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+sign in
+=======
+US edition
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+switch to the 
+UK edition
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+switch to the 
+Australia edition
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+switch to the 
+International
+beta
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
+subscribe
+=======
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+The Guardian
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+search
+=======
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+
+
+=======
+home
+
+
+›
+US
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+jobs
+=======
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+home
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+US
+selected
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+world
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+opinion
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+more
+=======
+sports
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+
+
+from the guardian:
+
+
+=======
+soccer
+
+
+
+
+tech
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+jobs
+=======
+arts
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+lifestyle
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+change edition:
+=======
+fashion
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+business
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+switch to the 
  UK 
  edition
+=======
+travel
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 switch to the 
@@ -206,10 +363,19 @@ switch to the
  edition
 
 
+=======
+environment
 
 
 
 
+science
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 switch to the 
 
 
@@ -220,6 +386,24 @@ beta
 
 
  edition
+=======
+
+
+browse all sections
+close
+
+
+
+
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+ 
+>>>>>>> origin/master
 
 
 
@@ -231,14 +415,18 @@ beta
 
 
 
-
-
-
-
+<<<<<<< HEAD
 
 
 US edition
 
+=======
+Charleston shooting
+
+
+
+Charleston church shooting: Obama calls for gun control in wake of tragedy
+>>>>>>> origin/master
 
 
 
@@ -247,10 +435,16 @@ US edition
 
 
 
+<<<<<<< HEAD
 switch to the 
 
 
 UK edition
+=======
+
+‘At some point we will have to deal with the fact that this kind of mass violence doesn’t happen in other countries and it is in our power to do something about it’
+
+>>>>>>> origin/master
 
 
 
@@ -261,10 +455,15 @@ UK edition
 
 
 
+<<<<<<< HEAD
 switch to the 
 
 
 Australia edition
+=======
+
+
+>>>>>>> origin/master
 
 
 
@@ -275,6 +474,7 @@ Australia edition
 
 
 
+<<<<<<< HEAD
 switch to the 
 
 
@@ -287,25 +487,57 @@ beta
 
 
 
+=======
+
+Sorry, your browser is unable to play this video.
+Please install Adobe Flash™ and try again.
+Alternatively upgrade to a modern browser.
+
+
+
+
+
+President Obama: ‘I have had to make statements like this too many times.’ Link to video
+
+
+
+Dan Roberts in Washington
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
+=======
+@RobertsDan
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+
+
+=======
+Thursday 18 June 2015 14.22 EDT
+
+
+Last modified on Saturday 20 June 2015 12.23 EDT
+>>>>>>> origin/master
 
 
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 The Guardian
 
+=======
+
+Share on Facebook
+>>>>>>> origin/master
 
 
 
@@ -313,6 +545,10 @@ The Guardian
 
 
 
+<<<<<<< HEAD
+=======
+Share on Twitter
+>>>>>>> origin/master
 
 
 
@@ -320,6 +556,10 @@ The Guardian
 
 
 
+<<<<<<< HEAD
+=======
+Share via Email
+>>>>>>> origin/master
 
 
 
@@ -327,6 +567,10 @@ The Guardian
 
 
 
+<<<<<<< HEAD
+=======
+Share on Pinterest
+>>>>>>> origin/master
 
 
 
@@ -334,32 +578,54 @@ The Guardian
 
 
 
+<<<<<<< HEAD
+=======
+Share on LinkedIn
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 home
 
 
+=======
+
+
+Share on Google+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 ›
 
 
 arts
 
+=======
+
+
+
+Share on WhatsApp
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 ›
 
 
 music
+=======
+
+
+>>>>>>> origin/master
 
 
 
@@ -370,6 +636,7 @@ music
 
 
 
+<<<<<<< HEAD
 games
 
 
@@ -378,18 +645,55 @@ games
 
 
 books
+=======
+A frustrated Barack Obama appeared almost to run out of words to describe his reaction to the racially charged killings in Charleston, revealing that he personally knew the pastor of the church and calling again for gun control reforms.
+
+ Related: Charleston church shooting: 21-year-old suspect captured as 'holy city' mourns 
+
+ “To say our thoughts and prayers are with them and their families, and their community doesn’t say enough to convey the heartache and the sadness and the anger that we feel,” said the usually loquacious president in a brief, six-minute White House statement. 
+Though less visibly emotional than he had been after the Newtown school shootings in Connecticut, a numbed Obama also sought to differentiate the latest, racially charged, attack as an example of a “particular threat to our democracy”.
+“I have had to make statements like this too many times,” he said on Thursday, flanked by a sombre-looking vice-president Joe Biden.
+“We don’t have all the facts but we do know that once again innocent people were killed in part because someone who wanted to inflict harm had no trouble getting their hands on a gun,” added Obama.
+
+ Related: The nine people killed in Charleston are victims of America's racist present | Steven W Thrasher 
+
+“At some point we will have to deal with the fact that this kind of mass violence doesn’t happen in other countries and it is in our power to do something about it.”
+The president said: “Any death of this sort is a tragedy … Any shooting involving multiple victims is a tragedy. There is something particularly heartbreaking about the death happening in a place in which we seek solace and we seek peace, in a place of worship.”
+Though saying he could not comment too much on the ongoing criminal inquiry, the president did not shy away from the political ramifications of the attack.
+“The fact that this took place in a black church obviously also raises questions about a dark part of our history. This is not the first time that black churches have been attacked. And we know that hatred across races and faiths pose a particular threat to our democracy and our ideals.”
+
+ Related: What happened at the Charleston, South Carolina, church shooting? 
+
+“The good news is I am confident that the outpouring of unity and strength and fellowship and love across Charleston today, from all races, from all faiths, from all places of worship indicates the degree to which those old vestiges of hatred can be overcome.”
+The president also quoted Martin Luther King’s response to the 1963 bombing of a church in Alabama in which the civil rights leader said: “We must be concerned not just with who murdered them, but the way of life, the philosophy that produced the murderers.”
+Obama is estimated to have made 14 such statements in response to mass shootings during his six years as president but failed in his attempt to pass gun control legislation through Congress after Newtown and has also been criticised by some for failing to make a strong enough response to a spate of recent black police shootings.
+Later vice-president Biden and his wife Jill put out a joint statement, saying “the senseless actions of a coward have once again cut short so many lives with so much promise”.
+“Our hearts ache with sorrow with the entire Emanuel AME Church family as they seek solace and comfort in the shadow of a gunman’s act of pure evil and hatred,” the statement read.
+The Bidens said they last saw Clementa Pinckney, the pastor and state senator who was one of those killed in the attack, less than a year ago at a prayer breakfast in Columbia. “He was a good man, a man of faith, a man of service who carried forward Mother Emaunel’s legacy as a sacred place promoting freedom, equality, and justice for all. We pray for him and his sister as we do for the seven other innocent souls who entered that storied church for their weekly Bible study seeking nothing more than humble guidance for the full lives ahead of them.”
+The statement also called for gun control. “We have no doubt the coward who committed this heinous act will be brought to justice. But as a nation we must confront the ravages of gun violence and the stain of hatred that continues to be visited on our streets, in our schools, in our houses of worship, and in our communities.”
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 art & design
 
+=======
+More news 
+Topics
+
+
+
+Charleston shooting
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 stage
 
@@ -400,19 +704,50 @@ stage
 
 classical
 
+=======
+US gun control
+
+
+
+
+Barack Obama
+
+
+
+
+Obama administration
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 movies
+=======
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 
 tv & radio
+=======
+Share on Facebook
+
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+Share on Twitter
+>>>>>>> origin/master
 
 
 
@@ -420,20 +755,24 @@ tv & radio
 
 
 
+<<<<<<< HEAD
+=======
+Share via Email
+>>>>>>> origin/master
 
 
 
 
 
-
-
-
-
-
-
+<<<<<<< HEAD
 home
 
 
+=======
+
+
+Share on Pinterest
+>>>>>>> origin/master
 
 
 
@@ -441,7 +780,11 @@ home
 
 
 
+<<<<<<< HEAD
 US
+=======
+Share on LinkedIn
+>>>>>>> origin/master
 
 
 
@@ -449,17 +792,28 @@ US
 
 
 
+<<<<<<< HEAD
 
 world
+=======
+Share on Google+
+
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 
 
 opinion
+=======
+Share on WhatsApp
+
+
+>>>>>>> origin/master
 
 
 
@@ -468,7 +822,10 @@ opinion
 
 
 
+<<<<<<< HEAD
 sports
+=======
+>>>>>>> origin/master
 
 
 
@@ -477,7 +834,10 @@ sports
 
 
 
+<<<<<<< HEAD
 soccer
+=======
+>>>>>>> origin/master
 
 
 
@@ -486,15 +846,22 @@ soccer
 
 
 
+<<<<<<< HEAD
 tech
 
 
+=======
+
+
+View all comments >
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 arts
 
 selected
@@ -502,11 +869,25 @@ selected
 
 
 
+=======
+
+comments 
+Sign in
+or create your Guardian account to join the discussion.
+
+This discussion is closed for comments.
+
+We’re doing some maintenance right now. You can still read comments, but please come back later to add your own.
+
+
+Commenting has been disabled for this account (why?)
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 lifestyle
 
 
@@ -528,10 +909,39 @@ fashion
 business
 
 
+=======
+
+
+Order by 
+
+
+newest
+
+
+oldest
 
 
 
 
+Show 25
+
+
+25
+
+
+50
+
+
+100
+
+
+All
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 travel
@@ -539,32 +949,61 @@ travel
 
 
 
+=======
+Threads 
+
+
+collapsed
+
+
+expanded
+
+
+unthreaded
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 environment
 
+=======
+
+Loading comments… Trouble loading?
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 
 science
+=======
+View more comments
+
+
+
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+ 
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 
 browse 
 all
@@ -572,6 +1011,58 @@ all
 
 
 close
+=======
+more on this story
+
+
+
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+
+
+=======
+Charleston shootings: NRA blames victims as reactions echo Newtown
+
+
+An NRA board member suggested worshippers ‘might be alive’ if they had guns themselves, while Obama and gun control groups repeat calls for reform
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+Published: 20 Jun 2015
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+Charleston shootings: NRA blames victims as reactions echo Newtown
+>>>>>>> origin/master
 
 
 
@@ -587,38 +1078,10 @@ close
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 Music
+=======
+>>>>>>> origin/master
 
 
 
@@ -626,7 +1089,13 @@ Music
 
 
 
+<<<<<<< HEAD
 Kanye West and Lupe Fiasco address the Charleston church shooting
+=======
+Sorry, your browser is unable to play this video.
+Please install Adobe Flash™ and try again.
+Alternatively upgrade to a modern browser.
+>>>>>>> origin/master
 
 
 
@@ -646,12 +1115,45 @@ Kanye West and Lupe Fiasco address the Charleston church shooting
 
 
 
+<<<<<<< HEAD
 West freestyles about race in America, while Lupe Fiasco writes an open letter to white supremacists
 
 
 
 
 
+=======
+
+
+
+Michelle Obama on Charleston: 'Too many tragedies like this' - video
+
+
+Michelle Obama spoke about the deadly church shooting in Charleston, South Carolina.
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+Published: 19 Jun 2015
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+Michelle Obama on Charleston: 'Too many tragedies like this' - video
+>>>>>>> origin/master
 
 
 
@@ -667,29 +1169,24 @@ West freestyles about race in America, while Lupe Fiasco writes an open letter t
 
 
 
+<<<<<<< HEAD
+
+
+=======
+Rick Perry calls Charleston church shooting an 'accident'
+
+
+Republican presidential candidate says ‘real issue’ raised by case is drugs and accuses Obama of seeking to use shooting to take away Americans’ guns
+>>>>>>> origin/master
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 Lupe Fiasco … Writing to the racists.
 Photograph: James Knowler/Getty Images
+=======
+>>>>>>> origin/master
 
 
 
@@ -697,11 +1194,20 @@ Photograph: James Knowler/Getty Images
 
 
 
+<<<<<<< HEAD
 
 
 Guardian music
 
 
+=======
+Published: 19 Jun 2015
+
+
+
+
+Rick Perry calls Charleston church shooting an 'accident'
+>>>>>>> origin/master
 
 
 
@@ -712,7 +1218,10 @@ Guardian music
 
 
 
+<<<<<<< HEAD
 @guardianmusic
+=======
+>>>>>>> origin/master
 
 
 
@@ -722,6 +1231,7 @@ Guardian music
 
 
 
+<<<<<<< HEAD
 Monday 22 June 2015 
 05.05 EDT
 
@@ -731,6 +1241,16 @@ Monday 22 June 2015
 
 Last modified on Monday 22 June 2015 
 05.06 EDT
+=======
+
+
+
+Sorry, your browser is unable to play this video.
+Please install Adobe Flash™ and try again.
+Alternatively upgrade to a modern browser.
+
+
+>>>>>>> origin/master
 
 
 
@@ -747,7 +1267,23 @@ Last modified on Monday 22 June 2015
 
 
 
+<<<<<<< HEAD
 Share on Facebook
+=======
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+
+
+=======
+No decision has been made on death penalty in Charleston church shooting, says prosecutor – video
+
+
+Prosecutor Scarlett Wilson says 'now is not the time' to discuss whether suspected gunman Dylann Roof will face the death penalty
+>>>>>>> origin/master
 
 
 
@@ -758,14 +1294,21 @@ Share on Facebook
 
 
 
-
-
-
-
-
-
+<<<<<<< HEAD
 Share on Twitter
 
+=======
+
+Published: 19 Jun 2015
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+No decision has been made on death penalty in Charleston church shooting, says prosecutor – video
+>>>>>>> origin/master
 
 
 
@@ -777,11 +1320,19 @@ Share on Twitter
 
 
 
-
-
-
-
+<<<<<<< HEAD
 Share via Email
+=======
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
+=======
+Representatives of Charleston shooting victims 'forgive' Dylann Roof
+>>>>>>> origin/master
 
 
 
@@ -793,14 +1344,23 @@ Share via Email
 
 
 
-
-
-
-
-
+<<<<<<< HEAD
 Share on Pinterest
 
 
+=======
+
+
+Published: 19 Jun 2015
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+Representatives of Charleston shooting victims 'forgive' Dylann Roof
+>>>>>>> origin/master
 
 
 
@@ -809,13 +1369,16 @@ Share on Pinterest
 
 
 
-
-
-
-
+<<<<<<< HEAD
 
 
 Share on LinkedIn
+=======
+Analysis
+
+11 myths about the future of gun control, debunked after the Charleston shooting
+
+>>>>>>> origin/master
 
 
 
@@ -828,11 +1391,19 @@ Share on LinkedIn
 
 
 
+<<<<<<< HEAD
+=======
+Published: 20 Jun 2015
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Share on Google+
+=======
+11 myths about the future of gun control, debunked after the Charleston shooting
+>>>>>>> origin/master
 
 
 
@@ -843,13 +1414,53 @@ Share on Google+
 
 
 
+<<<<<<< HEAD
+=======
+Charleston killings leave US reckoning with race and guns amid 'broken peace'
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 Share on WhatsApp
+=======
+>>>>>>> origin/master
+
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+Published: 18 Jun 2015
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+Charleston killings leave US reckoning with race and guns amid 'broken peace'
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+Charleston church shooting: suspect Dylann Roof in custody as community holds vigils
+>>>>>>> origin/master
 
 
 
@@ -863,27 +1474,7 @@ Share on WhatsApp
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 
 
 Kanye West
@@ -904,6 +1495,33 @@ The letter opened: “First of all you are not really that supreme. While throug
 
 
 He concluded: “If you wanted to get really ironic and meta about it, White Supremacy has to validate it’s own identity based solely on its relationship to other races! I mean now that’s what I would call joined at the hip. Without us there is no white supremacy because there would be nothing to be supreme over! That sounds so stupid but sometimes the truth is stupid.”
+=======
+Published: 19 Jun 2015
+
+
+
+
+Charleston church shooting: suspect Dylann Roof in custody as community holds vigils
+
+
+
+
+
+
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+More more on this story
+>>>>>>> origin/master
 
 
 
@@ -915,6 +1533,10 @@ He concluded: “If you wanted to get really ironic and meta about it, White Sup
 
 
 
+<<<<<<< HEAD
+=======
+popular
+>>>>>>> origin/master
 
 
 
@@ -923,45 +1545,61 @@ He concluded: “If you wanted to get really ironic and meta about it, White Sup
 
 
 
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 More news 
 
 
 Topics
 
 
+=======
+
+
+
+
+ 
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 Kanye West
 
 
 
+=======
+
+
+
+The Guardian
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 Rap
 
 
 
+=======
+
+
+
+back to top
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 Hip-hop
+=======
+>>>>>>> origin/master
 
 
 
@@ -970,65 +1608,128 @@ Hip-hop
 
 
 
+<<<<<<< HEAD
 Urban music
 
+=======
+
+home
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 
 Race issues
 
+=======
+US
+selected
 
 
 
 
+world
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 More…
 
 
+=======
+opinion
 
 
 
 
+sports
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 Charleston shooting
 
 
 
+=======
+soccer
 
 
 
 
+tech
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 Gun crime
 
 
 
+=======
+arts
 
 
 
 
+lifestyle
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+fashion
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+business
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+travel
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 Share on Facebook
 
 
+=======
+environment
+
+
+
+
+science
+>>>>>>> origin/master
 
 
 
@@ -1036,6 +1737,11 @@ Share on Facebook
 
 
 
+<<<<<<< HEAD
+=======
+all sections
+close
+>>>>>>> origin/master
 
 
 
@@ -1043,163 +1749,315 @@ Share on Facebook
 
 
 
+<<<<<<< HEAD
 Share on Twitter
+=======
+home
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+US
+selected
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+world
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+UK
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Share via Email
+=======
+europe
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+americas
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+asia
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+middle east
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Share on Pinterest
+=======
+africa
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+australia
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+cities
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+development
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Share on LinkedIn
 
 
+=======
+
+
+opinion
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+sports
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+soccer
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 Share on Google+
 
 
+=======
+MLS
 
 
 
 
+NFL
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+MLB
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+NBA
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 Share on WhatsApp
+=======
+NHL
+
+
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+soccer
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+live scores
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+tables
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+competitions
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+results
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+fixtures
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+clubs
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+tech
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+arts
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+movies
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+tv & radio
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+music
+>>>>>>> origin/master
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 
 
 
 View all comments >
 
+=======
+games
 
 
 
 
+books
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+art & design
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+stage
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
@@ -1228,25 +2086,64 @@ why?
 )
 
 
+=======
+classical
 
 
 
 
 
 
+lifestyle
 
 
 
 
+food
 
 
+
+
+health & fitness
+
+
+
+
+love & sex
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+family
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+women
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 Order by 
+=======
+home & garden
+
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 
 newest
 
@@ -1257,14 +2154,32 @@ newest
 
 oldest
 
+=======
+fashion
 
 
 
 
+business
 
 
 
 
+economics
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+sustainable business
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 Show 
 25
@@ -1283,10 +2198,31 @@ Show
 
 50
 
+=======
+diversity & equality in business
 
 
 
 
+small business
+
+
+
+
+
+
+travel
+
+
+
+
+USA
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 100
 
@@ -1299,19 +2235,44 @@ All
 
 
 
+=======
+europe
 
 
 
 
+UK
+
+
+
+
+
+
+environment
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
 Threads 
 
+=======
+climate change
 
 
 
 
+wildlife
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 collapsed
 
@@ -1329,19 +2290,50 @@ expanded
 
 unthreaded
 
+=======
+energy
+
+
+
+
+pollution
 
 
 
 
 
 
+science
 
 
+
+
+media
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+crosswords
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
 Loading comments… 
 Trouble loading?
+=======
+video
+
+
+
+>>>>>>> origin/master
 
 
 
@@ -1350,10 +2342,15 @@ Trouble loading?
 
 
 
+<<<<<<< HEAD
+=======
+US News
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 View more comments
 
@@ -2400,6 +3397,10 @@ Kanye West
 
 
 
+=======
+›
+Charleston shooting
+>>>>>>> origin/master
 
 
 
@@ -2410,6 +3411,7 @@ Kanye West
 
 jobs
 
+<<<<<<< HEAD
 
 
 subscribe
@@ -2424,10 +3426,18 @@ all contributors
 
 
 
+=======
+subscribe
+all topics
+all contributors
+
+
+>>>>>>> origin/master
 report technical issue
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -2458,6 +3468,19 @@ securedrop
 
 
 
+=======
+about us
+
+contact us
+
+complaints & corrections
+terms & conditions
+privacy policy
+cookie policy
+securedrop
+
+
+>>>>>>> origin/master
 © 2015 Guardian News and Media Limited or its affiliated companies. All rights reserved.
 
 
@@ -2476,6 +3499,7 @@ securedrop
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -2499,3 +3523,7 @@ securedrop
 
 
 
+=======
+ 
+
+>>>>>>> origin/master

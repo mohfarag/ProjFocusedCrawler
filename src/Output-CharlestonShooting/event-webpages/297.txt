@@ -1,7 +1,22 @@
+<<<<<<< HEAD
 Suspect wanted for shooting man sitting in his car in Brooklyn | New York's PIX11 / WPIX-TV 
 
 
 Suspect wanted for shooting man sitting in his car in Brooklyn | New York's PIX11 / WPIX-TV
+=======
+Murder charges filed in south city triple shooting | FOX2now.com 
+Murder charges filed in south city triple shooting | FOX2now.com
+
+
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+GoSearch
+>>>>>>> origin/master
 
 
 
@@ -9,10 +24,7 @@ Suspect wanted for shooting man sitting in his car in Brooklyn | New York's PIX1
 
 
 
-
-
-
-
+<<<<<<< HEAD
 
 
 
@@ -529,19 +541,59 @@ Latest News
 
 
 One man’s poop is another’s medicine
+=======
+ Replay: FOX 2 News 
+
+FOX 2 TV Schedule 
+
+
+ Search
+ Contact Us
 
 
 
 
+
+
+FOX2now.com
+
+ Menu
+
+News
+Links
+AM Show
+Sports
+Traffic
+Contests
+STLMoms
+Events
+
+
+
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
 
 Calif. man bitten while taking selfie with rattlesnake
+=======
+Weather 
+
+82°
+
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -564,6 +616,42 @@ WATCH IT: Sinkhole swallows 5 people in China is captured on video
 
 
 
+=======
+82°
+
+
+Low 76°
+High 95°
+
+
+
+
+
+Mon
+
+
+					76°  96°
+					
+
+
+Tue
+
+
+					77°  93°
+					
+
+
+Wed
+
+
+					75°  90°
+					
+
+
+See complete forecast
+
+ Severe weather alert
+>>>>>>> origin/master
 
 
 
@@ -579,6 +667,10 @@ WATCH IT: Sinkhole swallows 5 people in China is captured on video
 
 
 
+<<<<<<< HEAD
+=======
+ 
+>>>>>>> origin/master
 
 
 
@@ -586,32 +678,61 @@ WATCH IT: Sinkhole swallows 5 people in China is captured on video
 
 
 
+<<<<<<< HEAD
+
+
+=======
+Murder charges filed in south city triple shooting
+
+Posted 5:30 am, April 6, 2015, by Rebecca Roberts, Updated at 05:29am, April 6, 2015 
+
+FacebookTwitterRedditPinterestLinkedInEmail 
+>>>>>>> origin/master
 
 
 
 
 
-
-
+<<<<<<< HEAD
 
 
 Brooklyn
+=======
+Anthony Altick
+ST. LOUIS, MO (KTVI)- A St. Louis man has been charged with murder after a weekend shooting in south city left one man dead and two others injured. Anthony Altick, 27, is in custody. Police say he`s responsible for a triple shooting that happened on Saturday morning at an apartment building on Jamieson and Delor, in St. Louis Hills. Authorities say Altick and at least one of the victims knew each other and the shooting does not appear to be random. Altick was inside of his apartment building and the victims were outside. Investigators say a door was damaged and several shots were fired, striking several victims.
+Darryl Simms, 27, of East St. Louis, was killed. A 25 year-old man was shot in the torso. He is in critical condition. A 24 year-old suffered gunshot wounds to his arm and side. He is in serious condition.
+Police say a fourth victim ran from the scene.
+Now, Altick is charged with 1st degree murder, 2 counts of 1st degree assault, and 3 counts of armed criminal action. He`s being held in the St. Louis City Justice Center with a $750,000 cash-only bond.
+This is not Altick`s first run-in with the law. Within the past three years, he has been charged with DWI, burglary, theft, receiving stolen property and he had a protection order filed against him, for stalking.
+ 
+
+38.627003
+-90.199404
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Man suffers graze wound in Brooklyn drive-by shooting
+=======
+Filed in: News 
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 Brooklyn
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Police searching for suspect who shot 22-year-old in Brooklyn
 
 
@@ -625,12 +746,28 @@ Brooklyn
 
 
 Suspects sought in Red Hook drive-by shooting that hurt 5, killed woman’s unborn baby
+=======
+
+
+
+ 
 
 
 
 
 
 
+Have a news tip?
+Do you have a story you want FOX 2 to investigate?  E-mail us.
+
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
 Brooklyn
 
 
@@ -650,6 +787,30 @@ News
 
 NYPD searching for Sheepshead Bay burglar
 
+=======
+ 
+
+ 
+
+
+Popular
+
+
+
+Teen suspect shot three times by St. Louis police officer
+
+
+
+Michael Brown exhibit opened in Chicago
+
+
+
+Child abuse charges re-filed after disturbing photos go viral on Facebook
+
+
+
+Driver hits 4 women in dramatic East St. Louis hit-and-run caught on video
+>>>>>>> origin/master
 
 
 
@@ -660,6 +821,7 @@ NYPD searching for Sheepshead Bay burglar
  
 
 
+<<<<<<< HEAD
 
 
 
@@ -689,22 +851,50 @@ Multiple shootings around Brooklyn leave 1 dead, 4 injured
 
 
 Queens
+=======
+Latest News
+
+
+
+PICTURES: Slide the City St Louis 2015 part2
+
+
+
+PICTURES: Slide the City St Louis 2015 part1
+
+
+
+Contestants cry foul, attendees go hungry at Budweiser burger fest
+
+
+
+Jefferson County resident apply for disaster assistance from recent flooding and storms
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Police seeking suspect who fired 3 rounds at officers in Queens
+=======
+ 
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 Bronx
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Suspect wanted for allegedly shooting teenager in the Bronx
 
 
@@ -723,12 +913,40 @@ Suspects pepper spray man before trying to rob Bushwick apartment: Police
 
 
 
+=======
+
+
+News
+
+St. Louis tallies 75th homicide overnight, at least four others shot
+
+
+News
+
+One dead, two wounded in south St. Louis shooting
+
+
+News
+
+Multiple shootings push murder count to 76 in St. Louis City
+
+
+News
+
+Suspect charged in Saturday’s deadly shooting in South St. Louis
+
+
+News
+
+Trio arrested for Shiloh murder
+>>>>>>> origin/master
 
 
 
  
 
 
+<<<<<<< HEAD
 
 
 
@@ -771,6 +989,50 @@ Police search for suspect who allegedly punched woman on Brooklyn subway platfo
 
 
 
+=======
+News
+
+St. Louis man charged with double murder
+
+
+News
+
+Juvenile charged with the murder of 16-year-old
+
+
+News
+
+Police: Suspect charged in Job Corps murder
+
+
+News
+
+Man charged with fatal shooting of neighbor
+
+
+News
+
+Man accused of shooting, killing St. Louis homeless man
+
+
+
+ 
+
+
+News
+
+Man charged with North St. Louis murder
+
+
+News
+
+Shooting leaves man in critical condition
+
+
+News
+
+Duo charged in north county murder
+>>>>>>> origin/master
 
 
 
@@ -783,6 +1045,7 @@ Police search for suspect who allegedly punched woman on Brooklyn subway platfo
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -801,11 +1064,18 @@ iPhone & iPad App
 
 
 
+=======
+Mobile AppsAndroid App
+Android Weather App
+iPhone & iPad App
+iPhone Weather App
+>>>>>>> origin/master
 
 
 
 
 Facebook
+<<<<<<< HEAD
 
 
 Twitter
@@ -814,6 +1084,10 @@ Twitter
 Instagram
 
 
+=======
+Twitter
+Email Alerts
+>>>>>>> origin/master
 About & Contact
 
 
@@ -822,6 +1096,7 @@ About & Contact
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -855,14 +1130,24 @@ WordPress.com VIP
 
 
 
+=======
+Online Public File • 				Terms of Service •
+		Privacy Policy  •
+		2250 Ball Drive St. Louis MO 63146  •
+		Copyright © 2015, KTVI		 • A Tribune Broadcasting Station •
+		Powered by WordPress.com VIP 
+>>>>>>> origin/master
 
 
 
 
 
 ×
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> origin/master
 Email Alerts
 
 
@@ -901,6 +1186,7 @@ Email Alerts
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -989,6 +1275,12 @@ Your Name
 
 
 
+=======
+Send to Email Address
+
+Your Name
+
+>>>>>>> origin/master
 Your Email Address
 
 
@@ -996,6 +1288,7 @@ Your Email Address
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -1016,6 +1309,14 @@ Cancel
 
 
 
+=======
+Cancel
+
+				Post was not sent - check your email addresses!			
+
+				Email check failed, please try again			
+
+>>>>>>> origin/master
 				Sorry, your blog cannot share posts by email.			
 
 
@@ -1033,6 +1334,7 @@ Cancel
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -1056,3 +1358,5 @@ Cancel
 
 
 
+=======
+>>>>>>> origin/master

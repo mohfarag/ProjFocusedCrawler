@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 Suspect Charged In Connection With Fatal Police-Involved Shooting « CBS Chicago
 
 Suspect Charged In Connection With Fatal Police-Involved Shooting « CBS Chicago
+=======
+Charleston shooting | US news | The Guardian
+
+Charleston shooting | US news | The Guardian
+>>>>>>> origin/master
 
 
 
@@ -16,14 +22,22 @@ Suspect Charged In Connection With Fatal Police-Involved Shooting « CBS Chicago
 
 
 
+<<<<<<< HEAD
 
 
 
 Chicago
+=======
+Close
+
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Radio.com
 
 
@@ -348,10 +362,19 @@ View Comments
 Miguel Ruiz (Chicago Police Department)
 
 
+=======
+
+Skip to main content
+
+ 
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Related Tags:
 
 
@@ -363,18 +386,30 @@ Police-Involved Shooting
 
 
 
+=======
 
 
 
 
 
+sign in
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
 Featured & Trending:
 
 
 
+=======
 
 
 
+subscribe
+>>>>>>> origin/master
 
 
 
@@ -382,10 +417,18 @@ Featured & Trending:
 
 
 
+<<<<<<< HEAD
+=======
+search
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+jobs
+>>>>>>> origin/master
 
 
 
@@ -396,6 +439,7 @@ Featured & Trending:
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -410,20 +454,32 @@ Featured & Trending:
 
 
 
+=======
+more
 
 
+from the guardian:
 
 
+jobs
 
 
 
+change edition:
 
 
 
+switch to the  UK  edition
 
 
+switch to the  AU  edition
 
 
+switch to the 
+INT
+beta
+ edition
+>>>>>>> origin/master
 
 
 
@@ -432,18 +488,38 @@ Featured & Trending:
 
 
 
+<<<<<<< HEAD
+=======
+US edition
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+switch to the 
+UK edition
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+switch to the 
+Australia edition
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+switch to the 
+International
+beta
+>>>>>>> origin/master
 
 
 
@@ -454,6 +530,10 @@ Featured & Trending:
 
 
 
+<<<<<<< HEAD
+=======
+The Guardian
+>>>>>>> origin/master
 
 
 
@@ -470,10 +550,16 @@ Featured & Trending:
 
 
 
+<<<<<<< HEAD
 
 
+=======
+home
 
 
+›
+US
+>>>>>>> origin/master
 
 
 
@@ -484,55 +570,140 @@ Featured & Trending:
 
 
 
+<<<<<<< HEAD
+=======
+home
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+US
+selected
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+world
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+opinion
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+sports
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+soccer
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+tech
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+arts
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+lifestyle
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+fashion
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+business
+>>>>>>> origin/master
 
 
 
+
+<<<<<<< HEAD
+=======
+travel
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+environment
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+science
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+browse all sections
+close
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Latest News Headlines:
+=======
+>>>>>>> origin/master
 
 
 
 
  
+<<<<<<< HEAD
 Water Main Break Closes Streets In West Loop
  
 Man Shot, Seriously Wounded In Lawndale
@@ -583,6 +754,32 @@ Ruiz is scheduled to appear Saturday in bond court.
 
 
 (Source: Sun-Times Media Wire © Chicago Sun-Times 2010. All Rights Reserved. This material may not be published, broadcast, rewritten, or redistributed.)
+=======
+
+
+
+
+
+
+
+
+
+Charleston shooting
+
+Sunday
+
+28
+June
+2015
+
+
+
+
+
+
+
+
+>>>>>>> origin/master
 
 
 
@@ -594,6 +791,15 @@ Ruiz is scheduled to appear Saturday in bond court.
 
 
 
+<<<<<<< HEAD
+
+
+=======
+Charleston funerals: Joe Biden and city remember victims of church massacre
+
+
+Funeral for pastor DePayne Middelton-Doctor today afterCynthia Hurd, Tywanza Sanders and Susie Jackson were buried Saturday
+>>>>>>> origin/master
 
 
 
@@ -602,13 +808,16 @@ Ruiz is scheduled to appear Saturday in bond court.
 
 
 
+<<<<<<< HEAD
+=======
+Charleston funerals: Joe Biden and city remember victims of church massacre
+>>>>>>> origin/master
 
 
 
 
 
-
-
+<<<<<<< HEAD
 View Comments
  
 
@@ -633,6 +842,8 @@ View Comments
 
 Listen Live
 
+=======
+>>>>>>> origin/master
 
 
 
@@ -641,6 +852,7 @@ Listen Live
 
 
 
+<<<<<<< HEAD
 
  
 
@@ -671,12 +883,33 @@ Eight Wounded In Thursday Shootings Across Chicago
 Most recently, two men were shot late Thursday in the West Side Austin neighborhood. The men, ages 19 and 20, were standing outside in the 1500 block of North Linder about 10:25 p.m. when shots were fired in their direction from a group of males standing on the corner across the street, according to Chicago Police.
  
 80
+=======
+Confederate flag down, rainbow flag up: this is the American pride we've been waiting for
+
+Steven W Thrasher
+
+It may not be hope and change, but isn’t it amazing how much grace there is in Barack Obama’s United States right now?
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Follow 
 CBS Chicago
+=======
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+Confederate flag down, rainbow flag up: this is the American pride we've been waiting for
+>>>>>>> origin/master
 
 
 
@@ -692,16 +925,18 @@ CBS Chicago
 
 
 
-
-
-
-
-
-
+<<<<<<< HEAD
 
 
 
 Follow @CBSChicago
+=======
+White supremacist calls Charleston 'a preview of coming attractions'
+
+
+Dylann Roof cites Harold Covington’s Northwest Front in his manifesto. The sci-fi writer condemns Roof, but followers ponder the connection
+
+>>>>>>> origin/master
 
 
 
@@ -709,12 +944,19 @@ Follow @CBSChicago
 
 
 
+<<<<<<< HEAD
+=======
+White supremacist calls Charleston 'a preview of coming attractions'
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 Like us on foursquare
+=======
+>>>>>>> origin/master
 
 
 
@@ -725,6 +967,15 @@ Like us on foursquare
 
 
 
+<<<<<<< HEAD
+
+
+=======
+Gun control won't prevent another Charleston-style shooting, says Jeb Bush
+
+
+Ahead of South Carolina visit, Republican presidential candidate says it is better to identify potentially violent people before they commit crimes
+>>>>>>> origin/master
 
 
 
@@ -733,20 +984,28 @@ Like us on foursquare
 
 
 
+<<<<<<< HEAD
+=======
+Gun control won't prevent another Charleston-style shooting, says Jeb Bush
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+Older
+Newer
+>>>>>>> origin/master
 
 
 
 
 
 
-
-
+<<<<<<< HEAD
 
 
 
@@ -814,18 +1073,67 @@ dodgerman
 
  
 
+=======
+Topics
+
+
+
+US crime
 
 
 
 
+Gun crime
 
 
 
 
+US politics
 
 
 
 
+LGBT rights
+
+
+
+
+Obama administration
+
+
+
+More…
+
+
+
+Republicans
+
+
+
+
+Barack Obama
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+US gun control
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+Joe Biden
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
@@ -850,16 +1158,48 @@ New Podcast Network
 Download Our New Weather App!
  
 
+=======
+South Carolina
 
 
 
 
+US supreme court
 
 
 
 
+Same-sex marriage (US)
+
+
+
+
+Jeb Bush
+
+
+
+
+Seattle
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+Race issues
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
  
+=======
+Science fiction
+
+>>>>>>> origin/master
 
 
 
@@ -870,6 +1210,7 @@ Download Our New Weather App!
 
 
 
+<<<<<<< HEAD
 News
 
 
@@ -894,12 +1235,33 @@ Weather
 
 
 Traffic
+=======
+
+
+The Guardian
 
 
 
 
 
 
+
+
+back to top
+
+
+
+
+
+
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
 Sports
 
 
@@ -926,15 +1288,46 @@ Podcasts
 Blogs
 
 
+=======
+
+
+home
 
 
 
 
+US
+selected
+
+
+
+
+world
+
+
+
+
+opinion
+
+
+
+
+sports
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Scores & Stats
+=======
+soccer
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 NFL Football
 
 
@@ -947,15 +1340,33 @@ NBA Basketball
 NHL Hockey
 
 
+=======
+tech
 
 
 
 
+arts
+
+
+
+
+lifestyle
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Contact Us
+=======
+fashion
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 CBS 2
 
 
@@ -969,17 +1380,37 @@ Connect
 
 
 Mobile
+=======
+business
 
 
 
 
+travel
+
+
+
+
+environment
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 Corporate
+=======
+science
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 About Us
 
 
@@ -998,6 +1429,10 @@ Mobile
 Connect
 
 
+=======
+
+all sections
+close
 
 
 
@@ -1005,12 +1440,36 @@ Connect
 
 
 
+home
 
+
+
+
+US
+selected
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+world
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Chicago Business Listings
+=======
+UK
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Restaurants
 
 
@@ -1024,14 +1483,32 @@ Professional Services
 
 
 Search Listings
+=======
+europe
 
 
 
 
+americas
 
 
 
 
+asia
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+middle east
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 By viewing our video content, you are accepting the terms of our 
 Video Services Policy
 
@@ -1081,14 +1558,59 @@ WordPress.com VIP
 
 
  
+=======
+africa
+
+
+
+
+australia
+
+
+
+
+cities
+
+
+
+
+development
 
 
 
 
 
 
+opinion
 
 
+
+
+sports
+
+
+
+
+soccer
+
+
+
+
+MLS
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+NFL
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 Facebook
@@ -1100,10 +1622,24 @@ Twitter
 RSS
 
 
+=======
+MLB
 
 
 
 
+NBA
+
+
+
+
+NHL
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Other CBS Local Cities 
 
 
@@ -1182,14 +1718,86 @@ CBS Tampa
 
 
 CBS Washington
+=======
+
+
+soccer
+
+
+
+
+live scores
+
+
+
+
+tables
+
+
+
+
+competitions
+
+
+
+
+results
+
+
+
+
+fixtures
+
+
+
+
+clubs
 
 
 
 
 
 
+tech
 
 
+
+
+arts
+
+
+
+
+movies
+
+
+
+
+tv & radio
+
+
+
+
+music
+
+
+
+
+games
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+books
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 ©2015 CBS Local Media,
@@ -1199,16 +1807,29 @@ a division of CBS Radio Inc.
 All rights reserved.
 
 
+=======
+art & design
+
+
+
+
+stage
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+classical
+>>>>>>> origin/master
 
 
 
 
 
 
-
-
-
-
+<<<<<<< HEAD
 Buy Tickets
 Order Food
  
@@ -1227,33 +1848,62 @@ Email Alerts
 Daily Deals
 50% Off From ATE Accessories
  
+=======
+lifestyle
 
 
 
 
+food
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+health & fitness
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+love & sex
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+family
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+women
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Log In
 Register
  
+=======
+home & garden
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Follow Us
 
 
@@ -1264,47 +1914,90 @@ Twitter
 
 
 Youtube
+=======
+
+
+fashion
+
+
+
+
+business
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+economics
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+sustainable business
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+diversity & equality in business
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+small business
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+travel
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+USA
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+europe
+>>>>>>> origin/master
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 Listen Live
+=======
+UK
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 
 
 AM/FM Stations
@@ -1328,17 +2021,45 @@ B96
 
 
 WBBM NewsRadio
+=======
+environment
+
+
+
+
+climate change
+
+
+
+
+wildlife
+
+
+
+
+energy
+
+
+
+
+pollution
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 Featured Shows & Multimedia
+=======
+science
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Play.It
 
 
@@ -1351,13 +2072,72 @@ CBS Sports Radio
 Radio.com
 
 
+=======
+media
+
+
+
+
+crosswords
+
+
+
+
+video
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 Advertise On Our Streams
+=======
+>>>>>>> origin/master
+
+
+
+
+
+
+
+<<<<<<< HEAD
+
+
+
+
+
+
+
+
+
+
+=======
+jobs
+
+subscribe
+all topics
+all contributors
+
+
+report technical issue
+
+
+
+about us
+
+contact us
+
+complaints & corrections
+terms & conditions
+privacy policy
+cookie policy
+securedrop
+
+
+© 2015 Guardian News and Media Limited or its affiliated companies. All rights reserved.
+>>>>>>> origin/master
 
 
 
@@ -1371,30 +2151,17 @@ Advertise On Our Streams
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
+ 
+=======
+>>>>>>> origin/master
 
 
 
 
  
 
-
-
-
- 
-
+<<<<<<< HEAD
 
 
 
@@ -1427,3 +2194,5 @@ Advertise On Our Streams
 
 
 
+=======
+>>>>>>> origin/master

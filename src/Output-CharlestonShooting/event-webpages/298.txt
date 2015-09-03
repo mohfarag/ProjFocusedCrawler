@@ -1,7 +1,22 @@
+<<<<<<< HEAD
 police | New York's PIX11 / WPIX-TV 
 
 
 police | New York's PIX11 / WPIX-TV
+=======
+De Blasio, church leaders, rally in Queens for Charleston victims | New York's PIX11 / WPIX-TV 
+De Blasio, church leaders, rally in Queens for Charleston victims | New York's PIX11 / WPIX-TV
+
+
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+GoSearch
+>>>>>>> origin/master
 
 
 
@@ -9,10 +24,7 @@ police | New York's PIX11 / WPIX-TV
 
 
 
-
-
-
-
+<<<<<<< HEAD
 
 
 
@@ -38,10 +50,14 @@ Search
 PIX11 News 
 
 
+=======
+ Replay: PIX11 News   
+>>>>>>> origin/master
 
 PIX11 TV Schedule 
 
 
+<<<<<<< HEAD
 
 
 
@@ -49,6 +65,9 @@ PIX11 TV Schedule
  Search
 
 
+=======
+ Search
+>>>>>>> origin/master
  Contact Us
 
 
@@ -56,6 +75,7 @@ PIX11 TV Schedule
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -96,11 +116,26 @@ Contests
 Traffic
 
 
+=======
+New York's PIX11 / WPIX-TV
+
+ Menu
+
+NEWS
+Local
+Morning
+Sports
+PIX Team
+Contests
+PIX PLUS
+Traffic
+>>>>>>> origin/master
 Events
 
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -115,17 +150,34 @@ Weather
 77°
 
 
+=======
+Weather 
+
+78°
+
+
+
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+
+
+=======
+78°
+
+
+Low 73°
+High 87°
+>>>>>>> origin/master
 
 
 
 
 
-
-
-
-
-
-
+<<<<<<< HEAD
 
 
 
@@ -148,18 +200,49 @@ High
 
 
 
+=======
+Mon
+
+
+					72°  84°
+					
+
+
+Tue
+
+
+					74°  80°
+					
+
+
+Wed
+
+
+					72°  86°
+					
+
+
+See complete forecast
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 Sat
+=======
+ 
+
+
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 					71° 
  86°
 					
@@ -170,20 +253,38 @@ Sat
 
 
 Sun
+=======
+
+
+
+ 
+
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 					74° 
  90°
 					
 
+=======
+De Blasio, church leaders, rally in Queens for Charleston victims
+
+Posted 5:56 PM, June 20, 2015, by Christie Duffy 
+
+FacebookTwitterRedditPinterestEmailGoogle 
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 Mon
 
 
@@ -193,13 +294,70 @@ Mon
 					75° 
  92°
 					
+=======
+QUEENS — Dozens came together in Queens Saturday to pray for the victims of the Charleston Emanuel AME Church shooting. Mourners sang “We Shall Overcome” and marched arm-in-arm.Mayor Bill de Blasio and Allen AME Church leaders were among those leading the rally.”Light overcomes hate and love always chases away darkness,” said one parishioner of Allen AME.Attendees lit nine candles for each of the nine victims in Wednesday’s attack. 21-year-old Dylann Roof has been charged with their murders. He allegedly yelled racist slurs before he opened fire.
+“Yes, it was terrorism,” said Mayor de Blasio, “terrorism based on racism. But that does not negate the fact that we have a gun problem in this country.”
+People at the rally also cheered when some called for South Carolina to lower the confederate flag. It currently flies outside the state house.
+Emanuel AME in Charleston South Carolina is expected to re-open tomorrow for Sunday services.
+
+
+Photo Gallery
+
+
+ View Gallery (15 images)
+
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 See complete forecast
+=======
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+<<<<<<< HEAD
+
+=======
+Related stories
+
+Manifesto allegedly belonging to accused Charleston shooter found online
+Emotional vigil held in Brooklyn for Charleston victims
+‘Hate will not win': Victims’ families tell suspected church shooter they forgive him
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+
+
+
+
+
+
+=======
+Filed in: Queens 
+>>>>>>> origin/master
+
+
+
 
 
 
@@ -217,37 +375,13 @@ See complete forecast
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
+<<<<<<< HEAD
 
 						police					
+=======
+Watch The CW Now!
+See last night’s episodes now on The CW
+>>>>>>> origin/master
 
 
 
@@ -255,6 +389,7 @@ See complete forecast
 
 
 
+<<<<<<< HEAD
 
 News
 
@@ -274,12 +409,37 @@ News
 
 
 ‘Now my mom’s knocked out’: Cell phone video shows alleged Suffolk County police brutality
+=======
+ 
+
+ 
+
+
+Popular
+
+
+
+Drug cartel leader Joaquin “El Chapo” Guzman escapes from prison for second time
+
+
+
+Father charged with abandoning 3-year-old daughter at Harlem Subway
+
+
+
+Scientists baffled by mysterious creature with ‘beak’ and ‘fur’ that washed ashore
+
+
+
+North Carolina beach has 2 shark incidents in same day
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 Morning
 
 
@@ -299,17 +459,47 @@ News
 
 Rainbow City police used Taser, gagged girl having grand mal seizures: lawsuit
 
+=======
+
+ 
+
+
+Latest News
+
+
+
+Shoppers say goodbye to iconic FAO Schwarz flagship store
+
+
+
+2 teens shot near Brooklyn Museum: NYPD
+
+
+
+Nintendo President Satoru Iwata dies at 55
+
+
+
+Tyson investigating claims of animal abuse at chicken farms
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 Morning
+=======
+ 
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Former NYPD Lieutenant examines extent of protocol breach in ‘cop-boxing’ video
+=======
+>>>>>>> origin/master
 
 
 
@@ -318,15 +508,27 @@ Former NYPD Lieutenant examines extent of protocol breach in ‘cop-boxing’ vi
 
 
 
+<<<<<<< HEAD
  
 
 
 
 
+=======
+News
+
+Who were the Charleston victims?: 9 lives lost to family and community
+
+
+Brooklyn News
+
+Emotional vigil held in Brooklyn for Charleston victims
+>>>>>>> origin/master
 
 
 News
 
+<<<<<<< HEAD
 
 
 
@@ -347,10 +549,33 @@ Police shoot, kill knife-wielding man in Hackensack: prosecutor
 
 
 
+=======
+Family of Charleston shooting suspect makes first statement on slayings
 
 
 News
 
+Charleston minister: ‘No evildoer, no demon’ can close church
+
+
+News
+
+Tip from woman heading to work led police to suspected church shooter
+
+
+
+ 
+
+
+News
+
+Woman says Charleston shooter spared her to ‘tell everyone’ what happened
+>>>>>>> origin/master
+
+
+News
+
+<<<<<<< HEAD
 
 
 
@@ -359,10 +584,24 @@ Stony Brook mother Kristin Kapp abducts 5-year-old son: Suffolk cops
 
 
 
+=======
+Charleston remembers three more with services for victims of church massacre
 
 
 News
 
+Charleston church shooting investigated as a hate crime
+
+
+News
+
+Dylann Storm Roof: FBI names suspect in Charleston church shooting
+>>>>>>> origin/master
+
+
+News
+
+<<<<<<< HEAD
 
 
 
@@ -371,16 +610,37 @@ Ex-police officer among those charged as Jersey Shore drug rings smashed
 
 
 
+=======
+Vigils held in Harlem to remember victims of South Carolina church shooting
+
+
+
+ 
 
 
 News
 
+Dylann Roof and Michael Slager are jail neighbors, police confirm
+>>>>>>> origin/master
+
+
+News
+
+<<<<<<< HEAD
 
 
 
 Photos of groom being ‘arrested’ at his wedding go viral on Facebook
 
 
+=======
+Snapchat video allegedly shows Dylann Roof in prayer group just before massacre
+
+
+News
+
+Officers bought Burger King for Dylann Roof after arrest
+>>>>>>> origin/master
 
 
 
@@ -393,6 +653,7 @@ Photos of groom being ‘arrested’ at his wedding go viral on Facebook
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -408,11 +669,15 @@ Mobile Apps
 Android App
 
 
+=======
+Mobile AppsAndroid App
+>>>>>>> origin/master
 iPhone & iPad App
 
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -428,6 +693,11 @@ Twitter
 Instagram
 
 
+=======
+Facebook
+Twitter
+Instagram
+>>>>>>> origin/master
 About & Contact
 
 
@@ -436,6 +706,7 @@ About & Contact
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -469,14 +740,24 @@ WordPress.com VIP
 
 
 
+=======
+Online Public File • 				Terms of Service •
+		Privacy Policy  •
+		220 East 42nd Street New York, NY 10017 212-949-1100  •
+		Copyright © 2015, WPIX		 • A Tribune Broadcasting Station •
+		Powered by WordPress.com VIP 
+>>>>>>> origin/master
 
 
 
 
 
 ×
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> origin/master
 Email Alerts
 
 
@@ -508,6 +789,7 @@ Email Alerts
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -566,6 +848,15 @@ Join 5,004 other followers
 
 
 
+=======
+Follow
+
+Follow “New York's PIX11 / WPIX-TV”
+
+Get every new post delivered to your Inbox.
+
+Join 4,974 other followers
+>>>>>>> origin/master
 
 
 
@@ -583,6 +874,7 @@ Build a website with WordPress.com
 
 
 
+<<<<<<< HEAD
 
 
 Add your thoughts here... (optional)
@@ -591,6 +883,13 @@ Add your thoughts here... (optional)
 Post to
 
 
+=======
+Send to Email Address
+
+Your Name
+
+Your Email Address
+>>>>>>> origin/master
 
 
 
@@ -599,6 +898,7 @@ Post to
 
 Cancel
 
+<<<<<<< HEAD
 
 
 
@@ -639,6 +939,13 @@ Cancel
 
 
 
+=======
+				Post was not sent - check your email addresses!			
+
+				Email check failed, please try again			
+
+				Sorry, your blog cannot share posts by email.			
+>>>>>>> origin/master
 
 
 

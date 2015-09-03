@@ -1,7 +1,22 @@
+<<<<<<< HEAD
 9 dead in church shooting in South Carolina; suspect still at large | New York's PIX11 / WPIX-TV 
 
 
 9 dead in church shooting in South Carolina; suspect still at large | New York's PIX11 / WPIX-TV
+=======
+Shooting Reported at Church in Downtown Charleston, South Carolina | FOX40 
+Shooting Reported at Church in Downtown Charleston, South Carolina | FOX40
+
+
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+GoSearch
+>>>>>>> origin/master
 
 
 
@@ -10,10 +25,7 @@
 
 
 
-
-
-
-
+<<<<<<< HEAD
 
 
 Go
@@ -49,6 +61,12 @@ PIX11 TV Schedule
  Search
 
 
+=======
+FOX40 TV Schedule 
+
+
+ Search
+>>>>>>> origin/master
  Contact Us
 
 
@@ -56,6 +74,7 @@ PIX11 TV Schedule
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -96,11 +115,24 @@ Contests
 Traffic
 
 
+=======
+FOX40
+
+ Menu
+
+News
+Morning
+Sports
+Traffic
+Seen on FOX40
+Contests
+>>>>>>> origin/master
 Events
 
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -125,10 +157,16 @@ Weather
 
 
 
+=======
+Weather 
+
+73°
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 77°
 
 
@@ -199,11 +237,48 @@ Mon
 
 
 
+=======
+
+
+
+73°
+
+
+Low 60°
+High 87°
+
+
+
+
+
+Mon
+
+
+					59°  92°
+					
+
+
+Tue
+
+
+					60°  91°
+					
+
+
+Wed
+
+
+					65°  98°
+					
+
+
+>>>>>>> origin/master
 See complete forecast
 
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -233,6 +308,8 @@ See complete forecast
 
 
 
+=======
+>>>>>>> origin/master
  
 
 
@@ -244,6 +321,7 @@ See complete forecast
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -259,11 +337,14 @@ Posted 10:42 PM, June 17, 2015, by
 CNN
 , 
 Updated at 07:29pm, June 18, 2015
+=======
+>>>>>>> origin/master
  
 
 
 
 
+<<<<<<< HEAD
 Facebook
 Twitter
 Reddit
@@ -366,18 +447,83 @@ Republican presidential candidate Jeb Bush canceled a scheduled town hall in Cha
 
 
 “As the #Charleston police deem this horrific act a hate crime,” the King Center tweeted, “we pray vigorously that this person’s hate does not cultivate more hate.”
+=======
+
+
+
+Charleston Church Shooting: 9 Killed in What Officials Call Hate Crime
+
+Posted 8:00 PM, June 17, 2015, by CNN Wire 
+
+FacebookTwitterRedditGooglePocketTumblrEmail 
+
+
+CHARLESTON, South Carolina —
+A white man walked into a historic African-American church in Charleston, South Carolina, and opened fire during a Bible study class, killing nine people Wednesday evening.
+The suspect was still at large early Thursday morning. And the shooting at the Emanuel African Methodist Episcopal Church, the oldest AME church in the South, is being investigated as a hate crime.
+“The only reason someone would walk into a church and shoot people that were praying is hate,” said Charleston Mayor Joe Riley.
+Eight churchgoers died at the scene; a ninth at a hospital, police said.
+Officials wouldn’t say how many people were at the prayer service during the shooting. There were survivors, said Charleston Police Chief Greg Mullen, but he didn’t elaborate.
+Historic significance
+Emanuel African Methodist Episcopal Church has been a presence in Charleton since 1816 when African-American members of Charleston’s Methodist Episcopal Church formed their own congregation after a dispute over burial grounds.
+It was burned to the ground at one point, but rebuilt.
+Every Wednesday evening, the church holds a Bible study in its basement.
+The shooting was “obviously the most intolerable and unbelievable act possible,” the mayor said.
+“People in prayer Wednesday evening. A ritual, a coming together, praying, worshiping God. An awful person come in and shoot them is inexplicable,” Riley said.
+Police received the first call around 9:05 p.m. Officers arrived to find several victims inside.
+“It’s really bad. It’s a very bad scene,” local pastor Thomas Dixon said.
+Search on for suspect
+Police said the suspect in the shooting is a clean-shaven white man in his 20s, with a slender build. He was wearing a gray sweatshirt, blue jeans and boots.
+“He obviously is extremely dangerous,” Chief Mullen said. “We will put all our resources, we will put all of our energy in finding this individual.”
+The department asked anyone with information to call 911 dispatchers.
+“While we do not yet know all of the details, we do know that we’ll never understand what motivates anyone to enter one of our places of worship and take the life of another,” South Carolina Gov. Nikki Haley said.
+Heavy police presence
+“Like everybody out here, we’re sick to our stomachs that this could happen in a church,” Rep. Dave Mack, a friend of the church’s pastor, told CNN affiliate WCSC.
+Corey Wessenger, who was standing across the street from the church, said the area was swarming with law enforcement.
+“I just saw a group of about 40 people escorted by cops,” Wessenger told CNN by phone.
+Community members gathered in a prayer circle just down the street from the scene.
+Republican presidential candidate Jeb Bush canceled a scheduled town hall in Charleston on Thursday “due to the tragic events unfolding in South Carolina tonight.”
+
+
+
+Filed in: National and World News 
 
 
 
 
+
+
+
+
+
+
+
+
+
+ 
+
+
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 PHOTO GALLERY: Mermaid Parade 2015 [NSFW]
+=======
+Circle FOX40 on G+!
+Join the conversation by circling FOX40 on Google+
+
+
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 
 PHOTOS & VIDEO: ‘Seinfield’ fans can visit Jerry’s apartment in new exhibit
 
@@ -396,6 +542,30 @@ DNA test proves ‘fried rat’ was a chicken tender, KFC says
 New Yorkers strip down for No Pants Subway Ride [PHOTOS & VIDEO]
 
 
+=======
+ 
+
+ 
+
+
+Popular
+
+
+
+1 Dead, 2 Hurt in Shooting at North Sacramento Party
+
+
+
+Father of Missing Shasta County Baby on the Run
+
+
+
+Inmate Was Cut Nearly in Two, Organs Missing
+
+
+
+7-Year-Old Missing from Galt
+>>>>>>> origin/master
 
 
 
@@ -403,6 +573,7 @@ New Yorkers strip down for No Pants Subway Ride [PHOTOS & VIDEO]
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -433,6 +604,34 @@ News
  
 
 
+=======
+ 
+
+
+Latest News
+
+
+
+1 Dead, 2 Hospitalized in Apparent GHB Overdose in LA
+
+
+
+Boy, 12, Rescued After Fall Down Slope During Hike
+
+
+
+54 Stingrays Die at Chicago Zoo
+
+
+
+Firefighting Planes Briefly Grounded by Drone Over Wildfire
+
+
+
+
+
+ 
+>>>>>>> origin/master
 
 
 
@@ -441,14 +640,18 @@ News
 
 
 
+<<<<<<< HEAD
 ×
 
 
 Report a Typo
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -484,12 +687,67 @@ Typo
 
 
 
+=======
+News
+
+Charleston Church Shooting Suspect Arrested
+
+
+National and World News
+
+Charleston Victims: 9 Lives Lost to Family and Community
+
+
+National and World News
+
+Dylann Storm Roof: Police Name Suspect in Charleston Church Shooting
+
+
+National and World News
+
+Charleston Church Shooting: Suspect Confesses, Says He Sought Race War
+
+
+National and World News
+
+Woman Says Charleston Shooter Spared Her to ‘Tell Everyone’ What Happened
 
 
 
  
 
 
+National and World News
+
+Dylann Roof and Michael Slager are Jail Neighbors, Police Confirm
+
+
+National and World News
+
+Minister: ‘No Evildoer, No Demon’ Can Close Church Targeted by Shooter
+
+
+Local News
+
+Pain of Charleston Shooting Felt in Northern California
+
+
+National and World News News
+
+Racist Online Manifesto Mentions Charleston, Includes Images Of Roof
+
+
+National and World News
+
+Obama Eulogizes Pastor in Charleston Shooting
+>>>>>>> origin/master
+
+
+
+ 
+
+
+<<<<<<< HEAD
 
 
 Cancel
@@ -515,6 +773,21 @@ Cancel
 
 
 
+=======
+National and World News
+
+Charleston Shooting Suspect Hears Victim’s Family Say, ‘I Forgive You’
+
+
+News
+
+FBI Investigating Cause of Latest Church Fire
+
+
+National and World News
+
+Lives of Promise: Charleston Victims Identified
+>>>>>>> origin/master
 
 
 
@@ -527,10 +800,17 @@ Cancel
 
 
 
+<<<<<<< HEAD
+=======
+Mobile AppsAndroid App
+iPhone & iPad App
+Breaking News Alerts
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -541,6 +821,12 @@ Watch NJ Lottery drawings live
 
 Winning numbers and daily results
 
+=======
+Facebook
+Twitter
+Instagram
+About & Contact
+>>>>>>> origin/master
 
 
 
@@ -548,27 +834,49 @@ Winning numbers and daily results
 
 
 
+<<<<<<< HEAD
+=======
+Online Public File • 				Terms of Service •
+		Privacy Policy  •
+		4655 Fruitridge Road Sacramento, CA 95820  •
+		Copyright © 2015, KTXL		 • A Tribune Broadcasting Station •
+		Powered by WordPress.com VIP 
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 
 
 
  
+=======
+×
+Email Alerts
+
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
  
+=======
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 Popular
+=======
+>>>>>>> origin/master
 
 
 
@@ -577,7 +885,10 @@ Popular
 
 
 
+<<<<<<< HEAD
 NBA great Darryl Dawkins has died at 58 years old
+=======
+>>>>>>> origin/master
 
 
 
@@ -586,7 +897,10 @@ NBA great Darryl Dawkins has died at 58 years old
 
 
 
+<<<<<<< HEAD
 Video showing shootings of WDBJ crew posted under Bryce Williams Twitter, Facebook accounts
+=======
+>>>>>>> origin/master
 
 
 
@@ -595,15 +909,24 @@ Video showing shootings of WDBJ crew posted under Bryce Williams Twitter, Facebo
 
 
 
+<<<<<<< HEAD
 Reporter, photographer shot to death on air in Virginia
 
 
+=======
+Send to Email Address
+
+Your Name
+
+Your Email Address
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 ‘Dead’ teen ‘wakes up’ screaming, banging inside coffin; family smashes tomb
 
 
@@ -1124,6 +1447,13 @@ Cancel
 				Email check failed, please try again			
 
 
+=======
+Cancel
+
+				Post was not sent - check your email addresses!			
+
+				Email check failed, please try again			
+>>>>>>> origin/master
 
 				Sorry, your blog cannot share posts by email.			
 
@@ -1142,6 +1472,7 @@ Cancel
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -1165,3 +1496,5 @@ Cancel
 
 
 
+=======
+>>>>>>> origin/master

@@ -1,8 +1,16 @@
+<<<<<<< HEAD
 Charleston shooting: state senator Clementa Pinckney among victims | US news | The Guardian
 
 
 
 Charleston shooting: state senator Clementa Pinckney among victims | US news | The Guardian
+=======
+Charleston shooting | US news | The Guardian
+
+Charleston shooting | US news | The Guardian
+
+
+>>>>>>> origin/master
 
 
 
@@ -16,6 +24,25 @@ Charleston shooting: state senator Clementa Pinckney among victims | US news | T
 
 
 
+<<<<<<< HEAD
+=======
+Close
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+
+=======
+Skip to main content
+
+ 
+>>>>>>> origin/master
 
 
 
@@ -26,15 +53,7 @@ Charleston shooting: state senator Clementa Pinckney among victims | US news | T
 
 
 
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 Close
 
 
@@ -1987,6 +2006,10 @@ arts
 
 
 lifestyle
+=======
+
+sign in
+>>>>>>> origin/master
 
 
 
@@ -1995,7 +2018,11 @@ lifestyle
 
 
 
+<<<<<<< HEAD
 fashion
+=======
+subscribe
+>>>>>>> origin/master
 
 
 
@@ -2003,22 +2030,35 @@ fashion
 
 
 
+<<<<<<< HEAD
 
 business
 
 
 
+=======
+search
+
+
+
+
+jobs
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 travel
+=======
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -2035,6 +2075,32 @@ science
 
 
 
+=======
+more
+
+
+from the guardian:
+
+
+jobs
+
+
+
+change edition:
+
+
+
+switch to the  UK  edition
+
+
+switch to the  AU  edition
+
+
+switch to the 
+INT
+beta
+ edition
+>>>>>>> origin/master
 
 
 
@@ -2043,10 +2109,15 @@ science
 
 
 
+<<<<<<< HEAD
+=======
+US edition
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 all
  sections
 
@@ -2054,6 +2125,26 @@ all
 close
 
 
+=======
+switch to the 
+UK edition
+
+
+
+
+switch to the 
+Australia edition
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+switch to the 
+International
+beta
+>>>>>>> origin/master
 
 
 
@@ -2063,12 +2154,13 @@ close
 
 
 
-
-
-
-
+<<<<<<< HEAD
 home
 
+=======
+
+The Guardian
+>>>>>>> origin/master
 
 
 
@@ -2076,9 +2168,13 @@ home
 
 
 
+<<<<<<< HEAD
 US
 
 selected
+=======
+
+>>>>>>> origin/master
 
 
 
@@ -2087,9 +2183,17 @@ selected
 
 
 
+<<<<<<< HEAD
 
 world
 
+=======
+home
+
+
+›
+US
+>>>>>>> origin/master
 
 
 
@@ -2097,137 +2201,254 @@ world
 
 
 
+<<<<<<< HEAD
 UK
 
 
 
+=======
+
+
+
+home
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 europe
 
 
 
+=======
+US
+selected
 
 
 
 
+world
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 americas
 
 
 
-
-
-
-
-
-asia
-
-
-
-
-
-
-
-
-middle east
-
-
-
-
-
-
-
-
-africa
-
-
-
-
-
-
-
-
-australia
-
-
-
-
-
-
-
-
-cities
-
-
-
-
-
-
-
-
-development
-
-
-
-
-
-
-
-
-
-
-
-
+=======
 opinion
 
 
 
 
-
-
-
-
 sports
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+
+asia
 
 
 
-
+=======
 soccer
 
 
 
 
+tech
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+
+middle east
+
+
+
+=======
+arts
+
+
+
+
+lifestyle
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+
+africa
+
+
+
+=======
+fashion
+
+
+
+
+business
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+
+australia
+
+
+
+=======
+travel
+
+
+
+
+environment
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+
+cities
+=======
+science
+
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
+
+
+
+development
+=======
+browse all sections
+close
+
+
+
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
+=======
+ 
+>>>>>>> origin/master
+
+
+
+
+
+
+
+<<<<<<< HEAD
+opinion
+
+
+
+
+=======
+
+
+Charleston shooting
+
+Tuesday
+
+30
+June
+2015
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+sports
+=======
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+soccer
+=======
+>>>>>>> origin/master
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
 MLS
 
 
 
 
+=======
+
+
+The west has normalised racist wars - but you can’t solve complex problems with 1,000lb bombs
+
+Frankie Boyle
+
+‘Radicalisation’ is our new dirty word in the US and UK, yet radical change is needed. Here’s an idea: stop trying to fix the world with high explosives
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 NFL
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+The west has normalised racist wars - but you can’t solve complex problems with 1,000lb bombs
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 MLB
+=======
+>>>>>>> origin/master
 
 
 
@@ -2236,16 +2457,27 @@ MLB
 
 
 
+<<<<<<< HEAD
 NBA
+=======
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 
 
 NHL
+=======
+Obama's 'Amazing Grace' is a sign of music's powerful role in black churches
+
+Guthrie P Ramsey
+
+Obama united his audience – mostly black church-goers – with their history, and joined himself to that history
+>>>>>>> origin/master
 
 
 
@@ -2254,7 +2486,11 @@ NHL
 
 
 
+<<<<<<< HEAD
 rugby world cup
+=======
+Obama's 'Amazing Grace' is a sign of music's powerful role in black churches
+>>>>>>> origin/master
 
 
 
@@ -2267,6 +2503,7 @@ rugby world cup
 
 
 
+<<<<<<< HEAD
 soccer
 
 
@@ -2277,15 +2514,34 @@ soccer
 
 
 live scores
+=======
+
+
+
+Nikki Haley and the Confederate flag: the latest battle in career that defies the odds
+
+
+The 43-year-old Indian American governor, one of the Republican party’s unlikeliest stars, finds herself squarely in the spotlight again for her call to remove the Confederate flag from the South Carolina statehouse grounds
+
+
+
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 
 
 
 tables
+=======
+Nikki Haley and the Confederate flag: the latest battle in career that defies the odds
+
+
+
+>>>>>>> origin/master
 
 
 
@@ -2294,7 +2550,10 @@ tables
 
 
 
+<<<<<<< HEAD
 competitions
+=======
+>>>>>>> origin/master
 
 
 
@@ -2302,9 +2561,17 @@ competitions
 
 
 
+<<<<<<< HEAD
 
 results
 
+=======
+These lone wolf terrorists are not holy warriors
+
+Nabila Ramdani
+
+Nowadays any vengeful inadequate can claim a link with global terror. All it takes is a selfie and a flag for instant international infamy
+>>>>>>> origin/master
 
 
 
@@ -2312,42 +2579,74 @@ results
 
 
 
+<<<<<<< HEAD
 fixtures
 
+=======
+
+These lone wolf terrorists are not holy warriors
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 
 clubs
+=======
+Older
+Newer
+
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
+
+
+
+=======
+Topics
+
+
+
+Race issues
+>>>>>>> origin/master
 
 
 
 
-
-
-
+<<<<<<< HEAD
 tech
+=======
+Military
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+US politics
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 arts
+=======
+Obama administration
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -2355,58 +2654,117 @@ arts
 movies
 
 
+=======
+Islam
+
+
+
+More…
+
+
+
+US military
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 tv & radio
 
 
+=======
+South Carolina
 
 
 
 
+Islamic State
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 music
 
 
+=======
+Europe
 
 
 
 
+France
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 games
 
 
+=======
+US crime
 
 
 
 
+Middle East and North Africa
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 books
 
 
+=======
+Gun crime
 
 
 
 
+Al-Qaida
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 art & design
 
 
+=======
+David Cameron
+
+
+
+
+Tunisia
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 stage
+=======
+>>>>>>> origin/master
 
 
 
@@ -2414,8 +2772,13 @@ stage
 
 
 
+<<<<<<< HEAD
 
 classical
+=======
+The Guardian
+
+>>>>>>> origin/master
 
 
 
@@ -2423,12 +2786,19 @@ classical
 
 
 
+<<<<<<< HEAD
+=======
+back to top
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 lifestyle
+=======
+>>>>>>> origin/master
 
 
 
@@ -2437,168 +2807,324 @@ lifestyle
 
 
 
+<<<<<<< HEAD
 food
 
+=======
+
+home
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 
 health & fitness
 
+=======
+US
+selected
 
 
 
 
+world
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
 love & sex
 
+=======
+opinion
 
 
 
 
+sports
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
 family
 
+=======
+soccer
 
 
 
 
+tech
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
 women
 
+=======
+arts
 
 
 
 
+lifestyle
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
 home & garden
 
-
-
-
-
-
-
-
-
-
-
-
+=======
 fashion
 
 
 
 
-
-
-
-
 business
+>>>>>>> origin/master
 
 
 
 
-
-
-
-
-economics
-
-
-
-
-
-
-
-
-sustainable business
-
-
-
-
-
-
-
-
-diversity & equality in business
-
-
-
-
-
-
-
-
-small business
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
+=======
 travel
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 
+fashion
 
-USA
-
-
-
-
-
-
-
-
-europe
-
-
-
-
-
-
-
-
-UK
-
-
-
-
-
-
-
-
-
-
-
-
+=======
 environment
 
 
 
 
+science
+>>>>>>> origin/master
 
+
+
+
+
+
+
+<<<<<<< HEAD
+business
+=======
+all sections
+close
+>>>>>>> origin/master
+
+
+
+
+
+
+
+<<<<<<< HEAD
+
+economics
+
+
+
+=======
+home
+
+
+
+
+US
+selected
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+
+sustainable business
+
+
+
+=======
+world
+
+
+
+
+UK
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+
+diversity & equality in business
+
+
+
+=======
+europe
+
+
+
+
+americas
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+
+small business
+
+
+
+=======
+asia
+
+
+
+
+middle east
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+africa
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+
+travel
+
+
+
+=======
+australia
+
+
+
+
+cities
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+
+USA
+=======
+development
+
+>>>>>>> origin/master
+
+
+
+
+
+<<<<<<< HEAD
+
+
+
+europe
+
+=======
+opinion
+
+
+
+
+sports
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+
+
+
+UK
+
+=======
+soccer
+
+
+
+
+MLS
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+NFL
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+
+
+
+environment
+
+=======
+MLB
+
+
+
+
+NBA
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
@@ -2606,206 +3132,404 @@ climate change
 
 
 
+=======
+NHL
 
 
 
 
+
+
+soccer
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 wildlife
 
 
 
+=======
+live scores
 
 
 
 
+tables
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 energy
 
 
 
+=======
+competitions
 
 
 
 
+results
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 pollution
 
 
 
+=======
+fixtures
+
+
+
+
+clubs
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 
 
 
 science
 
+=======
+tech
 
 
 
 
+arts
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
 media
 
+=======
+movies
 
 
 
 
+tv & radio
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
 crosswords
 
+=======
+music
 
 
 
 
+games
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
 blog
 
+=======
+books
 
 
 
 
+art & design
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
 editor
 
+=======
+stage
+
+
+
+
+classical
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 
 quick
 
 
 
+=======
+lifestyle
 
 
 
 
+food
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 cryptic
 
 
 
+=======
+health & fitness
 
 
 
 
+love & sex
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 prize
 
 
 
+=======
+family
 
 
 
 
+women
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 quiptic
+=======
+home & garden
+
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 
 
 
 genius
 
+=======
+fashion
 
 
 
 
+business
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
 speedy
 
+=======
+economics
 
 
 
 
+sustainable business
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
 everyman
 
+=======
+diversity & equality in business
+
+
+
+
+small business
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 
 azed
 
 
 
+=======
+travel
 
 
 
 
+USA
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+europe
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 video
+=======
+UK
+
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
+=======
+environment
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+climate change
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+wildlife
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+energy
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 US News
+=======
+pollution
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
+=======
+science
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 ›
 
 
 Charleston shooting
+=======
+media
 
 
 
 
+crosswords
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+video
+>>>>>>> origin/master
 
 
 
@@ -2821,6 +3545,7 @@ Charleston shooting
 
 jobs
 
+<<<<<<< HEAD
 
 
 subscribe
@@ -2835,10 +3560,18 @@ all contributors
 
 
 
+=======
+subscribe
+all topics
+all contributors
+
+
+>>>>>>> origin/master
 report technical issue
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -2869,6 +3602,19 @@ securedrop
 
 
 
+=======
+about us
+
+contact us
+
+complaints & corrections
+terms & conditions
+privacy policy
+cookie policy
+securedrop
+
+
+>>>>>>> origin/master
 © 2015 Guardian News and Media Limited or its affiliated companies. All rights reserved.
 
 
@@ -2887,6 +3633,7 @@ securedrop
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -2910,3 +3657,7 @@ securedrop
 
 
 
+=======
+ 
+
+>>>>>>> origin/master

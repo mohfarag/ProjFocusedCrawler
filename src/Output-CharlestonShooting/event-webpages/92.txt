@@ -1,7 +1,14 @@
+<<<<<<< HEAD
 Dylann Roof to face hate crime charges in Charleston shooting | New York's PIX11 / WPIX-TV 
 
 
 Dylann Roof to face hate crime charges in Charleston shooting | New York's PIX11 / WPIX-TV
+=======
+11 myths about the future of gun control, debunked after the Charleston shooting | US news | The Guardian
+
+11 myths about the future of gun control, debunked after the Charleston shooting | US news | The Guardian
+
+>>>>>>> origin/master
 
 
 
@@ -16,8 +23,12 @@ Dylann Roof to face hate crime charges in Charleston shooting | New York's PIX11
 
 
 
+<<<<<<< HEAD
 Go
 Search
+=======
+Close
+>>>>>>> origin/master
 
 
 
@@ -26,6 +37,13 @@ Search
 
 
 
+<<<<<<< HEAD
+
+=======
+Skip to main content
+
+ 
+>>>>>>> origin/master
 
 
 
@@ -33,7 +51,7 @@ Search
 
 
 
-
+<<<<<<< HEAD
  Replay: 
 PIX11 News 
 
@@ -41,16 +59,30 @@ PIX11 News
 
 PIX11 TV Schedule 
 
+=======
+
+
+
+
+sign in
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
  Search
 
 
  Contact Us
 
+=======
+
+
+
+subscribe
+>>>>>>> origin/master
 
 
 
@@ -58,23 +90,37 @@ PIX11 TV Schedule
 
 
 
+<<<<<<< HEAD
+=======
+search
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 New York's PIX11 / WPIX-TV
+=======
+jobs
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
  
 Menu
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 NEWS
 
 
@@ -97,6 +143,32 @@ Traffic
 
 
 Events
+=======
+more
+
+
+from the guardian:
+
+
+jobs
+
+
+
+change edition:
+
+
+
+switch to the  UK  edition
+
+
+switch to the  AU  edition
+
+
+switch to the 
+INT
+beta
+ edition
+>>>>>>> origin/master
 
 
 
@@ -105,6 +177,7 @@ Events
 
 
 
+<<<<<<< HEAD
 
 
 Weather 
@@ -115,6 +188,31 @@ Weather
 77°
 
 
+=======
+US edition
+
+
+
+
+switch to the 
+UK edition
+
+
+
+
+switch to the 
+Australia edition
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+switch to the 
+International
+beta
+>>>>>>> origin/master
 
 
 
@@ -125,23 +223,28 @@ Weather
 
 
 
-
-
-
-
+<<<<<<< HEAD
 77°
+=======
+The Guardian
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 Low 
 68°
 
 
 High 
 81°
+=======
+
+
+>>>>>>> origin/master
 
 
 
@@ -150,16 +253,27 @@ High
 
 
 
+<<<<<<< HEAD
 
 
 
 
 Sat
+=======
+home
+
+
+›
+US
+
+
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 					71° 
  86°
 					
@@ -171,17 +285,34 @@ Sat
 
 Sun
 
+=======
+
+
+
+home
 
 
 
 
+US
+selected
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 					74° 
  90°
 					
+=======
+world
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 Mon
@@ -194,19 +325,100 @@ Mon
  92°
 					
 
+=======
+opinion
 
 
 
 
+sports
+
+
+
+
+soccer
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 See complete forecast
 
 
 
+=======
+tech
 
 
 
 
+arts
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+
+
+
+ 
+
+=======
+lifestyle
+
+
+
+
+fashion
+
+
+
+
+business
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+travel
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+environment
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+science
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+browse all sections
+close
+
+
+
+
+
+>>>>>>> origin/master
 
 
 
@@ -222,39 +434,27 @@ See complete forecast
 
 
 
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 
 
 
 
 
 Dylann Roof to face hate crime charges in Charleston shooting
+=======
+US gun control
+
+
+
+11 myths about the future of gun control, debunked after the Charleston shooting
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Posted 3:07 PM, July 22, 2015, by 
 Associated Press
  
@@ -269,22 +469,36 @@ Pinterest
 Email
 Google
  
+=======
+
+
+
+Another mass shooting, another round of arguments about why gun reform is doomed to fail. Turns out, most of those arguments don’t hold up to scrutiny
+
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 COLUMBIA, S.C.  — The man accused of slaying nine black church members in Charleston last month has been indicted on dozens of federal charges.
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 That word comes from a federal law enforcement official. According to the official, a federal grand jury indicted Dylann Roof on 33 federal charges.
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
  
 Prosecutors haven’t said if they’ll seek the death penalty against Roof on state charges including nine counts of murder.
 
@@ -315,35 +529,76 @@ Charleston
 , 
 Dylann Roof
  
+=======
+
+
+
+A selection of handguns are displayed.
+Photograph: Paul Miller/AAPIMAGE
+
+
+
+
+Dan Roberts and 
+Sabrina Siddiqui in Washington
+
+
+Saturday 20 June 2015 07.15 EDT
+
+
+Last modified on Monday 22 June 2015 14.34 EDT
+
+
+
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+Share on Facebook
+>>>>>>> origin/master
 
 
 
 
 
 
-
-
-
-
+<<<<<<< HEAD
 ×
 
 
 Report a Typo
+=======
+
+Share on Twitter
+
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+Share via Email
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 Name
 (required)
 
+=======
+
+Share on Pinterest
+>>>>>>> origin/master
 
 
 
@@ -351,8 +606,12 @@ Name
 
 
 
+<<<<<<< HEAD
 Typo
 (required)
+=======
+Share on LinkedIn
+>>>>>>> origin/master
 
 
 
@@ -360,6 +619,10 @@ Typo
 
 
 
+<<<<<<< HEAD
+=======
+Share on Google+
+>>>>>>> origin/master
 
 
 
@@ -367,16 +630,26 @@ Typo
 
 
 
+<<<<<<< HEAD
+=======
+Share on WhatsApp
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
  
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Cancel
+=======
+>>>>>>> origin/master
 
 
 
@@ -386,6 +659,7 @@ Cancel
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -414,10 +688,102 @@ Cancel
 
 
 
+=======
+Myth No1: Gun control would never pass Congress 
+
+ Related: Obama's strong words on Charleston shooting: 'I refuse to act as if this is the new normal' 
+
+A majority of US senators voted for a package of gun control measures only two years ago. The 54 who backed the bill, which was written by Republican Pat Toomey and Democrat Joe Manchin, included three other Republicans.
+But when four Democrats got cold feet about their electoral chances in the midterms, the legislation fell short of the 60 votes it needed to prevent a filibuster.
+Heading into the 2016 election, however, there are many more moderate Republican seats up for grabs – and a meaningful opportunity for Democrats to take back control of the Senate.
+A successful bipartisan Senate bill and more persuasive president could be enough to encourage a future House speaker to allow a vote, too, or at the very least put pressure on the Republican-controlled House.
+Myth No2: Americans don’t want meaningful gun reforms
+
+
+
+ Facebook 
+ Twitter 
+ Pinterest 
+
+
+Roses with the faces of the Sandy Hook elementary students and adults killed are seen on a pole in Newtown, Connecticut, in 2013. Photograph: Timothy A Clary/AFP/Getty Images
+
+
+Support for universal background checks skyrocketed after the December 2012 Sandy Hook elementary school shooting in Newtown, Connecticut, with 90% of Americans behind the proposal at its peak. More than two years later, polls continue to show strong support for expanding background checks, averaging 80%.
+As a successful 2014 ballot initiative in Washington state proved, if you leave the decision in the hands of voters, they are more likely than politicians to vote for universal background checks.
+Ironically, when Congress was weighing air strikes in Syria in August 2013, just four months after the failed background checks vote, one of the foremost reasons lawmakers cited in opposing the Obama administration’s plan was polling that showed 90% of Americans were against intervention. It was a classic example of how Congress selectively listens to the American people – as in, whenever it’s more convenient.
+Myth No3: Gun control won’t stop gun violence
+There are more than three times as many Americans killed by guns per capita than in any other wealthy country, and more than 10 times the rate in comparable larger countries such as Britain, France and Japan.
+Many of these countries have similar problems with crime, drugs, urban deprivation and youth violence, others are more peaceful, but there is one simple thing that countries with less gun violence have in common with each other: they have fewer guns.
+No one can predict the future of a more gun-constrained America with certainty, but the evidence from dozens of comparable societies points to a clear causal relationship between access to firearms and how often they are used.
+Myth No4: Switzerland and Israel seem to do OK without gun control
+
+
+
+ Facebook 
+ Twitter 
+ Pinterest 
+
+
+Switzerland is known for widespread gun ownership but not for gun deaths. Photograph: Fabrice Coffrini/AFP/Getty Images
+
+
+Proponents of unfettered gun ownership often point to the example of Switzerland, which has a tradition of more widespread firearms ownership than most other European countries but is not known for its gun-ravaged inner cities.
+One problem is the trend is not that different: more guns still lead to more shooting, just less so than in America. Switzerland is actually second among wealthy countries in terms of annual gun deaths (0.77 per 100,000 of population in one recent survey, versus 2.97 in the US and just 0.07 in England and Wales) but has barely half as many guns per 100 people (45.7 versus 88.8 in the US).
+But even this comparison gets weaker if you look at the way the Swiss keep their guns, which stems from a tradition of military service that has been considerably tightened over the years. One US study by the National Institutes of Health points out that both Switzerland and Israel (another alleged exception to the rule touted as proof that guns don’t kill) actually limit firearm ownership considerably and require permit renewal one to four times annually.
+Those are just the kind of gun control measures, in fact, that second-amendment fans in the US claim wouldn’t make any difference to gun violence.
+Myth No5: Other countries are different
+Further rejoinders to the international-comparison argument are less empirical still, tending to rely on a mixture of American cultural exceptionalism, pioneer spirit and a history of racial tension to explain why murder rates are so high without blaming gun ownership.
+While it is true that US history differs greatly from European history, this theory is less effective at explaining similar disparities with Canada and Australia.
+Comparisons between similar large cities also belie the argument that there is something uniquely violent about America’s urban poor. London has gang violence, drugs and recent riots that make Ferguson and Baltimore look tranquil, yet the Metropolitan police estimate criminals have access to barely 100 guns in a city only slightly smaller than New York. Cities like Glasgow and Liverpool can be shockingly violent places but victims of knife attacks and beatings tend to survive.
+It may be true that the link between guns and a culture of violence goes both ways, but that’s hardly a reason not to try tackle both at the same time.
+Myth No6: US borders are too open
+Amid widespread concern over illegal immigration, much attention has also focused on the unique geography of the United States. It is true that the country has among the longest land borders in the world and is a very open international trading nation.
+It is hard to imagine, however, the weapons would be anywhere near as easy for criminals to obtain if they all had to be smuggled through ports, airports or across the Mexican border. Even a small reduction in weapons falling into the wrong hands would also reduce the incentive for homeowners to store guns for self-defense.
+Whether US port security or land borders would really prove that much more porous than other countries with stricter gun laws is also open to question, but it is strange this argument is rarely offered as a reason to give up on drug interdiction, or intercepting terrorist bomb threats.
+Myth No7: Guns are essential for self-defense
+
+
+
+ Facebook 
+ Twitter 
+ Pinterest 
+
+
+The NRA president, Wayne LaPierre: ‘The only thing that stops a bad guy with a gun, is a good guy with a gun.’ Photograph: Steve Ueckert/AP
+
+
+“The only thing that stops a bad guy with a gun, is a good guy with a gun,” the NRA president, Wayne LaPierre, infamously declared after the Newtown shooting.
+According to the nonprofit Violence Policy Center, there were just 258 “justifiable homicides” involving civilians using guns in 2012, as opposed to 8,342 criminal homicides committed with a firearm. “For every justifiable homicide in the United States involving a gun, guns were used in 32 criminal homicides,” the group said in a report, which is based on data from the FBI and Bureau of Justice Statistics.
+And those figures do not even include an estimated 22,000 suicides and accidental shootings annually where guns are involved.
+Myth No8: The NRA is invincible
+
+ Related: NRA blames Charleston victims as the mass shooting reaction echoes Newtown 
+
+After Newtown, anti-gun violence groups actually raised more money. According to filings with the Federal Election Commission in 2014, gun control groups declared $21.3m in contributions since the November 2012 election, whereas gun rights groups raised $16.3m in the same period.
+Americans for Responsible Solutions, the anti-gun violence group co-founded by former congresswoman Gabby Giffords, a Democrat who was shot in the head during the 2011 mass shooting in Tucson, Arizona, amassed a whopping $11m in its first four months of existence.
+Myth No9: Lawmakers will be voted out of office for supporting gun control
+In the 2014 elections, two governors who passed comprehensive gun control bills – the Connecticut governor, Dan Malloy, and Colorado governor, John Hickenlooper, both Democrats – were re-elected despite the NRA’s best efforts to defeat them.
+The gun control debate also had little effect on lawmakers who voted against stricter gun laws after Newtown. US senators Mark Pryor of Arkansas and Mark Begich of Alaska – two of just four Democrats who joined Republicans in blocking a Senate bill to expand background checks – both lost their re-elections anyway.
+Despite its pledge to reward politicians who stood up for gun rights, the NRA did nothing to help either senator. Money and grassroots support is also now on offer from groups like those backed by the former New York mayor Mike Bloomberg, that support gun control.
+Myth No10: Mass shootings still happen in areas with strict gun laws, so gun control doesn’t work
+When a mass shooting occurred in Septemberg 2013 at the Navy Yard compound in Washington, one of the first arguments made by activists for gun rights was that gun control is clearly ineffective because DC has some of the strictest gun laws in the US. 
+A similar point has been made about Chicago, which has tough restrictions on guns but ranks among the country’s deadliest with respect to gun violence.
+The problem with this theory is that criminals also have access to cars, and can easily obtain firearms in neighboring states or counties.
+In the Navy Yard incident, the shooter legally purchased firearms in neighboring Virginia despite a criminal record and mental health issues – exposing gaps in the current background checks system. And cities like Chicago are plagued by the illegal trafficking of firearms; there is no current federal law that defines gun trafficking or straw purchasing as a crime.
+Myth No11: Universal background checks would create a federal database of gun owners
+
+ Related: Despite Charleston killings, moves towards US gun control at a standstill 
+
+One of the myths that ended the background checks bill in the Senate two years ago was the claim – perpetrated by the gun lobby and swallowed by most Republicans – was that it would create a national registry of gun owners.
+In fact, the Manchin-Toomey legislation explicitly barred the creation of a federal database in its text, but opponents insisted it would infringe on the liberties of gun owners in America.
+Aside from that being a false claim, it was notable that just a couple of months later, when it was revealed that the NSA was spying on millions of Americans, the same lawmakers were overwhelmingly supportive of far more intrusive data-gathering.
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 Watch NJ Lottery drawings live
@@ -427,6 +793,19 @@ Winning numbers and daily results
 
 
 
+=======
+More analysis 
+Topics
+
+
+
+US gun control
+
+
+
+
+Gun crime
+>>>>>>> origin/master
 
 
 
@@ -437,23 +816,39 @@ Winning numbers and daily results
 
 
 
+<<<<<<< HEAD
 
 
 
  
+=======
+Share on Facebook
+
+
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
  
+=======
+Share on Twitter
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 Popular
 
+=======
+
+Share via Email
+>>>>>>> origin/master
 
 
 
@@ -461,7 +856,11 @@ Popular
 
 
 
+<<<<<<< HEAD
 NBA great Darryl Dawkins has died at 58 years old
+=======
+Share on Pinterest
+>>>>>>> origin/master
 
 
 
@@ -469,26 +868,46 @@ NBA great Darryl Dawkins has died at 58 years old
 
 
 
+<<<<<<< HEAD
 
 Video showing shootings of WDBJ crew posted under Bryce Williams Twitter, Facebook accounts
+=======
+Share on LinkedIn
+
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 
 
 Reporter, photographer shot to death on air in Virginia
+=======
+Share on Google+
+
+
+>>>>>>> origin/master
 
 
 
 
 
+<<<<<<< HEAD
 
 
 
 ‘Dead’ teen ‘wakes up’ screaming, banging inside coffin; family smashes tomb
+=======
+Share on WhatsApp
+
+
+
+
+
+>>>>>>> origin/master
 
 
 
@@ -505,15 +924,23 @@ Reporter, photographer shot to death on air in Virginia
 
 
 
+<<<<<<< HEAD
  
+=======
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 Latest News
 
+=======
+
+View all comments >
+>>>>>>> origin/master
 
 
 
@@ -521,15 +948,29 @@ Latest News
 
 
 
+<<<<<<< HEAD
 One man’s poop is another’s medicine
 
 
 
 
+=======
+comments 
+Sign in
+or create your Guardian account to join the discussion.
+
+This discussion is closed for comments.
+
+We’re doing some maintenance right now. You can still read comments, but please come back later to add your own.
+
+
+Commenting has been disabled for this account (why?)
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Calif. man bitten while taking selfie with rattlesnake
 
 
@@ -552,6 +993,60 @@ WATCH IT: Sinkhole swallows 5 people in China is captured on video
 
 
 
+=======
+
+
+
+Order by 
+
+
+newest
+
+
+oldest
+
+
+
+
+Show 25
+
+
+25
+
+
+50
+
+
+100
+
+
+All
+
+
+
+
+Threads 
+
+
+collapsed
+
+
+expanded
+
+
+unthreaded
+
+
+
+
+
+Loading comments… Trouble loading?
+
+
+
+
+View more comments
+>>>>>>> origin/master
 
 
 
@@ -568,6 +1063,10 @@ WATCH IT: Sinkhole swallows 5 people in China is captured on video
 
 
 
+<<<<<<< HEAD
+=======
+more on this story
+>>>>>>> origin/master
 
 
 
@@ -585,63 +1084,105 @@ WATCH IT: Sinkhole swallows 5 people in China is captured on video
 
 
 
+<<<<<<< HEAD
 
 
 
 News
+=======
+Charleston shootings: NRA blames victims as reactions echo Newtown
+
+
+An NRA board member suggested worshippers ‘might be alive’ if they had guns themselves, while Obama and gun control groups repeat calls for reform
+
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Official: S.C. church shooting suspect to face hate crime charge
+=======
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 News
+=======
+Published: 20 Jun 2015
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Dylann Roof and Michael Slager are jail neighbors, police confirm
+=======
+Charleston shootings: NRA blames victims as reactions echo Newtown
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 News
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Officers bought Burger King for Dylann Roof after arrest
+=======
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 News
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Not guilty plea in federal court for church shooting suspect Dylann Roof
 
 
+=======
+
+
+Sorry, your browser is unable to play this video.
+Please install Adobe Flash™ and try again.
+Alternatively upgrade to a modern browser.
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 News
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Snapchat video allegedly shows Dylann Roof in prayer group just before massacre
+=======
+>>>>>>> origin/master
 
 
 
@@ -650,25 +1191,38 @@ Snapchat video allegedly shows Dylann Roof in prayer group just before massacre
 
 
 
+<<<<<<< HEAD
  
+=======
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 News
 
 
 
 
 FBI says Dylann Roof should not have been cleared to purchase a weapon
+=======
+Michelle Obama on Charleston: 'Too many tragedies like this' - video
+
+
+Michelle Obama spoke about the deadly church shooting in Charleston, South Carolina.
+
+
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 News
 
 
@@ -682,80 +1236,143 @@ Tip from woman heading to work led police to suspected church shooter
 
 
 News
+=======
+
+
+
+Published: 19 Jun 2015
 
 
 
 
+Michelle Obama on Charleston: 'Too many tragedies like this' - video
+
+
+
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 Dylann Roof says he almost backed out because everyone at church was ‘so nice’
+=======
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 News
 
 
 
 
 Family of Charleston shooting suspect makes first statement on slayings
+=======
+
+
+Rick Perry calls Charleston church shooting an 'accident'
+
+
+Republican presidential candidate says ‘real issue’ raised by case is drugs and accuses Obama of seeking to use shooting to take away Americans’ guns
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 News
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Suspected church shooter Dylann Roof confesses to massacre: source
 
+=======
+
+Published: 19 Jun 2015
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 
 
 
  
+=======
+Rick Perry calls Charleston church shooting an 'accident'
+
+
+
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 News
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Dylann Storm Roof: FBI names suspect in Charleston church shooting
+=======
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 News
 
 
 
 
 Who is the Charleston church shooting suspect?
+=======
+
+
+
+Sorry, your browser is unable to play this video.
+Please install Adobe Flash™ and try again.
+Alternatively upgrade to a modern browser.
+
+>>>>>>> origin/master
 
 
 
 
 
 
+<<<<<<< HEAD
 News
+=======
+>>>>>>> origin/master
 
 
 
 
+<<<<<<< HEAD
 Woman says Charleston shooter spared her to ‘tell everyone’ what happened
+=======
+>>>>>>> origin/master
 
 
 
@@ -767,10 +1384,18 @@ Woman says Charleston shooter spared her to ‘tell everyone’ what happened
 
 
 
+<<<<<<< HEAD
 
 
 
  
+=======
+No decision has been made on death penalty in Charleston church shooting, says prosecutor – video
+
+
+Prosecutor Scarlett Wilson says 'now is not the time' to discuss whether suspected gunman Dylann Roof will face the death penalty
+
+>>>>>>> origin/master
 
 
 
@@ -781,6 +1406,7 @@ Woman says Charleston shooter spared her to ‘tell everyone’ what happened
 
 
 
+<<<<<<< HEAD
 
 
 Mobile Apps
@@ -788,6 +1414,14 @@ Android App
 
 
 iPhone & iPad App
+=======
+Published: 19 Jun 2015
+
+
+
+
+No decision has been made on death penalty in Charleston church shooting, says prosecutor – video
+>>>>>>> origin/master
 
 
 
@@ -798,6 +1432,7 @@ iPhone & iPad App
 
 
 
+<<<<<<< HEAD
 Facebook
 
 
@@ -808,6 +1443,15 @@ Instagram
 
 
 About & Contact
+=======
+
+
+
+
+
+
+Representatives of Charleston shooting victims 'forgive' Dylann Roof
+>>>>>>> origin/master
 
 
 
@@ -821,6 +1465,7 @@ About & Contact
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -840,6 +1485,144 @@ A Tribune Broadcasting Station
  •
 		Powered by 
 WordPress.com VIP
+=======
+Published: 19 Jun 2015
+
+
+
+
+Representatives of Charleston shooting victims 'forgive' Dylann Roof
+
+
+
+
+
+
+
+
+
+
+Charleston killings leave US reckoning with race and guns amid 'broken peace'
+
+
+
+
+
+
+
+
+
+
+
+
+
+Published: 18 Jun 2015
+
+
+
+
+Charleston killings leave US reckoning with race and guns amid 'broken peace'
+
+
+
+
+
+
+
+
+
+
+Charleston church shooting: suspect Dylann Roof in custody as community holds vigils
+
+
+
+
+
+
+
+
+
+
+
+
+
+Published: 19 Jun 2015
+
+
+
+
+Charleston church shooting: suspect Dylann Roof in custody as community holds vigils
+
+
+
+
+
+
+
+
+
+
+The Charleston shooting victims: a poet, a politician, a librarian, women of faith
+
+
+
+
+
+
+
+
+
+
+
+
+
+Published: 18 Jun 2015
+
+
+
+
+The Charleston shooting victims: a poet, a politician, a librarian, women of faith
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+More more on this story
+
+
+
+
+
+
+
+
+
+
+
+popular
+
+
+
+
+
+
+
+
+
+
+
+
+>>>>>>> origin/master
  
 
 
@@ -849,6 +1632,7 @@ WordPress.com VIP
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -860,6 +1644,17 @@ Email Alerts
 
 
 
+=======
+The Guardian
+
+
+
+
+
+
+
+
+back to top
 
 
 
@@ -874,6 +1669,104 @@ Email Alerts
 
 
 
+home
+
+
+
+
+US
+selected
+
+
+
+
+world
+
+
+
+
+opinion
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+sports
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+soccer
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+tech
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+arts
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+lifestyle
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+fashion
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+business
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+travel
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+environment
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+science
+>>>>>>> origin/master
 
 
 
@@ -881,6 +1774,11 @@ Email Alerts
 
 
 
+<<<<<<< HEAD
+=======
+all sections
+close
+>>>>>>> origin/master
 
 
 
@@ -888,36 +1786,15 @@ Email Alerts
 
 
 
+<<<<<<< HEAD
+=======
+home
+>>>>>>> origin/master
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 
 Follow
 
@@ -938,37 +1815,87 @@ Join 5,004 other followers
 
 
 
+=======
+US
+selected
 
 
 
 
+world
 
 
 
 
+UK
 
 
 
 
+europe
+
+
+
+
+americas
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+asia
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+middle east
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 
 
 Build a website with WordPress.com
 
+=======
+africa
+
+
+
+
+australia
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+cities
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+development
+>>>>>>> origin/master
 
 
 
 
 
 
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 
 
 
@@ -984,18 +1911,45 @@ Your Name
 
 Your Email Address
 
+=======
+opinion
 
 
 
 
+sports
 
 
 
 
+soccer
 
 
 
 
+MLS
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+NFL
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+MLB
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
 
 Cancel
 
@@ -1010,6 +1964,318 @@ Cancel
 
 
 				Sorry, your blog cannot share posts by email.			
+=======
+NBA
+
+
+
+
+NHL
+
+
+
+
+
+
+soccer
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+live scores
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+tables
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+competitions
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+results
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+fixtures
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+clubs
+>>>>>>> origin/master
+
+
+
+
+
+
+<<<<<<< HEAD
+=======
+tech
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+arts
+>>>>>>> origin/master
+
+
+
+
+<<<<<<< HEAD
+=======
+movies
+
+
+
+
+tv & radio
+
+
+
+
+music
+
+
+
+
+games
+
+
+
+
+books
+
+
+
+
+art & design
+
+
+
+
+stage
+
+
+
+
+classical
+
+
+
+
+
+
+lifestyle
+
+
+
+
+food
+
+
+
+
+health & fitness
+
+
+
+
+love & sex
+
+
+
+
+family
+
+
+
+
+women
+
+
+
+
+home & garden
+
+
+
+
+
+
+fashion
+
+
+
+
+business
+
+
+
+
+economics
+
+
+
+
+sustainable business
+
+
+
+
+diversity & equality in business
+
+
+
+
+small business
+
+
+
+
+
+
+travel
+
+
+
+
+USA
+
+
+
+
+europe
+
+
+
+
+UK
+
+
+
+
+
+
+environment
+
+
+
+
+climate change
+
+
+
+
+wildlife
+
+
+
+
+energy
+
+
+
+
+pollution
+
+
+
+
+
+
+science
+
+
+
+
+media
+
+
+
+
+crosswords
+
+
+
+
+video
+
+
+
+
+
+
+
+
+
+
+
+US News
+
+
+
+
+›
+US gun control
+
+
+
+
+
+
+
+
+jobs
+
+subscribe
+all topics
+all contributors
+
+
+report technical issue
+
+
+
+about us
+
+contact us
+
+complaints & corrections
+terms & conditions
+privacy policy
+cookie policy
+securedrop
+
+
+© 2015 Guardian News and Media Limited or its affiliated companies. All rights reserved.
 
 
 
@@ -1027,25 +2293,6 @@ Cancel
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ 
+>>>>>>> origin/master
 
