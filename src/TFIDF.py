@@ -4,11 +4,12 @@ Created on Dec 25, 2012
 @author: Mohamed
 '''
 import math
-from nltk.stem.porter import PorterStemmer
-from nltk.tokenize.regexp import WordPunctTokenizer
-from nltk.corpus import stopwords
+#from nltk.stem.porter import PorterStemmer
+#from nltk.tokenize.regexp import WordPunctTokenizer
+#from nltk.corpus import stopwords
 from Filter import getTokenizedDocs, getTokenizedDoc
-from eventUtils import getWebpageText,getSorted,getWebpageText_NoURLs
+#from eventUtils import getWebpageText,getSorted,getWebpageText_NoURLs
+from eventUtils import getWebpageText_NoURLs, getSorted
 class TFIDF:
     
     def bm25(self,idf, tf, dl, avgdl, B, K1):

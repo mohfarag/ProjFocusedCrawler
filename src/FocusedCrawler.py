@@ -176,7 +176,6 @@ def startCrawl(seedsFile,evaluator,modelFile,ct,num=5,pagesLimit=100, pageScoreT
 
 if __name__ == "__main__":
     
-<<<<<<< HEAD
     seedsFiles=['Output-CharlestonShooting.txt','seeds-Sandra.txt','Output-tunisiaHotelAttack.txt','Output-samesexmarriage.txt','Output-fifaArrests.txt','Output-boatCapsized.txt','Output-nepalEarthquake.txt','seeds_459.txt','seeds_474.txt','seedsURLs_z_534.txt','seedsURLs_z_501.txt','seedsURLs_z_540.txt']
     posFiles = ['charlestonShootingPos.txt','evaluate-SandraBland.txt','pos-tunisiaHotelAttack.txt','pos-samesexmarriage.txt','Output-fifaArrests.txt','Output-boatCapsized.txt','Output-nepalEarthquake.txt','pos-FSU.txt','pos-Hagupit.txt','pos-AirAsia.txt','pos-sydneyseige.txt','pos-Charlie.txt']
     negFiles = ['charlestonShootingNeg.txt','neg-FSU.txt','neg-Hagupit.txt','neg-AirAsia.txt','neg-sydneyseige.txt','neg-Charlie.txt']
@@ -184,7 +183,7 @@ if __name__ == "__main__":
     evaluator = Evaluate()
     #for i in range(3):
     pagesLimit = 300
-=======
+
     seedsFiles=['seeds-Sandra.txt','Output-tunisiaHotelAttack.txt','Output-samesexmarriage.txt','Output-CharlestonShooting.txt','Output-fifaArrests.txt','Output-boatCapsized.txt','Output-nepalEarthquake.txt','seeds_459.txt','seeds_474.txt','seedsURLs_z_534.txt','seedsURLs_z_501.txt','seedsURLs_z_540.txt']
     posFiles = ['evaluate-SandraBland.txt','pos-tunisiaHotelAttack.txt','pos-samesexmarriage.txt','pos-CharlestonShooting.txt','Output-fifaArrests.txt','Output-boatCapsized.txt','Output-nepalEarthquake.txt','pos-FSU.txt','pos-Hagupit.txt','pos-AirAsia.txt','pos-sydneyseige.txt','pos-Charlie.txt']
     negFiles = ['neg-FSU.txt','neg-Hagupit.txt','neg-AirAsia.txt','neg-sydneyseige.txt','neg-Charlie.txt']
@@ -192,7 +191,7 @@ if __name__ == "__main__":
     evaluator = Evaluate()
     #for i in range(3):
     pagesLimit = 100
->>>>>>> origin/master
+
     noK = 5
     pageTh = 0.2
     urlsTh = 0
@@ -202,18 +201,15 @@ if __name__ == "__main__":
     
     posFile = posFiles[i]
     negFile = negFiles[i]
-<<<<<<< HEAD
     
     #vsmClassifierFileName = 'classifierVSM-'+posFile.split(".")[0].split('-')[1]+".p"
     #evaluator.buildVSMClassifier(posFile, vsmClassifierFileName,pageTh,noK)
     classifierFileName = 'charlestonShooting_NBClassifier.p'
     evaluator.buildClassifier(posFile, negFile, classifierFileName)
     
-    
-=======
     vsmClassifierFileName = 'classifierVSM-'+posFile.split(".")[0].split('-')[1]+".p"
     evaluator.buildVSMClassifier(posFile, vsmClassifierFileName,pageTh,noK)
->>>>>>> origin/master
+
     inputFile = seedsFiles[i]
     modelFile = modelFiles[i]#'modelFile.txt'#inputFile
     
