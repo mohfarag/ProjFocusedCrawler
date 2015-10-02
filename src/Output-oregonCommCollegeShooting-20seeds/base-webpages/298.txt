@@ -1,0 +1,1519 @@
+Guardian Syndication  » Guardian Permission Automation 
+
+Guardian Syndication  » Guardian Permission Automation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+ / Guardian Permission Automation
+
+
+
+
+
+
+
+
+User Name
+
+
+
+
+Password
+
+
+
+
+
+
+ Log In
+ 
+
+
+
+
+
+
+
+
+ or                       
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+You are
+*
+Existing Customer
+New Customer
+URL of content
+*
+
+
+
+
+Item needed
+*
+Article
+Audio
+Cartoon
+Chart/Graph/Map
+Photograph
+Video
+Portion you want to use
+*
+Entirety
+Extract - word count for text and second(s) for Audio/Video
+Headline
+How many words/seconds
+Please enter a value greater than or equal to 
+0
+.
+How you will use it
+*
+Select how you are going to use this content
+Newspaper
+Magazine
+Book
+Textbook or exam
+Class/coursepack materials
+Cover image
+CD-Rom
+DVD
+Distance learning materials
+Email
+Exhibition
+Mockup for use within a TV/movie drama
+Movie flash
+Photocopies
+Poster
+Presentation/slide kit
+Prop within a TV/movie drama
+Report/newsletter
+Thesis/dissertation
+TV programme
+Website/blog
+When you need it by
+*
+
+
+
+
+
+
+dd-mm-yyyy
+Where you will use it
+*
+Worldwide
+Worldwide excluding
+United Kingdom
+United States of America
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra, Principality of
+Angola
+Anguilla
+Antarctica
+Antigua & Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bonaire, Sint Eustatius and Saba
+Bosnia & Herzogovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+Brunei Darussalam
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde Islands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China (PRC)
+Christmas Island
+Cocos-Keeling Islands
+Colombia
+Comoros
+Congo, Dem. Rep. of  (former Zaire)
+Congo, The Democratic Republic of the
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curacao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+East Timor
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji Islands
+Finland
+France
+French Guyana
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe (French)
+Guam (USA)
+Guatemala
+Guernsey
+Guinea (PRP)
+Guinea Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast (Côte d'Ivoire)
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyz Republic (Kyrgyzstan)
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macau
+Macedonia (former Yugoslav Rep.)
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali Republic
+Malta
+Marshall Islands
+Martinique (French)
+Mauritania
+Mauritius
+Mayotte Island
+Mexico
+Micronesia (Federal States of)
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia (French)
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+North Korea
+Northern Marianas Islands (Saipan, Rota, & Tinian)
+Norway
+Oman
+Pakistan
+Palau
+Palestine
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Polynesia (French)
+Portugal
+Puerto Rico
+Qatar
+Romania
+Russia
+Rwanda
+Réunion Island
+Saint Barthelemy
+Saint Martin (French part)
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Serbia and Montenegro
+Seychelles Islands
+Sierra Leone
+Singapore
+Sint Maarten (Dutch part)
+Slovak Republic
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+Spain
+Sri Lanka
+St. Helena
+St. Kitts/Nevis
+St. Lucia
+St. Pierre & Miquelon
+St. Vincent & Grenadines
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Tadjikistan
+Taiwan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga Islands
+Trinidad & Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+Uganda
+Ukraine
+United Arab Emirates
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican City
+Venezuela
+Vietnam
+Virgin Islands (British)
+Virgin Islands (US)
+Wallis and Futuna Islands
+Western Sahara
+Western Samoa
+Yemen
+Zambia
+Zimbabwe
+You may select multiple values
+Constitutes more than 20% of the final work?
+No
+Yes
+Additional rights
+Are you requesting translation rights?
+No
+Yes - Enter language(s) below
+Translation language(s)
+Any other rights needed
+Your product
+Title or name
+*
+Price and currency
+*
+British Pound
+Euro
+US Dollar
+Afghanistan Afghani
+Albanian Lek
+Algerian Dinar
+Andorran Euro
+Andorran Peseta
+Angolan New Kwanza
+Argentine Peso
+Aruban Florin
+Australian Dollar
+Bahamanian Dollar
+Bahraini Dinar
+Bangladeshi Taka
+Barbados Dollar
+Belize Dollar
+Bermudian Dollar
+Bhutan Ngultrum
+Bolivian Boliviano
+Botswana Pula
+Brazilian Real
+Brunei Dollar
+Bulgarian Lev
+Burundi Franc
+CFA Franc BCEAO
+CFA Franc BEAC
+Cambodian Riel
+Canadian Dollar
+Cape Verde Escudo
+Cayman Islands Dollar
+Chilean Peso
+Chinese Yuan Renminbi
+Colombian Peso
+Comoros Franc
+Costa Rican Colon
+Croatian Kuna
+Cuban Peso
+Cyprus Pound
+Czech Koruna
+Danish Krone
+Djibouti Franc
+Dominican R. Peso
+ECU
+East Carribean Dollar
+Ecuador Sucre
+Egyptian Pound
+El Salvador Colon
+Estonian Kroon
+Ethiopian Birr
+Falkland Islands Pound
+Fiji Dollar
+Gambian Dalasi
+Ghanaian Cedi
+Gibraltar Pound
+Guatemalan Quetzal
+Guinea Franc
+Guyanese Dollar
+Haitian Gourde
+Honduran Lempira
+Hong Kong Dollar
+Hungarian Forint
+Iceland Krona
+Indian Rupee
+Indonesian Rupiah
+Iranian Rial
+Iraqi Dinar
+Israeli New Shekel
+Jamaican Dollar
+Japanese Yen
+Jordanian Dinar
+Kazakhstan Tenge
+Kenyan Shilling
+Kuwaiti Dinar
+Lao Kip
+Latvian Lats
+Lebanese Pound
+Lesotho Loti
+Liberian Dollar
+Libyan Dinar
+Lithuanian Litas
+Macau Pataca
+Malagasy Franc
+Malawi Kwacha
+Malaysian Ringgit
+Maldive Rufiyaa
+Maltese Lira
+Mauritanian Ouguiya
+Mauritius Rupee
+Mexican Peso
+Mongolian Tugrik
+Moroccan Dirham
+Mozambique Metical
+Myanmar Kyat
+NL Antillian Guilder
+Namibia Dollar
+Nepalese Rupee
+New Zealand Dollar
+Nicaraguan Cordoba Oro
+Nigerian Naira
+North Korean Won
+Norwegian Kroner
+Omani Rial
+Pakistan Rupee
+Panamanian Balboa
+Papua New Guinea Kina
+Paraguay Guarani
+Peruvian Nuevo Sol
+Philippine Peso
+Polish Zloty
+Qatari Rial
+Romanian Leu
+Russian Rouble
+Samoan Tala
+Sao Tome/Principe Dobra
+Saudi Riyal
+Seychelles Rupee
+Sierra Leone Leone
+Singapore Dollar
+Slovak Koruna
+Slovenian Tolar
+Solomon Islands Dollar
+Somali Shilling
+South African Rand
+South-Korean Won
+Sri Lanka Rupee
+St. Helena Pound
+Sudanese Dinar
+Sudanese Pound
+Suriname Guilder
+Swaziland Lilangeni
+Swedish Krona
+Swiss Franc
+Syrian Pound
+Taiwan Dollar
+Tanzanian Shilling
+Thai Baht
+Tonga Pa'anga
+Trinidad/Tobago Dollar
+Tunisian Dinar
+Turkish Lira
+Turkish Lira (old)
+Uganda Shilling
+Ukraine Hryvnia
+Uruguayan Peso
+Utd. Arab Emir. Dirham
+Vanuatu Vatu
+Venezuelan Bolivar
+Vietnamese Dong
+Yugoslav Dinar
+Zambian Kwacha
+Zimbabwe Dollar
+Product price
+*
+Please enter a value between 
+0
+ and 
+999999999
+.
+Circulation / print run / transmissions
+*
+Please enter a value between 
+0
+ and 
+9999999999
+.
+Your reference
+Email address to cc quote/licence to
+
+
+
+
+Existing Customer Info
+Choose between the two options below
+Contact email address
+*
+
+
+
+
+Customer reference
+Enter your customer reference
+Previous licence
+OR
+ supply a previous licence
+New Customer Info
+Licensee name
+*
+Licensee type
+*
+Academic Publisher
+Academic Institution
+Commercial Publisher
+Organisation (Over 50 people)
+Organisation (Under 50 people)
+Individual
+Licensee is
+*
+For profit
+Not-profit
+Registered charity
+UK Charity number
+EEC VAT reference
+Contact Details
+Name
+*
+
+
+
+
+Title
+
+
+
+
+Mr
+Ms
+Mrs
+Miss
+Dr
+Sir
+
+
+
+
+
+
+
+
+First
+
+
+
+
+
+
+
+
+Last
+
+
+
+
+
+
+Telephone number
+*
+Email
+*
+
+
+
+
+Address 1st line
+*
+Address 2nd line
+Address 3rd line
+Town
+*
+County
+Postal code
+*
+Country
+*
+United Kingdom
+United States of America
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra, Principality of
+Angola
+Anguilla
+Antarctica
+Antigua & Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bonaire, Sint Eustatius and Saba
+Bosnia & Herzogovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+Brunei Darussalam
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde Islands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China (PRC)
+Christmas Island
+Cocos-Keeling Islands
+Colombia
+Comoros
+Congo, Dem. Rep. of  (former Zaire)
+Congo, The Democratic Republic of the
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curacao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+East Timor
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji Islands
+Finland
+France
+French Guyana
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe (French)
+Guam (USA)
+Guatemala
+Guernsey
+Guinea (PRP)
+Guinea Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast (Côte d'Ivoire)
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyz Republic (Kyrgyzstan)
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macau
+Macedonia (former Yugoslav Rep.)
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali Republic
+Malta
+Marshall Islands
+Martinique (French)
+Mauritania
+Mauritius
+Mayotte Island
+Mexico
+Micronesia (Federal States of)
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia (French)
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+North Korea
+Northern Marianas Islands (Saipan, Rota, & Tinian)
+Norway
+Oman
+Pakistan
+Palau
+Palestine
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Polynesia (French)
+Portugal
+Puerto Rico
+Qatar
+Romania
+Russia
+Rwanda
+Réunion Island
+Saint Barthelemy
+Saint Martin (French part)
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Serbia and Montenegro
+Seychelles Islands
+Sierra Leone
+Singapore
+Sint Maarten (Dutch part)
+Slovak Republic
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+Spain
+Sri Lanka
+St. Helena
+St. Kitts/Nevis
+St. Lucia
+St. Pierre & Miquelon
+St. Vincent & Grenadines
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Tadjikistan
+Taiwan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga Islands
+Trinidad & Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+Uganda
+Ukraine
+United Arab Emirates
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican City
+Venezuela
+Vietnam
+Virgin Islands (British)
+Virgin Islands (US)
+Wallis and Futuna Islands
+Western Sahara
+Western Samoa
+Yemen
+Zambia
+Zimbabwe
+Tick if your billing address is different
+
+
+
+
+Yes
+
+
+Billing Details
+Name
+*
+
+
+
+
+Title
+
+
+
+
+Mr
+Ms
+Mrs
+Miss
+Dr
+Sir
+
+
+
+
+
+
+
+
+First
+
+
+
+
+
+
+
+
+Last
+
+
+
+
+
+
+Telephone
+*
+Email
+*
+
+
+
+
+Address 1st line
+*
+Address 2nd line
+Address 3rd line
+Town
+*
+County
+Postal code
+*
+Country
+United Kingdom
+United States of America
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra, Principality of
+Angola
+Anguilla
+Antarctica
+Antigua & Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bonaire, Sint Eustatius and Saba
+Bosnia & Herzogovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+Brunei Darussalam
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde Islands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China (PRC)
+Christmas Island
+Cocos-Keeling Islands
+Colombia
+Comoros
+Congo, Dem. Rep. of  (former Zaire)
+Congo, The Democratic Republic of the
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curacao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+East Timor
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji Islands
+Finland
+France
+French Guyana
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe (French)
+Guam (USA)
+Guatemala
+Guernsey
+Guinea (PRP)
+Guinea Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast (Côte d'Ivoire)
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyz Republic (Kyrgyzstan)
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macau
+Macedonia (former Yugoslav Rep.)
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali Republic
+Malta
+Marshall Islands
+Martinique (French)
+Mauritania
+Mauritius
+Mayotte Island
+Mexico
+Micronesia (Federal States of)
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia (French)
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+North Korea
+Northern Marianas Islands (Saipan, Rota, & Tinian)
+Norway
+Oman
+Pakistan
+Palau
+Palestine
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Polynesia (French)
+Portugal
+Puerto Rico
+Qatar
+Romania
+Russia
+Rwanda
+Réunion Island
+Saint Barthelemy
+Saint Martin (French part)
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Serbia and Montenegro
+Seychelles Islands
+Sierra Leone
+Singapore
+Sint Maarten (Dutch part)
+Slovak Republic
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+Spain
+Sri Lanka
+St. Helena
+St. Kitts/Nevis
+St. Lucia
+St. Pierre & Miquelon
+St. Vincent & Grenadines
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Tadjikistan
+Taiwan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga Islands
+Trinidad & Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+Uganda
+Ukraine
+United Arab Emirates
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican City
+Venezuela
+Vietnam
+Virgin Islands (British)
+Virgin Islands (US)
+Wallis and Futuna Islands
+Western Sahara
+Western Samoa
+Yemen
+Zambia
+Zimbabwe
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Content
+
+
+
+
+
+
+
+
+
+
+Client
+
+
+
+
+
+
+
+
+
+
+Services/Information
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+© Guardian News and Media Limited 2014. All rights reserved.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

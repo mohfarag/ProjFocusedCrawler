@@ -7,6 +7,7 @@ Created on Apr 9, 2015
 import eventUtils
 import math,sys
 import logging
+from _collections import defaultdict
 
 logging.basicConfig(filename='probEventModellogging.log',level=logging.DEBUG)
 log = logging.getLogger(__name__)
@@ -27,67 +28,73 @@ class ProbEventModel:
     
     def buildProbEventModel(self,urlsList,topK):
         
-        docsList = eventUtils.getWebpageText(urlsList) #self.getCollectionDocs(urlsList)
+        docsList = eventUtils.getWebpageText_NoURLs(urlsList) #getWebpageText 
+        docsList = [d for d in docsList if 'text' in d]
         t = ''
         #docsTotalFreqs=[]
         docsEntities=[]
         docsEntitiesFreq = []
-        entitiesProb = {}
+        entitiesFreq = {}
         
         # Convert each doc to tokens, locations, dates lists and their corresponding frequency distributions
         # Also produces the total frequency for each document of each list (tokens, locations, and dates)
         for doc in docsList:
-            
-            if doc.has_key('text'):
-                t = doc['text']
-                if doc.has_key('title'):
-                    t =doc['title']+ " "+t
-            if t:
+            #t = ""
+            #if doc.has_key('text'):
+            t = doc['text']
+                #if doc.has_key('title'):
+                #    t =doc['title']+ " "+t
+            #if t:
                 #print 'Reading ' + t[:100]
-                ents = eventUtils.getEntities(t)[0]
-                docEnt = {}
-                docEnt['LOCATION']={}
-                if 'LOCATION' in ents:
-                    docEnt['LOCATION'] =  ents['LOCATION']
-                docEnt['DATE']={}
-                if 'DATE' in ents:
-                    docEnt['DATE'] = ents['DATE']
-                toks = eventUtils.getTokens(t)
-                docEnt['Topic'] = toks
-                docsEntities.append(docEnt)
+            ents = eventUtils.getEntities(t)[0]
+            docEnt = {}
+            docEnt['LOCATION']={}
+            if 'LOCATION' in ents:
+                docEnt['LOCATION'] =  ents['LOCATION']
+            docEnt['DATE']={}
+            if 'DATE' in ents:
+                docEnt['DATE'] = ents['DATE']
+            toks = eventUtils.getTokens(t)
+            docEnt['Topic'] = toks
+            docsEntities.append(docEnt)
+            
+            docEntFreq = {}
+            #docTotals = {}
+            for k in docEnt:
+                docEntFreq[k] = eventUtils.getFreq(docEnt[k])
+                #totalFreq = sum([v for _,v in docEntFreq[k].items()])
                 
-                docEntFreq = {}
-                #docTotals = {}
-                for k in docEnt:
-                    docEntFreq[k] = eventUtils.getFreq(docEnt[k])
-                    #totalFreq = sum([v for _,v in docEntFreq[k].items()])
-                    
-                    #docTotals[k] = totalFreq
-                docsEntitiesFreq.append(docEntFreq)
-                #docsTotalFreqs.append(docTotals)
+                #docTotals[k] = totalFreq
+            docsEntitiesFreq.append(docEntFreq)
+            #docsTotalFreqs.append(docTotals)
         
         # Collection-level frequency for each entity(tokens, locations, dates)
         
         #Calculating prob for each item in each entity lists (tokens, locations, and dates) as 
         # freq of item in all docs / total freq of all terms in that list
-        entitiesProb['LOCATION']={}
-        entitiesProb['DATE']={}
-        entitiesProb['Topic']={}
+        entitiesFreq['LOCATION']=defaultdict(float)#{}
+        entitiesFreq['DATE']=defaultdict(float)#{}
+        entitiesFreq['Topic']=defaultdict(float)#{}
         
         for docEntFreq in docsEntitiesFreq:
             for entity in docEntFreq:
                 for val in docEntFreq[entity]:
-                    if val in entitiesProb[entity]:
-                        entitiesProb[entity][val] += docEntFreq[entity][val]
-                    else:
-                        entitiesProb[entity][val] = docEntFreq[entity][val]
-        
-        for ent in entitiesProb:
-            allvalsFreq = sum([v for _,v in entitiesProb[ent].items()])
-            for k in entitiesProb[ent]:
+                    #if val in entitiesProb[entity]:
+                    entitiesFreq[entity][val] += docEntFreq[entity][val]
+                    #else:
+                    #    entitiesProb[entity][val] = docEntFreq[entity][val]
+        self.defaultProb = {}
+        entitiesProb = {}
+        for ent in entitiesFreq:
+            allvalsFreq = sum([v for _,v in entitiesFreq[ent].items()])
+            l = len(entitiesFreq[ent])
+            denom = l + allvalsFreq
+            self.defaultProb[ent] = 1.0 / denom
+            entitiesProb[ent] = defaultdict(lambda: 1.0/denom)
+            for k in entitiesFreq[ent]:
                 #entitiesProb[ent][k] = (1.0 + (entitiesProb[ent][k] *1.0)) / (docsTotalFreqs[ent] + allDocsTotal[ent])
                 
-                entitiesProb[ent][k] = (1.0 + (entitiesProb[ent][k] *1.0)) / (len(entitiesProb[ent]) + allvalsFreq)
+                entitiesProb[ent][k] = (1.0 + entitiesProb[ent][k]) / denom #(l + allvalsFreq)
                 
             
         #self.probEvtModel = entitiesProb
@@ -99,20 +106,29 @@ class ProbEventModel:
         
         self.probEvtModel = {}
         for k in mle:
-            self.probEvtModel[k] = dict(mle[k])#entitiesProb[k][:topK]
+            #self.probEvtModel[k] = dict(mle[k])#entitiesProb[k][:topK]
+            self.probEvtModel[k] = defaultdict(lambda: self.defaultProb[k])
+            for e,v in mle[k]:
+                self.probEvtModel[k][e] = v
         
-        self.eDisDic = self.probEvtModel['Topic']
+        #self.eDisDic = self.probEvtModel['Topic']
         
         
         locToks = self.probEvtModel['LOCATION'].keys()
         locToks = eventUtils.getStemmedWords(locToks)
-        self.locDic = dict(zip(locToks,self.probEvtModel['LOCATION'].values()))
-        
+        #self.locDic = dict(zip(locToks,self.probEvtModel['LOCATION'].values()))
+        locDic = defaultdict(lambda:self.defaultProb['LOCATION'])
+        for k,v in zip(locToks,self.probEvtModel['LOCATION'].values()):
+            locDic[k] = v
+        self.probEvtModel['LOCATION'] = locDic
     
         dToks = self.probEvtModel['DATE'].keys()
         dToks = eventUtils.getStemmedWords(dToks)
-        self.dDic = dict(zip(dToks,self.probEvtModel['DATE'].values()))
-        
+        #self.dDic = dict(zip(dToks,self.probEvtModel['DATE'].values()))
+        dDic = defaultdict(lambda:self.defaultProb['DATE'])
+        for k,v in zip(locToks,self.probEvtModel['DATE'].values()):
+            dDic[k] = v
+        self.probEvtModel['DATE'] = dDic
         
         
         return docsEntities, entitiesProb
@@ -165,19 +181,55 @@ class ProbEventModel:
         return docsProbs#finalDocProb
     
     def calculate_similarity(self,doc):
-        '''
-        eDisDic = self.probEvtModel['Topic']
         
-        if self.locDic ==[]:
-            locToks = self.probEvtModel['LOCATION'].keys()
-            locToks = eventUtils.getStemmedWords(locToks)
-            self.locDic = dict(zip(locToks,self.probEvtModel['LOCATION'].values()))
+        tokens = eventUtils.getTokens(doc)
+        docProb = {}
+        for k in self.probEvtModel:
+            docProb[k] = {}
+            total = 0.0
+            for t in tokens:
+                p = self.probEvtModel[k][t]
+                total += math.log(p)
+            docProb[k]['Total'] = total
         
-        if self.dDic == []:
-            dToks = self.probEvtModel['DATE'].keys()
-            dToks = eventUtils.getStemmedWords(dToks)
-            self.dDic = dict(zip(dToks,self.probEvtModel['DATE'].values()))
         '''
+        docProb['Topic'] = {}
+        total = 0.0
+        for t in tokens:
+            #if t in self.eDisDic:
+            p = self.eDisDic[t]
+            total = total + math.log(p)
+        
+        docProb['Topic']['Total'] = total
+        
+        docProb['LOCATION'] = {}
+        total = 0.0
+        for t in tokens:
+            #if t in self.locDic:
+            p = self.locDic[t]
+            total = total + math.log(p)
+        docProb['LOCATION']['Total'] = total
+        
+        docProb['DATE'] = {}
+        total = 0.0
+        for t in tokens:
+            #if t in self.dDic:
+            p = self.dDic[t]
+            total = total + math.log(p)
+        docProb['DATE']['Total'] = total
+        '''
+            
+        #finalDocProb = 1
+        finalDocProb = 0.0
+        for k in docProb:
+            #finalDocProb = finalDocProb * docProb[k]['Total']
+            finalDocProb = finalDocProb + docProb[k]['Total']
+        docProb['Total'] = finalDocProb
+        
+        return finalDocProb
+    
+    def calculate_similarity_old(self,doc):
+        
         tokens = eventUtils.getTokens(doc)
         docProb = {}
         #tokensDic = eventUtils.getFreq(tokens)

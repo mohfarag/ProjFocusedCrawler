@@ -37,9 +37,9 @@ class Webpage:
         self.title = "" 
         self.outgoingUrls=[]
         self.soup = None
-        res = utils.getWebpageText(url[1])[0]
+        res = utils.getWebpageText_NoURLs(url[1])[0]
         
-        if res:
+        if res and 'text' in res:
             self.text = res['text']
             self.title = res['title']
             self.soup = BeautifulSoup(res['html'])

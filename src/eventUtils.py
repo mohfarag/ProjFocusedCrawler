@@ -17,6 +17,7 @@ import math
 import logging
 from NBClassifier import NaiveBayesClassifier
 from SVMClassifier import SVMClassifier
+from oneClassClassifier import OneClassClassifier
 import numpy as np
 from sklearn import metrics
 import ner
@@ -26,6 +27,7 @@ import random
 import json
 from nltk.stem.porter import PorterStemmer
 from nltk.tokenize.regexp import WordPunctTokenizer
+from _collections import defaultdict
 #from _socket import timeout
 
 #requests.packages.urllib3.disable_warnings()
@@ -41,38 +43,289 @@ stopwordsList = stopwords.words('english')
 #stopwordsList.extend(["last","time","week","favorite","home","search","follow","year","account","update","com","video","close","http","retweet","tweet","twitter","news","people","said","comment","comments","share","email","new","would","one","world"])
 stopwordsList.extend(["com","http","retweet","tweet","twitter","news","people"])
 
-
 class VSMClassifier(object):
-    def __init__(self, targetDocsTF,relevTh):
-        self.docsTF = targetDocsTF
+    '''
+    def __init__(self, vocabDic,relevTh,docs):
+        self.docs = docs
         self.relevanceth = relevTh
+        self.vocabDic = vocabDic
+        #doc1s = [1+math.log(self.topVocabDic[k]) for k in self.topVocabDic]
+        self.docsScalar = []
+        for d in docs:
+            doc_s = d.values()
+            self.docsScalar.append(getScalar(doc_s))
+    '''
+    #def __init__(self,error=0.05):
+    #    self.error = error
+    
+    def buildVSMClassifier(self,posURLs,lk,vsmClassifierFileName='',error=0.05,roundPrec=3):
+        self.error = error
+        self.roundPrec = roundPrec
+        #try:
+        #    classifierFile = open(vsmClassifierFileName,"rb")
+        #    self.classifier = pickle.load(classifierFile)
+        #    classifierFile.close()
+        #except:
+        #docs = []
+        if not vsmClassifierFileName:
+            vsmClassifierFileName = posURLs.split('.')[0] + '-vsmClassifier.p'
+        docs = getWebpageText_NoURLs(posURLs)
+        docs = [d['text'] for d in docs if 'text' in d] 
+        '''
+        f = open(posFile,'r')
+        for url in f:
+            url = url.strip()
+            d = Document(url)
+            if d and d.text:
+                docs.append(d)
+        f.close()
+        '''
+        print len(docs)
+        docsBOW = []
+        vocabTFDic = defaultdict(list)
+        maxFreqPerDocList = []
+        for d in docs:
+            docWords = getTokens(d) #d.getWords()
+            wFreq = getFreq(docWords)
+            maxFreq = float(max(wFreq.values()))
+            maxFreqPerDocList.append(maxFreq)
+            wordsFreq = {}
+            for wf in wFreq:
+                #wordsFreq[wf] = wFreq[wf]/docLen
+                wordsFreq[wf] = wFreq[wf]/maxFreq
+            docsBOW.append(wordsFreq)
+            for w in wordsFreq:
+                vocabTFDic[w].append( wordsFreq[w])
         
-    def cosSim(self, doc1,doc2):
+        print vocabTFDic
+        
+        #idf = 1.0
+        #vocTF_IDF = [(w,sum([1+math.log(vtf) for vtf in vocabTFDic[w]])*idf) for w in vocabTFDic]
+        
+        #voc_CollFreq = [(w,sum(vocabTFDic[w]),len(vocabTFDic[w])) for w in vocabTFDic]
+        voc_CollFreq = [(w,sum(vocabTFDic[w])) for w in vocabTFDic]
+        voc_CollFreqSorted = getSorted(voc_CollFreq, 1)
+        #maxFreq = max([fr for _,fr,_ in voc_CollFreq])
+        #leastK = lk*1.0 / maxFreq
+        
+        #avgMaxFreq = sum(maxFreqPerDocList)*1.0 / len(maxFreqPerDocList)
+        #if len(docs) > lk:
+        #    lk = len(docs)
+        #leastK = lk / avgMaxFreq
+        #print leastK
+        #print voc_CollFreq
+        #vocab_filtered = [(w,fr) for w,fr,df in voc_CollFreq if fr>= leastK and df >= leastDocFreq] 
+        #vocab_filtered_dict = dict(vocab_filtered)
+        
+        self.vocabDic = dict(voc_CollFreqSorted[:lk])
+        
+        #print len(vocab_filtered_dict)
+        print self.vocabDic
+        '''
+        print vocabSorted[:topK]
+        topVocabDic = dict(vocabSorted[:topK])
+        '''
+        # convert docs to BOW using new vocab
+        newDocsBOW=[]
+        for doc_bow in docsBOW:
+            ndocBOW = {}
+            for k in self.vocabDic:
+                if k in doc_bow:
+                    ndocBOW[k] = doc_bow[k]
+                else:
+                    ndocBOW[k] = 0 #1/math.e
+            newDocsBOW.append(ndocBOW)
+        self.docs = newDocsBOW
+        
+        self.docsScalar = []
+        for d in newDocsBOW:
+            doc_s = d.values()
+            self.docsScalar.append(getScalar(doc_s))
+        
+        # Figure out similarity threshold using similarity between all docs
+        newDocs_List = []
+        for newdoc in newDocsBOW:
+            newDocList = newdoc.values()
+            newDocs_List.append(newDocList)
+        docsSims = []
+        #for doc1s in newDocs_List:
+        for a in range(len(newDocs_List)-1):
+            sims = []
+            #for doc2s in newDocs_List:
+            for b in range(a+1,len(newDocs_List)):
+                s = 0
+                '''
+                for i in range(len(doc1s)):
+                    s += doc1s[i] * doc2s[i]
+                s = float(s)/ (getScalar(doc1s) * getScalar(doc2s))
+                '''
+                doc1s = newDocs_List[a]
+                doc2s = newDocs_List[b]
+                for i in range(len(doc1s)):
+                    s += doc1s[i] * doc2s[i]
+                #try:
+                if s > 0:
+                    s = float(s)/ (self.docsScalar[a] * self.docsScalar[b])
+                #except:
+                #else:
+                    #print sys.exc_info()
+                    #s= 0
+                sims.append(s)
+            #docsSims.append(sims)
+            #docsSims.append((max(sims),min(sims),float(sum(sims))/len(sims)))
+            if sims:
+                #docsSims.append(min(sims))
+                docsSims.append(float(sum(sims))/len(sims))
+        #th = min(docsSims)
+        relevanceth = float(sum(docsSims))/len(docsSims)
+        self.relevanceth = round(relevanceth,self.roundPrec)
+        print self.relevanceth
+            
+            #self.classifier = VSMClassifier(vocab_filtered_dict,th,newDocsBOW)
+            #classifierFile = open(vsmClassifierFileName,"wb")
+            #pickle.dump(self.classifier,classifierFile)
+            #classifierFile.close()
+            #return th
+    
+    def cosSimAll(self, doc1,doc2):
         sim = 0
         for k in doc1:
-            if k in doc2:
-                sim += (1 + math.log(doc1[k])) *  (1+math.log(doc2[k]))
+            #if k in doc2:
+            a = (1 + math.log(doc1[k]))
+            b = (1+math.log(doc2[k]))
+            sim +=  a * b 
         
         if sim > 0:
-            
-            sim = float(sim)/(getScalar(doc1) * getScalar(doc2))
+            doc1s = [1+math.log(doc1[k]) for k in doc1]
+            doc2s = [1+math.log(doc2[k]) for k in doc2]
+            sim = float(sim)/(getScalar(doc1s) * getScalar(doc2s))
             
         else:
             sim = 0
         return sim
     
-    def calculate_score(self, doc):
+    def cosSim(self,doc2):
+        sim = 0
+        #for k in doc1:
+        for k in self.vocabDic:
+            if k in doc2:
+                #a = (1 + math.log(self.topVocabDic[k]))
+                #b = (1+math.log(doc2[k]))
+                a = self.vocabDic[k]
+                b = doc2[k]
+                sim +=  a * b 
+        
+        if sim > 0:
+            #doc1s = [1+math.log(doc1[k]) for k in doc1]
+            
+            #doc2s = [1+math.log(doc2[k]) for k in doc2]
+            doc2s = [doc2[k] for k in doc2]
+            #sim = float(sim)/(getScalar(doc1s) * getScalar(doc2s))
+            sim = float(sim)/(self.vocabScalar * getScalar(doc2s))
+            
+        else:
+            sim = 0
+        return sim
+    
+    def calculate_score(self, doc,mode='U'):
+            
         sims=[]
         docWords = getTokens(doc)
         docTF = getFreq(docWords)
-        for dTF in self.docsTF:
-            s = self.cosSim(docTF, dTF)
+        try:
+            maxFreq = float(max(docTF.values()))
+        except:
+            print sys.exc_info()
+        ndTF = {}
+        for d in docTF:
+            ndTF[d] = docTF[d] / maxFreq
+         
+        ndocTF = dict.fromkeys(self.vocabDic)
+        for k in ndocTF:
+            if k in ndTF:
+                ndocTF[k] = ndTF[k]
+            else:
+                ndocTF[k] = 0#1/math.e
+        doc1s = ndocTF.values()
+        doc1_s = getScalar(doc1s)
+        for ind,dTF in enumerate(self.docs):
+            #doc1s = [1+math.log(ndocTF[k]) for k in ndocTF]
+            doc2s = dTF.values()
+            #doc2s = [1+math.log(dTF[k]) for k in dTF]
+            s = 0
+            for i in range(len(doc1s)):
+                s += doc1s[i] * doc2s[i]
+            #s = float(s)/ (doc1_s * getScalar(doc2s))
+            #try:
+            if s > 0:
+                s = float(s)/ (doc1_s * self.docsScalar[ind])
+            #except:
+                #print sys.exc_info()
+            #s =  sum(doc1s * doc2s)
             sims.append(s)
-        sim = [max(sims)]
+        #sim = max(sims)
+        sim = float(sum(sims))/len(sims)
+        sim = round(sim,self.roundPrec)
         if sim >= self.relevanceth:
-            return [1]
+            return [1,sim]
+        elif (self.relevanceth - sim) <= self.error:
+            return [1,sim]
         else:
-            return [0]
+            return [0,sim]
+    
+    def calculate_score_AllDocs_old(self, doc):
+        sims=[]
+        docWords = getTokens(doc)
+        docTF = getFreq(docWords)
+        ndocTF = dict.fromkeys(self.topVocabDic)
+        for k in ndocTF:
+            if k in docTF:
+                ndocTF[k] = docTF[k]
+            else:
+                ndocTF[k] = 1/math.e
+        for dTF in self.docsTF:
+            s = self.cosSim(ndocTF, dTF)
+            sims.append(s)
+        sim = max(sims)
+        if sim >= self.relevanceth:
+            return [1,sim]
+        else:
+            return [0,sim]
+    
+    def calculate_score_one(self, doc):
+        #sims=[]
+        docWords = getTokens(doc)
+        docTF = getFreq(docWords)
+        sim = self.cosSim( docTF)
+        
+        if sim >= self.relevanceth:
+            return [1,sim]
+        else:
+            return [0,sim]
+    
+    def calculate_score_old(self, doc):
+        #sims=[]
+        docWords = getTokens(doc)
+        docTF = getFreq(docWords)
+        ndocTF = dict.fromkeys(self.topVocabDic)
+        
+        
+        for k in ndocTF:
+            if k in docTF:
+                ndocTF[k] = docTF[k]
+            else:
+                ndocTF[k] = 1/math.e
+        sim = self.cosSim(self.topVocabDic, ndocTF)
+        '''
+        for dTF in self.docsTF:
+            s = self.cosSim(ndocTF, dTF)
+            sims.append(s)
+        sim = max(sims)
+        '''
+        if sim >= self.relevanceth:
+            return [1,sim]
+        else:
+            return [0,sim]
 
 '''
 def train_SaveClassifier(posURLs,negURLs,classifierFileName):
@@ -274,8 +527,6 @@ def saveSourcesFreqDic(sourcesFreqDic,filename):
         f.write(k +"," + str(l)+"," + str(s)+"\n")
     f.close()
 
-
-
 def getDomain(url):
     domain = ""
     ind = url.find("//")
@@ -343,15 +594,64 @@ def train_SaveClassifierFolder(posURLs,negURLs,classifierFileName):
     classifierFile.close()
     return classifier
 
+def train_SaveOneClassClassifier(posURLs,negURLs,classifierFileName):
+        
+    #posDocs = getWebpageText(posURLs)
+    posDocs = getWebpageText_NoURLs(posURLs)
+    posDocs = [d['text'] for d in posDocs if d]
+    
+    #negDocs = getWebpageText(negURLs)
+    negDocs = getWebpageText_NoURLs(negURLs)
+    negDocs = [d['text'] for d in negDocs if d]
+    
+    
+    posLen = len(posDocs)
+    posSep = int(0.7*posLen)
+    posTraining = posDocs[:posSep]
+    posTest = posDocs[posSep:]
+    
+    negLen = len(negDocs)
+    negSep = int(0.7*negLen)
+    #negTraining = negDocs[:negSep]
+    negTest = negDocs[negSep:]
+    
+    trainingDocs = posTraining #+ negTraining
+    trainingLabels = [1]* len(posTraining) #+ [0]*len(negTraining)
+    
+    testingDocs = posTest + negTest
+    testingLabels = [1]*len(posTest) + [-1]*len(negTest)
+        
+    classifier = OneClassClassifier()
+    #classifier = NaiveBayesClassifier()
+    #classifier = SVMClassifier()
+    
+    trainingLabelsArr = np.array(trainingLabels)
+    classifier.trainClassifier(trainingDocs,trainingLabelsArr)
+    #print trainingLabelsArr
+    print classifier.score(trainingDocs, trainingLabelsArr)
+    print metrics.classification_report(trainingLabelsArr, classifier.predicted)
+       
+    test_labelsArr = np.array(testingLabels)
+    print classifier.score(testingDocs, test_labelsArr)
+    print metrics.classification_report(test_labelsArr, classifier.predicted)
+    
+    #print classifier.classifier.feature_log_prob_
+    #print classifier.classifier.coef_
+    
+    classifierFile = open(classifierFileName,"wb")
+    pickle.dump(classifier,classifierFile)
+    classifierFile.close()
+    return classifier
+
 def train_SaveClassifier(posURLs,negURLs,classifierFileName):
         
     #posDocs = getWebpageText(posURLs)
     posDocs = getWebpageText_NoURLs(posURLs)
-    posDocs = [d['title'] + " " + d['text'] for d in posDocs if d]
+    posDocs = [d['text'] for d in posDocs if d]
     
     #negDocs = getWebpageText(negURLs)
     negDocs = getWebpageText_NoURLs(negURLs)
-    negDocs = [d['title'] + " " + d['text'] for d in negDocs if d]
+    negDocs = [d['text'] for d in negDocs if d]
     
     #negTraining = [d['title'] + " " + d['text'] for d in negTraining if d]
     #negTesting = [d['title'] + " " + d['text'] for d in negTesting if d]
@@ -517,6 +817,18 @@ def getStemmedWords(words):
     for w in words:
         stemmedWords.append(stemmer.stem(w))
     return stemmedWords
+
+def getDocTokens(docText):
+    stemmer = PorterStemmer()
+    tokenizer = WordPunctTokenizer()
+    docTokens = tokenizer.tokenize(docText)
+    
+    allTokens_2 = [t.lower() for t in docTokens if len(t)>2]
+    allTokens_an = [t2 for t2 in allTokens_2 if t2.isalnum()]
+    allTokens_stw = [t3 for t3 in allTokens_an if t3 not in stopwordsList]
+    allTokens_stem = [stemmer.stem(word) for word in allTokens_stw]
+    final = [t for t in allTokens_stem if t not in stopwordsList]
+    return final
 
 def getTokens(texts):
     #global corpusTokens
@@ -692,8 +1004,11 @@ def extractTextFromHTML(page):
         visible_text = filter(visible, text_nodes)
         text = '\n'.join(visible_text)
         
-        text = title + text
-        wtext = {"text":text,"title":title}
+        if text.strip():
+            text = title +" " + text
+            wtext = {"text":text,"title":title}
+        else:
+            wtext = {}
     except:
         print sys.exc_info()
         #text = ""
@@ -739,9 +1054,11 @@ def extractTextFromHTML_noURLs(page):
         text_noURLs = filter(filterLinks,visible_text)
         #text = ''.join(visible_text)
         text = '\n'.join(text_noURLs)
-        
-        text = title + text
-        wtext = {"text":text,"title":title}
+        if text.strip():
+            text = title +" " + text
+            wtext = {"text":text,"title":title}
+        else:
+            wtext = {}
     except:
         print sys.exc_info()
         #text = ""
@@ -823,7 +1140,8 @@ def getWebpageText_NoURLs(URLs = []):
             if r.status_code == requests.codes.ok:
                 page = r.content
                 text = extractTextFromHTML_noURLs(page)
-                text['html']= page
+                if text:
+                    text['html']= page
             else:
                 text = {}
         except:

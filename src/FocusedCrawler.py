@@ -13,10 +13,10 @@ from EnhancedCrawler import EnhancedCrawler
 from eventModel import EventModel
 from ProbEventModel import ProbEventModel
 from evaluate import Evaluate
-from eventUtils import train_SaveClassifier, readFileLines
+from eventUtils import train_SaveClassifier, readFileLines, VSMClassifier
 import os
 
-def baseFC(crawlParams):
+def baseFC_OneTargetVector(crawlParams):
     seedURLs = crawlParams['seedURLs']
     t = [(-1,p,-1,"") for p in seedURLs]
     priorityQueue = PriorityQueue(t)
@@ -26,6 +26,25 @@ def baseFC(crawlParams):
     
     mytfidf.buildModel(crawlParams['model'],crawlParams['No_Keywords'])
     #mytfidf.buildModel(crawlParams['seedURLs'],crawlParams['No_Keywords'])
+    crawlParams['scorer']=mytfidf
+    
+    #crawler = Crawler(priorityQueue,scorer,options)
+    crawler = Crawler(crawlParams)
+    crawler.crawl()
+    return crawler.relevantPages
+    #return crawler.relevantPages
+    
+def baseFC(crawlParams):
+    seedURLs = crawlParams['seedURLs']
+    t = [(-1,p,-1,"") for p in seedURLs]
+    priorityQueue = PriorityQueue(t)
+    
+    crawlParams["priorityQueue"]=priorityQueue
+    
+    mytfidf = VSMClassifier()
+    mytfidf.buildVSMClassifier(crawlParams['model'], crawlParams['No_Keywords'],crawlParams['classifierFileName'])
+    #mytfidf.buildModel(crawlParams['model'],crawlParams['No_Keywords'])
+    
     crawlParams['scorer']=mytfidf
     
     #crawler = Crawler(priorityQueue,scorer,options)
@@ -113,7 +132,7 @@ def writeEvaluation(res,filename):
     f.close()
 
 #def startCrawl(v,seedsFile,evaluator,modelFile,ct):
-
+'''
 def startCrawl(seedsFile,evaluator,modelFile,ct,num=5,pagesLimit=100, pageScoreThreshold=0.5,urlScoreThreshold=0):
 
     mode = 1 # URL scoring
@@ -173,26 +192,19 @@ def startCrawl(seedsFile,evaluator,modelFile,ct,num=5,pagesLimit=100, pageScoreT
     writeEvaluation(res,evalFilename)    
     print sum(res)
     print len(res)
+'''
 
 if __name__ == "__main__":
     
-    seedsFiles=['Output-CharlestonShooting.txt','seeds-Sandra.txt','Output-tunisiaHotelAttack.txt','Output-samesexmarriage.txt','Output-fifaArrests.txt','Output-boatCapsized.txt','Output-nepalEarthquake.txt','seeds_459.txt','seeds_474.txt','seedsURLs_z_534.txt','seedsURLs_z_501.txt','seedsURLs_z_540.txt']
-    posFiles = ['charlestonShootingPos.txt','evaluate-SandraBland.txt','pos-tunisiaHotelAttack.txt','pos-samesexmarriage.txt','Output-fifaArrests.txt','Output-boatCapsized.txt','Output-nepalEarthquake.txt','pos-FSU.txt','pos-Hagupit.txt','pos-AirAsia.txt','pos-sydneyseige.txt','pos-Charlie.txt']
+    seedsFiles=['Output-oregonCommCollegeShooting.txt','Output-CharlestonShooting.txt','seeds-Sandra.txt','Output-tunisiaHotelAttack.txt','Output-samesexmarriage.txt','Output-fifaArrests.txt','Output-boatCapsized.txt','Output-nepalEarthquake.txt','seeds_459.txt','seeds_474.txt','seedsURLs_z_534.txt','seedsURLs_z_501.txt','seedsURLs_z_540.txt']
+    posFiles = ['oregonCommCollegeShooting-Pos.txt','charlestonShooting-Pos.txt','evaluate-SandraBland.txt','pos-tunisiaHotelAttack.txt','pos-samesexmarriage.txt','Output-fifaArrests.txt','Output-boatCapsized.txt','Output-nepalEarthquake.txt','pos-FSU.txt','pos-Hagupit.txt','pos-AirAsia.txt','pos-sydneyseige.txt','pos-Charlie.txt']
     negFiles = ['charlestonShootingNeg.txt','neg-FSU.txt','neg-Hagupit.txt','neg-AirAsia.txt','neg-sydneyseige.txt','neg-Charlie.txt']
-    modelFiles = ['Output-CharlestonShooting.txt','model-SandraBland.txt','model-tunisiaHotelAttack.txt','model-samesexmarriage.txt','model-CharlestonShooting.txt']
+    modelFiles = ['Output-oregonCommCollegeShooting.txt','Output-CharlestonShooting.txt','model-SandraBland.txt','model-tunisiaHotelAttack.txt','model-samesexmarriage.txt','model-CharlestonShooting.txt']
     evaluator = Evaluate()
     #for i in range(3):
-    pagesLimit = 300
+    pagesLimit = 1000
 
-    seedsFiles=['seeds-Sandra.txt','Output-tunisiaHotelAttack.txt','Output-samesexmarriage.txt','Output-CharlestonShooting.txt','Output-fifaArrests.txt','Output-boatCapsized.txt','Output-nepalEarthquake.txt','seeds_459.txt','seeds_474.txt','seedsURLs_z_534.txt','seedsURLs_z_501.txt','seedsURLs_z_540.txt']
-    posFiles = ['evaluate-SandraBland.txt','pos-tunisiaHotelAttack.txt','pos-samesexmarriage.txt','pos-CharlestonShooting.txt','Output-fifaArrests.txt','Output-boatCapsized.txt','Output-nepalEarthquake.txt','pos-FSU.txt','pos-Hagupit.txt','pos-AirAsia.txt','pos-sydneyseige.txt','pos-Charlie.txt']
-    negFiles = ['neg-FSU.txt','neg-Hagupit.txt','neg-AirAsia.txt','neg-sydneyseige.txt','neg-Charlie.txt']
-    modelFiles = ['model-SandraBland.txt','model-tunisiaHotelAttack.txt','model-samesexmarriage.txt','model-CharlestonShooting.txt']
-    evaluator = Evaluate()
-    #for i in range(3):
-    pagesLimit = 100
-
-    noK = 5
+    noK = 10
     pageTh = 0.2
     urlsTh = 0
     i=0
@@ -202,13 +214,14 @@ if __name__ == "__main__":
     posFile = posFiles[i]
     negFile = negFiles[i]
     
+    vsmClassifierFileName = 'classifierVSM-'+posFile.split(".")[0].split('-')[0]+".p"
+    #evaluator.buildVSMClassifier(posFile, vsmClassifierFileName,pageTh,noK)
+    evaluator.buildVSMClassifier(posFile,noK, vsmClassifierFileName)
+    #classifierFileName = 'charlestonShooting_NBClassifier.p'
+    #evaluator.buildClassifier(posFile, negFile, classifierFileName)
+    
     #vsmClassifierFileName = 'classifierVSM-'+posFile.split(".")[0].split('-')[1]+".p"
     #evaluator.buildVSMClassifier(posFile, vsmClassifierFileName,pageTh,noK)
-    classifierFileName = 'charlestonShooting_NBClassifier.p'
-    evaluator.buildClassifier(posFile, negFile, classifierFileName)
-    
-    vsmClassifierFileName = 'classifierVSM-'+posFile.split(".")[0].split('-')[1]+".p"
-    evaluator.buildVSMClassifier(posFile, vsmClassifierFileName,pageTh,noK)
 
     inputFile = seedsFiles[i]
     modelFile = modelFiles[i]#'modelFile.txt'#inputFile
@@ -222,6 +235,7 @@ if __name__ == "__main__":
     crawlParams['model']=modelURLs
     crawlParams['restricted'] = 0
     crawlParams['combineScore'] = 0
+    crawlParams['classifierFileName'] =vsmClassifierFileName
     outputDir = inputFile.split(".")[0]
     #crawlParams['t'] = t
     if ct =='b':
@@ -232,6 +246,7 @@ if __name__ == "__main__":
         evalFilename=pagesDir+"base-evaluateData.txt"
         
         rp = baseFC(crawlParams)
+        #rp = baseFC_OneTargetVector(crawlParams)
         
     elif ct =='p':
         pagesDir=outputDir+"/prob-webpages/"
@@ -270,4 +285,3 @@ if __name__ == "__main__":
     writeEvaluation(res,evalFilename)    
     print sum(res)
     print len(res)
-    

@@ -204,15 +204,11 @@ class EventModel:
             #self.vecs[k] = ev
             self.scalars[k] = self.getScalar(ev)
     
-<<<<<<< HEAD
+
     def calculateWeights(self):
         topicWeight = sum([v for _,v in self.entities['Topic'].iteritems()])
         dateWeight =  sum([v for _,v in self.entities['DATE'].iteritems()])
         locWeight =  sum([v for _,v in self.entities['LOCATION'].iteritems()])
-=======
-    #def buildEventModel(self,keywordsTh, seedURLs):
-    def buildEventModel(self, seedURLs):
->>>>>>> origin/master
         
         totWeight = topicWeight + dateWeight + locWeight
         
@@ -226,7 +222,25 @@ class EventModel:
         self.weights['Topic'] = topicWeight
         self.weights['LOCATION'] = locWeight
         self.weights['DATE'] = dateWeight
-    
+
+    #def buildEventModel(self,keywordsTh, seedURLs):
+    '''
+    def buildEventModel(self, seedURLs):
+
+        
+        totWeight = topicWeight + dateWeight + locWeight
+        
+        topicWeight = topicWeight*1.0 / totWeight
+        locWeight = locWeight*1.0 / totWeight
+        dateWeight = dateWeight *1.0 / totWeight
+        
+        print topicWeight, " ", locWeight, " ", dateWeight
+        
+        self.weights = {}
+        self.weights['Topic'] = topicWeight
+        self.weights['LOCATION'] = locWeight
+        self.weights['DATE'] = dateWeight
+    '''
     def buildEventModel(self, seedURLs):
             
         corpus = Collection(seedURLs)
@@ -507,10 +521,8 @@ class EventModel:
         #webpageEnts = zip(impSentences,entities)
         
         return webpageEnts
-<<<<<<< HEAD
-=======
  
-    def calculate_similarity(self,doc):
+    def calculate_similarity_old(self,doc):
         weigths ={'Topic':0.0,'LOCATION':0.0, 'DATE':0.0}
         
         entFreq = {}
@@ -634,28 +646,8 @@ class EventModel:
         score = sum(scores) / 3.0
         return score
     
-    def calculate_similarity_intersect(self,doc):
-        #tokens = getTokenizedDoc(doc)
-        tokens = eventUtils.getTokens(doc)
-        doc_set = set(tokens)
-        
-        scores = []
-        
-        for k in self.entities:
-            entSet = set(self.entities[k].keys())
-            intersect = len(doc_set & entSet)
-            union = len(doc_set | entSet)
-            if k == "Topic":
-                if intersect == 0:
-                    return 0
-            
-            score = intersect * 1.0 / union #len(self.entities[k])
-            
-            scores.append(score)
-        
-        score = sum(scores)/3.0     
-        return score
->>>>>>> origin/master
+    
+
     
     def extractWebpageEventModel(self, text):
         webpageEventModel = {}
@@ -827,7 +819,7 @@ class EventModel:
         score = sum(scores)
         return score
     
-    def calculate_similarity_equalWeights(self,doc):
+    def calculate_similarity_equalWeights_duplicate(self,doc):
         eDisDic = self.entities['Topic']
         
         locToks = self.entities['LOCATION'].keys()
